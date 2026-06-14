@@ -1,4 +1,6 @@
-# 1. 草药 → 成分
+# cypher_templates.py
+
+# ==================== 文本查询模板 ====================
 def herb_ingredient(name: str):
     query = """
     MATCH (h:Herb {name: $name})-[:CONTAINS_INGREDIENT]->(i:Ingredient)
@@ -6,7 +8,6 @@ def herb_ingredient(name: str):
     """
     return query, {"name": name}
 
-# 2. 草药 → 靶点
 def herb_target(name: str):
     query = """
     MATCH (h:Herb {name: $name})-[:TARGETS]->(t:Target)
@@ -14,7 +15,6 @@ def herb_target(name: str):
     """
     return query, {"name": name}
 
-# 3. 草药 → 功效
 def herb_efficacy(name: str):
     query = """
     MATCH (h:Herb {name: $name})-[:HAS_EFFICACY]->(e:Efficacy)
@@ -22,7 +22,6 @@ def herb_efficacy(name: str):
     """
     return query, {"name": name}
 
-# 4. 草药配伍（对称关系）
 def pair_with(name: str):
     query = """
     MATCH (h:Herb {name: $name})-[:PAIRS_WITH]-(h2:Herb)
@@ -30,7 +29,6 @@ def pair_with(name: str):
     """
     return query, {"name": name}
 
-# 5. 证据提及疾病 / 靶点
 def evidence_mentions_disease(name: str):
     query = """
     MATCH (p:Paper)-[:MENTIONS]->(d:Disease {name: $name})
@@ -42,5 +40,48 @@ def evidence_mentions_target(name: str):
     query = """
     MATCH (p:Paper)-[:MENTIONS]->(t:Target {name: $name})
     RETURN DISTINCT p.name AS result
+    """
+    return query, {"name": name}
+
+# ==================== 图形查询模板（返回节点和关系） ====================
+def graph_herb_ingredient(name: str):
+    query = """
+    MATCH (h:Herb {name: $name})-[r:CONTAINS_INGREDIENT]->(i:Ingredient)
+    RETURN h AS n, type(r) AS rel_type, i AS m
+    """
+    return query, {"name": name}
+
+def graph_herb_target(name: str):
+    query = """
+    MATCH (h:Herb {name: $name})-[r:TARGETS]->(t:Target)
+    RETURN h AS n, type(r) AS rel_type, t AS m
+    """
+    return query, {"name": name}
+
+def graph_herb_efficacy(name: str):
+    query = """
+    MATCH (h:Herb {name: $name})-[r:HAS_EFFICACY]->(e:Efficacy)
+    RETURN h AS n, type(r) AS rel_type, e AS m
+    """
+    return query, {"name": name}
+
+def graph_pair_with(name: str):
+    query = """
+    MATCH (h1:Herb {name: $name})-[r:PAIRS_WITH]-(h2:Herb)
+    RETURN h1 AS n, type(r) AS rel_type, h2 AS m
+    """
+    return query, {"name": name}
+
+def graph_evidence_mentions_disease(name: str):
+    query = """
+    MATCH (p:Paper)-[r:MENTIONS]->(d:Disease {name: $name})
+    RETURN p AS n, type(r) AS rel_type, d AS m
+    """
+    return query, {"name": name}
+
+def graph_evidence_mentions_target(name: str):
+    query = """
+    MATCH (p:Paper)-[r:MENTIONS]->(t:Target {name: $name})
+    RETURN p AS n, type(r) AS rel_type, t AS m
     """
     return query, {"name": name}

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCM KGQA System</title>
+    <!-- vis.js CDN -->
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding-top: 30px;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.1);
+            padding: 40px;
+            width: 90%;
+            max-width: 1000px;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 0.95rem;
+        }
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        #questionInput {
+            flex: 1;
+            padding: 15px 20px;
+            border: 2px solid #e0e0e0;
+            border-radius: 50px;
+            font-size: 16px;
+            outline: none;
+            transition: border 0.3s;
+        }
+        #questionInput:focus {
+            border-color: #3498db;
+        }
+        #askButton {
+            padding: 15px 30px;
+            background: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        #askButton:hover {
+            background: #2980b9;
+        }
+        .result-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 20px;
+            border-left: 5px solid #3498db;
+        }
+        .result-card h3 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .entity-tag {
+            display: inline-block;
+            background: #ecf0f1;
+            color: #2c3e50;
+            padding: 4px 12px;
+            border-radius: 20px;
+            margin-right: 8px;
+            font-size: 0.9rem;
+        }
+        .answer-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .answer-item {
+            background: #e8f4fd;
+            color: #1a5276;
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-weight: 500;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .error-message {
+            color: #e74c3c;
+            margin-top: 15px;
+            font-weight: 500;
+        }
+        .loading {
+            text-align: center;
+            color: #7f8c8d;
+            margin-top: 20px;
+        }
+        /* 图谱容器 */
+        #graphContainer {
+            width: 100%;
+            height: 500px;
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            margin-top: 30px;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 TCM Depression KGQA</h1>
+        <p class="subtitle">Ask about herbs, ingredients, targets, efficacy, pairs, and evidence</p>
+
+        <div class="search-box">
+            <input type="text" id="questionInput" placeholder="e.g., What ingredients are in Bletilla striata?" autofocus>
+            <button id="askButton">Ask</button>
+        </div>
+
+        <div id="resultArea"></div>
+        <!-- 图谱显示区域 -->
+        <div id="graphContainer"></div>
+    </div>
+
+    <script>
+        const input = document.getElementById('questionInput');
+        const button = document.getElementById('askButton');
+        const resultArea = document.getElementById('resultArea');
+        const graphContainer = document.getElementById('graphContainer');
+
+        // 保存当前网络实例，以便刷新
+        let network = null;
+
+        async function askQuestion() {
+            const question = input.value.trim();
+            if (!question) return;
+
+            resultArea.innerHTML = '<div class="loading">Thinking...</div>';
+            // 清空旧图谱
+            if (network) {
+                network.destroy();
+                network = null;
+            }
+
+            try {
+                const response = await fetch(`/qa?q=${encodeURIComponent(question)}`);
+                const data = await response.json();
+
+                if (data.answer) {
+                    resultArea.innerHTML = `<div class="error-message">${data.answer}</div>`;
+                    return;
+                }
+
+                // 构建结果卡片
+                const typeMap = {
+                    "herb_ingredient": "Herb → Ingredients",
+                    "herb_target": "Herb → Targets",
+                    "herb_efficacy": "Herb → Efficacy",
+                    "pair_with": "Herb Pairs",
+                    "evidence_mentions": "Evidence Mentions"
+                };
+                const typeDisplay = typeMap[data.type] || data.type;
+
+                let resultHtml = `
+                    <div class="result-card">
+                        <h3>${typeDisplay}</h3>
+                        <p><span class="entity-tag">Entity: ${data.entity}</span></p>
+                        <div class="answer-list">
+                `;
+
+                if (data.result && data.result.length > 0) {
+                    data.result.forEach(item => {
+                        resultHtml += `<span class="answer-item">${item}</span>`;
+                    });
+                } else {
+                    resultHtml += `<p>No results found.</p>`;
+                }
+
+                resultHtml += `</div></div>`;
+                resultArea.innerHTML = resultHtml;
+
+                // 请求图数据
+                // 需要传递 qtype 和 entity，可能还需要 entity_type (Disease/Target)
+                let entityType = data.entity_type || "Herb";  // 从 /qa 返回中获得
+                const graphParams = new URLSearchParams({
+                    qtype: data.type,
+                    entity: data.entity,
+                    // 如果后端支持 entity_type 可以传，这里先不传，让后端默认处理
+                });
+                const graphResponse = await fetch(`/graph?${graphParams.toString()}`);
+                const graphData = await graphResponse.json();
+
+                if (graphData.nodes && graphData.nodes.length > 0) {
+                    renderGraph(graphData);
+                } else {
+                    graphContainer.innerHTML = '<p style="text-align:center; padding:20px;">No graph data available.</p>';
+                }
+
+            } catch (error) {
+                resultArea.innerHTML = `<div class="error-message">Error: ${error.message}</div>`;
+            }
+        }
+
+        function renderGraph(data) {
+            // 配置节点样式
+            const nodes = data.nodes.map(node => ({
+                id: node.id,
+                label: node.label,
+                group: node.group,
+            }));
+
+            const edges = data.edges;
+
+            // 可选：根据节点 group 设置颜色
+            const groups = {
+                Herb: { color: { background: '#a8e6cf', border: '#56ab91' }, shape: 'dot', size: 25 },
+                Ingredient: { color: { background: '#ffd3b6', border: '#ff8b94' }, shape: 'dot', size: 20 },
+                Target: { color: { background: '#dcedc1', border: '#6b8e23' }, shape: 'dot', size: 20 },
+                Efficacy: { color: { background: '#c4b0e3', border: '#7b68ee' }, shape: 'dot', size: 20 },
+                Disease: { color: { background: '#ff9aa2', border: '#e63946' }, shape: 'dot', size: 22 },
+                Paper: { color: { background: '#b5ead7', border: '#2a9d8f' }, shape: 'square', size: 15 },
+            };
+
+            const container = document.getElementById('graphContainer');
+            const options = {
+                groups: groups,
+                edges: {
+                    arrows: { to: { enabled: true, scaleFactor: 0.5 } },
+                    font: { align: 'middle' },
+                    color: { color: '#848484' }
+                },
+                physics: {
+                    enabled: true,
+                    solver: 'forceAtlas2Based',
+                },
+                interaction: { hover: true },
+            };
+            network = new vis.Network(container, { nodes, edges }, options);
+        }
+
+        button.addEventListener('click', askQuestion);
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') askQuestion();
+        });
+    </script>
+</body>
+</html>
