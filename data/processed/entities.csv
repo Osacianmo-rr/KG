@@ -1,0 +1,3398 @@
+﻿PMID,Entity,Type
+35168522,depression,Disease
+35168522,major depressive disorder,Disease
+35168522,post-stroke depression,Disease
+35168522,postpartum depression,Disease
+35168522,acupuncture,Intervention
+35168522,human,Species
+37143014,anxiety,Adverse_event
+37143014,insomnia,Adverse_event
+37143014,post-stroke depression,Disease
+37143014,anxiety,Disease
+37143014,depression,Disease
+37143014,systematic review,Evidence
+37143014,network meta-analysis,Evidence
+37143014,clinical trial,Evidence
+37143014,bayesian network meta-analysis,Evidence
+37143014,acupuncture,Intervention
+37143014,repetitive transcranial magnetic stimulation,Intervention
+37143014,anxiety,Symptom
+37143014,hopelessness,Symptom
+37143014,insomnia,Symptom
+37248211,st36,Acupoint
+37248211,prefrontal cortex,Brain_region
+37248211,depression,Disease
+37248211,major depressive disorder,Disease
+37248211,sucrose preference,Experiment_indicator
+37248211,tail suspension test,Experiment_indicator
+37248211,electroacupuncture,Intervention
+37248211,fluoxetine,Pharmacology
+37248211,astrocyte,Species
+37248211,mice,Species
+34446530,depression,Disease
+34446530,systematic review,Evidence
+34446530,meta-analysis,Evidence
+34446530,acupuncture,Intervention
+40466510,hippocampus,Brain_region
+40466510,prefrontal cortex,Brain_region
+40466510,amygdala,Brain_region
+40466510,depression,Disease
+36948325,il-1β,Cytokine
+36948325,depression,Disease
+36948325,major depressive disorder,Disease
+36948325,controlled clinical trial,Evidence
+36948325,tnf,Gene
+36948325,acupuncture,Intervention
+36948325,il-1β,Target
+39648209,ht7,Acupoint
+39648209,pc6,Acupoint
+39648209,sp6,Acupoint
+39648209,lr3,Acupoint
+39648209,somnolence,Adverse_event
+39648209,nausea,Adverse_event
+39648209,striatum,Brain_region
+39648209,cerebellum,Brain_region
+39648209,major depressive disorder,Disease
+39648209,depression,Disease
+39648209,randomized controlled trial,Evidence
+39648209,intradermal acupuncture,Intervention
+39648209,acupuncture,Intervention
+39648209,serotonin,Neurotransmitter
+39648209,hamd-17,Scale
+39648209,nausea,Symptom
+39426604,depression,Disease
+39426604,major depressive disorder,Disease
+42088582,depression,Disease
+42088582,serotonin,Neurotransmitter
+27693978,striatum,Brain_region
+27693978,prefrontal cortex,Brain_region
+27693978,amygdala,Brain_region
+27693978,major depressive disorder,Disease
+27693978,depression,Disease
+27693978,fmri,Evidence
+27693978,acupuncture,Intervention
+27693978,fluoxetine,Pharmacology
+38262525,anxiety,Adverse_event
+38262525,hippocampus,Brain_region
+38262525,postpartum depression,Disease
+38262525,anxiety,Disease
+38262525,depression,Disease
+38262525,paeoniflorin,Ingredient
+38262525,hypericin,Ingredient
+38262525,serotonin,Neurotransmitter
+38262525,rats,Species
+38262525,anxiety,Symptom
+28807166,major depressive disorder,Disease
+28807166,depression,Disease
+34551699,major depressive disorder,Disease
+34551699,human,Species
+32457610,depression,Disease
+32457610,bdnf,Gene
+32457610,bdnf,Neurotransmitter
+32457610,glutamate,Neurotransmitter
+32457610,bdnf,Target
+39620153,major depressive disorder,Disease
+39620153,depression,Disease
+39620153,pilot study,Evidence
+39620153,randomized controlled trial,Evidence
+39620153,electroacupuncture,Intervention
+39620153,acupuncture,Intervention
+39620153,whodas 2.0,Scale
+39620153,phq-9,Scale
+39620153,patient,Species
+28925891,depression,Disease
+36949321,major depressive disorder,Disease
+36949321,depression,Disease
+36949321,literature review,Evidence
+36949321,acupuncture,Intervention
+38983910,depression,Disease
+36969689,nausea,Adverse_event
+36969689,depression,Disease
+36969689,narrative review,Evidence
+36969689,nausea,Symptom
+41163407,gv20,Acupoint
+41163407,st36,Acupoint
+41163407,major depressive disorder,Disease
+41163407,depression,Disease
+41163407,16s rrna sequencing,Evidence
+41163407,metabolomics,Evidence
+41163407,sucrose preference,Experiment_indicator
+41163407,tail suspension test,Experiment_indicator
+41163407,acupuncture,Intervention
+41163407,mice,Species
+37159675,gv20,Acupoint
+37159675,lr3,Acupoint
+37159675,pc6,Acupoint
+37159675,sp6,Acupoint
+37159675,major depressive disorder,Disease
+37159675,data mining,Evidence
+37159675,acupuncture,Intervention
+37159675,manual acupuncture,Intervention
+33116523,depression,Disease
+33116523,jiuwei zhenxin granules,Formula
+9646895,patch,Administration
+9646895,anxiety,Adverse_event
+9646895,addiction,Adverse_event
+9646895,depression,Disease
+9646895,anxiety,Disease
+9646895,electroacupuncture,Intervention
+9646895,acupuncture,Intervention
+9646895,manual acupuncture,Intervention
+9646895,rabbit,Species
+9646895,anxiety,Symptom
+35496318,depression,Disease
+39253375,depression,Disease
+39253375,mood disorder,Disease
+41100813,depression,Disease
+41100813,systematic review,Evidence
+41100813,acupuncture,Intervention
+41100813,moxibustion,Intervention
+40018358,major depressive disorder,Disease
+40018358,depression,Disease
+40018358,acupuncture,Intervention
+40018358,electroacupuncture,Intervention
+37631092,major depressive disorder,Disease
+37631092,depression,Disease
+37631092,systematic review,Evidence
+37631092,meta-analysis,Evidence
+37631092,cognitive behavioral therapy,Intervention
+37631092,serotonin,Neurotransmitter
+37631092,cortisol,Neurotransmitter
+37631092,sadness,Symptom
+37631092,loss of interest,Symptom
+36873772,major depressive disorder,Disease
+36873772,acupuncture,Intervention
+36682244,decoction,Administration
+36682244,depression,Disease
+36682244,network pharmacology,Evidence
+36682244,xiaochaihu decoction,Formula
+36682244,regulating qi,Tcm_therapy
+31370200,depression,Disease
+31370200,major depressive disorder,Disease
+31370200,systematic review,Evidence
+31370200,meta-analysis,Evidence
+31370200,acupuncture,Intervention
+31370200,laser acupuncture,Intervention
+25183301,depression,Disease
+25183301,systematic review,Evidence
+25183301,ham-d,Scale
+25183301,weakness,Symptom
+24697344,capsule,Administration
+24697344,major depressive disorder,Disease
+24697344,depression,Disease
+24697344,systematic review,Evidence
+24697344,venlafaxine,Pharmacology
+24697344,patient,Species
+40515694,perimenopausal depression,Disease
+35152089,depression,Disease
+35152089,systematic review,Evidence
+35152089,sadness,Symptom
+40374592,st36,Acupoint
+40374592,ca1 region,Brain_region
+40374592,depression,Disease
+40374592,bdnf,Gene
+40374592,electroacupuncture,Intervention
+40374592,corticosterone,Neurotransmitter
+40374592,bdnf,Neurotransmitter
+40374592,mice,Species
+40374592,bdnf,Target
+34225013,depressive disorder,Disease
+34225013,depression,Disease
+34225013,metabolomics,Evidence
+39528081,il-10,Cytokine
+39528081,il-6,Cytokine
+39528081,depressive disorder,Disease
+39528081,depression,Disease
+39528081,protocol,Evidence
+39528081,sucrose preference,Experiment_indicator
+39528081,electroacupuncture,Intervention
+39528081,acupuncture,Intervention
+39528081,5-ht,Neurotransmitter
+39528081,dopamine,Neurotransmitter
+39528081,da,Neurotransmitter
+39528081,rats,Species
+39528081,neural stem cell,Species
+39528081,rat,Species
+39528081,il-6,Target
+33466877,hypothalamus,Brain_region
+33466877,depression,Disease
+37930334,depression,Disease
+30396632,postpartum depression,Disease
+30396632,depression,Disease
+30396632,systematic review,Evidence
+30396632,acupuncture,Intervention
+30396632,epds,Scale
+40033393,depression,Disease
+40033393,basic research,Evidence
+40033393,protocol,Evidence
+40033393,nlrp3,Gene
+40033393,acupuncture,Intervention
+40033393,electroacupuncture,Intervention
+40033393,acupoint catgut embedding,Intervention
+40033393,manual acupuncture,Intervention
+40033393,5-ht,Neurotransmitter
+40033393,dopamine,Neurotransmitter
+40033393,da,Neurotransmitter
+40033393,calcium signaling pathway,Pathway
+40033393,p2x7r,Target
+40033393,nlrp3,Target
+41437027,subthreshold depression,Disease
+41437027,major depressive disorder,Disease
+41437027,depression,Disease
+41437027,randomized controlled trial,Evidence
+41437027,clinical trial,Evidence
+41437027,acupuncture,Intervention
+41437027,hamd-17,Scale
+38808079,depression,Disease
+38808079,acupuncture,Intervention
+31780032,depression,Disease
+31780032,systematic review,Evidence
+31780032,meta-analysis,Evidence
+31780032,acupuncture,Intervention
+31780032,tuina,Intervention
+32147048,major depressive disorder,Disease
+32147048,depression,Disease
+32147048,scoping review,Evidence
+32147048,acupuncture,Intervention
+39701700,hippocampus,Brain_region
+39701700,depression,Disease
+37255171,major depressive disorder,Disease
+37255171,data mining,Evidence
+37255171,baweixiaoyaosan,Formula
+37255171,jun,Target
+40785662,post-stroke depression,Disease
+34636498,anxiety,Adverse_event
+34636498,depression,Disease
+34636498,anxiety,Disease
+34636498,qigong,Intervention
+34636498,acupuncture,Intervention
+34636498,worry,Symptom
+34636498,anxiety,Symptom
+19507266,depression,Disease
+36791924,decoction,Administration
+36791924,depression,Disease
+36921619,anxiety,Adverse_event
+36921619,mood disorder,Disease
+36921619,depression,Disease
+36921619,anxiety,Disease
+36921619,randomized controlled trial,Evidence
+36921619,acupuncture,Intervention
+36921619,sds,Scale
+36921619,sas,Scale
+36921619,anxiety,Symptom
+36529248,depression,Disease
+36529248,systematic review,Evidence
+36529248,fecal microbiota transplantation,Intervention
+37897838,anxiety,Adverse_event
+37897838,major depressive disorder,Disease
+37897838,depression,Disease
+37897838,anxiety,Disease
+37897838,machine learning,Evidence
+37897838,acupuncture,Intervention
+37897838,hamd-17,Scale
+37897838,sds,Scale
+37897838,anxiety,Symptom
+37897838,max,Target
+34049476,depression,Disease
+38306565,depression,Disease
+24761171,anxiety,Adverse_event
+24761171,anxiety,Disease
+24761171,depression,Disease
+24761171,major depressive disorder,Disease
+24761171,systematic review,Evidence
+24761171,acupuncture,Intervention
+24761171,anxiety,Symptom
+39157399,depression,Disease
+39157399,human,Species
+34623754,depression,Disease
+34623754,systematic review,Evidence
+34623754,acupuncture,Intervention
+34623754,cognitive behavioral therapy,Intervention
+35232229,gv20,Acupoint
+35232229,sp6,Acupoint
+35232229,lr3,Acupoint
+35232229,bl18,Acupoint
+35232229,hematoma,Adverse_event
+35232229,post-stroke depression,Disease
+35232229,depression,Disease
+35232229,randomized controlled trial,Evidence
+35232229,clinical trial,Evidence
+35232229,electroacupuncture,Intervention
+35232229,acupuncture,Intervention
+35232229,sds,Scale
+34840949,insomnia,Adverse_event
+34840949,anxiety,Adverse_event
+34840949,major depressive disorder,Disease
+34840949,depression,Disease
+34840949,anxiety,Disease
+34840949,clinical trial,Evidence
+34840949,protocol,Evidence
+34840949,electroacupuncture,Intervention
+34840949,moxibustion,Intervention
+34840949,insomnia,Symptom
+34840949,anxiety,Symptom
+28851961,depressive disorder,Disease
+28851961,depression,Disease
+28851961,systematic review,Evidence
+28851961,meta-analysis,Evidence
+28851961,open field test,Experiment_indicator
+28851961,acupuncture,Intervention
+28851961,rats,Species
+39140625,major depressive disorder,Disease
+39140625,depression,Disease
+39140625,meta-analysis,Evidence
+39140625,acupuncture,Intervention
+39140625,manual acupuncture,Intervention
+39140625,laser acupuncture,Intervention
+39140625,electroacupuncture,Intervention
+33324063,pill,Administration
+33324063,depression,Disease
+33324063,systematic review,Evidence
+30963358,depression,Disease
+30963358,qualitative study,Evidence
+38694562,depression,Disease
+38694562,mice,Species
+37802855,depression,Disease
+37802855,depressive disorder,Disease
+37802855,serotonin,Neurotransmitter
+37802855,microglia,Species
+38152691,depression,Disease
+38152691,serotonin,Neurotransmitter
+38152691,anhedonia,Symptom
+38152691,hopelessness,Symptom
+41015814,depression,Disease
+41015814,machine learning,Evidence
+41015814,text mining,Evidence
+36698870,depression,Disease
+36698870,systematic review,Evidence
+36698870,meta-analysis,Evidence
+36698870,sucrose preference,Experiment_indicator
+36698870,rats,Species
+36774722,post-stroke depression,Disease
+36774722,depression,Disease
+36774722,flow cytometry,Evidence
+36774722,patient,Species
+36774722,rat,Species
+36774722,rats,Species
+36774722,microglia,Species
+36774722,stat3,Target
+36774722,gsk3β,Target
+40154896,hippocampus,Brain_region
+40154896,tnf-α,Cytokine
+40154896,post-stroke depression,Disease
+40154896,network pharmacology,Evidence
+40154896,immunofluorescence,Evidence
+40154896,elisa,Evidence
+40154896,sucrose preference,Experiment_indicator
+40154896,tail suspension test,Experiment_indicator
+40154896,open field test,Experiment_indicator
+40154896,il6,Gene
+40154896,tnf,Gene
+40154896,creb,Gene
+40154896,bdnf,Gene
+40154896,bdnf,Neurotransmitter
+40154896,5-ht,Neurotransmitter
+40154896,dopamine,Neurotransmitter
+40154896,da,Neurotransmitter
+40154896,ne,Neurotransmitter
+40154896,calcium signaling pathway,Pathway
+40154896,fluoxetine,Pharmacology
+40154896,mice,Species
+40154896,rat,Species
+40154896,microglia,Species
+40154896,mouse,Species
+40154896,creb,Target
+40154896,bdnf,Target
+40154896,pde4d,Target
+40382939,il-17,Cytokine
+40382939,cancer-related depression,Disease
+40382939,depression,Disease
+40382939,western blot,Evidence
+40382939,qrt-pcr,Evidence
+40382939,molecular docking,Evidence
+40382939,saikosaponin a,Ingredient
+40382939,saikosaponin c,Ingredient
+40382939,saikosaponin d,Ingredient
+40382939,mouse,Species
+40382939,mice,Species
+40382939,microglia,Species
+40945251,depression,Disease
+40945251,network pharmacology,Evidence
+40945251,multi-omics,Evidence
+40945251,xiaoyao san,Formula
+40945251,rat,Species
+40945251,hmox1,Target
+40945251,gpx4,Target
+37597362,sweating,Adverse_event
+37597362,depression,Disease
+37597362,danzhi xiaoyao san,Formula
+37597362,human,Species
+37597362,sweating,Symptom
+37597362,liver qi stagnation,Syndrome
+37597362,blood deficiency,Syndrome
+39197805,powder,Administration
+39197805,depression,Disease
+39197805,network pharmacology,Evidence
+39197805,molecular docking,Evidence
+39197805,danzhi xiaoyao san,Formula
+39197805,akt1,Gene
+39197805,mapk1,Gene
+39197805,erk1,Gene
+39197805,senkyunolide a,Ingredient
+39197805,atractylenolide iii,Ingredient
+39197805,corticosterone,Neurotransmitter
+39197805,mice,Species
+39197805,akt1,Target
+39197805,mapk1,Target
+39197805,erk1/2,Target
+41061289,hippocampus,Brain_region
+41061289,il-6,Cytokine
+41061289,il-1β,Cytokine
+41061289,postpartum depression,Disease
+41061289,network pharmacology,Evidence
+41061289,molecular docking,Evidence
+41061289,elisa,Evidence
+41061289,immunofluorescence,Evidence
+41061289,sucrose preference,Experiment_indicator
+41061289,open field test,Experiment_indicator
+41061289,xiaoyao san,Formula
+41061289,guipi tang,Formula
+41061289,rat,Species
+41061289,rats,Species
+41061289,bcl2,Target
+41061289,jnk,Target
+41061289,il-6,Target
+41061289,il-1β,Target
+39515106,anxiety,Adverse_event
+39515106,hippocampus,Brain_region
+39515106,depression,Disease
+39515106,anxiety,Disease
+39515106,food intake,Experiment_indicator
+39515106,anxiety,Symptom
+37632305,depression,Disease
+37632305,controlled clinical trial,Evidence
+37632305,placebo-controlled trial,Evidence
+37632305,network pharmacology,Evidence
+37632305,metabolomics,Evidence
+37632305,molecular docking,Evidence
+37632305,quercetin,Ingredient
+37632305,luteolin,Ingredient
+37632305,serotonin,Neurotransmitter
+34968660,depression,Disease
+34968660,systematic review,Evidence
+34968660,meta-analysis,Evidence
+34968660,soothing liver,Tcm_therapy
+34968660,invigorating spleen,Tcm_therapy
+34968660,clearing heat,Tcm_therapy
+39687683,powder,Administration
+39687683,hippocampus,Brain_region
+39687683,il-1β,Cytokine
+39687683,il-6,Cytokine
+39687683,depression,Disease
+39687683,immunofluorescence,Evidence
+39687683,nlrp3,Gene
+39687683,acth,Neurotransmitter
+39687683,corticosterone,Neurotransmitter
+39687683,mice,Species
+39687683,rats,Species
+39687683,microglia,Species
+39687683,il-1β,Target
+39687683,il-6,Target
+39687683,nlrp3,Target
+38375048,il-1β,Cytokine
+38375048,il-6,Cytokine
+38375048,depression,Disease
+38375048,metabolomics,Evidence
+38375048,network pharmacology,Evidence
+38375048,open field test,Experiment_indicator
+38375048,xiaoyao san,Formula
+38375048,tnf,Gene
+38375048,rage signaling pathway,Pathway
+38375048,hif-1 signaling pathway,Pathway
+38375048,calcium signaling pathway,Pathway
+38375048,venlafaxine,Pharmacology
+38375048,rat,Species
+38375048,rats,Species
+38375048,il-1β,Target
+38375048,il-6,Target
+38628641,depression,Disease
+41273446,prefrontal cortex,Brain_region
+41273446,il-1β,Cytokine
+41273446,il-10,Cytokine
+41273446,depression,Disease
+41273446,sucrose preference,Experiment_indicator
+41273446,tail suspension test,Experiment_indicator
+41273446,open field test,Experiment_indicator
+41273446,xiaoyao san,Formula
+41273446,nlrp3,Gene
+41273446,mice,Species
+41273446,microglia,Species
+41273446,anhedonia,Symptom
+41273446,nlrp3,Target
+41273446,il-1β,Target
+41273446,gsdmd,Target
+40541752,hippocampus,Brain_region
+40541752,post-stroke depression,Disease
+40541752,depression,Disease
+40541752,protocol,Evidence
+40541752,elisa,Evidence
+40541752,network pharmacology,Evidence
+40541752,metabolomics,Evidence
+40541752,flow cytometry,Evidence
+40541752,western blot,Evidence
+40541752,immunofluorescence,Evidence
+40541752,sucrose preference,Experiment_indicator
+40541752,open field test,Experiment_indicator
+40541752,forced swim test,Experiment_indicator
+40541752,danzhi xiaoyao san,Formula
+40541752,nf-κb signaling pathway,Pathway
+40541752,rats,Species
+40541752,rat,Species
+40541752,microglia,Species
+41225027,prefrontal cortex,Brain_region
+41225027,depression,Disease
+41225027,network pharmacology,Evidence
+41225027,xiaoyao san,Formula
+41225027,atractylenolide i,Ingredient
+41225027,ferulic acid,Ingredient
+41225027,kaempferol,Ingredient
+41225027,quercetin,Ingredient
+41225027,atractylenolide ii,Ingredient
+41225027,z-ligustilide,Ingredient
+41225027,paeoniflorin,Ingredient
+41225027,saikosaponin a,Ingredient
+41225027,atractylenolide iii,Ingredient
+41225027,glycyrrhizic acid,Ingredient
+41225027,mouse,Species
+41225027,microglial cell,Species
+41225027,mice,Species
+41225027,jnk,Target
+37808199,anxiety,Adverse_event
+37808199,insomnia,Adverse_event
+37808199,il-6,Cytokine
+37808199,tnf-α,Cytokine
+37808199,depression,Disease
+37808199,anxiety,Disease
+37808199,meta-analysis,Evidence
+37808199,network pharmacology,Evidence
+37808199,molecular docking,Evidence
+37808199,tnf,Gene
+37808199,akt1,Gene
+37808199,stigmasterol,Ingredient
+37808199,serotonin,Neurotransmitter
+37808199,norepinephrine,Neurotransmitter
+37808199,nf-κb signaling pathway,Pathway
+37808199,anxiety,Symptom
+37808199,insomnia,Symptom
+37808199,il-6,Target
+37808199,pik3r1,Target
+37808199,mapk3,Target
+37808199,akt1,Target
+40998134,depression,Disease
+40998134,network pharmacology,Evidence
+40998134,metabolomics,Evidence
+40998134,xiaoyao san,Formula
+40998134,glutamate,Neurotransmitter
+40998134,mouse,Species
+40998134,mice,Species
+29808808,anxiety,Adverse_event
+29808808,hypothalamus,Brain_region
+29808808,depression,Disease
+29808808,anxiety,Disease
+29808808,xiaoyao san,Formula
+29808808,ferulic acid,Ingredient
+29808808,ligustilide,Ingredient
+29808808,atractylenolide i,Ingredient
+29808808,atractylenolide ii,Ingredient
+29808808,paeoniflorin,Ingredient
+29808808,albiflorin,Ingredient
+29808808,liquiritin,Ingredient
+29808808,glycyrrhizic acid,Ingredient
+29808808,anxiety,Symptom
+37562092,anxiety,Adverse_event
+37562092,depression,Disease
+37562092,anxiety,Disease
+37562092,meta-analysis,Evidence
+37562092,food intake,Experiment_indicator
+37562092,xiaoyao san,Formula
+37562092,glutamate,Neurotransmitter
+37562092,tension,Symptom
+37562092,anxiety,Symptom
+41724290,anxiety,Adverse_event
+41724290,depression,Disease
+41724290,anxiety,Disease
+41724290,qrt-pcr,Evidence
+41724290,western blot,Evidence
+41724290,network pharmacology,Evidence
+41724290,molecular docking,Evidence
+41724290,chaihu shugan san,Formula
+41724290,glycyrrhizic acid,Ingredient
+41724290,naringin,Ingredient
+41724290,naringenin,Ingredient
+41724290,mouse,Species
+41724290,mice,Species
+41724290,anxiety,Symptom
+21933701,depression,Disease
+21933701,meta-analysis,Evidence
+21933701,fluoxetine,Pharmacology
+21933701,paroxetine,Pharmacology
+21933701,doxepin,Pharmacology
+33629558,intragastric administration,Administration
+33629558,hippocampus,Brain_region
+33629558,depression,Disease
+33629558,elisa,Evidence
+33629558,western blot,Evidence
+33629558,open field test,Experiment_indicator
+33629558,sucrose preference,Experiment_indicator
+33629558,ganmai dazao tang,Formula
+33629558,serotonin,Neurotransmitter
+33629558,5-ht,Neurotransmitter
+33629558,norepinephrine,Neurotransmitter
+33629558,ne,Neurotransmitter
+33629558,fluoxetine,Pharmacology
+33629558,rats,Species
+38941409,depression,Disease
+38941409,systematic review,Evidence
+38941409,meta-analysis,Evidence
+38941409,mendelian randomization,Evidence
+38941409,amitriptyline,Pharmacology
+18343064,depression,Disease
+18343064,tail suspension test,Experiment_indicator
+18343064,locomotor activity,Experiment_indicator
+18343064,fluoxetine,Pharmacology
+18343064,imipramine,Pharmacology
+18343064,mice,Species
+36844911,Angelicae sinensis radix,Herb
+36844911,hippocampus,Brain_region
+36844911,depression,Disease
+36844911,xiaoyao san,Formula
+36844911,danggui shaoyao san,Formula
+36844911,bdnf,Gene
+36844911,paeoniflorin,Ingredient
+36844911,bdnf,Neurotransmitter
+36844911,mice,Species
+36844911,bdnf,Target
+41485625,il-1β,Cytokine
+41485625,tnf-α,Cytokine
+41485625,il-6,Cytokine
+41485625,il-18,Cytokine
+41485625,il-10,Cytokine
+41485625,depression,Disease
+41485625,transcriptomics,Evidence
+41485625,network pharmacology,Evidence
+41485625,chaihu shugan san,Formula
+41485625,tnf,Gene
+41485625,albiflorin,Ingredient
+41485625,liquiritin,Ingredient
+41485625,chlorogenic acid,Ingredient
+41485625,naringin,Ingredient
+41485625,glycyrrhizic acid,Ingredient
+41485625,saikosaponin d,Ingredient
+41485625,corticosterone,Neurotransmitter
+41485625,5-ht,Neurotransmitter
+41485625,dopamine,Neurotransmitter
+41485625,da,Neurotransmitter
+41485625,adrenocorticotropic hormone,Neurotransmitter
+41485625,acth,Neurotransmitter
+41485625,jnk signaling pathway,Pathway
+41485625,zebrafish,Species
+41485625,mouse,Species
+41485625,il-1β,Target
+41485625,jnk,Target
+41485625,il-6,Target
+41485625,jun,Target
+41485625,regulating qi,Tcm_therapy
+41485625,relieving depression,Tcm_therapy
+30841419,locus coeruleus,Brain_region
+30841419,hippocampus,Brain_region
+30841419,major depressive disorder,Disease
+30841419,xiaoyao san,Formula
+30841419,norepinephrine,Neurotransmitter
+30841419,rats,Species
+30841419,mice,Species
+30841419,anhedonia,Symptom
+30841419,psychomotor retardation,Symptom
+40127829,depression,Disease
+40127829,major depressive disorder,Disease
+40127829,multi-omics,Evidence
+40127829,transcriptomics,Evidence
+40127829,proteomics,Evidence
+40127829,molecular docking,Evidence
+40127829,literature review,Evidence
+40127829,open field test,Experiment_indicator
+40127829,forced swim test,Experiment_indicator
+40127829,chaihu shugan san,Formula
+40127829,mtor,Gene
+40127829,vegfa,Gene
+40127829,ferulic acid,Ingredient
+40127829,rats,Species
+40127829,mtor,Target
+40127829,vegfa,Target
+30687098,prefrontal cortex,Brain_region
+30687098,hippocampus,Brain_region
+30687098,depression,Disease
+30687098,sucrose preference,Experiment_indicator
+30687098,tail suspension test,Experiment_indicator
+30687098,forced swim test,Experiment_indicator
+30687098,mtor,Gene
+30687098,bdnf,Gene
+30687098,bdnf,Neurotransmitter
+30687098,mice,Species
+30687098,mtor,Target
+30687098,bdnf,Target
+39957155,depression,Disease
+39957155,qrt-pcr,Evidence
+39957155,bioinformatics analysis,Evidence
+39957155,sucrose preference,Experiment_indicator
+39957155,tail suspension test,Experiment_indicator
+39957155,danzhi xiaoyao san,Formula
+39957155,erk1,Gene
+39957155,mouse,Species
+39957155,mice,Species
+39957155,erk1/2,Target
+36536902,major depressive disorder,Disease
+36536902,depression,Disease
+36536902,immunofluorescence,Evidence
+36536902,sucrose preference,Experiment_indicator
+36536902,forced swim test,Experiment_indicator
+36536902,guipi tang,Formula
+36536902,bdnf,Gene
+36536902,trkb,Gene
+36536902,creb,Gene
+36536902,liquiritin,Ingredient
+36536902,bdnf,Neurotransmitter
+36536902,fluoxetine,Pharmacology
+36536902,rats,Species
+36536902,bax,Target
+36536902,bdnf,Target
+36536902,trkb,Target
+36536902,creb,Target
+33825416,major depressive disorder,Disease
+33825416,network pharmacology,Evidence
+33825416,chaihu shugan san,Formula
+40179998,depression,Disease
+40179998,transcriptomics,Evidence
+40179998,xiaoyao san,Formula
+40179998,drd2,Gene
+40179998,dopamine,Neurotransmitter
+40179998,mice,Species
+40179998,mouse,Species
+40179998,drd2,Target
+36039087,hippocampus,Brain_region
+36039087,major depressive disorder,Disease
+36039087,network pharmacology,Evidence
+36039087,immunofluorescence,Evidence
+36039087,chaihu shugan san,Formula
+36039087,vegfa,Gene
+36039087,bdnf,Gene
+36039087,bdnf,Neurotransmitter
+36039087,mice,Species
+36039087,sirt1,Target
+36039087,foxo1,Target
+36039087,vegfa,Target
+36039087,bdnf,Target
+41802506,hippocampus,Brain_region
+41802506,il-6,Cytokine
+41802506,depression,Disease
+41802506,elisa,Evidence
+41802506,sucrose preference,Experiment_indicator
+41802506,open field test,Experiment_indicator
+41802506,tail suspension test,Experiment_indicator
+41802506,chaihu shugan san,Formula
+41802506,bdnf,Gene
+41802506,bdnf,Neurotransmitter
+41802506,fluoxetine,Pharmacology
+41802506,mice,Species
+41802506,irritability,Symptom
+41802506,liver qi stagnation,Syndrome
+41802506,il-6,Target
+41802506,bdnf,Target
+35111057,weight gain,Adverse_event
+35111057,hippocampus,Brain_region
+35111057,depression,Disease
+35111057,proteomics,Evidence
+35111057,bioinformatics analysis,Evidence
+35111057,sucrose preference,Experiment_indicator
+35111057,food intake,Experiment_indicator
+35111057,gaba,Neurotransmitter
+35111057,glutamate,Neurotransmitter
+35111057,serotonin,Neurotransmitter
+35111057,norepinephrine,Neurotransmitter
+35111057,dopamine,Neurotransmitter
+35111057,acetylcholine,Neurotransmitter
+35111057,rat,Species
+24015243,anxiety,Adverse_event
+24015243,anxiety,Disease
+24015243,depression,Disease
+24015243,open field test,Experiment_indicator
+24015243,chinese herbal formula,Intervention
+24015243,rats,Species
+24015243,anxiety,Symptom
+36545317,decoction,Administration
+36545317,depression,Disease
+36545317,network pharmacology,Evidence
+36545317,tail suspension test,Experiment_indicator
+36545317,open field test,Experiment_indicator
+36545317,mice,Species
+20673169,granule,Administration
+20673169,hippocampus,Brain_region
+20673169,depression,Disease
+20673169,fluoxetine,Pharmacology
+20673169,mice,Species
+20673169,bax,Target
+37924576,hippocampus,Brain_region
+37924576,il-1β,Cytokine
+37924576,depression,Disease
+37924576,metabolomics,Evidence
+37924576,metagenomics,Evidence
+37924576,elisa,Evidence
+37924576,western blot,Evidence
+37924576,yueju wan,Formula
+37924576,nlrp3,Gene
+37924576,glutamate,Neurotransmitter
+37924576,rat,Species
+37924576,rats,Species
+37924576,il-1β,Target
+37924576,nlrp3,Target
+36279723,anxiety,Adverse_event
+36279723,prefrontal cortex,Brain_region
+36279723,hippocampus,Brain_region
+36279723,anxiety,Disease
+36279723,depression,Disease
+36279723,xiaoyao san,Formula
+36279723,drd2,Gene
+36279723,dopamine,Neurotransmitter
+36279723,mice,Species
+36279723,anxiety,Symptom
+36279723,drd2,Target
+37751044,hippocampus,Brain_region
+37751044,perimenopausal depression,Disease
+37751044,network pharmacology,Evidence
+37751044,elisa,Evidence
+37751044,fmri,Evidence
+37751044,chaihu shugan san,Formula
+37751044,chinese herbal formula,Intervention
+37751044,glutamate,Neurotransmitter
+37751044,5-ht,Neurotransmitter
+37751044,rat,Species
+37751044,rats,Species
+35190952,anxiety,Adverse_event
+35190952,perimenopausal depression,Disease
+35190952,depression,Disease
+35190952,anxiety,Disease
+35190952,5-ht,Neurotransmitter
+35190952,ne,Neurotransmitter
+35190952,rat,Species
+35190952,rats,Species
+35190952,anxiety,Symptom
+38633609,pill,Administration
+38633609,decoction,Administration
+38633609,powder,Administration
+38633609,depression,Disease
+38633609,systematic review,Evidence
+38633609,network meta-analysis,Evidence
+38633609,bayesian network meta-analysis,Evidence
+38633609,xingnao jieyu decoction,Formula
+38633609,da,Neurotransmitter
+38633609,alprazolam,Pharmacology
+38633609,fluoxetine,Pharmacology
+38633609,escitalopram,Pharmacology
+38633609,amitriptyline,Pharmacology
+38633609,sertraline,Pharmacology
+38633609,venlafaxine,Pharmacology
+38633609,hamd,Scale
+24914308,hippocampus,Brain_region
+24914308,depression,Disease
+24914308,western blot,Evidence
+24914308,locomotor activity,Experiment_indicator
+24914308,open field test,Experiment_indicator
+24914308,erk1,Gene
+24914308,fluoxetine,Pharmacology
+24914308,rats,Species
+24914308,erk1/2,Target
+24486208,weight gain,Adverse_event
+24486208,hippocampus,Brain_region
+24486208,depression,Disease
+24486208,locomotor activity,Experiment_indicator
+24486208,open field test,Experiment_indicator
+24486208,fluoxetine,Pharmacology
+24486208,rats,Species
+40969945,depression,Disease
+40969945,xiaoyao san,Formula
+40969945,chaihu shugan san,Formula
+40969945,sini san,Formula
+40969945,paeoniflorin,Ingredient
+31781287,depression,Disease
+31781287,western blot,Evidence
+31781287,qrt-pcr,Evidence
+31781287,bioinformatics analysis,Evidence
+31781287,glycyrrhetinic acid,Ingredient
+31781287,mouse,Species
+31781287,mice,Species
+31781287,qi stagnation,Syndrome
+31781287,spleen deficiency,Syndrome
+37664720,depression,Disease
+37664720,systematic review,Evidence
+40912487,depression,Disease
+40912487,network pharmacology,Evidence
+40912487,molecular docking,Evidence
+40912487,xiaoyao san,Formula
+40912487,stigmasterol,Ingredient
+40912487,hif-1 signaling pathway,Pathway
+40912487,blood deficiency,Syndrome
+40912487,nourishing blood,Tcm_therapy
+35906133,hypothalamus,Brain_region
+35906133,depression,Disease
+35906133,immunofluorescence,Evidence
+35906133,social interaction test,Experiment_indicator
+35906133,open field test,Experiment_indicator
+35906133,forced swim test,Experiment_indicator
+35906133,elevated plus maze,Experiment_indicator
+35906133,xiaoyao san,Formula
+35906133,chinese herbal formula,Intervention
+35906133,adiponectin,Neurotransmitter
+35906133,fluoxetine,Pharmacology
+35906133,mice,Species
+34391441,anxiety,Adverse_event
+34391441,hippocampus,Brain_region
+34391441,il-6,Cytokine
+34391441,anxiety,Disease
+34391441,depression,Disease
+34391441,elevated plus maze,Experiment_indicator
+34391441,tail suspension test,Experiment_indicator
+34391441,bdnf,Gene
+34391441,bdnf,Neurotransmitter
+34391441,corticosterone,Neurotransmitter
+34391441,mice,Species
+34391441,anxiety,Symptom
+34391441,bdnf,Target
+34391441,il-6,Target
+29728023,depression,Disease
+29728023,yueju wan,Formula
+29728023,human,Species
+29728023,regulating qi,Tcm_therapy
+36339629,hippocampus,Brain_region
+36339629,depression,Disease
+36339629,trkb,Gene
+36339629,fecal microbiota transplantation,Intervention
+36339629,mice,Species
+36339629,mouse,Species
+36339629,trkb,Target
+29864926,prefrontal cortex,Brain_region
+29864926,il-1β,Cytokine
+29864926,depression,Disease
+29864926,western blot,Evidence
+29864926,immunofluorescence,Evidence
+29864926,tlr4,Gene
+29864926,nlrp3,Gene
+29864926,rats,Species
+29864926,rat,Species
+29864926,il-1β,Target
+29864926,tlr4,Target
+29864926,nlrp3,Target
+38451006,depression,Disease
+38451006,network pharmacology,Evidence
+38451006,metabolomics,Evidence
+38451006,molecular docking,Evidence
+38451006,xiaoyao san,Formula
+38451006,glutamate,Neurotransmitter
+38451006,rats,Species
+37263314,prefrontal cortex,Brain_region
+37263314,tnf-α,Cytokine
+37263314,il-1β,Cytokine
+37263314,depression,Disease
+37263314,elisa,Evidence
+37263314,western blot,Evidence
+37263314,immunofluorescence,Evidence
+37263314,sucrose preference,Experiment_indicator
+37263314,xiaoyao san,Formula
+37263314,mtor,Gene
+37263314,tnf,Gene
+37263314,microglia,Species
+37263314,mice,Species
+37263314,cell line,Species
+37263314,mtor,Target
+37263314,il-1β,Target
+38551057,depression,Disease
+38551057,network pharmacology,Evidence
+38551057,proteomics,Evidence
+38551057,hesperetin,Ingredient
+38551057,nobiletin,Ingredient
+38551057,ferulic acid,Ingredient
+38551057,naringin,Ingredient
+38551057,albiflorin,Ingredient
+38551057,glycyrrhizic acid,Ingredient
+38551057,human,Species
+38551057,relieving depression,Tcm_therapy
+29863014,intragastric administration,Administration
+29863014,hippocampus,Brain_region
+29863014,depression,Disease
+29863014,western blot,Evidence
+29863014,open field test,Experiment_indicator
+29863014,glutamate,Neurotransmitter
+29863014,rats,Species
+29863014,mapk14,Target
+21791239,hippocampus,Brain_region
+21791239,depression,Disease
+21791239,locomotor activity,Experiment_indicator
+21791239,ferulic acid,Ingredient
+21791239,serotonin,Neurotransmitter
+21791239,ghrelin,Neurotransmitter
+21791239,crh,Neurotransmitter
+21791239,acth,Neurotransmitter
+21791239,5-ht,Neurotransmitter
+21791239,norepinephrine,Neurotransmitter
+21791239,dopamine,Neurotransmitter
+21791239,rat,Species
+39295891,depression,Disease
+39295891,elisa,Evidence
+39295891,sucrose preference,Experiment_indicator
+39295891,chaihu shugan san,Formula
+39295891,chinese herbal formula,Intervention
+39295891,fluoxetine,Pharmacology
+39295891,rats,Species
+39295891,rat,Species
+39295891,qi stagnation,Syndrome
+25210314,oral administration,Administration
+25210314,intragastric administration,Administration
+25210314,hippocampus,Brain_region
+25210314,depression,Disease
+25210314,depressive disorder,Disease
+25210314,western blot,Evidence
+25210314,locomotor activity,Experiment_indicator
+25210314,fluoxetine,Pharmacology
+25210314,rat,Species
+25210314,rats,Species
+25210314,jnk,Target
+25210314,jun,Target
+32923002,oral administration,Administration
+32923002,depression,Disease
+32923002,pharmacokinetic study,Evidence
+42266144,hypothalamus,Brain_region
+42266144,depression,Disease
+42266144,elisa,Evidence
+42266144,immunofluorescence,Evidence
+42266144,co-immunoprecipitation,Evidence
+42266144,chaihu shugan san,Formula
+42266144,acth,Neurotransmitter
+42266144,rats,Species
+31022598,decoction,Administration
+31022598,hippocampus,Brain_region
+31022598,tnf-α,Cytokine
+31022598,il-1β,Cytokine
+31022598,il-6,Cytokine
+31022598,depression,Disease
+31022598,sucrose preference,Experiment_indicator
+31022598,bdnf,Gene
+31022598,trkb,Gene
+31022598,tnf,Gene
+31022598,bdnf,Neurotransmitter
+31022598,mice,Species
+31022598,human,Species
+31022598,bdnf,Target
+31022598,trkb,Target
+31022598,il-1β,Target
+31022598,il-6,Target
+15642599,depression,Disease
+15642599,imipramine,Pharmacology
+15642599,rat,Species
+34385814,hippocampus,Brain_region
+34385814,major depressive disorder,Disease
+34385814,network pharmacology,Evidence
+34385814,immunofluorescence,Evidence
+34385814,molecular docking,Evidence
+34385814,chaihu shugan san,Formula
+34385814,quercetin,Ingredient
+34385814,luteolin,Ingredient
+34385814,kaempferol,Ingredient
+34385814,mice,Species
+34385814,gsk3β,Target
+40686183,dentate gyrus,Brain_region
+40686183,hippocampus,Brain_region
+40686183,il-1β,Cytokine
+40686183,depression,Disease
+40686183,network pharmacology,Evidence
+40686183,elisa,Evidence
+40686183,western blot,Evidence
+40686183,sucrose preference,Experiment_indicator
+40686183,yueju wan,Formula
+40686183,bdnf,Gene
+40686183,aromatherapy,Intervention
+40686183,bdnf,Neurotransmitter
+40686183,mouse,Species
+40686183,mice,Species
+40686183,il-1β,Target
+40686183,stat3,Target
+40686183,casp3,Target
+40686183,bdnf,Target
+22019334,depression,Disease
+22019334,sucrose preference,Experiment_indicator
+22019334,bdnf,Gene
+22019334,bdnf,Neurotransmitter
+22019334,rat,Species
+22019334,rats,Species
+22019334,bdnf,Target
+36099982,hippocampus,Brain_region
+36099982,depression,Disease
+36099982,metabolomics,Evidence
+36099982,xiaoyao san,Formula
+36099982,rats,Species
+36099982,qi stagnation,Syndrome
+36099982,soothing liver,Tcm_therapy
+41894346,il-6,Cytokine
+41894346,tnf-α,Cytokine
+41894346,depression,Disease
+41894346,network pharmacology,Evidence
+41894346,molecular docking,Evidence
+41894346,yueju wan,Formula
+41894346,tnf,Gene
+41894346,il6,Gene
+41894346,5-ht,Neurotransmitter
+41894346,da,Neurotransmitter
+41894346,zebrafish,Species
+41894346,il-6,Target
+41894346,rela,Target
+40028110,prefrontal cortex,Brain_region
+40028110,depression,Disease
+40028110,network pharmacology,Evidence
+40028110,chaihu shugan san,Formula
+40028110,mtor,Gene
+40028110,corticosterone,Neurotransmitter
+40028110,fluoxetine,Pharmacology
+40028110,rats,Species
+40028110,rat,Species
+40028110,mtor,Target
+39603396,depression,Disease
+39603396,kaempferol,Ingredient
+39512328,Glycyrrhizae radix,Herb
+39512328,powder,Administration
+39512328,decoction,Administration
+39512328,depression,Disease
+39512328,data mining,Evidence
+39512328,sadness,Symptom
+26889228,hippocampus,Brain_region
+26889228,dentate gyrus,Brain_region
+26889228,depression,Disease
+26889228,fluoxetine,Pharmacology
+26889228,rats,Species
+34467737,dyspepsia,Adverse_event
+34467737,depression,Disease
+34467737,network pharmacology,Evidence
+34467737,molecular docking,Evidence
+34467737,xiaoyao san,Formula
+34467737,il6,Gene
+34467737,tnf,Gene
+34467737,kaempferol,Ingredient
+34467737,quercetin,Ingredient
+34467737,hif-1 signaling pathway,Pathway
+34467737,liver depression and spleen deficiency,Syndrome
+25422553,depression,Disease
+25422553,major depressive disorder,Disease
+25422553,fluoxetine,Pharmacology
+21368416,hippocampus,Brain_region
+21368416,depression,Disease
+21368416,chaihu shugan san,Formula
+21368416,erk1,Gene
+21368416,fluoxetine,Pharmacology
+21368416,rats,Species
+21368416,erk1/2,Target
+24137289,oral administration,Administration
+24137289,depression,Disease
+24137289,pharmacokinetic study,Evidence
+24137289,rat,Species
+24137289,rats,Species
+24137289,max,Target
+32185198,hippocampus,Brain_region
+32185198,depression,Disease
+32185198,western blot,Evidence
+32185198,sucrose preference,Experiment_indicator
+32185198,open field test,Experiment_indicator
+32185198,y-maze test,Experiment_indicator
+32185198,chaihu shugan san,Formula
+32185198,bdnf,Gene
+32185198,creb,Gene
+32185198,bdnf,Neurotransmitter
+32185198,erk-creb signaling pathway,Pathway
+32185198,fluoxetine,Pharmacology
+32185198,rat,Species
+32185198,rats,Species
+32185198,bdnf,Target
+32185198,creb,Target
+29843044,hippocampus,Brain_region
+29843044,perimenopausal depression,Disease
+29843044,depression,Disease
+29843044,chaihu shugan san,Formula
+29843044,bdnf,Gene
+29843044,trkb,Gene
+29843044,bdnf,Neurotransmitter
+29843044,rats,Species
+29843044,bdnf,Target
+29843044,trkb,Target
+33167098,injection,Administration
+33167098,intragastric administration,Administration
+33167098,hippocampus,Brain_region
+33167098,tnf-α,Cytokine
+33167098,il-6,Cytokine
+33167098,depression,Disease
+33167098,elisa,Evidence
+33167098,western blot,Evidence
+33167098,xiaoyao san,Formula
+33167098,tlr4,Gene
+33167098,tnf,Gene
+33167098,fluoxetine,Pharmacology
+33167098,microglia,Species
+33167098,rats,Species
+33167098,tlr4,Target
+33167098,il-6,Target
+41038327,hippocampus,Brain_region
+41038327,post-stroke depression,Disease
+41038327,microdialysis,Evidence
+41038327,metabolomics,Evidence
+41038327,molecular docking,Evidence
+41038327,chaihu shugan san,Formula
+41038327,bdnf,Gene
+41038327,nobiletin,Ingredient
+41038327,bdnf,Neurotransmitter
+41038327,rats,Species
+41038327,bdnf,Target
+25427198,depression,Disease
+25427198,human,Species
+32348951,oral administration,Administration
+32348951,depression,Disease
+32348951,pharmacokinetic study,Evidence
+32348951,ferulic acid,Ingredient
+32348951,naringin,Ingredient
+32348951,hesperidin,Ingredient
+32348951,glycyrrhizic acid,Ingredient
+32348951,saikosaponin a,Ingredient
+32348951,nobiletin,Ingredient
+32348951,hesperetin,Ingredient
+32348951,adrenocorticotropic hormone,Neurotransmitter
+32348951,5-ht,Neurotransmitter
+32348951,dopamine,Neurotransmitter
+32348951,da,Neurotransmitter
+32348951,rats,Species
+32348951,rat,Species
+41727502,depression,Disease
+41727502,multi-omics,Evidence
+41727502,network pharmacology,Evidence
+41727502,xiaoyao san,Formula
+41727502,mouse,Species
+41727502,rela,Target
+23947143,hippocampus,Brain_region
+23947143,depression,Disease
+23947143,chaihu shugan san,Formula
+23947143,rats,Species
+29217494,hippocampus,Brain_region
+29217494,depression,Disease
+29217494,western blot,Evidence
+29217494,elisa,Evidence
+29217494,open field test,Experiment_indicator
+29217494,sucrose preference,Experiment_indicator
+29217494,forced swim test,Experiment_indicator
+29217494,locomotor activity,Experiment_indicator
+29217494,food intake,Experiment_indicator
+29217494,xiaoyao san,Formula
+29217494,bdnf,Gene
+29217494,creb,Gene
+29217494,chinese herbal formula,Intervention
+29217494,bdnf,Neurotransmitter
+29217494,paroxetine,Pharmacology
+29217494,rat,Species
+29217494,rats,Species
+29217494,bdnf,Target
+29217494,creb,Target
+29217494,kmo,Target
+27413389,decoction,Administration
+27413389,hippocampus,Brain_region
+27413389,depression,Disease
+27413389,vasopressin,Neurotransmitter
+27413389,rats,Species
+27413389,rat,Species
+41047379,oral administration,Administration
+41047379,anxiety,Adverse_event
+41047379,depression,Disease
+41047379,anxiety,Disease
+41047379,eeg,Evidence
+41047379,molecular docking,Evidence
+41047379,bdnf,Gene
+41047379,trkb,Gene
+41047379,bdnf,Neurotransmitter
+41047379,gaba,Neurotransmitter
+41047379,glutamate,Neurotransmitter
+41047379,zebrafish,Species
+41047379,mice,Species
+41047379,anxiety,Symptom
+41047379,bdnf,Target
+41047379,trkb,Target
+37295570,il-1β,Cytokine
+37295570,il-6,Cytokine
+37295570,tnf-α,Cytokine
+37295570,depression,Disease
+37295570,elisa,Evidence
+37295570,qrt-pcr,Evidence
+37295570,western blot,Evidence
+37295570,nlrp3,Gene
+37295570,tnf,Gene
+37295570,5-ht,Neurotransmitter
+37295570,mice,Species
+37295570,mouse,Species
+37295570,nlrp3,Target
+37295570,il-1β,Target
+37295570,il-6,Target
+37277081,depression,Disease
+37277081,western blot,Evidence
+37277081,immunofluorescence,Evidence
+37277081,flow cytometry,Evidence
+37277081,sucrose preference,Experiment_indicator
+37277081,open field test,Experiment_indicator
+37277081,tail suspension test,Experiment_indicator
+37277081,tlr4,Gene
+37277081,saikosaponin b2,Ingredient
+37277081,microglia,Species
+37277081,mice,Species
+37277081,gpx4,Target
+37277081,tlr4,Target
+38675471,depression,Disease
+38675471,sinisan,Formula
+38675471,bdnf,Gene
+38675471,saikosaponin a,Ingredient
+38675471,saikosaponin d,Ingredient
+38675471,rutin,Ingredient
+38675471,puerarin,Ingredient
+38675471,quercetin,Ingredient
+38675471,5-ht,Neurotransmitter
+38675471,da,Neurotransmitter
+38675471,bdnf,Neurotransmitter
+38675471,human,Species
+38675471,bdnf,Target
+22414105,Pinelliae rhizoma,Herb
+22414105,depression,Disease
+22414105,da,Neurotransmitter
+41547067,hippocampus,Brain_region
+41547067,il-1β,Cytokine
+41547067,tnf-α,Cytokine
+41547067,depression,Disease
+41547067,bdnf,Gene
+41547067,nlrp3,Gene
+41547067,tnf,Gene
+41547067,bdnf,Neurotransmitter
+41547067,rat,Species
+41547067,primary neuron,Species
+41547067,astrocyte,Species
+41547067,rats,Species
+41547067,p2x7r,Target
+41547067,bdnf,Target
+41547067,nlrp3,Target
+41547067,gsdmd,Target
+41547067,il-1β,Target
+41547067,bax,Target
+41547067,bcl2,Target
+36408279,depression,Disease
+36408279,serotonin,Neurotransmitter
+35462897,pill,Administration
+35462897,depression,Disease
+35462897,depressive disorder,Disease
+35462897,network meta-analysis,Evidence
+35462897,network pharmacology,Evidence
+35462897,randomized controlled trial,Evidence
+35462897,bioinformatics analysis,Evidence
+35462897,systematic review,Evidence
+35462897,xiaoyao pill,Formula
+35462897,mapk1,Gene
+35462897,serotonin,Neurotransmitter
+35462897,norepinephrine,Neurotransmitter
+35462897,mapk signaling pathway,Pathway
+35462897,hamd-17,Scale
+35462897,hamd,Scale
+35462897,mapk3,Target
+35462897,jun,Target
+35462897,mapk14,Target
+35462897,myc,Target
+35462897,mapk1,Target
+40427467,tnf-α,Cytokine
+40427467,il-1β,Cytokine
+40427467,il-6,Cytokine
+40427467,depression,Disease
+40427467,flow cytometry,Evidence
+40427467,bdnf,Gene
+40427467,nlrp3,Gene
+40427467,tnf,Gene
+40427467,tlr4,Gene
+40427467,paeoniflorin,Ingredient
+40427467,bdnf,Neurotransmitter
+40427467,nrf2/ho-1 signaling pathway,Pathway
+40427467,mice,Species
+40427467,hippocampal neuron,Species
+40427467,keap1,Target
+40427467,bdnf,Target
+40427467,nlrp3,Target
+40427467,gsk3β,Target
+40427467,il-1β,Target
+40427467,il-6,Target
+40427467,tlr4,Target
+40708436,depression,Disease
+40708436,systematic review,Evidence
+40708436,bdnf,Gene
+40708436,albiflorin,Ingredient
+40708436,bdnf,Neurotransmitter
+40708436,bdnf,Target
+37844745,hippocampus,Brain_region
+37844745,depression,Disease
+37844745,depressive disorder,Disease
+37844745,immunofluorescence,Evidence
+37844745,molecular docking,Evidence
+37844745,social interaction test,Experiment_indicator
+37844745,sucrose preference,Experiment_indicator
+37844745,tail suspension test,Experiment_indicator
+37844745,open field test,Experiment_indicator
+37844745,bdnf,Gene
+37844745,saikosaponin a,Ingredient
+37844745,bdnf,Neurotransmitter
+37844745,mice,Species
+37844745,mouse,Species
+37844745,bdnf,Target
+37844745,relieving depression,Tcm_therapy
+32178272,anxiety,Adverse_event
+32178272,depression,Disease
+32178272,anxiety,Disease
+32178272,human,Species
+32178272,anxiety,Symptom
+41780614,Chuanxiong rhizoma,Herb
+41780614,il-1β,Cytokine
+41780614,il-6,Cytokine
+41780614,tnf-α,Cytokine
+41780614,depression,Disease
+41780614,network pharmacology,Evidence
+41780614,molecular docking,Evidence
+41780614,elisa,Evidence
+41780614,western blot,Evidence
+41780614,immunofluorescence,Evidence
+41780614,sucrose preference,Experiment_indicator
+41780614,tnf,Gene
+41780614,bdnf,Gene
+41780614,5-ht,Neurotransmitter
+41780614,ne,Neurotransmitter
+41780614,da,Neurotransmitter
+41780614,bdnf,Neurotransmitter
+41780614,rat,Species
+41780614,rats,Species
+41780614,blood stasis,Syndrome
+41780614,blood deficiency,Syndrome
+41780614,il-1β,Target
+41780614,il-6,Target
+41780614,bdnf,Target
+35881212,powder,Administration
+35881212,hippocampus,Brain_region
+35881212,thalamus,Brain_region
+35881212,depression,Disease
+35881212,western blot,Evidence
+35881212,fmri,Evidence
+35881212,open field test,Experiment_indicator
+35881212,tail suspension test,Experiment_indicator
+35881212,bdnf,Gene
+35881212,mtor,Gene
+35881212,ghrelin,Neurotransmitter
+35881212,bdnf,Neurotransmitter
+35881212,fluoxetine,Pharmacology
+35881212,rats,Species
+35881212,mice,Species
+35881212,bdnf,Target
+35881212,mtor,Target
+40682677,depression,Disease
+40682677,bdnf,Gene
+40682677,nlrp3,Gene
+40682677,creb,Gene
+40682677,mtor,Gene
+40682677,paeoniflorin,Ingredient
+40682677,bdnf,Neurotransmitter
+40682677,cortisol,Neurotransmitter
+40682677,serotonin,Neurotransmitter
+40682677,dopamine,Neurotransmitter
+40682677,glutamate,Neurotransmitter
+40682677,sadness,Symptom
+40682677,hopelessness,Symptom
+40682677,bdnf,Target
+40682677,nlrp3,Target
+40682677,creb,Target
+40682677,mtor,Target
+38074876,Ziziphi spinosae semen,Herb
+38074876,powder,Administration
+38074876,decoction,Administration
+38074876,major depressive disorder,Disease
+38074876,bdnf,Gene
+38074876,trkb,Gene
+38074876,liquiritin,Ingredient
+38074876,bdnf,Neurotransmitter
+38074876,bdnf,Target
+38074876,trkb,Target
+38631487,decoction,Administration
+38631487,depression,Disease
+38631487,elisa,Evidence
+38631487,qrt-pcr,Evidence
+38631487,sucrose preference,Experiment_indicator
+38631487,bdnf,Gene
+38631487,crh,Neurotransmitter
+38631487,bdnf,Neurotransmitter
+38631487,mice,Species
+38631487,sirt1,Target
+38631487,bdnf,Target
+31911246,depression,Disease
+31911246,berberine,Ingredient
+39637473,intraperitoneal injection,Administration
+39637473,depression,Disease
+39637473,major depressive disorder,Disease
+39637473,immunofluorescence,Evidence
+39637473,western blot,Evidence
+39637473,cetsa,Evidence
+39637473,mice,Species
+39637473,microglia,Species
+41794258,depression,Disease
+41794258,saikosaponin a,Ingredient
+41794258,dopamine,Neurotransmitter
+41794258,norepinephrine,Neurotransmitter
+41794258,nf-κb signaling pathway,Pathway
+41794258,mouse,Species
+41794258,human,Species
+41794258,relieving depression,Tcm_therapy
+39094756,pill,Administration
+39094756,hippocampus,Brain_region
+39094756,ca3 region,Brain_region
+39094756,depression,Disease
+39094756,western blot,Evidence
+39094756,immunofluorescence,Evidence
+39094756,xiaoyao pill,Formula
+39094756,mtor,Gene
+39094756,bdnf,Gene
+39094756,bdnf,Neurotransmitter
+39094756,mice,Species
+39094756,mtor,Target
+39094756,bdnf,Target
+31328996,depression,Disease
+31328996,major depressive disorder,Disease
+31328996,systematic review,Evidence
+31328996,meta-analysis,Evidence
+31328996,serotonin,Neurotransmitter
+40816588,hippocampus,Brain_region
+40816588,depression,Disease
+40816588,network pharmacology,Evidence
+40816588,baicalin,Ingredient
+40816588,baicalein,Ingredient
+40816588,wogonin,Ingredient
+40816588,kaempferol,Ingredient
+40816588,puerarin,Ingredient
+40816588,5-ht,Neurotransmitter
+40816588,zebrafish,Species
+40816588,mice,Species
+40816588,microglia,Species
+40816588,relieving depression,Tcm_therapy
+38972528,prefrontal cortex,Brain_region
+38972528,adolescent depression,Disease
+38972528,depression,Disease
+38972528,western blot,Evidence
+38972528,immunofluorescence,Evidence
+38972528,sinisan,Formula
+38972528,5-ht,Neurotransmitter
+38972528,mice,Species
+22196583,depression,Disease
+22196583,forced swim test,Experiment_indicator
+22196583,tail suspension test,Experiment_indicator
+22196583,mouse,Species
+22196583,mice,Species
+22196583,rats,Species
+36046834,depression,Disease
+36046834,creb,Gene
+36046834,erk1,Gene
+36046834,paeoniflorin,Ingredient
+36046834,serotonin,Neurotransmitter
+36046834,creb,Target
+36046834,erk1/2,Target
+35088681,depression,Disease
+35088681,human,Species
+40453654,anxiety,Adverse_event
+40453654,tnf-α,Cytokine
+40453654,il-1β,Cytokine
+40453654,il-6,Cytokine
+40453654,depression,Disease
+40453654,anxiety,Disease
+40453654,tail suspension test,Experiment_indicator
+40453654,open field test,Experiment_indicator
+40453654,elevated plus maze,Experiment_indicator
+40453654,tlr4,Gene
+40453654,bdnf,Gene
+40453654,tnf,Gene
+40453654,saikosaponin a,Ingredient
+40453654,bdnf,Neurotransmitter
+40453654,5-ht,Neurotransmitter
+40453654,da,Neurotransmitter
+40453654,corticosterone,Neurotransmitter
+40453654,nf-κb signaling pathway,Pathway
+40453654,mouse,Species
+40453654,mice,Species
+40453654,anxiety,Symptom
+40453654,tlr4,Target
+40453654,bdnf,Target
+40453654,cat,Target
+40453654,il-1β,Target
+40453654,il-6,Target
+36278199,depression,Disease
+36278199,systematic review,Evidence
+36278199,chest pain,Symptom
+36278199,liver qi stagnation,Syndrome
+36278199,qi stagnation,Syndrome
+36278199,relieving depression,Tcm_therapy
+36278199,regulating qi,Tcm_therapy
+36278199,relieving pain,Tcm_therapy
+37764277,depression,Disease
+37764277,narrative review,Evidence
+37764277,basic research,Evidence
+37764277,baicalin,Ingredient
+34334273,hippocampus,Brain_region
+34334273,depression,Disease
+34334273,paeoniflorin,Ingredient
+38572433,major depressive disorder,Disease
+38572433,depression,Disease
+38572433,systematic review,Evidence
+38572433,meta-analysis,Evidence
+40716620,hippocampus,Brain_region
+40716620,depression,Disease
+40716620,elisa,Evidence
+40716620,qrt-pcr,Evidence
+40716620,immunofluorescence,Evidence
+40716620,molecular docking,Evidence
+40716620,sucrose preference,Experiment_indicator
+40716620,open field test,Experiment_indicator
+40716620,tail suspension test,Experiment_indicator
+40716620,mouse,Species
+40716620,mice,Species
+35847012,il-6,Cytokine
+35847012,depression,Disease
+35847012,metabolomics,Evidence
+35847012,nlrp3,Gene
+35847012,tnf,Gene
+35847012,rat,Species
+35847012,nlrp3,Target
+35847012,il-6,Target
+40348996,hippocampus,Brain_region
+40348996,hypothalamus,Brain_region
+40348996,depression,Disease
+40348996,metabolomics,Evidence
+40348996,open field test,Experiment_indicator
+40348996,corticosterone,Neurotransmitter
+40348996,glutamate,Neurotransmitter
+40348996,rats,Species
+40348996,rat,Species
+38217462,depression,Disease
+38217462,metabolomics,Evidence
+38217462,16s rrna sequencing,Evidence
+38217462,rat,Species
+38217462,rats,Species
+35589704,anxiety,Adverse_event
+35589704,hippocampus,Brain_region
+35589704,depression,Disease
+35589704,anxiety,Disease
+35589704,bdnf,Gene
+35589704,sert,Gene
+35589704,serotonin,Neurotransmitter
+35589704,da,Neurotransmitter
+35589704,bdnf,Neurotransmitter
+35589704,escitalopram,Pharmacology
+35589704,human,Species
+35589704,mice,Species
+35589704,xenopus,Species
+35589704,anxiety,Symptom
+35589704,bdnf,Target
+39701046,anxiety,Adverse_event
+39701046,hippocampus,Brain_region
+39701046,anxiety,Disease
+39701046,depression,Disease
+39701046,elisa,Evidence
+39701046,molecular docking,Evidence
+39701046,open field test,Experiment_indicator
+39701046,tail suspension test,Experiment_indicator
+39701046,baicalein,Ingredient
+39701046,wogonin,Ingredient
+39701046,wogonoside,Ingredient
+39701046,baicalin,Ingredient
+39701046,glutamate,Neurotransmitter
+39701046,crh,Neurotransmitter
+39701046,acth,Neurotransmitter
+39701046,mouse,Species
+39701046,mice,Species
+39701046,anxiety,Symptom
+36574791,depression,Disease
+36574791,metabolomics,Evidence
+36574791,molecular docking,Evidence
+36574791,rats,Species
+34900345,hippocampus,Brain_region
+34900345,il-6,Cytokine
+34900345,tnf-α,Cytokine
+34900345,il-10,Cytokine
+34900345,depression,Disease
+34900345,bdnf,Gene
+34900345,trkb,Gene
+34900345,creb,Gene
+34900345,tnf,Gene
+34900345,cryptotanshinone,Ingredient
+34900345,bdnf,Neurotransmitter
+34900345,mice,Species
+34900345,microglia,Species
+34900345,bdnf,Target
+34900345,trkb,Target
+34900345,creb,Target
+34900345,il-6,Target
+40077679,anxiety,Adverse_event
+40077679,anxiety,Disease
+40077679,depression,Disease
+40077679,placebo-controlled trial,Evidence
+40077679,patient,Species
+40077679,anxiety,Symptom
+39971013,anxiety,Adverse_event
+39971013,hypothalamus,Brain_region
+39971013,depression,Disease
+39971013,anxiety,Disease
+39971013,network pharmacology,Evidence
+39971013,molecular docking,Evidence
+39971013,qrt-pcr,Evidence
+39971013,erk1,Gene
+39971013,paeoniflorin,Ingredient
+39971013,norepinephrine,Neurotransmitter
+39971013,ne,Neurotransmitter
+39971013,mice,Species
+39971013,anxiety,Symptom
+39971013,fos,Target
+39971013,erk1/2,Target
+41139445,decoction,Administration
+41139445,intraperitoneal injection,Administration
+41139445,anxiety,Adverse_event
+41139445,il-1β,Cytokine
+41139445,il-6,Cytokine
+41139445,anxiety,Disease
+41139445,depression,Disease
+41139445,literature review,Evidence
+41139445,network pharmacology,Evidence
+41139445,immunofluorescence,Evidence
+41139445,sucrose preference,Experiment_indicator
+41139445,forced swim test,Experiment_indicator
+41139445,open field test,Experiment_indicator
+41139445,elevated plus maze,Experiment_indicator
+41139445,quercetin,Ingredient
+41139445,formononetin,Ingredient
+41139445,nobiletin,Ingredient
+41139445,baicalein,Ingredient
+41139445,fluoxetine,Pharmacology
+41139445,mice,Species
+41139445,mouse,Species
+41139445,microglia,Species
+41139445,anxiety,Symptom
+41139445,jak2,Target
+41139445,stat3,Target
+41139445,il-1β,Target
+41139445,il-6,Target
+34049474,intraperitoneal injection,Administration
+34049474,depression,Disease
+34049474,sucrose preference,Experiment_indicator
+34049474,elevated plus maze,Experiment_indicator
+34049474,bdnf,Gene
+34049474,berberine,Ingredient
+34049474,ginsenoside rb1,Ingredient
+34049474,cortisol,Neurotransmitter
+34049474,adrenocorticotropic hormone,Neurotransmitter
+34049474,bdnf,Neurotransmitter
+34049474,fluoxetine,Pharmacology
+34049474,rats,Species
+34049474,rat,Species
+34049474,bdnf,Target
+35924058,depression,Disease
+35143936,depression,Disease
+35143936,systematic review,Evidence
+35143936,meta-analysis,Evidence
+35143936,paeoniflorin,Ingredient
+41033421,decoction,Administration
+41033421,depression,Disease
+41033421,immunofluorescence,Evidence
+41033421,network pharmacology,Evidence
+41033421,epinephrine,Neurotransmitter
+41033421,camp signaling pathway,Pathway
+41033421,human,Species
+41033421,mouse,Species
+41033421,mice,Species
+41033421,creb1,Target
+40657643,depression,Disease
+40657643,salvianolic acid b,Ingredient
+32810624,depression,Disease
+32810624,network pharmacology,Evidence
+32810624,metabolomics,Evidence
+32810624,elisa,Evidence
+32810624,sucrose preference,Experiment_indicator
+32810624,forced swim test,Experiment_indicator
+32810624,ptgs2,Gene
+32810624,mapk signaling pathway,Pathway
+32810624,rat,Species
+22450800,anxiety,Adverse_event
+22450800,hypothalamus,Brain_region
+22450800,locus coeruleus,Brain_region
+22450800,depression,Disease
+22450800,anxiety,Disease
+22450800,elevated plus maze,Experiment_indicator
+22450800,corticosterone,Neurotransmitter
+22450800,rats,Species
+22450800,rat,Species
+22450800,anxiety,Symptom
+24974002,decoction,Administration
+24974002,depression,Disease
+24974002,major depressive disorder,Disease
+24974002,systematic review,Evidence
+24974002,meta-analysis,Evidence
+41115486,depression,Disease
+41115486,elisa,Evidence
+41115486,multi-omics,Evidence
+41115486,transcriptomics,Evidence
+41115486,metabolomics,Evidence
+41115486,dopamine,Neurotransmitter
+41115486,da,Neurotransmitter
+41115486,zebrafish,Species
+41115486,opening orifices,Tcm_therapy
+33069838,insomnia,Adverse_event
+33069838,palpitation,Adverse_event
+33069838,depression,Disease
+33069838,insomnia,Symptom
+33069838,palpitation,Symptom
+37315645,oral administration,Administration
+37315645,depression,Disease
+37315645,major depressive disorder,Disease
+37315645,pilot study,Evidence
+37315645,molecular docking,Evidence
+37315645,western blot,Evidence
+37315645,paeoniflorin,Ingredient
+37315645,serotonin,Neurotransmitter
+37315645,mice,Species
+37315645,hepg2 cell,Species
+37315645,human,Species
+37315645,mouse,Species
+37745719,capsule,Administration
+37745719,depression,Disease
+37745719,network pharmacology,Evidence
+37745719,molecular docking,Evidence
+37745719,il6,Gene
+37745719,akt1,Gene
+37745719,tp53,Gene
+37745719,quercetin,Ingredient
+37745719,beta-sitosterol,Ingredient
+37745719,kaempferol,Ingredient
+37745719,rage signaling pathway,Pathway
+37745719,jun,Target
+37745719,akt1,Target
+37745719,tp53,Target
+37745719,stat3,Target
+25719303,depression,Disease
+25719303,liquiritin,Ingredient
+25719303,curcumin,Ingredient
+25719303,serotonin,Neurotransmitter
+25719303,dopamine,Neurotransmitter
+37258428,prefrontal cortex,Brain_region
+37258428,hippocampus,Brain_region
+37258428,protocol,Evidence
+37258428,body weight change,Experiment_indicator
+37258428,sucrose preference,Experiment_indicator
+37258428,tlr4,Gene
+37258428,fluoxetine,Pharmacology
+37258428,rats,Species
+37258428,tlr4,Target
+41218379,hippocampus,Brain_region
+41218379,adolescent depression,Disease
+41218379,depression,Disease
+41218379,molecular docking,Evidence
+41218379,surface plasmon resonance,Evidence
+41218379,z-ligustilide,Ingredient
+41218379,microglia,Species
+41218379,rat,Species
+41218379,rats,Species
+38479544,il-6,Cytokine
+38479544,il-10,Cytokine
+38479544,depression,Disease
+38479544,network pharmacology,Evidence
+38479544,akt1,Gene
+38479544,ne,Neurotransmitter
+38479544,mice,Species
+38479544,stat3,Target
+38479544,pik3r1,Target
+38479544,pik3ca,Target
+38479544,akt1,Target
+38479544,il-6,Target
+38479544,jak2,Target
+41237868,decoction,Administration
+41237868,dizziness,Adverse_event
+41237868,anxiety,Adverse_event
+41237868,insomnia,Adverse_event
+41237868,il-1β,Cytokine
+41237868,il-6,Cytokine
+41237868,anxiety,Disease
+41237868,depression,Disease
+41237868,elisa,Evidence
+41237868,immunofluorescence,Evidence
+41237868,metabolomics,Evidence
+41237868,acth,Neurotransmitter
+41237868,paroxetine,Pharmacology
+41237868,rats,Species
+41237868,rat,Species
+41237868,dizziness,Symptom
+41237868,anxiety,Symptom
+41237868,insomnia,Symptom
+41237868,il-1β,Target
+41237868,il-6,Target
+35098831,anxiety,Adverse_event
+35098831,il-17,Cytokine
+35098831,comorbid anxiety and depression,Disease
+35098831,anxiety,Disease
+35098831,depression,Disease
+35098831,network pharmacology,Evidence
+35098831,akt1,Gene
+35098831,il6,Gene
+35098831,tnf,Gene
+35098831,ptgs2,Gene
+35098831,anxiety,Symptom
+35098831,akt1,Target
+35098831,jun,Target
+35098831,casp3,Target
+35098831,mapk8,Target
+35098831,nos3,Target
+37925093,depression,Disease
+37925093,network pharmacology,Evidence
+37925093,liquiritin,Ingredient
+37925093,glycyrrhizic acid,Ingredient
+37925093,glycyrrhetinic acid,Ingredient
+37925093,quercetin,Ingredient
+41213440,tnf-α,Cytokine
+41213440,depression,Disease
+41213440,network pharmacology,Evidence
+41213440,elisa,Evidence
+41213440,molecular docking,Evidence
+41213440,creb,Gene
+41213440,tnf,Gene
+41213440,saikosaponin a,Ingredient
+41213440,quercetin,Ingredient
+41213440,rutin,Ingredient
+41213440,saikosaponin c,Ingredient
+41213440,saikosaponin d,Ingredient
+41213440,rats,Species
+41213440,rat,Species
+41213440,liver qi stagnation,Syndrome
+41213440,creb,Target
+41213440,relieving depression,Tcm_therapy
+40907728,depression,Disease
+40907728,network pharmacology,Evidence
+40907728,molecular docking,Evidence
+40907728,surface plasmon resonance,Evidence
+40907728,drd1,Gene
+40907728,drd2,Gene
+40907728,5-ht,Neurotransmitter
+40907728,dopamine,Neurotransmitter
+40907728,corticosterone,Neurotransmitter
+40907728,fluoxetine,Pharmacology
+40907728,pc12 cell,Species
+40907728,drd2,Target
+40290440,depression,Disease
+40290440,qrt-pcr,Evidence
+40290440,immunofluorescence,Evidence
+40290440,sucrose preference,Experiment_indicator
+40290440,tail suspension test,Experiment_indicator
+40290440,locomotor activity,Experiment_indicator
+40290440,food intake,Experiment_indicator
+40290440,baicalin,Ingredient
+40290440,corticosterone,Neurotransmitter
+40290440,fluoxetine,Pharmacology
+40290440,mice,Species
+36676679,powder,Administration
+36676679,post-stroke depression,Disease
+36676679,serotonin,Neurotransmitter
+36676679,norepinephrine,Neurotransmitter
+36873540,depression,Disease
+36873540,proteomics,Evidence
+36873540,open field test,Experiment_indicator
+36873540,rats,Species
+38113631,hippocampus,Brain_region
+38113631,depression,Disease
+38113631,immunofluorescence,Evidence
+38113631,western blot,Evidence
+38113631,elisa,Evidence
+38113631,creb,Gene
+38113631,bdnf,Gene
+38113631,berberine,Ingredient
+38113631,bdnf,Neurotransmitter
+38113631,corticosterone,Neurotransmitter
+38113631,mice,Species
+38113631,mouse,Species
+38113631,creb,Target
+38113631,bdnf,Target
+37948105,hippocampus,Brain_region
+37948105,depression,Disease
+37948105,immunofluorescence,Evidence
+37948105,qrt-pcr,Evidence
+37948105,open field test,Experiment_indicator
+37948105,sucrose preference,Experiment_indicator
+37948105,bdnf,Gene
+37948105,trkb,Gene
+37948105,creb,Gene
+37948105,electroacupuncture,Intervention
+37948105,bdnf,Neurotransmitter
+37948105,5-ht,Neurotransmitter
+37948105,gaba,Neurotransmitter
+37948105,duloxetine,Pharmacology
+37948105,rats,Species
+37948105,hippocampal neuron,Species
+37948105,bdnf,Target
+37948105,trkb,Target
+37948105,creb,Target
+38851983,injection,Administration
+38851983,prefrontal cortex,Brain_region
+38851983,depression,Disease
+38851983,chromatin immunoprecipitation,Evidence
+38851983,immunofluorescence,Evidence
+38851983,bdnf,Gene
+38851983,creb,Gene
+38851983,trkb,Gene
+38851983,glycyrrhetinic acid,Ingredient
+38851983,bdnf,Neurotransmitter
+38851983,mice,Species
+38851983,bdnf,Target
+38851983,jun,Target
+38851983,creb,Target
+38851983,trkb,Target
+40403895,decoction,Administration
+40403895,tnf-α,Cytokine
+40403895,il-6,Cytokine
+40403895,depression,Disease
+40403895,network pharmacology,Evidence
+40403895,elisa,Evidence
+40403895,western blot,Evidence
+40403895,sucrose preference,Experiment_indicator
+40403895,tail suspension test,Experiment_indicator
+40403895,mtor,Gene
+40403895,akt1,Gene
+40403895,tnf,Gene
+40403895,5-ht,Neurotransmitter
+40403895,mtor signaling pathway,Pathway
+40403895,mice,Species
+40403895,mouse,Species
+40403895,mtor,Target
+40403895,akt1,Target
+40403895,il-6,Target
+40906192,depression,Disease
+40906192,major depressive disorder,Disease
+40906192,sert,Gene
+40906192,quercetin,Ingredient
+40906192,serotonin,Neurotransmitter
+38850305,anxiety,Adverse_event
+38850305,addiction,Adverse_event
+38850305,insomnia,Adverse_event
+38850305,il-6,Cytokine
+38850305,il-1β,Cytokine
+38850305,tnf-α,Cytokine
+38850305,anxiety,Disease
+38850305,depression,Disease
+38850305,bdnf,Gene
+38850305,tnf,Gene
+38850305,bdnf,Neurotransmitter
+38850305,vegf,Neurotransmitter
+38850305,anxiety,Symptom
+38850305,insomnia,Symptom
+38850305,sod1,Target
+38850305,nqo1,Target
+38850305,bdnf,Target
+38850305,il-6,Target
+38850305,il-1β,Target
+38850305,sirt1,Target
+32754030,intraperitoneal injection,Administration
+32754030,hippocampus,Brain_region
+32754030,il-6,Cytokine
+32754030,tnf-α,Cytokine
+32754030,il-1β,Cytokine
+32754030,depression,Disease
+32754030,tail suspension test,Experiment_indicator
+32754030,open field test,Experiment_indicator
+32754030,bdnf,Gene
+32754030,creb,Gene
+32754030,tnf,Gene
+32754030,corticosterone,Neurotransmitter
+32754030,serotonin,Neurotransmitter
+32754030,bdnf,Neurotransmitter
+32754030,fluoxetine,Pharmacology
+32754030,microglia,Species
+32754030,mice,Species
+32754030,bdnf,Target
+32754030,creb,Target
+32754030,il-6,Target
+32754030,il-1β,Target
+40506009,depression,Disease
+40506009,creb,Gene
+40506009,mtor,Gene
+40506009,acupuncture,Intervention
+40506009,creb,Target
+40506009,mtor,Target
+34979889,anxiety,Adverse_event
+34979889,diarrhea,Adverse_event
+34979889,constipation,Adverse_event
+34979889,weight loss,Adverse_event
+34979889,depressive disorder,Disease
+34979889,depression,Disease
+34979889,anxiety,Disease
+34979889,bdnf,Gene
+34979889,bdnf,Neurotransmitter
+34979889,serotonin,Neurotransmitter
+34979889,5-ht,Neurotransmitter
+34979889,dopamine,Neurotransmitter
+34979889,anxiety,Symptom
+34979889,diarrhea,Symptom
+34979889,constipation,Symptom
+34979889,weight loss,Symptom
+34979889,bdnf,Target
+37944872,hippocampus,Brain_region
+37944872,depression,Disease
+37944872,sucrose preference,Experiment_indicator
+37944872,bdnf,Gene
+37944872,trkb,Gene
+37944872,creb,Gene
+37944872,bdnf,Neurotransmitter
+37944872,pc12 cell,Species
+37944872,rat,Species
+37944872,rats,Species
+37944872,bdnf,Target
+37944872,trkb,Target
+37944872,creb,Target
+37612866,anxiety,Adverse_event
+37612866,hippocampus,Brain_region
+37612866,il-1β,Cytokine
+37612866,tnf-α,Cytokine
+37612866,depression,Disease
+37612866,anxiety,Disease
+37612866,systematic review,Evidence
+37612866,protocol,Evidence
+37612866,bdnf,Gene
+37612866,tnf,Gene
+37612866,bdnf,Neurotransmitter
+37612866,serotonin,Neurotransmitter
+37612866,5-ht,Neurotransmitter
+37612866,dopamine,Neurotransmitter
+37612866,da,Neurotransmitter
+37612866,norepinephrine,Neurotransmitter
+37612866,ne,Neurotransmitter
+37612866,isi,Scale
+37612866,anxiety,Symptom
+37612866,bdnf,Target
+37612866,cat,Target
+37612866,il-1β,Target
+41242308,weight loss,Adverse_event
+41242308,anxiety,Adverse_event
+41242308,depression,Disease
+41242308,major depressive disorder,Disease
+41242308,anxiety,Disease
+41242308,elisa,Evidence
+41242308,western blot,Evidence
+41242308,immunofluorescence,Evidence
+41242308,metabolomics,Evidence
+41242308,sucrose preference,Experiment_indicator
+41242308,elevated plus maze,Experiment_indicator
+41242308,shenling kaixin granules,Formula
+41242308,creb,Gene
+41242308,bdnf,Gene
+41242308,tlr4,Gene
+41242308,corticosterone,Neurotransmitter
+41242308,bdnf,Neurotransmitter
+41242308,mice,Species
+41242308,mouse,Species
+41242308,weight loss,Symptom
+41242308,anhedonia,Symptom
+41242308,anxiety,Symptom
+41242308,creb,Target
+41242308,bdnf,Target
+41242308,tlr4,Target
+39408591,depression,Disease
+39408591,network pharmacology,Evidence
+39408591,molecular docking,Evidence
+39408591,akt1,Gene
+39408591,il6,Gene
+39408591,tp53,Gene
+39408591,il1b,Gene
+39408591,baicalin,Ingredient
+39408591,mice,Species
+39408591,akt1,Target
+39408591,tp53,Target
+39408591,casp3,Target
+38457106,hypothalamus,Brain_region
+38457106,depression,Disease
+38457106,mood disorder,Disease
+38457106,serotonin,Neurotransmitter
+38457106,corticosterone,Neurotransmitter
+38457106,mice,Species
+38457106,microglia,Species
+38457106,sadness,Symptom
+40881230,hippocampus,Brain_region
+40881230,major depressive disorder,Disease
+40881230,depression,Disease
+40881230,16s rrna sequencing,Evidence
+40881230,paeoniflorin,Ingredient
+40881230,cortisol,Neurotransmitter
+40881230,rats,Species
+40881230,anhedonia,Symptom
+40769438,decoction,Administration
+40769438,fatigue,Adverse_event
+40769438,hippocampus,Brain_region
+40769438,il-1β,Cytokine
+40769438,tnf-α,Cytokine
+40769438,depression,Disease
+40769438,major depressive disorder,Disease
+40769438,grip strength test,Experiment_indicator
+40769438,sucrose preference,Experiment_indicator
+40769438,tail suspension test,Experiment_indicator
+40769438,tnf,Gene
+40769438,fluoxetine,Pharmacology
+40769438,mouse,Species
+40769438,mice,Species
+40769438,fatigue,Symptom
+40769438,qi deficiency,Syndrome
+40769438,il-1β,Target
+36604883,hippocampus,Brain_region
+36604883,depression,Disease
+36604883,wuling capsules,Formula
+36604883,salvianolic acid b,Ingredient
+36604883,dopamine,Neurotransmitter
+36604883,rats,Species
+36604883,rat,Species
+36604883,liver qi stagnation,Syndrome
+36604883,spleen deficiency,Syndrome
+36604883,blood stasis,Syndrome
+33120798,cancer-related depression,Disease
+33120798,mood disorder,Disease
+33120798,depression,Disease
+33120798,protocol,Evidence
+33120798,systematic review,Evidence
+33120798,meta-analysis,Evidence
+33120798,patient,Species
+33120798,qi stagnation,Syndrome
+33120798,soothing liver,Tcm_therapy
+40134975,depressive disorder,Disease
+40134975,depression,Disease
+40134975,cohort study,Evidence
+40134975,serotonin,Neurotransmitter
+40134975,hamd,Scale
+40134975,liver qi stagnation,Syndrome
+40134975,qi stagnation,Syndrome
+25821499,depression,Disease
+25821499,yin deficiency,Syndrome
+39367470,depression,Disease
+39367470,adolescent depression,Disease
+39367470,acupuncture,Intervention
+40945253,hippocampus,Brain_region
+40945253,prefrontal cortex,Brain_region
+40945253,adolescent depression,Disease
+40945253,depression,Disease
+40945253,elisa,Evidence
+40945253,immunofluorescence,Evidence
+40945253,network pharmacology,Evidence
+40945253,molecular docking,Evidence
+40945253,cetsa,Evidence
+40945253,western blot,Evidence
+40945253,forced swim test,Experiment_indicator
+40945253,tail suspension test,Experiment_indicator
+40945253,sucrose preference,Experiment_indicator
+40945253,tlr4,Gene
+40945253,nf-κb signaling pathway,Pathway
+40945253,fluoxetine,Pharmacology
+40945253,mice,Species
+40945253,pde4b,Target
+40945253,tlr4,Target
+40727849,adolescent depression,Disease
+40727849,depression,Disease
+40727849,protocol,Evidence
+40727849,randomized controlled trial,Evidence
+40727849,acupuncture,Intervention
+40727849,cdrs-r,Scale
+40727849,hamd-17,Scale
+40727849,hamd,Scale
+40727849,psqi,Scale
+40727849,c-ssrs,Scale
+31259837,postpartum depression,Disease
+31259837,depression,Disease
+31259837,systematic review,Evidence
+31259837,meta-analysis,Evidence
+31259837,acupuncture,Intervention
+29907576,postpartum depression,Disease
+29907576,depression,Disease
+29907576,systematic review,Evidence
+29907576,meta-analysis,Evidence
+29907576,protocol,Evidence
+29907576,acupuncture,Intervention
+29907576,hamd,Scale
+29907576,epds,Scale
+41376232,insomnia,Adverse_event
+41376232,postpartum depression,Disease
+41376232,depression,Disease
+41376232,acupuncture,Intervention
+41376232,insomnia,Symptom
+36867647,postpartum depression,Disease
+36867647,qualitative study,Evidence
+36867647,acupuncture,Intervention
+36867647,patient,Species
+39247617,anxiety,Adverse_event
+39247617,hippocampus,Brain_region
+39247617,il-17,Cytokine
+39247617,depression,Disease
+39247617,anxiety,Disease
+39247617,adolescent depression,Disease
+39247617,network pharmacology,Evidence
+39247617,molecular docking,Evidence
+39247617,il6,Gene
+39247617,tnf,Gene
+39247617,akt1,Gene
+39247617,tp53,Gene
+39247617,il1b,Gene
+39247617,vegfa,Gene
+39247617,ptgs2,Gene
+39247617,quercetin,Ingredient
+39247617,luteolin,Ingredient
+39247617,kaempferol,Ingredient
+39247617,formononetin,Ingredient
+39247617,nobiletin,Ingredient
+39247617,rage signaling pathway,Pathway
+39247617,hif-1 signaling pathway,Pathway
+39247617,pi3k-akt signaling pathway,Pathway
+39247617,tnf signaling pathway,Pathway
+39247617,rats,Species
+39247617,anxiety,Symptom
+39247617,stat3,Target
+39247617,akt1,Target
+39247617,tp53,Target
+39247617,mapk3,Target
+39247617,vegfa,Target
+39247617,casp3,Target
+37015141,late-life depression,Disease
+37015141,systematic review,Evidence
+37015141,meta-analysis,Evidence
+37015141,acupuncture,Intervention
+37015141,hamd,Scale
+35960108,postpartum depression,Disease
+35960108,protocol,Evidence
+35960108,acupuncture,Intervention
+27774110,postpartum depression,Disease
+27774110,systematic review,Evidence
+27774110,hamd,Scale
+27774110,epds,Scale
+27774110,tess,Scale
+41074408,adolescent depression,Disease
+41074408,depression,Disease
+41074408,clinical trial,Evidence
+41074408,fmri,Evidence
+41074408,acupuncture,Intervention
+41074408,manual acupuncture,Intervention
+41074408,5-ht,Neurotransmitter
+41074408,dopamine,Neurotransmitter
+41074408,hamd-24,Scale
+31016194,postpartum depression,Disease
+31016194,systematic review,Evidence
+31016194,meta-analysis,Evidence
+31016194,acupuncture,Intervention
+31016194,hamd,Scale
+31016194,epds,Scale
+35910879,postpartum depression,Disease
+35910879,acupuncture,Intervention
+37068818,anxiety,Adverse_event
+37068818,treatment-resistant depression,Disease
+37068818,depression,Disease
+37068818,anxiety,Disease
+37068818,randomized controlled trial,Evidence
+37068818,acupuncture,Intervention
+37068818,hamd-24,Scale
+37068818,hama,Scale
+37068818,anxiety,Symptom
+37068818,relieving depression,Tcm_therapy
+37266323,amygdala,Brain_region
+37266323,postpartum depression,Disease
+37266323,depression,Disease
+37266323,fmri,Evidence
+37266323,acupuncture,Intervention
+37266323,hamd,Scale
+37266323,epds,Scale
+40753796,depression,Disease
+40753796,treatment-resistant depression,Disease
+40753796,acupressure,Intervention
+40753796,psychotherapy,Intervention
+40753796,patient,Species
+35926637,postpartum depression,Disease
+35926637,depression,Disease
+35926637,systematic review,Evidence
+35926637,paroxetine,Pharmacology
+35926637,hamd,Scale
+35926637,epds,Scale
+29454341,oral administration,Administration
+29454341,depression,Disease
+29454341,post-stroke depression,Disease
+29454341,postpartum depression,Disease
+29454341,systematic review,Evidence
+29454341,meta-analysis,Evidence
+29454341,fluoxetine,Pharmacology
+40469980,anxiety,Adverse_event
+40469980,adolescent depression,Disease
+40469980,depression,Disease
+40469980,anxiety,Disease
+40469980,sinisan,Formula
+40469980,chinese herbal formula,Intervention
+40469980,rats,Species
+40469980,anxiety,Symptom
+40778325,adolescent depression,Disease
+40778325,depression,Disease
+40778325,protocol,Evidence
+40778325,systematic review,Evidence
+40778325,bayesian network meta-analysis,Evidence
+40778325,network meta-analysis,Evidence
+40778325,acupuncture,Intervention
+39323936,anxiety,Adverse_event
+39323936,postpartum depression,Disease
+39323936,depression,Disease
+39323936,anxiety,Disease
+39323936,systematic review,Evidence
+39323936,network meta-analysis,Evidence
+39323936,acupuncture,Intervention
+39323936,psychotherapy,Intervention
+39323936,cognitive behavioral therapy,Intervention
+39323936,anxiety,Symptom
+15010661,postpartum depression,Disease
+15010661,aromatherapy,Intervention
+15010661,acupuncture,Intervention
+29540339,postpartum depression,Disease
+29540339,depression,Disease
+29540339,case series,Evidence
+29540339,acupuncture,Intervention
+29540339,hamd,Scale
+29540339,patient,Species
+38449668,hippocampus,Brain_region
+38449668,postpartum depression,Disease
+38449668,depression,Disease
+38449668,dopamine,Neurotransmitter
+38449668,norepinephrine,Neurotransmitter
+38449668,adrenocorticotropic hormone,Neurotransmitter
+38449668,corticosterone,Neurotransmitter
+38449668,fluoxetine,Pharmacology
+38449668,rat,Species
+38449668,rats,Species
+38915473,decoction,Administration
+38915473,depression,Disease
+38915473,erxian decoction,Formula
+40195969,powder,Administration
+40195969,pill,Administration
+40195969,postpartum depression,Disease
+40195969,depression,Disease
+40195969,meta-analysis,Evidence
+40195969,chinese herbal formula,Intervention
+39319351,capsule,Administration
+39319351,depression,Disease
+39319351,postpartum depression,Disease
+39319351,randomized controlled trial,Evidence
+32765632,postpartum depression,Disease
+32765632,cross-sectional study,Evidence
+34369698,postpartum depression,Disease
+34369698,depression,Disease
+34369698,acupuncture,Intervention
+34369698,psychotherapy,Intervention
+34369698,hamd,Scale
+38726147,hippocampus,Brain_region
+38726147,tnf-α,Cytokine
+38726147,il-6,Cytokine
+38726147,il-1β,Cytokine
+38726147,postpartum depression,Disease
+38726147,sucrose preference,Experiment_indicator
+38726147,shenqi jieyu formula,Formula
+38726147,tnf,Gene
+38726147,5-ht,Neurotransmitter
+38726147,paroxetine,Pharmacology
+38726147,rats,Species
+38726147,rat,Species
+38726147,cox-2,Target
+38726147,il-6,Target
+38726147,il-1β,Target
+36951085,gv20,Acupoint
+36951085,sp6,Acupoint
+36951085,lr3,Acupoint
+36951085,pc6,Acupoint
+36951085,st36,Acupoint
+36951085,ht7,Acupoint
+36951085,bl15,Acupoint
+36951085,bl18,Acupoint
+36951085,bl20,Acupoint
+36951085,cv4,Acupoint
+36951085,li4,Acupoint
+36951085,cv6,Acupoint
+36951085,ex-hn1,Acupoint
+36951085,acupoint injection,Administration
+36951085,postpartum depression,Disease
+36951085,depression,Disease
+36951085,data mining,Evidence
+36951085,acupuncture,Intervention
+36951085,moxibustion,Intervention
+36951085,electroacupuncture,Intervention
+36951085,acupoint application,Intervention
+36951085,acupoint injection,Intervention
+36951085,regulating qi,Tcm_therapy
+35089211,anxiety,Adverse_event
+35089211,postpartum depression,Disease
+35089211,anxiety,Disease
+35089211,depression,Disease
+35089211,protocol,Evidence
+35089211,systematic review,Evidence
+35089211,meta-analysis,Evidence
+35089211,acupuncture,Intervention
+35089211,patient,Species
+35089211,anxiety,Symptom
+41409594,postpartum depression,Disease
+41409594,patient,Species
+38026979,anxiety,Adverse_event
+38026979,nucleus accumbens,Brain_region
+38026979,depression,Disease
+38026979,adolescent depression,Disease
+38026979,anxiety,Disease
+38026979,western blot,Evidence
+38026979,sucrose preference,Experiment_indicator
+38026979,tail suspension test,Experiment_indicator
+38026979,open field test,Experiment_indicator
+38026979,elevated plus maze,Experiment_indicator
+38026979,mice,Species
+38026979,anxiety,Symptom
+38026979,rac1,Target
+36316904,decoction,Administration
+36316904,postpartum depression,Disease
+36316904,network pharmacology,Evidence
+36316904,molecular docking,Evidence
+36316904,data mining,Evidence
+36316904,baihe zhimu decoction,Formula
+36316904,maoa,Gene
+36316904,vegfa,Gene
+36316904,mtor,Gene
+36316904,esr1,Target
+36316904,maoa,Target
+36316904,nr3c1,Target
+36316904,vegfa,Target
+36316904,mtor,Target
+35244051,postpartum depression,Disease
+35244051,protocol,Evidence
+35244051,systematic review,Evidence
+35244051,network meta-analysis,Evidence
+35244051,bayesian network meta-analysis,Evidence
+35244051,meta-analysis,Evidence
+34490139,syrup,Administration
+34490139,hippocampus,Brain_region
+34490139,postpartum depression,Disease
+34490139,919 syrup,Formula
+34490139,gaba,Neurotransmitter
+34490139,glutamate,Neurotransmitter
+34490139,mice,Species
+36126781,inhalation,Administration
+36126781,anxiety,Adverse_event
+36126781,hippocampus,Brain_region
+36126781,depression,Disease
+36126781,anxiety,Disease
+36126781,network pharmacology,Evidence
+36126781,western blot,Evidence
+36126781,open field test,Experiment_indicator
+36126781,sucrose preference,Experiment_indicator
+36126781,tail suspension test,Experiment_indicator
+36126781,bdnf,Gene
+36126781,erk1,Gene
+36126781,bdnf,Neurotransmitter
+36126781,dopamine,Neurotransmitter
+36126781,da,Neurotransmitter
+36126781,serotonin,Neurotransmitter
+36126781,5-ht,Neurotransmitter
+36126781,gaba,Neurotransmitter
+36126781,calcium signaling pathway,Pathway
+36126781,camp signaling pathway,Pathway
+36126781,fluoxetine,Pharmacology
+36126781,mice,Species
+36126781,anxiety,Symptom
+36126781,creb1,Target
+36126781,bdnf,Target
+36126781,raf1,Target
+36126781,erk1/2,Target
+39241390,Glycyrrhizae radix,Herb
+39241390,Astragali radix,Herb
+39241390,anxiety,Adverse_event
+39241390,hippocampus,Brain_region
+39241390,depression,Disease
+39241390,anxiety,Disease
+39241390,network pharmacology,Evidence
+39241390,molecular docking,Evidence
+39241390,slc6a4,Gene
+39241390,slc6a3,Gene
+39241390,drd1,Gene
+39241390,drd2,Gene
+39241390,5-ht,Neurotransmitter
+39241390,gaba,Neurotransmitter
+39241390,dopamine,Neurotransmitter
+39241390,da,Neurotransmitter
+39241390,pc12 cell,Species
+39241390,mice,Species
+39241390,mouse,Species
+39241390,anxiety,Symptom
+39241390,slc6a3,Target
+39241390,htr1a,Target
+39241390,drd2,Target
+39241390,gabra1,Target
+38296172,depressive disorder,Disease
+38296172,depression,Disease
+38296172,molecular docking,Evidence
+38296172,creb,Gene
+38296172,berberine,Ingredient
+38296172,corticosterone,Neurotransmitter
+38296172,mice,Species
+38296172,mouse,Species
+38296172,microglia,Species
+38296172,hippocampal neuron,Species
+38296172,creb,Target
+34627986,anxiety,Adverse_event
+34627986,insomnia,Adverse_event
+34627986,il-6,Cytokine
+34627986,il-1β,Cytokine
+34627986,depression,Disease
+34627986,anxiety,Disease
+34627986,elisa,Evidence
+34627986,transcriptomics,Evidence
+34627986,molecular docking,Evidence
+34627986,elevated plus maze,Experiment_indicator
+34627986,forced swim test,Experiment_indicator
+34627986,corticosterone,Neurotransmitter
+34627986,mice,Species
+34627986,microglia,Species
+34627986,mouse,Species
+34627986,anxiety,Symptom
+34627986,insomnia,Symptom
+34627986,il-6,Target
+34627986,il-1β,Target
+38490155,anxiety,Adverse_event
+38490155,hippocampus,Brain_region
+38490155,depression,Disease
+38490155,anxiety,Disease
+38490155,network pharmacology,Evidence
+38490155,cynaroside,Ingredient
+38490155,fluoxetine,Pharmacology
+38490155,mice,Species
+38490155,anxiety,Symptom
+38490155,anhedonia,Symptom
+38490155,gpx4,Target
+39385284,major depressive disorder,Disease
+39385284,machine learning,Evidence
+39385284,molecular docking,Evidence
+39385284,akt1,Gene
+39385284,mapk1,Gene
+39385284,quercetin,Ingredient
+39385284,kaempferol,Ingredient
+39385284,luteolin,Ingredient
+39385284,akt1,Target
+39385284,mapk1,Target
+39385284,myc,Target
+39385284,egf,Target
+39385284,hsp90aa1,Target
+38815404,ifn-γ,Cytokine
+38815404,il-10,Cytokine
+38815404,cancer-related depression,Disease
+38815404,network pharmacology,Evidence
+38815404,molecular docking,Evidence
+38815404,sucrose preference,Experiment_indicator
+38815404,ptgs2,Gene
+38815404,quercetin,Ingredient
+38815404,corticosterone,Neurotransmitter
+38815404,serotonin,Neurotransmitter
+38815404,5-ht,Neurotransmitter
+38815404,dopamine,Neurotransmitter
+38815404,da,Neurotransmitter
+38815404,ne,Neurotransmitter
+38815404,mice,Species
+40547671,weight loss,Adverse_event
+40547671,tnf-α,Cytokine
+40547671,il-17,Cytokine
+40547671,il-22,Cytokine
+40547671,il-10,Cytokine
+40547671,il-1β,Cytokine
+40547671,depression,Disease
+40547671,multi-omics,Evidence
+40547671,network pharmacology,Evidence
+40547671,transcriptomics,Evidence
+40547671,proteomics,Evidence
+40547671,molecular docking,Evidence
+40547671,molecular dynamics simulation,Evidence
+40547671,western blot,Evidence
+40547671,flow cytometry,Evidence
+40547671,elisa,Evidence
+40547671,sucrose preference,Experiment_indicator
+40547671,open field test,Experiment_indicator
+40547671,forced swim test,Experiment_indicator
+40547671,mtor,Gene
+40547671,tnf,Gene
+40547671,mtor signaling pathway,Pathway
+40547671,rats,Species
+40547671,rat,Species
+40547671,weight loss,Symptom
+40547671,mtor,Target
+40547671,il-1β,Target
+39467428,hippocampus,Brain_region
+39467428,il-6,Cytokine
+39467428,depression,Disease
+39467428,molecular docking,Evidence
+39467428,surface plasmon resonance,Evidence
+39467428,qrt-pcr,Evidence
+39467428,co-immunoprecipitation,Evidence
+39467428,rutin,Ingredient
+39467428,mice,Species
+39467428,ppar-γ,Target
+39467428,il-6,Target
+40550295,il-23,Cytokine
+40550295,il-10,Cytokine
+40550295,tnf-α,Cytokine
+40550295,depression,Disease
+40550295,elisa,Evidence
+40550295,flow cytometry,Evidence
+40550295,molecular docking,Evidence
+40550295,immunofluorescence,Evidence
+40550295,co-immunoprecipitation,Evidence
+40550295,open field test,Experiment_indicator
+40550295,tail suspension test,Experiment_indicator
+40550295,sucrose preference,Experiment_indicator
+40550295,fkbp5,Gene
+40550295,tnf,Gene
+40550295,corticosterone,Neurotransmitter
+40550295,nf-κb signaling pathway,Pathway
+40550295,fluoxetine,Pharmacology
+40550295,mice,Species
+40550295,fkbp5,Target
+40425078,hippocampus,Brain_region
+40425078,depression,Disease
+40425078,elisa,Evidence
+40425078,western blot,Evidence
+40425078,immunofluorescence,Evidence
+40425078,molecular docking,Evidence
+40425078,icariin,Ingredient
+40425078,rats,Species
+40425078,sirt1,Target
+39770479,depression,Disease
+39770479,molecular docking,Evidence
+39770479,sert,Gene
+39770479,serotonin,Neurotransmitter
+39770479,mice,Species
+39770479,max,Target
+39904199,Phellodendri cortex,Herb
+39904199,hippocampus,Brain_region
+39904199,il-6,Cytokine
+39904199,depression,Disease
+39904199,network pharmacology,Evidence
+39904199,molecular docking,Evidence
+39904199,immunofluorescence,Evidence
+39904199,tnf,Gene
+39904199,rat,Species
+39904199,bv2 cell,Species
+39904199,microglia,Species
+39904199,il-6,Target
+39904199,rela,Target
+39904199,ppar-γ,Target
+36045534,decoction,Administration
+36045534,major depressive disorder,Disease
+36045534,depression,Disease
+36045534,network pharmacology,Evidence
+36045534,molecular docking,Evidence
+36045534,slc6a4,Gene
+36045534,maoa,Gene
+36045534,drd2,Gene
+36045534,oprm1,Gene
+36045534,quercetin,Ingredient
+36045534,crem,Target
+36045534,ar,Target
+36045534,maoa,Target
+36045534,drd2,Target
+36045534,oprm1,Target
+40481474,Ziziphi spinosae semen,Herb
+40481474,decoction,Administration
+40481474,depression,Disease
+40481474,network pharmacology,Evidence
+40481474,molecular docking,Evidence
+40481474,corticosterone,Neurotransmitter
+40481474,pc12 cell,Species
+40481474,esr2,Target
+40481474,hsp90aa1,Target
+34976096,Chuanxiong rhizoma,Herb
+34976096,il-6,Cytokine
+34976096,depression,Disease
+34976096,network pharmacology,Evidence
+34976096,molecular docking,Evidence
+34976096,akt1,Gene
+34976096,tp53,Gene
+34976096,drd2,Gene
+34976096,mapk1,Gene
+34976096,tnf,Gene
+34976096,mtor,Gene
+34976096,quercetin,Ingredient
+34976096,pi3k-akt signaling pathway,Pathway
+34976096,mtor signaling pathway,Pathway
+34976096,akt1,Target
+34976096,il-6,Target
+34976096,tp53,Target
+34976096,drd2,Target
+34976096,mapk1,Target
+34976096,nr3c1,Target
+34976096,mtor,Target
+40803031,hippocampus,Brain_region
+40803031,prefrontal cortex,Brain_region
+40803031,depression,Disease
+40803031,metabolomics,Evidence
+40803031,network pharmacology,Evidence
+40803031,molecular docking,Evidence
+40803031,bioinformatics analysis,Evidence
+40803031,ptgs2,Gene
+40803031,icariin,Ingredient
+40803031,rats,Species
+40803031,nos2,Target
+40803031,pde5a,Target
+39486672,pill,Administration
+39486672,il-6,Cytokine
+39486672,il-1β,Cytokine
+39486672,tnf-α,Cytokine
+39486672,depression,Disease
+39486672,network pharmacology,Evidence
+39486672,molecular docking,Evidence
+39486672,elisa,Evidence
+39486672,16s rrna sequencing,Evidence
+39486672,sucrose preference,Experiment_indicator
+39486672,mtor,Gene
+39486672,bdnf,Gene
+39486672,trkb,Gene
+39486672,tnf,Gene
+39486672,quercetin,Ingredient
+39486672,liquiritin,Ingredient
+39486672,chinese herbal formula,Intervention
+39486672,bdnf,Neurotransmitter
+39486672,mtor signaling pathway,Pathway
+39486672,mapk signaling pathway,Pathway
+39486672,mice,Species
+39486672,mouse,Species
+39486672,mtor,Target
+39486672,bdnf,Target
+39486672,trkb,Target
+39486672,il-6,Target
+39486672,il-1β,Target
+38704913,il-17,Cytokine
+38704913,depression,Disease
+38704913,metabolomics,Evidence
+38704913,network pharmacology,Evidence
+38704913,16s rrna sequencing,Evidence
+38704913,dopamine,Neurotransmitter
+38704913,mice,Species
+41307677,decoction,Administration
+41307677,depression,Disease
+41307677,mood disorder,Disease
+41307677,systematic review,Evidence
+41307677,bioinformatics analysis,Evidence
+41307677,network pharmacology,Evidence
+41307677,molecular docking,Evidence
+41307677,geniposide,Ingredient
+41307677,magnolol,Ingredient
+41307677,honokiol,Ingredient
+41307677,hesperidin,Ingredient
+41307677,hesperetin,Ingredient
+41307677,naringin,Ingredient
+41307677,naringenin,Ingredient
+41307677,nobiletin,Ingredient
+35717786,insomnia,Adverse_event
+35717786,depression,Disease
+35717786,immunofluorescence,Evidence
+35717786,network pharmacology,Evidence
+35717786,western blot,Evidence
+35717786,nlrp3,Gene
+35717786,mapk signaling pathway,Pathway
+35717786,fluoxetine,Pharmacology
+35717786,mice,Species
+35717786,microglia,Species
+35717786,insomnia,Symptom
+35717786,nlrp3,Target
+41045619,depression,Disease
+41045619,darts,Evidence
+41045619,molecular docking,Evidence
+41045619,corticosterone,Neurotransmitter
+41045619,kynurenine pathway,Pathway
+41045619,mouse,Species
+41045619,microglia,Species
+41045619,kmo,Target
+36440424,depression,Disease
+36440424,network pharmacology,Evidence
+36440424,molecular docking,Evidence
+36440424,bioinformatics analysis,Evidence
+36440424,sinisan,Formula
+36440424,tp53,Gene
+36440424,slc6a4,Gene
+36440424,beta-sitosterol,Ingredient
+36440424,nobiletin,Ingredient
+36440424,dopamine,Neurotransmitter
+36440424,gaba,Neurotransmitter
+36440424,creb1,Target
+36440424,nos3,Target
+36440424,casp3,Target
+36440424,tp53,Target
+36440424,esr1,Target
+36431060,il-6,Cytokine
+36431060,depression,Disease
+36431060,network pharmacology,Evidence
+36431060,molecular docking,Evidence
+36431060,tail suspension test,Experiment_indicator
+36431060,social interaction test,Experiment_indicator
+36431060,slc6a4,Gene
+36431060,tnf,Gene
+36431060,stigmasterol,Ingredient
+36431060,wogonin,Ingredient
+36431060,atractylenolide i,Ingredient
+36431060,atractylenolide ii,Ingredient
+36431060,atractylenolide iii,Ingredient
+36431060,mice,Species
+36431060,il-6,Target
+36431060,esr1,Target
+40617360,decoction,Administration
+40617360,anxiety,Adverse_event
+40617360,anxiety,Disease
+40617360,depression,Disease
+40617360,immunofluorescence,Evidence
+40617360,metabolomics,Evidence
+40617360,network pharmacology,Evidence
+40617360,elevated plus maze,Experiment_indicator
+40617360,bdnf,Gene
+40617360,bdnf,Neurotransmitter
+40617360,mice,Species
+40617360,microglia,Species
+40617360,astrocyte,Species
+40617360,mouse,Species
+40617360,human,Species
+40617360,anxiety,Symptom
+40617360,bdnf,Target
+34447243,depressive disorder,Disease
+34447243,network pharmacology,Evidence
+34447243,literature review,Evidence
+34447243,icariin,Ingredient
+41164411,il-17,Cytokine
+41164411,il-1β,Cytokine
+41164411,il-6,Cytokine
+41164411,post-stroke depression,Disease
+41164411,machine learning,Evidence
+41164411,molecular docking,Evidence
+41164411,western blot,Evidence
+41164411,elisa,Evidence
+41164411,sucrose preference,Experiment_indicator
+41164411,tnf,Gene
+41164411,berberine,Ingredient
+41164411,rat,Species
+41164411,rats,Species
+41164411,il-1β,Target
+41164411,il-6,Target
+40621015,decoction,Administration
+40621015,depression,Disease
+40621015,network pharmacology,Evidence
+40621015,molecular docking,Evidence
+40621015,creb,Gene
+40621015,bdnf,Gene
+40621015,naringenin,Ingredient
+40621015,corticosterone,Neurotransmitter
+40621015,bdnf,Neurotransmitter
+40621015,camp signaling pathway,Pathway
+40621015,mouse,Species
+40621015,creb,Target
+40621015,bdnf,Target
+37657207,ccl2,Cytokine
+37657207,depression,Disease
+37657207,systematic review,Evidence
+37657207,bioinformatics analysis,Evidence
+37657207,network pharmacology,Evidence
+37657207,molecular docking,Evidence
+37657207,verbascoside,Ingredient
+37657207,dopamine,Neurotransmitter
+37657207,da,Neurotransmitter
+37657207,ccl2,Target
+37657207,fos,Target
+40221743,oral gavage,Administration
+40221743,il-6,Cytokine
+40221743,depression,Disease
+40221743,network pharmacology,Evidence
+40221743,elisa,Evidence
+40221743,immunofluorescence,Evidence
+40221743,western blot,Evidence
+40221743,xiao-chai-hu-tang,Formula
+40221743,mouse,Species
+40221743,mice,Species
+40221743,il-6,Target
+40221743,jak2,Target
+40221743,stat3,Target
+35003290,depression,Disease
+35003290,network pharmacology,Evidence
+35003290,mapk1,Gene
+35003290,tp53,Gene
+35003290,isorhamnetin,Ingredient
+35003290,quercetin,Ingredient
+35003290,luteolin,Ingredient
+35003290,prkaca,Target
+35003290,ppara,Target
+35003290,esr1,Target
+35003290,hsp90aa1,Target
+35003290,jun,Target
+35003290,mapk1,Target
+35003290,mapk14,Target
+35003290,mapk8,Target
+35003290,rela,Target
+35003290,tp53,Target
+39041272,hippocampus,Brain_region
+39041272,il-1β,Cytokine
+39041272,il-6,Cytokine
+39041272,tnf-α,Cytokine
+39041272,depression,Disease
+39041272,network pharmacology,Evidence
+39041272,western blot,Evidence
+39041272,elisa,Evidence
+39041272,tnf,Gene
+39041272,bdnf,Gene
+39041272,drd1,Gene
+39041272,creb,Gene
+39041272,erk1,Gene
+39041272,bdnf,Neurotransmitter
+39041272,camp signaling pathway,Pathway
+39041272,mapk signaling pathway,Pathway
+39041272,mice,Species
+39041272,mouse,Species
+39041272,il-1β,Target
+39041272,il-6,Target
+39041272,gsk3β,Target
+39041272,bdnf,Target
+39041272,creb,Target
+39041272,erk1/2,Target
+35230627,depression,Disease
+35230627,network pharmacology,Evidence
+35230627,molecular docking,Evidence
+35230627,acetylcholine,Neurotransmitter
+35230627,serotonin,Neurotransmitter
+35230627,calcium signaling pathway,Pathway
+38582152,decoction,Administration
+38582152,hippocampus,Brain_region
+38582152,major depressive disorder,Disease
+38582152,depression,Disease
+38582152,network pharmacology,Evidence
+38582152,western blot,Evidence
+38582152,immunofluorescence,Evidence
+38582152,kaiyu zhishen decoction,Formula
+38582152,creb,Gene
+38582152,bdnf,Gene
+38582152,kaempferol,Ingredient
+38582152,quercetin,Ingredient
+38582152,bdnf,Neurotransmitter
+38582152,cortisol,Neurotransmitter
+38582152,mapk signaling pathway,Pathway
+38582152,mice,Species
+38582152,creb,Target
+38582152,bdnf,Target
+41101552,hippocampus,Brain_region
+41101552,prefrontal cortex,Brain_region
+41101552,depression,Disease
+41101552,network pharmacology,Evidence
+41101552,akt1,Gene
+41101552,tnf,Gene
+41101552,maoa,Gene
+41101552,slc6a4,Gene
+41101552,ido1,Gene
+41101552,mice,Species
+41101552,microglia,Species
+41101552,akt1,Target
+41101552,maoa,Target
+41101552,maob,Target
+41101552,ido1,Target
+36560929,depression,Disease
+36560929,systematic review,Evidence
+36560929,meta-analysis,Evidence
+36560929,network pharmacology,Evidence
+36560929,basic research,Evidence
+36560929,sucrose preference,Experiment_indicator
+36560929,akt1,Gene
+36560929,tnf,Gene
+36560929,tp53,Gene
+36560929,5-ht,Neurotransmitter
+36560929,akt1,Target
+36560929,tp53,Target
+41448368,decoction,Administration
+41448368,intragastric administration,Administration
+41448368,il-1β,Cytokine
+41448368,il-18,Cytokine
+41448368,depression,Disease
+41448368,western blot,Evidence
+41448368,molecular docking,Evidence
+41448368,molecular dynamics simulation,Evidence
+41448368,shugan wendan decoction,Formula
+41448368,nlrp3,Gene
+41448368,acth,Neurotransmitter
+41448368,cortisol,Neurotransmitter
+41448368,5-ht,Neurotransmitter
+41448368,casp1,Target
+41448368,nlrp3,Target
+41448368,il-1β,Target
+41448368,atf3,Target
+34880597,depression,Disease
+34880597,network pharmacology,Evidence
+34880597,catechin,Ingredient
+34880597,protocatechuic acid,Ingredient
+34880597,cynaroside,Ingredient
+41189264,decoction,Administration
+41189264,major depressive disorder,Disease
+41189264,network pharmacology,Evidence
+41189264,molecular docking,Evidence
+41189264,yangxin decoction,Formula
+41189264,akt1,Gene
+41189264,akt1,Target
+39263345,depression,Disease
+39263345,molecular docking,Evidence
+39263345,forced swim test,Experiment_indicator
+39263345,tail suspension test,Experiment_indicator
+39263345,dehydrocostus lactone,Ingredient
+39263345,imipramine,Pharmacology
+39263345,isocarboxazid,Pharmacology
+36070047,powder,Administration
+36070047,depression,Disease
+36070047,network pharmacology,Evidence
+36070047,molecular docking,Evidence
+36070047,kaixinsan powder,Formula
+36070047,ginsenoside rg1,Ingredient
+36070047,pi3k-akt signaling pathway,Pathway
+36070047,mapk signaling pathway,Pathway
+36070047,ar,Target
+36070047,nr3c1,Target
+41015074,decoction,Administration
+41015074,anxiety,Adverse_event
+41015074,hippocampus,Brain_region
+41015074,depression,Disease
+41015074,anxiety,Disease
+41015074,network pharmacology,Evidence
+41015074,molecular docking,Evidence
+41015074,tp53,Gene
+41015074,mouse,Species
+41015074,human,Species
+41015074,mice,Species
+41015074,anxiety,Symptom
+41015074,jun,Target
+41015074,stat3,Target
+41015074,tp53,Target
+41015074,rela,Target
+40915371,insomnia,Adverse_event
+40915371,depression,Disease
+40915371,molecular docking,Evidence
+40915371,in vitro study,Evidence
+40915371,immunofluorescence,Evidence
+40915371,western blot,Evidence
+40915371,jatrorrhizine,Ingredient
+40915371,mice,Species
+40915371,insomnia,Symptom
+38007768,decoction,Administration
+38007768,depression,Disease
+38007768,network pharmacology,Evidence
+38007768,molecular docking,Evidence
+38007768,baihe zhimu decoction,Formula
+38007768,akt1,Gene
+38007768,tnf,Gene
+38007768,tp53,Gene
+38007768,ptgs2,Gene
+38007768,kaempferol,Ingredient
+38007768,stigmasterol,Ingredient
+38007768,tnf signaling pathway,Pathway
+38007768,akt1,Target
+38007768,tp53,Target
+38007768,casp3,Target
+38174416,depression,Disease
+38174416,network pharmacology,Evidence
+38174416,molecular docking,Evidence
+38174416,sinisan,Formula
+37847347,decoction,Administration
+37847347,crp,Cytokine
+37847347,depression,Disease
+37847347,major depressive disorder,Disease
+37847347,network pharmacology,Evidence
+37847347,crp,Gene
+37847347,tnf,Gene
+37847347,bdnf,Gene
+37847347,il10,Gene
+37847347,bdnf,Neurotransmitter
+37847347,egf,Target
+37847347,bdnf,Target
+37847347,il10,Target
+41377151,decoction,Administration
+41377151,anxiety,Adverse_event
+41377151,anxiety,Disease
+41377151,depression,Disease
+41377151,network pharmacology,Evidence
+41377151,molecular docking,Evidence
+41377151,xiaochaihu decoction,Formula
+41377151,mice,Species
+41377151,anxiety,Symptom
+41377151,ar,Target
+39684318,depression,Disease
+39684318,network pharmacology,Evidence
+39684318,transcriptomics,Evidence
+39684318,bdnf,Gene
+39684318,5-ht,Neurotransmitter
+39684318,bdnf,Neurotransmitter
+39684318,ampk signaling pathway,Pathway
+39684318,c57bl/6 mouse,Species
+39684318,mice,Species
+39684318,bdnf,Target
+39684318,sirt1,Target
+38004472,depression,Disease
+38004472,metabolomics,Evidence
+38004472,network pharmacology,Evidence
+38004472,molecular docking,Evidence
+38004472,western blot,Evidence
+38004472,vegfa,Gene
+38004472,mice,Species
+38004472,mouse,Species
+38004472,vegfa,Target
+40157401,weight loss,Adverse_event
+40157401,hippocampus,Brain_region
+40157401,dentate gyrus,Brain_region
+40157401,depression,Disease
+40157401,network pharmacology,Evidence
+40157401,molecular docking,Evidence
+40157401,elisa,Evidence
+40157401,immunofluorescence,Evidence
+40157401,western blot,Evidence
+40157401,qrt-pcr,Evidence
+40157401,open field test,Experiment_indicator
+40157401,forced swim test,Experiment_indicator
+40157401,tail suspension test,Experiment_indicator
+40157401,sinisan,Formula
+40157401,mice,Species
+40157401,weight loss,Symptom
+34471414,decoction,Administration
+34471414,depression,Disease
+34471414,network pharmacology,Evidence
+34471414,molecular docking,Evidence
+34471414,prospective study,Evidence
+34471414,tnf,Gene
+34471414,akt1,Gene
+34471414,quercetin,Ingredient
+34471414,luteolin,Ingredient
+34471414,kaempferol,Ingredient
+34471414,naringenin,Ingredient
+34471414,isorhamnetin,Ingredient
+34471414,da,Neurotransmitter
+34471414,human,Species
+34471414,stat3,Target
+34471414,jun,Target
+34471414,akt1,Target
+40816580,hippocampus,Brain_region
+40816580,prefrontal cortex,Brain_region
+40816580,depression,Disease
+40816580,network pharmacology,Evidence
+40816580,western blot,Evidence
+40816580,tail suspension test,Experiment_indicator
+40816580,open field test,Experiment_indicator
+40816580,sucrose preference,Experiment_indicator
+40816580,bdnf,Gene
+40816580,trkb,Gene
+40816580,bdnf,Neurotransmitter
+40816580,mice,Species
+40816580,bdnf,Target
+40816580,trkb,Target
+40816580,gria1,Target
+38218856,hippocampus,Brain_region
+38218856,il-22,Cytokine
+38218856,depression,Disease
+38218856,meta-analysis,Evidence
+38218856,network pharmacology,Evidence
+38218856,fluoxetine,Pharmacology
+38218856,mice,Species
+38218856,microglial cell,Species
+38218856,cox-2,Target
+41391369,decoction,Administration
+41391369,hippocampus,Brain_region
+41391369,depression,Disease
+41391369,elisa,Evidence
+41391369,16s rrna sequencing,Evidence
+41391369,metabolomics,Evidence
+41391369,network pharmacology,Evidence
+41391369,western blot,Evidence
+41391369,mtor,Gene
+41391369,fecal microbiota transplantation,Intervention
+41391369,mice,Species
+41391369,mtor,Target
+40064322,depression,Disease
+40064322,network pharmacology,Evidence
+40064322,metabolomics,Evidence
+40064322,elisa,Evidence
+40064322,changpu san,Formula
+40064322,mouse,Species
+40064322,mice,Species
+41763619,post-stroke depression,Disease
+41763619,depression,Disease
+41763619,multi-omics,Evidence
+41763619,elisa,Evidence
+41763619,immunofluorescence,Evidence
+41763619,network pharmacology,Evidence
+41763619,transcriptomics,Evidence
+41763619,metabolomics,Evidence
+41763619,kaempferol,Ingredient
+41763619,nf-κb signaling pathway,Pathway
+41763619,rat,Species
+41763619,rats,Species
+41763619,anhedonia,Symptom
+41763619,relieving depression,Tcm_therapy
+40231535,major depressive disorder,Disease
+40231535,network pharmacology,Evidence
+40231535,molecular docking,Evidence
+40231535,molecular dynamics simulation,Evidence
+40231535,akt1,Gene
+40231535,akt1,Target
+40231535,casp3,Target
+40231535,esr1,Target
+40231535,bcl2,Target
+40231535,mapk3,Target
+40910010,constipation,Adverse_event
+40910010,anxiety,Adverse_event
+40910010,depression,Disease
+40910010,anxiety,Disease
+40910010,molecular docking,Evidence
+40910010,network pharmacology,Evidence
+40910010,slc6a3,Gene
+40910010,oprm1,Gene
+40910010,nobiletin,Ingredient
+40910010,tangeritin,Ingredient
+40910010,magnolol,Ingredient
+40910010,formononetin,Ingredient
+40910010,hamd-17,Scale
+40910010,hama,Scale
+40910010,patient,Species
+40910010,constipation,Symptom
+40910010,anxiety,Symptom
+40910010,slc6a3,Target
+40910010,oprm1,Target
+40740639,depression,Disease
+40740639,network pharmacology,Evidence
+40740639,data mining,Evidence
+40740639,quercetin,Ingredient
+40740639,mice,Species
+39884598,depression,Disease
+39884598,network pharmacology,Evidence
+39884598,elisa,Evidence
+39884598,htr2a,Gene
+39884598,bdnf,Gene
+39884598,bdnf,Neurotransmitter
+39884598,5-ht,Neurotransmitter
+39884598,ne,Neurotransmitter
+39884598,da,Neurotransmitter
+39884598,mice,Species
+39884598,htr2a,Target
+39884598,gsk3β,Target
+39884598,bdnf,Target
+32256358,depression,Disease
+32256358,akt1,Gene
+32256358,tp53,Gene
+32256358,vegfa,Gene
+32256358,paeoniflorin,Ingredient
+32256358,quercetin,Ingredient
+32256358,luteolin,Ingredient
+32256358,kaempferol,Ingredient
+32256358,chinese herbal formula,Intervention
+32256358,akt1,Target
+32256358,tp53,Target
+32256358,vegfa,Target

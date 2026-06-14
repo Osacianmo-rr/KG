@@ -1,0 +1,21 @@
+Hippocampus
+Prefrontal cortex
+Amygdala
+Nucleus accumbens
+Striatum
+Hypothalamus
+Cingulate cortex
+Insula
+Thalamus
+Raphe nuclei
+Locus coeruleus
+Ventral tegmental area
+Subgenual cingulate
+Orbitofrontal cortex
+Parahippocampal gyrus
+Cerebellum
+Basolateral amygdala
+Central amygdala
+Dentate gyrus
+CA1 region
+CA3 region

@@ -1,0 +1,42 @@
+Nausea
+Vomiting
+Diarrhea
+Constipation
+Headache
+Dizziness
+Dry mouth
+Somnolence
+Insomnia
+Fatigue
+Weight gain
+Weight loss
+Increased appetite
+Decreased appetite
+Abdominal pain
+Bloating
+Heartburn
+Rash
+Itching
+Dyspepsia
+Palpitation
+Tremor
+Blurred vision
+Sweating
+Hot flash
+Elevated liver enzymes
+Gastrointestinal bleeding
+Hematoma
+Local pain
+Injection site reaction
+Allergic reaction
+Sedation
+Agitation
+Anxiety
+Sexual dysfunction
+Galactorrhea
+Gynecomastia
+Menstrual disorder
+Withdrawal syndrome
+Addiction
+Dependence
+Suicidal ideation (worsening)

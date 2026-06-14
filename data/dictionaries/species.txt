@@ -1,0 +1,76 @@
+Human
+Patient
+Mouse
+Mice
+Rat
+Rats
+Sprague-Dawley rat
+Wistar rat
+C57BL/6 mouse
+BALB/c mouse
+Kunming mouse
+Zebrafish
+Drosophila
+Cell line
+Primary neuron
+Microglial cell
+Astrocyte
+Hippocampal neuron
+PC12 cell
+BV2 cell
+HT22 cell
+SH-SY5Y cell
+Caco-2 cell
+HepG2 cell
+Human umbilical vein endothelial cell
+N9 cell
+RAW 264.7 cell
+HEK293 cell
+CHO cell
+Primary cortical neuron
+Primary astrocyte
+Mixed glial culture
+HUVEC
+Microglia
+Oligodendrocyte
+Neural stem cell
+Adipose-derived mesenchymal stem cell
+Bone marrow-derived macrophage
+Male C57BL/6J mouse
+Female C57BL/6J mouse
+ICR mouse
+CD-1 mouse
+db/db mouse
+APP/PS1 mouse
+Tg2576 mouse
+SAMP8 mouse
+SD rat
+WKY rat
+Lewis rat
+F344 rat
+Ovariectomized rat
+Zucker rat
+Spontaneously hypertensive rat
+Kunming strain
+NIH strain
+Swiss mouse
+DBA/2 mouse
+129S1 mouse
+Balb/cByJ mouse
+C3H mouse
+FVB mouse
+NOD mouse
+MRL/lpr mouse
+Beagle dog
+Cynomolgus monkey
+Rhesus macaque
+Rabbit
+Guinea pig
+Pig
+Chicken
+Xenopus
+C. elegans
+Drosophila melanogaster
+Danio rerio
+Oryzias latipes
+Carassius auratus

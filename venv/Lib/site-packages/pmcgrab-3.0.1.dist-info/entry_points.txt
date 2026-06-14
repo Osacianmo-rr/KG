@@ -1,0 +1,2 @@
+[console_scripts]
+pmcgrab = pmcgrab.cli.pmcgrab_cli:main

@@ -1,0 +1,66 @@
+[
+  {
+    "Label": "core_tcm_intervention",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab] OR \"major depressive disorder\"[tiab] OR MDD[tiab]) AND (\"traditional chinese medicine\"[tiab] OR TCM[tiab] OR \"chinese herbal medicine\"[tiab] OR \"herbal medicine\"[tiab] OR acupuncture[tiab] OR electroacupuncture[tiab] OR moxibustion[tiab])",
+    "PubMedCount": 4077,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "formula_specific",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab] OR \"major depressive disorder\"[tiab]) AND (\"Xiaoyao San\"[tiab] OR \"Jiawei Xiaoyao San\"[tiab] OR \"Chaihu Shugan San\"[tiab] OR \"Ganmai Dazao Tang\"[tiab] OR \"Banxia Houpu Tang\"[tiab] OR \"Danzhi Xiaoyao San\"[tiab] OR \"Guipi Tang\"[tiab] OR \"Yueju Wan\"[tiab] OR \"Suanzaoren Tang\"[tiab] OR \"Wendan Tang\"[tiab] OR \"Chaihu Jia Longgu Muli Tang\"[tiab] OR \"Yi Guan Jian\"[tiab])",
+    "PubMedCount": 124,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "herb_specific",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab]) AND (\"Bupleurum\"[tiab] OR Chaihu[tiab] OR \"Glycyrrhiza\"[tiab] OR \"Angelica sinensis\"[tiab] OR \"Paeonia lactiflora\"[tiab] OR \"Poria cocos\"[tiab] OR \"Cyperus rotundus\"[tiab] OR \"Scutellaria baicalensis\"[tiab] OR \"Coptis chinensis\"[tiab] OR \"Aucklandia lappa\"[tiab] OR \"Salvia miltiorrhiza\"[tiab] OR \"Polygala tenuifolia\"[tiab] OR \"Ziziphus jujuba\"[tiab])",
+    "PubMedCount": 352,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "target_mechanism",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab]) AND (BDNF[tiab] OR \"5-HT\"[tiab] OR serotonin[tiab] OR \"TNF-alpha\"[tiab] OR IL-6[tiab] OR CREB[tiab] OR SERT[tiab] OR MAPK[tiab] OR \"PI3K-Akt\"[tiab] OR \"NF-kB\"[tiab] OR Nrf2[tiab] OR mTOR[tiab] OR GSK-3β[tiab] OR \"glucocorticoid receptor\"[tiab])",
+    "PubMedCount": 32639,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "pathway_mechanism",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab]) AND (\"neuroinflammation\"[tiab] OR \"HPA axis\"[tiab] OR \"tryptophan metabolism\"[tiab] OR kynurenine[tiab] OR \"gut-brain axis\"[tiab] OR \"oxidative stress\"[tiab] OR \"synaptic plasticity\"[tiab] OR autophagy[tiab] OR apoptosis[tiab])",
+    "PubMedCount": 20268,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "tcm_syndrome",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab]) AND (\"liver qi stagnation\"[tiab] OR \"heart-spleen deficiency\"[tiab] OR \"qi stagnation\"[tiab] OR \"blood deficiency\"[tiab] OR \"TCM syndrome\"[tiab] OR syndrome[tiab] OR pattern[tiab] OR \"syndrome differentiation\"[tiab])",
+    "PubMedCount": 40513,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "clinical_subtypes",
+    "Query": "(\"postpartum depression\"[tiab] OR \"treatment-resistant depression\"[tiab] OR \"late-life depression\"[tiab] OR \"adolescent depression\"[tiab]) AND (\"traditional chinese medicine\"[tiab] OR acupuncture[tiab] OR \"chinese herbal medicine\"[tiab] OR formula[tiab] OR herb*[tiab])",
+    "PubMedCount": 190,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  },
+  {
+    "Label": "network_pharmacology",
+    "Query": "(\"depression\"[tiab] OR \"depressive disorder\"[tiab]) AND (\"network pharmacology\"[tiab] OR \"systems pharmacology\"[tiab] OR \"molecular docking\"[tiab]) AND (\"traditional chinese medicine\"[tiab] OR formula[tiab] OR herb*[tiab])",
+    "PubMedCount": 314,
+    "Collected": 100,
+    "UniqueCollected": 100,
+    "Status": "OK"
+  }
+]

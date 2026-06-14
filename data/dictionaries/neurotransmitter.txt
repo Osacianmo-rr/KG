@@ -1,0 +1,34 @@
+Serotonin
+5-HT
+Dopamine
+DA
+Norepinephrine
+NE
+Epinephrine
+Glutamate
+GABA
+Acetylcholine
+Histamine
+Melatonin
+Endorphin
+Enkephalin
+Dynorphin
+Substance P
+Corticotropin-releasing hormone
+CRH
+Adrenocorticotropic hormone
+ACTH
+Cortisol
+Corticosterone
+Oxytocin
+Vasopressin
+Ghrelin
+Leptin
+Adiponectin
+Resistin
+Nerve growth factor
+NGF
+BDNF
+GDNF
+IGF-1
+VEGF

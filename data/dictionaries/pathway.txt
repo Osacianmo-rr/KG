@@ -1,0 +1,46 @@
+PI3K-Akt signaling pathway
+MAPK signaling pathway
+NF-κB signaling pathway
+HPA axis signaling pathway
+mTOR signaling pathway
+cAMP signaling pathway
+Wnt/β-catenin signaling pathway
+Serotonergic synapse signaling pathway
+Dopaminergic synapse signaling pathway
+JAK-STAT signaling pathway
+NLRP3 inflammasome signaling pathway
+BDNF-TrkB signaling pathway
+ERK-CREB signaling pathway
+AMPK signaling pathway
+PKA signaling pathway
+TNF signaling pathway
+Neuroactive ligand-receptor interaction signaling pathway
+Calcium signaling pathway
+Glutamatergic synapse signaling pathway
+GABAergic synapse signaling pathway
+Estrogen signaling pathway
+HIF-1 signaling pathway
+FoxO signaling pathway
+Sphingolipid signaling pathway
+Arachidonic acid metabolism signaling pathway
+Tryptophan metabolism signaling pathway
+p53 signaling pathway
+Autophagy pathway
+Ferroptosis pathway
+Apoptosis pathway
+Kynurenine pathway
+TLR4 signaling pathway
+RAGE signaling pathway
+Nrf2/HO-1 signaling pathway
+SIRT1 signaling pathway
+Notch signaling pathway
+TGF-β signaling pathway
+ER stress pathway
+Necroptosis pathway
+Pyroptosis pathway
+Oxidative stress pathway
+Neuroinflammation pathway
+Akt/GSK3β signaling pathway
+p38 MAPK signaling pathway
+JNK signaling pathway
+ERK1/2 signaling pathway

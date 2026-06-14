@@ -1,0 +1,2128 @@
+﻿source,source_type,relation,target,target_type
+35168522,Paper,MENTIONS,depression,Disease
+35168522,Paper,MENTIONS,major depressive disorder,Disease
+35168522,Paper,MENTIONS,post-stroke depression,Disease
+35168522,Paper,MENTIONS,postpartum depression,Disease
+35168522,Paper,MENTIONS,human,Species
+37143014,Paper,MENTIONS,post-stroke depression,Disease
+37143014,Paper,MENTIONS,anxiety,Disease
+37143014,Paper,MENTIONS,depression,Disease
+37143014,Paper,MENTIONS,systematic review,Evidence
+37143014,Paper,MENTIONS,meta-analysis,Evidence
+37143014,Paper,MENTIONS,clinical trial,Evidence
+37143014,Paper,MENTIONS,anxiety,Symptom
+37143014,Paper,MENTIONS,hopelessness,Symptom
+37143014,Paper,MENTIONS,insomnia,Symptom
+37248211,Paper,MENTIONS,st36,Acupoint
+37248211,Paper,MENTIONS,depression,Disease
+37248211,Paper,MENTIONS,major depressive disorder,Disease
+37248211,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37248211,Paper,MENTIONS,tail suspension test,Experiment_indicator
+37248211,Paper,MENTIONS,astrocyte,Species
+37248211,Paper,MENTIONS,mice,Species
+34446530,Paper,MENTIONS,depression,Disease
+34446530,Paper,MENTIONS,systematic review,Evidence
+34446530,Paper,MENTIONS,meta-analysis,Evidence
+40466510,Paper,MENTIONS,depression,Disease
+36948325,Paper,MENTIONS,depression,Disease
+36948325,Paper,MENTIONS,major depressive disorder,Disease
+36948325,Paper,MENTIONS,controlled clinical trial,Evidence
+36948325,Paper,MENTIONS,tnf,Pathway
+36948325,Paper,MENTIONS,il-1β,Target
+39648209,Paper,MENTIONS,ht7,Acupoint
+39648209,Paper,MENTIONS,pc6,Acupoint
+39648209,Paper,MENTIONS,sp6,Acupoint
+39648209,Paper,MENTIONS,lr3,Acupoint
+39648209,Paper,MENTIONS,major depressive disorder,Disease
+39648209,Paper,MENTIONS,depression,Disease
+39648209,Paper,MENTIONS,randomized controlled trial,Evidence
+39426604,Paper,MENTIONS,depression,Disease
+39426604,Paper,MENTIONS,major depressive disorder,Disease
+42088582,Paper,MENTIONS,depression,Disease
+27693978,Paper,MENTIONS,major depressive disorder,Disease
+27693978,Paper,MENTIONS,depression,Disease
+38262525,Paper,MENTIONS,postpartum depression,Disease
+38262525,Paper,MENTIONS,anxiety,Disease
+38262525,Paper,MENTIONS,depression,Disease
+38262525,Paper,MENTIONS,paeoniflorin,Ingredient
+38262525,Paper,MENTIONS,hypericin,Ingredient
+38262525,Paper,MENTIONS,rats,Species
+38262525,Paper,MENTIONS,anxiety,Symptom
+28807166,Paper,MENTIONS,major depressive disorder,Disease
+28807166,Paper,MENTIONS,depression,Disease
+34551699,Paper,MENTIONS,major depressive disorder,Disease
+34551699,Paper,MENTIONS,human,Species
+32457610,Paper,MENTIONS,depression,Disease
+32457610,Paper,MENTIONS,bdnf,Target
+39620153,Paper,MENTIONS,major depressive disorder,Disease
+39620153,Paper,MENTIONS,depression,Disease
+39620153,Paper,MENTIONS,randomized controlled trial,Evidence
+39620153,Paper,MENTIONS,patient,Species
+28925891,Paper,MENTIONS,depression,Disease
+36949321,Paper,MENTIONS,major depressive disorder,Disease
+36949321,Paper,MENTIONS,depression,Disease
+36949321,Paper,MENTIONS,literature review,Evidence
+38983910,Paper,MENTIONS,depression,Disease
+36969689,Paper,MENTIONS,depression,Disease
+36969689,Paper,MENTIONS,narrative review,Evidence
+41163407,Paper,MENTIONS,gv20,Acupoint
+41163407,Paper,MENTIONS,st36,Acupoint
+41163407,Paper,MENTIONS,major depressive disorder,Disease
+41163407,Paper,MENTIONS,depression,Disease
+41163407,Paper,MENTIONS,metabolomics,Evidence
+41163407,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41163407,Paper,MENTIONS,tail suspension test,Experiment_indicator
+41163407,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+41163407,Paper,MENTIONS,mice,Species
+37159675,Paper,MENTIONS,gv20,Acupoint
+37159675,Paper,MENTIONS,lr3,Acupoint
+37159675,Paper,MENTIONS,pc6,Acupoint
+37159675,Paper,MENTIONS,sp6,Acupoint
+37159675,Paper,MENTIONS,major depressive disorder,Disease
+33116523,Paper,MENTIONS,depression,Disease
+33116523,Paper,MENTIONS,jiuwei zhenxin granules,Formula
+9646895,Paper,MENTIONS,depression,Disease
+9646895,Paper,MENTIONS,anxiety,Disease
+9646895,Paper,MENTIONS,anxiety,Symptom
+35496318,Paper,MENTIONS,depression,Disease
+39253375,Paper,MENTIONS,depression,Disease
+39253375,Paper,MENTIONS,mood disorder,Disease
+41100813,Paper,MENTIONS,depression,Disease
+41100813,Paper,MENTIONS,systematic review,Evidence
+40018358,Paper,MENTIONS,major depressive disorder,Disease
+40018358,Paper,MENTIONS,depression,Disease
+37631092,Paper,MENTIONS,major depressive disorder,Disease
+37631092,Paper,MENTIONS,depression,Disease
+37631092,Paper,MENTIONS,systematic review,Evidence
+37631092,Paper,MENTIONS,meta-analysis,Evidence
+37631092,Paper,MENTIONS,sadness,Symptom
+37631092,Paper,MENTIONS,loss of interest,Symptom
+36873772,Paper,MENTIONS,major depressive disorder,Disease
+36682244,Paper,MENTIONS,depression,Disease
+36682244,Paper,MENTIONS,network pharmacology,Evidence
+36682244,Paper,MENTIONS,xiaochaihu decoction,Formula
+31370200,Paper,MENTIONS,depression,Disease
+31370200,Paper,MENTIONS,major depressive disorder,Disease
+31370200,Paper,MENTIONS,systematic review,Evidence
+31370200,Paper,MENTIONS,meta-analysis,Evidence
+25183301,Paper,MENTIONS,depression,Disease
+25183301,Paper,MENTIONS,systematic review,Evidence
+24697344,Paper,MENTIONS,major depressive disorder,Disease
+24697344,Paper,MENTIONS,depression,Disease
+24697344,Paper,MENTIONS,systematic review,Evidence
+24697344,Paper,MENTIONS,patient,Species
+40515694,Paper,MENTIONS,perimenopausal depression,Disease
+35152089,Paper,MENTIONS,depression,Disease
+35152089,Paper,MENTIONS,systematic review,Evidence
+35152089,Paper,MENTIONS,sadness,Symptom
+40374592,Paper,MENTIONS,st36,Acupoint
+40374592,Paper,MENTIONS,depression,Disease
+40374592,Paper,MENTIONS,mice,Species
+40374592,Paper,MENTIONS,bdnf,Target
+34225013,Paper,MENTIONS,depressive disorder,Disease
+34225013,Paper,MENTIONS,depression,Disease
+34225013,Paper,MENTIONS,metabolomics,Evidence
+39528081,Paper,MENTIONS,depressive disorder,Disease
+39528081,Paper,MENTIONS,depression,Disease
+39528081,Paper,MENTIONS,protocol,Evidence
+39528081,Paper,MENTIONS,sucrose preference,Experiment_indicator
+39528081,Paper,MENTIONS,camp,Pathway
+39528081,Paper,MENTIONS,ampk,Pathway
+39528081,Paper,MENTIONS,rats,Species
+39528081,Paper,MENTIONS,rat,Species
+39528081,Paper,MENTIONS,il-6,Target
+33466877,Paper,MENTIONS,depression,Disease
+37930334,Paper,MENTIONS,depression,Disease
+30396632,Paper,MENTIONS,postpartum depression,Disease
+30396632,Paper,MENTIONS,depression,Disease
+30396632,Paper,MENTIONS,systematic review,Evidence
+40033393,Paper,MENTIONS,depression,Disease
+40033393,Paper,MENTIONS,basic research,Evidence
+40033393,Paper,MENTIONS,protocol,Evidence
+40033393,Paper,MENTIONS,calcium signaling pathway,Pathway
+40033393,Paper,MENTIONS,hpa axis,Pathway
+40033393,Paper,MENTIONS,tryptophan metabolism,Pathway
+40033393,Paper,MENTIONS,p2x7r,Target
+40033393,Paper,MENTIONS,nlrp3,Target
+41437027,Paper,MENTIONS,subthreshold depression,Disease
+41437027,Paper,MENTIONS,major depressive disorder,Disease
+41437027,Paper,MENTIONS,depression,Disease
+41437027,Paper,MENTIONS,randomized controlled trial,Evidence
+41437027,Paper,MENTIONS,clinical trial,Evidence
+38808079,Paper,MENTIONS,depression,Disease
+31780032,Paper,MENTIONS,depression,Disease
+31780032,Paper,MENTIONS,systematic review,Evidence
+31780032,Paper,MENTIONS,meta-analysis,Evidence
+32147048,Paper,MENTIONS,major depressive disorder,Disease
+32147048,Paper,MENTIONS,depression,Disease
+32147048,Paper,MENTIONS,scoping review,Evidence
+39701700,Paper,MENTIONS,depression,Disease
+37255171,Paper,MENTIONS,major depressive disorder,Disease
+37255171,Paper,MENTIONS,baweixiaoyaosan,Formula
+37255171,Paper,MENTIONS,jun,Target
+40785662,Paper,MENTIONS,post-stroke depression,Disease
+34636498,Paper,MENTIONS,depression,Disease
+34636498,Paper,MENTIONS,anxiety,Disease
+34636498,Paper,MENTIONS,anxiety,Symptom
+19507266,Paper,MENTIONS,depression,Disease
+36791924,Paper,MENTIONS,depression,Disease
+36921619,Paper,MENTIONS,mood disorder,Disease
+36921619,Paper,MENTIONS,depression,Disease
+36921619,Paper,MENTIONS,anxiety,Disease
+36921619,Paper,MENTIONS,randomized controlled trial,Evidence
+36921619,Paper,MENTIONS,anxiety,Symptom
+36529248,Paper,MENTIONS,depression,Disease
+36529248,Paper,MENTIONS,systematic review,Evidence
+37897838,Paper,MENTIONS,major depressive disorder,Disease
+37897838,Paper,MENTIONS,depression,Disease
+37897838,Paper,MENTIONS,anxiety,Disease
+37897838,Paper,MENTIONS,anxiety,Symptom
+34049476,Paper,MENTIONS,depression,Disease
+38306565,Paper,MENTIONS,depression,Disease
+24761171,Paper,MENTIONS,anxiety,Disease
+24761171,Paper,MENTIONS,depression,Disease
+24761171,Paper,MENTIONS,major depressive disorder,Disease
+24761171,Paper,MENTIONS,systematic review,Evidence
+24761171,Paper,MENTIONS,anxiety,Symptom
+39157399,Paper,MENTIONS,depression,Disease
+39157399,Paper,MENTIONS,human,Species
+34623754,Paper,MENTIONS,depression,Disease
+34623754,Paper,MENTIONS,systematic review,Evidence
+35232229,Paper,MENTIONS,gv20,Acupoint
+35232229,Paper,MENTIONS,sp6,Acupoint
+35232229,Paper,MENTIONS,lr3,Acupoint
+35232229,Paper,MENTIONS,bl18,Acupoint
+35232229,Paper,MENTIONS,post-stroke depression,Disease
+35232229,Paper,MENTIONS,depression,Disease
+35232229,Paper,MENTIONS,randomized controlled trial,Evidence
+35232229,Paper,MENTIONS,clinical trial,Evidence
+34840949,Paper,MENTIONS,major depressive disorder,Disease
+34840949,Paper,MENTIONS,depression,Disease
+34840949,Paper,MENTIONS,anxiety,Disease
+34840949,Paper,MENTIONS,clinical trial,Evidence
+34840949,Paper,MENTIONS,protocol,Evidence
+34840949,Paper,MENTIONS,insomnia,Symptom
+34840949,Paper,MENTIONS,anxiety,Symptom
+28851961,Paper,MENTIONS,depressive disorder,Disease
+28851961,Paper,MENTIONS,depression,Disease
+28851961,Paper,MENTIONS,systematic review,Evidence
+28851961,Paper,MENTIONS,meta-analysis,Evidence
+28851961,Paper,MENTIONS,open field test,Experiment_indicator
+28851961,Paper,MENTIONS,rats,Species
+39140625,Paper,MENTIONS,major depressive disorder,Disease
+39140625,Paper,MENTIONS,depression,Disease
+39140625,Paper,MENTIONS,meta-analysis,Evidence
+33324063,Paper,MENTIONS,depression,Disease
+33324063,Paper,MENTIONS,systematic review,Evidence
+30963358,Paper,MENTIONS,depression,Disease
+30963358,Paper,MENTIONS,qualitative study,Evidence
+38694562,Paper,MENTIONS,depression,Disease
+38694562,Paper,MENTIONS,mice,Species
+37802855,Paper,MENTIONS,depression,Disease
+37802855,Paper,MENTIONS,depressive disorder,Disease
+38152691,Paper,MENTIONS,depression,Disease
+38152691,Paper,MENTIONS,anhedonia,Symptom
+38152691,Paper,MENTIONS,hopelessness,Symptom
+41015814,Paper,MENTIONS,depression,Disease
+36698870,Paper,MENTIONS,depression,Disease
+36698870,Paper,MENTIONS,systematic review,Evidence
+36698870,Paper,MENTIONS,meta-analysis,Evidence
+36698870,Paper,MENTIONS,sucrose preference,Experiment_indicator
+36698870,Paper,MENTIONS,rats,Species
+36774722,Paper,MENTIONS,post-stroke depression,Disease
+36774722,Paper,MENTIONS,depression,Disease
+36774722,Paper,MENTIONS,patient,Species
+36774722,Paper,MENTIONS,rat,Species
+36774722,Paper,MENTIONS,rats,Species
+36774722,Paper,MENTIONS,stat3,Target
+36774722,Paper,MENTIONS,gsk3β,Target
+40154896,Paper,MENTIONS,post-stroke depression,Disease
+40154896,Paper,MENTIONS,network pharmacology,Evidence
+40154896,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40154896,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40154896,Paper,MENTIONS,open field test,Experiment_indicator
+40154896,Paper,MENTIONS,tnf,Pathway
+40154896,Paper,MENTIONS,calcium signaling pathway,Pathway
+40154896,Paper,MENTIONS,mice,Species
+40154896,Paper,MENTIONS,rat,Species
+40154896,Paper,MENTIONS,mouse,Species
+40154896,Paper,MENTIONS,creb,Target
+40154896,Paper,MENTIONS,bdnf,Target
+40382939,Paper,MENTIONS,cancer-related depression,Disease
+40382939,Paper,MENTIONS,depression,Disease
+40382939,Paper,MENTIONS,molecular docking,Evidence
+40382939,Paper,MENTIONS,saikosaponin a,Ingredient
+40382939,Paper,MENTIONS,saikosaponin d,Ingredient
+40382939,Paper,MENTIONS,mouse,Species
+40382939,Paper,MENTIONS,mice,Species
+40945251,Paper,MENTIONS,depression,Disease
+40945251,Paper,MENTIONS,network pharmacology,Evidence
+40945251,Paper,MENTIONS,multi-omics,Evidence
+40945251,Paper,MENTIONS,xiaoyao san,Formula
+40945251,Paper,MENTIONS,rat,Species
+37597362,Paper,MENTIONS,depression,Disease
+37597362,Paper,MENTIONS,danzhi xiaoyao san,Formula
+37597362,Paper,MENTIONS,human,Species
+37597362,Paper,MENTIONS,liver qi stagnation,Syndrome
+37597362,Paper,MENTIONS,blood deficiency,Syndrome
+39197805,Paper,MENTIONS,depression,Disease
+39197805,Paper,MENTIONS,network pharmacology,Evidence
+39197805,Paper,MENTIONS,molecular docking,Evidence
+39197805,Paper,MENTIONS,danzhi xiaoyao san,Formula
+39197805,Paper,MENTIONS,senkyunolide a,Ingredient
+39197805,Paper,MENTIONS,atractylenolide iii,Ingredient
+39197805,Paper,MENTIONS,mapk,Pathway
+39197805,Paper,MENTIONS,mice,Species
+39197805,Paper,MENTIONS,akt1,Target
+39197805,Paper,MENTIONS,mapk1,Target
+39197805,Paper,MENTIONS,erk1/2,Target
+41061289,Paper,MENTIONS,postpartum depression,Disease
+41061289,Paper,MENTIONS,network pharmacology,Evidence
+41061289,Paper,MENTIONS,molecular docking,Evidence
+41061289,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41061289,Paper,MENTIONS,open field test,Experiment_indicator
+41061289,Paper,MENTIONS,xiaoyao san,Formula
+41061289,Paper,MENTIONS,guipi tang,Formula
+41061289,Paper,MENTIONS,pi3k-akt,Pathway
+41061289,Paper,MENTIONS,rat,Species
+41061289,Paper,MENTIONS,rats,Species
+41061289,Paper,MENTIONS,jnk,Target
+41061289,Paper,MENTIONS,il-6,Target
+41061289,Paper,MENTIONS,il-1β,Target
+39515106,Paper,MENTIONS,depression,Disease
+39515106,Paper,MENTIONS,anxiety,Disease
+39515106,Paper,MENTIONS,food intake,Experiment_indicator
+39515106,Paper,MENTIONS,anxiety,Symptom
+37632305,Paper,MENTIONS,depression,Disease
+37632305,Paper,MENTIONS,controlled clinical trial,Evidence
+37632305,Paper,MENTIONS,placebo-controlled trial,Evidence
+37632305,Paper,MENTIONS,network pharmacology,Evidence
+37632305,Paper,MENTIONS,metabolomics,Evidence
+37632305,Paper,MENTIONS,molecular docking,Evidence
+37632305,Paper,MENTIONS,quercetin,Ingredient
+37632305,Paper,MENTIONS,luteolin,Ingredient
+34968660,Paper,MENTIONS,depression,Disease
+34968660,Paper,MENTIONS,systematic review,Evidence
+34968660,Paper,MENTIONS,meta-analysis,Evidence
+39687683,Paper,MENTIONS,depression,Disease
+39687683,Paper,MENTIONS,hpa axis,Pathway
+39687683,Paper,MENTIONS,mice,Species
+39687683,Paper,MENTIONS,rats,Species
+39687683,Paper,MENTIONS,il-1β,Target
+39687683,Paper,MENTIONS,il-6,Target
+39687683,Paper,MENTIONS,nlrp3,Target
+38375048,Paper,MENTIONS,depression,Disease
+38375048,Paper,MENTIONS,metabolomics,Evidence
+38375048,Paper,MENTIONS,network pharmacology,Evidence
+38375048,Paper,MENTIONS,open field test,Experiment_indicator
+38375048,Paper,MENTIONS,xiaoyao san,Formula
+38375048,Paper,MENTIONS,tnf,Pathway
+38375048,Paper,MENTIONS,hif-1 signaling pathway,Pathway
+38375048,Paper,MENTIONS,calcium signaling pathway,Pathway
+38375048,Paper,MENTIONS,rat,Species
+38375048,Paper,MENTIONS,rats,Species
+38375048,Paper,MENTIONS,il-1β,Target
+38375048,Paper,MENTIONS,il-6,Target
+38628641,Paper,MENTIONS,depression,Disease
+41273446,Paper,MENTIONS,depression,Disease
+41273446,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41273446,Paper,MENTIONS,tail suspension test,Experiment_indicator
+41273446,Paper,MENTIONS,open field test,Experiment_indicator
+41273446,Paper,MENTIONS,xiaoyao san,Formula
+41273446,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+41273446,Paper,MENTIONS,mice,Species
+41273446,Paper,MENTIONS,anhedonia,Symptom
+41273446,Paper,MENTIONS,nlrp3,Target
+41273446,Paper,MENTIONS,il-1β,Target
+40541752,Paper,MENTIONS,post-stroke depression,Disease
+40541752,Paper,MENTIONS,depression,Disease
+40541752,Paper,MENTIONS,protocol,Evidence
+40541752,Paper,MENTIONS,network pharmacology,Evidence
+40541752,Paper,MENTIONS,metabolomics,Evidence
+40541752,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40541752,Paper,MENTIONS,open field test,Experiment_indicator
+40541752,Paper,MENTIONS,forced swim test,Experiment_indicator
+40541752,Paper,MENTIONS,danzhi xiaoyao san,Formula
+40541752,Paper,MENTIONS,rats,Species
+40541752,Paper,MENTIONS,rat,Species
+41225027,Paper,MENTIONS,depression,Disease
+41225027,Paper,MENTIONS,network pharmacology,Evidence
+41225027,Paper,MENTIONS,xiaoyao san,Formula
+41225027,Paper,MENTIONS,atractylenolide i,Ingredient
+41225027,Paper,MENTIONS,ferulic acid,Ingredient
+41225027,Paper,MENTIONS,kaempferol,Ingredient
+41225027,Paper,MENTIONS,quercetin,Ingredient
+41225027,Paper,MENTIONS,atractylenolide ii,Ingredient
+41225027,Paper,MENTIONS,z-ligustilide,Ingredient
+41225027,Paper,MENTIONS,paeoniflorin,Ingredient
+41225027,Paper,MENTIONS,saikosaponin a,Ingredient
+41225027,Paper,MENTIONS,atractylenolide iii,Ingredient
+41225027,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+41225027,Paper,MENTIONS,mouse,Species
+41225027,Paper,MENTIONS,microglial cell,Species
+41225027,Paper,MENTIONS,mice,Species
+41225027,Paper,MENTIONS,jnk,Target
+37808199,Paper,MENTIONS,depression,Disease
+37808199,Paper,MENTIONS,anxiety,Disease
+37808199,Paper,MENTIONS,meta-analysis,Evidence
+37808199,Paper,MENTIONS,network pharmacology,Evidence
+37808199,Paper,MENTIONS,molecular docking,Evidence
+37808199,Paper,MENTIONS,stigmasterol,Ingredient
+37808199,Paper,MENTIONS,tnf,Pathway
+37808199,Paper,MENTIONS,pi3k-akt,Pathway
+37808199,Paper,MENTIONS,jak-stat,Pathway
+37808199,Paper,MENTIONS,anxiety,Symptom
+37808199,Paper,MENTIONS,insomnia,Symptom
+37808199,Paper,MENTIONS,il-6,Target
+37808199,Paper,MENTIONS,akt1,Target
+40998134,Paper,MENTIONS,depression,Disease
+40998134,Paper,MENTIONS,network pharmacology,Evidence
+40998134,Paper,MENTIONS,metabolomics,Evidence
+40998134,Paper,MENTIONS,xiaoyao san,Formula
+40998134,Paper,MENTIONS,mouse,Species
+40998134,Paper,MENTIONS,mice,Species
+29808808,Paper,MENTIONS,depression,Disease
+29808808,Paper,MENTIONS,anxiety,Disease
+29808808,Paper,MENTIONS,xiaoyao san,Formula
+29808808,Paper,MENTIONS,ferulic acid,Ingredient
+29808808,Paper,MENTIONS,ligustilide,Ingredient
+29808808,Paper,MENTIONS,atractylenolide i,Ingredient
+29808808,Paper,MENTIONS,atractylenolide ii,Ingredient
+29808808,Paper,MENTIONS,paeoniflorin,Ingredient
+29808808,Paper,MENTIONS,albiflorin,Ingredient
+29808808,Paper,MENTIONS,liquiritin,Ingredient
+29808808,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+29808808,Paper,MENTIONS,hpa axis,Pathway
+29808808,Paper,MENTIONS,anxiety,Symptom
+37562092,Paper,MENTIONS,depression,Disease
+37562092,Paper,MENTIONS,anxiety,Disease
+37562092,Paper,MENTIONS,meta-analysis,Evidence
+37562092,Paper,MENTIONS,food intake,Experiment_indicator
+37562092,Paper,MENTIONS,xiaoyao san,Formula
+37562092,Paper,MENTIONS,anxiety,Symptom
+41724290,Paper,MENTIONS,depression,Disease
+41724290,Paper,MENTIONS,anxiety,Disease
+41724290,Paper,MENTIONS,network pharmacology,Evidence
+41724290,Paper,MENTIONS,molecular docking,Evidence
+41724290,Paper,MENTIONS,chaihu shugan san,Formula
+41724290,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+41724290,Paper,MENTIONS,naringenin,Ingredient
+41724290,Paper,MENTIONS,mouse,Species
+41724290,Paper,MENTIONS,mice,Species
+41724290,Paper,MENTIONS,anxiety,Symptom
+21933701,Paper,MENTIONS,depression,Disease
+21933701,Paper,MENTIONS,meta-analysis,Evidence
+33629558,Paper,MENTIONS,depression,Disease
+33629558,Paper,MENTIONS,open field test,Experiment_indicator
+33629558,Paper,MENTIONS,sucrose preference,Experiment_indicator
+33629558,Paper,MENTIONS,ganmai dazao tang,Formula
+33629558,Paper,MENTIONS,rats,Species
+38941409,Paper,MENTIONS,depression,Disease
+38941409,Paper,MENTIONS,systematic review,Evidence
+38941409,Paper,MENTIONS,meta-analysis,Evidence
+38941409,Paper,MENTIONS,mendelian randomization,Evidence
+18343064,Paper,MENTIONS,depression,Disease
+18343064,Paper,MENTIONS,tail suspension test,Experiment_indicator
+18343064,Paper,MENTIONS,locomotor activity,Experiment_indicator
+18343064,Paper,MENTIONS,mice,Species
+36844911,Paper,MENTIONS,Angelicae sinensis radix,Herb
+36844911,Paper,MENTIONS,depression,Disease
+36844911,Paper,MENTIONS,xiaoyao san,Formula
+36844911,Paper,MENTIONS,paeoniflorin,Ingredient
+36844911,Paper,MENTIONS,hpa axis,Pathway
+36844911,Paper,MENTIONS,mice,Species
+36844911,Paper,MENTIONS,bdnf,Target
+41485625,Paper,MENTIONS,bupleuri radix,Herb
+41485625,Paper,MENTIONS,depression,Disease
+41485625,Paper,MENTIONS,transcriptomics,Evidence
+41485625,Paper,MENTIONS,network pharmacology,Evidence
+41485625,Paper,MENTIONS,chaihu shugan san,Formula
+41485625,Paper,MENTIONS,albiflorin,Ingredient
+41485625,Paper,MENTIONS,liquiritin,Ingredient
+41485625,Paper,MENTIONS,chlorogenic acid,Ingredient
+41485625,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+41485625,Paper,MENTIONS,saikosaponin d,Ingredient
+41485625,Paper,MENTIONS,tnf,Pathway
+41485625,Paper,MENTIONS,zebrafish,Species
+41485625,Paper,MENTIONS,mouse,Species
+41485625,Paper,MENTIONS,il-1β,Target
+41485625,Paper,MENTIONS,jnk,Target
+41485625,Paper,MENTIONS,il-6,Target
+41485625,Paper,MENTIONS,jun,Target
+30841419,Paper,MENTIONS,major depressive disorder,Disease
+30841419,Paper,MENTIONS,xiaoyao san,Formula
+30841419,Paper,MENTIONS,rats,Species
+30841419,Paper,MENTIONS,mice,Species
+30841419,Paper,MENTIONS,anhedonia,Symptom
+30841419,Paper,MENTIONS,psychomotor retardation,Symptom
+40127829,Paper,MENTIONS,depression,Disease
+40127829,Paper,MENTIONS,major depressive disorder,Disease
+40127829,Paper,MENTIONS,multi-omics,Evidence
+40127829,Paper,MENTIONS,transcriptomics,Evidence
+40127829,Paper,MENTIONS,proteomics,Evidence
+40127829,Paper,MENTIONS,molecular docking,Evidence
+40127829,Paper,MENTIONS,literature review,Evidence
+40127829,Paper,MENTIONS,open field test,Experiment_indicator
+40127829,Paper,MENTIONS,forced swim test,Experiment_indicator
+40127829,Paper,MENTIONS,chaihu shugan san,Formula
+40127829,Paper,MENTIONS,ferulic acid,Ingredient
+40127829,Paper,MENTIONS,mtor,Pathway
+40127829,Paper,MENTIONS,rats,Species
+40127829,Paper,MENTIONS,mtor,Target
+40127829,Paper,MENTIONS,vegfa,Target
+30687098,Paper,MENTIONS,depression,Disease
+30687098,Paper,MENTIONS,sucrose preference,Experiment_indicator
+30687098,Paper,MENTIONS,tail suspension test,Experiment_indicator
+30687098,Paper,MENTIONS,forced swim test,Experiment_indicator
+30687098,Paper,MENTIONS,mtor,Pathway
+30687098,Paper,MENTIONS,mice,Species
+30687098,Paper,MENTIONS,mtor,Target
+30687098,Paper,MENTIONS,bdnf,Target
+39957155,Paper,MENTIONS,depression,Disease
+39957155,Paper,MENTIONS,bioinformatics analysis,Evidence
+39957155,Paper,MENTIONS,sucrose preference,Experiment_indicator
+39957155,Paper,MENTIONS,tail suspension test,Experiment_indicator
+39957155,Paper,MENTIONS,danzhi xiaoyao san,Formula
+39957155,Paper,MENTIONS,mouse,Species
+39957155,Paper,MENTIONS,mice,Species
+39957155,Paper,MENTIONS,erk1/2,Target
+36536902,Paper,MENTIONS,major depressive disorder,Disease
+36536902,Paper,MENTIONS,depression,Disease
+36536902,Paper,MENTIONS,sucrose preference,Experiment_indicator
+36536902,Paper,MENTIONS,forced swim test,Experiment_indicator
+36536902,Paper,MENTIONS,guipi tang,Formula
+36536902,Paper,MENTIONS,liquiritin,Ingredient
+36536902,Paper,MENTIONS,rats,Species
+36536902,Paper,MENTIONS,bdnf,Target
+36536902,Paper,MENTIONS,trkb,Target
+36536902,Paper,MENTIONS,creb,Target
+33825416,Paper,MENTIONS,major depressive disorder,Disease
+33825416,Paper,MENTIONS,network pharmacology,Evidence
+33825416,Paper,MENTIONS,chaihu shugan san,Formula
+40179998,Paper,MENTIONS,depression,Disease
+40179998,Paper,MENTIONS,transcriptomics,Evidence
+40179998,Paper,MENTIONS,xiaoyao san,Formula
+40179998,Paper,MENTIONS,mice,Species
+40179998,Paper,MENTIONS,mouse,Species
+40179998,Paper,MENTIONS,drd2,Target
+36039087,Paper,MENTIONS,major depressive disorder,Disease
+36039087,Paper,MENTIONS,network pharmacology,Evidence
+36039087,Paper,MENTIONS,chaihu shugan san,Formula
+36039087,Paper,MENTIONS,mice,Species
+36039087,Paper,MENTIONS,vegfa,Target
+36039087,Paper,MENTIONS,bdnf,Target
+41802506,Paper,MENTIONS,depression,Disease
+41802506,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41802506,Paper,MENTIONS,open field test,Experiment_indicator
+41802506,Paper,MENTIONS,tail suspension test,Experiment_indicator
+41802506,Paper,MENTIONS,chaihu shugan san,Formula
+41802506,Paper,MENTIONS,camp,Pathway
+41802506,Paper,MENTIONS,mice,Species
+41802506,Paper,MENTIONS,irritability,Symptom
+41802506,Paper,MENTIONS,liver qi stagnation,Syndrome
+41802506,Paper,MENTIONS,il-6,Target
+41802506,Paper,MENTIONS,bdnf,Target
+35111057,Paper,MENTIONS,depression,Disease
+35111057,Paper,MENTIONS,proteomics,Evidence
+35111057,Paper,MENTIONS,bioinformatics analysis,Evidence
+35111057,Paper,MENTIONS,sucrose preference,Experiment_indicator
+35111057,Paper,MENTIONS,food intake,Experiment_indicator
+35111057,Paper,MENTIONS,rat,Species
+24015243,Paper,MENTIONS,anxiety,Disease
+24015243,Paper,MENTIONS,depression,Disease
+24015243,Paper,MENTIONS,open field test,Experiment_indicator
+24015243,Paper,MENTIONS,rats,Species
+24015243,Paper,MENTIONS,anxiety,Symptom
+36545317,Paper,MENTIONS,depression,Disease
+36545317,Paper,MENTIONS,network pharmacology,Evidence
+36545317,Paper,MENTIONS,tail suspension test,Experiment_indicator
+36545317,Paper,MENTIONS,open field test,Experiment_indicator
+36545317,Paper,MENTIONS,mice,Species
+20673169,Paper,MENTIONS,depression,Disease
+20673169,Paper,MENTIONS,mice,Species
+37924576,Paper,MENTIONS,depression,Disease
+37924576,Paper,MENTIONS,metabolomics,Evidence
+37924576,Paper,MENTIONS,yueju wan,Formula
+37924576,Paper,MENTIONS,tryptophan metabolism,Pathway
+37924576,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+37924576,Paper,MENTIONS,rat,Species
+37924576,Paper,MENTIONS,rats,Species
+37924576,Paper,MENTIONS,il-1β,Target
+37924576,Paper,MENTIONS,nlrp3,Target
+36279723,Paper,MENTIONS,anxiety,Disease
+36279723,Paper,MENTIONS,depression,Disease
+36279723,Paper,MENTIONS,xiaoyao san,Formula
+36279723,Paper,MENTIONS,mice,Species
+36279723,Paper,MENTIONS,anxiety,Symptom
+36279723,Paper,MENTIONS,drd2,Target
+37751044,Paper,MENTIONS,perimenopausal depression,Disease
+37751044,Paper,MENTIONS,network pharmacology,Evidence
+37751044,Paper,MENTIONS,chaihu shugan san,Formula
+37751044,Paper,MENTIONS,rat,Species
+37751044,Paper,MENTIONS,rats,Species
+35190952,Paper,MENTIONS,perimenopausal depression,Disease
+35190952,Paper,MENTIONS,depression,Disease
+35190952,Paper,MENTIONS,anxiety,Disease
+35190952,Paper,MENTIONS,rat,Species
+35190952,Paper,MENTIONS,rats,Species
+35190952,Paper,MENTIONS,anxiety,Symptom
+38633609,Paper,MENTIONS,depression,Disease
+38633609,Paper,MENTIONS,systematic review,Evidence
+38633609,Paper,MENTIONS,meta-analysis,Evidence
+24914308,Paper,MENTIONS,depression,Disease
+24914308,Paper,MENTIONS,locomotor activity,Experiment_indicator
+24914308,Paper,MENTIONS,open field test,Experiment_indicator
+24914308,Paper,MENTIONS,rats,Species
+24914308,Paper,MENTIONS,erk1/2,Target
+24486208,Paper,MENTIONS,depression,Disease
+24486208,Paper,MENTIONS,locomotor activity,Experiment_indicator
+24486208,Paper,MENTIONS,open field test,Experiment_indicator
+24486208,Paper,MENTIONS,rats,Species
+40969945,Paper,MENTIONS,depression,Disease
+40969945,Paper,MENTIONS,xiaoyao san,Formula
+40969945,Paper,MENTIONS,chaihu shugan san,Formula
+40969945,Paper,MENTIONS,paeoniflorin,Ingredient
+31781287,Paper,MENTIONS,depression,Disease
+31781287,Paper,MENTIONS,bioinformatics analysis,Evidence
+31781287,Paper,MENTIONS,mouse,Species
+31781287,Paper,MENTIONS,mice,Species
+31781287,Paper,MENTIONS,qi stagnation,Syndrome
+31781287,Paper,MENTIONS,spleen deficiency,Syndrome
+37664720,Paper,MENTIONS,depression,Disease
+37664720,Paper,MENTIONS,systematic review,Evidence
+40912487,Paper,MENTIONS,depression,Disease
+40912487,Paper,MENTIONS,network pharmacology,Evidence
+40912487,Paper,MENTIONS,molecular docking,Evidence
+40912487,Paper,MENTIONS,xiaoyao san,Formula
+40912487,Paper,MENTIONS,stigmasterol,Ingredient
+40912487,Paper,MENTIONS,hif-1 signaling pathway,Pathway
+40912487,Paper,MENTIONS,blood deficiency,Syndrome
+35906133,Paper,MENTIONS,depression,Disease
+35906133,Paper,MENTIONS,social interaction test,Experiment_indicator
+35906133,Paper,MENTIONS,open field test,Experiment_indicator
+35906133,Paper,MENTIONS,forced swim test,Experiment_indicator
+35906133,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+35906133,Paper,MENTIONS,xiaoyao san,Formula
+35906133,Paper,MENTIONS,ampk,Pathway
+35906133,Paper,MENTIONS,mice,Species
+34391441,Paper,MENTIONS,anxiety,Disease
+34391441,Paper,MENTIONS,depression,Disease
+34391441,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+34391441,Paper,MENTIONS,tail suspension test,Experiment_indicator
+34391441,Paper,MENTIONS,mice,Species
+34391441,Paper,MENTIONS,anxiety,Symptom
+34391441,Paper,MENTIONS,bdnf,Target
+34391441,Paper,MENTIONS,il-6,Target
+29728023,Paper,MENTIONS,depression,Disease
+29728023,Paper,MENTIONS,yueju wan,Formula
+29728023,Paper,MENTIONS,serotonergic synapse,Pathway
+29728023,Paper,MENTIONS,human,Species
+36339629,Paper,MENTIONS,depression,Disease
+36339629,Paper,MENTIONS,mice,Species
+36339629,Paper,MENTIONS,mouse,Species
+36339629,Paper,MENTIONS,trkb,Target
+29864926,Paper,MENTIONS,depression,Disease
+29864926,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+29864926,Paper,MENTIONS,rats,Species
+29864926,Paper,MENTIONS,rat,Species
+29864926,Paper,MENTIONS,il-1β,Target
+29864926,Paper,MENTIONS,tlr4,Target
+29864926,Paper,MENTIONS,nlrp3,Target
+38451006,Paper,MENTIONS,depression,Disease
+38451006,Paper,MENTIONS,network pharmacology,Evidence
+38451006,Paper,MENTIONS,metabolomics,Evidence
+38451006,Paper,MENTIONS,molecular docking,Evidence
+38451006,Paper,MENTIONS,xiaoyao san,Formula
+38451006,Paper,MENTIONS,rats,Species
+37263314,Paper,MENTIONS,depression,Disease
+37263314,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37263314,Paper,MENTIONS,xiaoyao san,Formula
+37263314,Paper,MENTIONS,mtor,Pathway
+37263314,Paper,MENTIONS,tnf,Pathway
+37263314,Paper,MENTIONS,mice,Species
+37263314,Paper,MENTIONS,cell line,Species
+37263314,Paper,MENTIONS,mtor,Target
+37263314,Paper,MENTIONS,il-1β,Target
+38551057,Paper,MENTIONS,depression,Disease
+38551057,Paper,MENTIONS,network pharmacology,Evidence
+38551057,Paper,MENTIONS,proteomics,Evidence
+38551057,Paper,MENTIONS,nobiletin,Ingredient
+38551057,Paper,MENTIONS,ferulic acid,Ingredient
+38551057,Paper,MENTIONS,albiflorin,Ingredient
+38551057,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+38551057,Paper,MENTIONS,human,Species
+29863014,Paper,MENTIONS,depression,Disease
+29863014,Paper,MENTIONS,open field test,Experiment_indicator
+29863014,Paper,MENTIONS,rats,Species
+21791239,Paper,MENTIONS,depression,Disease
+21791239,Paper,MENTIONS,locomotor activity,Experiment_indicator
+21791239,Paper,MENTIONS,ferulic acid,Ingredient
+21791239,Paper,MENTIONS,hpa axis,Pathway
+21791239,Paper,MENTIONS,rat,Species
+39295891,Paper,MENTIONS,depression,Disease
+39295891,Paper,MENTIONS,sucrose preference,Experiment_indicator
+39295891,Paper,MENTIONS,chaihu shugan san,Formula
+39295891,Paper,MENTIONS,hpa axis,Pathway
+39295891,Paper,MENTIONS,rats,Species
+39295891,Paper,MENTIONS,rat,Species
+39295891,Paper,MENTIONS,qi stagnation,Syndrome
+25210314,Paper,MENTIONS,depression,Disease
+25210314,Paper,MENTIONS,depressive disorder,Disease
+25210314,Paper,MENTIONS,locomotor activity,Experiment_indicator
+25210314,Paper,MENTIONS,rat,Species
+25210314,Paper,MENTIONS,rats,Species
+25210314,Paper,MENTIONS,jnk,Target
+25210314,Paper,MENTIONS,jun,Target
+32923002,Paper,MENTIONS,depression,Disease
+32923002,Paper,MENTIONS,pharmacokinetic study,Evidence
+42266144,Paper,MENTIONS,depression,Disease
+42266144,Paper,MENTIONS,chaihu shugan san,Formula
+42266144,Paper,MENTIONS,rats,Species
+31022598,Paper,MENTIONS,depression,Disease
+31022598,Paper,MENTIONS,sucrose preference,Experiment_indicator
+31022598,Paper,MENTIONS,bdnf-trkb,Pathway
+31022598,Paper,MENTIONS,tnf,Pathway
+31022598,Paper,MENTIONS,mice,Species
+31022598,Paper,MENTIONS,human,Species
+31022598,Paper,MENTIONS,bdnf,Target
+31022598,Paper,MENTIONS,trkb,Target
+31022598,Paper,MENTIONS,il-1β,Target
+31022598,Paper,MENTIONS,il-6,Target
+15642599,Paper,MENTIONS,depression,Disease
+15642599,Paper,MENTIONS,rat,Species
+34385814,Paper,MENTIONS,major depressive disorder,Disease
+34385814,Paper,MENTIONS,network pharmacology,Evidence
+34385814,Paper,MENTIONS,molecular docking,Evidence
+34385814,Paper,MENTIONS,chaihu shugan san,Formula
+34385814,Paper,MENTIONS,quercetin,Ingredient
+34385814,Paper,MENTIONS,luteolin,Ingredient
+34385814,Paper,MENTIONS,kaempferol,Ingredient
+34385814,Paper,MENTIONS,mice,Species
+34385814,Paper,MENTIONS,gsk3β,Target
+40686183,Paper,MENTIONS,depression,Disease
+40686183,Paper,MENTIONS,network pharmacology,Evidence
+40686183,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40686183,Paper,MENTIONS,yueju wan,Formula
+40686183,Paper,MENTIONS,mouse,Species
+40686183,Paper,MENTIONS,mice,Species
+40686183,Paper,MENTIONS,il-1β,Target
+40686183,Paper,MENTIONS,stat3,Target
+40686183,Paper,MENTIONS,casp3,Target
+40686183,Paper,MENTIONS,bdnf,Target
+22019334,Paper,MENTIONS,depression,Disease
+22019334,Paper,MENTIONS,sucrose preference,Experiment_indicator
+22019334,Paper,MENTIONS,rat,Species
+22019334,Paper,MENTIONS,rats,Species
+22019334,Paper,MENTIONS,bdnf,Target
+36099982,Paper,MENTIONS,depression,Disease
+36099982,Paper,MENTIONS,metabolomics,Evidence
+36099982,Paper,MENTIONS,xiaoyao san,Formula
+36099982,Paper,MENTIONS,rats,Species
+36099982,Paper,MENTIONS,qi stagnation,Syndrome
+41894346,Paper,MENTIONS,depression,Disease
+41894346,Paper,MENTIONS,network pharmacology,Evidence
+41894346,Paper,MENTIONS,molecular docking,Evidence
+41894346,Paper,MENTIONS,yueju wan,Formula
+41894346,Paper,MENTIONS,tnf,Pathway
+41894346,Paper,MENTIONS,zebrafish,Species
+41894346,Paper,MENTIONS,il-6,Target
+41894346,Paper,MENTIONS,rela,Target
+40028110,Paper,MENTIONS,depression,Disease
+40028110,Paper,MENTIONS,network pharmacology,Evidence
+40028110,Paper,MENTIONS,chaihu shugan san,Formula
+40028110,Paper,MENTIONS,pi3k-akt,Pathway
+40028110,Paper,MENTIONS,mtor,Pathway
+40028110,Paper,MENTIONS,rats,Species
+40028110,Paper,MENTIONS,rat,Species
+40028110,Paper,MENTIONS,mtor,Target
+39603396,Paper,MENTIONS,depression,Disease
+39603396,Paper,MENTIONS,kaempferol,Ingredient
+39512328,Paper,MENTIONS,Glycyrrhizae radix,Herb
+39512328,Paper,MENTIONS,depression,Disease
+39512328,Paper,MENTIONS,sadness,Symptom
+26889228,Paper,MENTIONS,depression,Disease
+26889228,Paper,MENTIONS,rats,Species
+34467737,Paper,MENTIONS,depression,Disease
+34467737,Paper,MENTIONS,network pharmacology,Evidence
+34467737,Paper,MENTIONS,molecular docking,Evidence
+34467737,Paper,MENTIONS,xiaoyao san,Formula
+34467737,Paper,MENTIONS,kaempferol,Ingredient
+34467737,Paper,MENTIONS,quercetin,Ingredient
+34467737,Paper,MENTIONS,hif-1 signaling pathway,Pathway
+34467737,Paper,MENTIONS,tnf,Pathway
+34467737,Paper,MENTIONS,liver depression and spleen deficiency,Syndrome
+25422553,Paper,MENTIONS,depression,Disease
+25422553,Paper,MENTIONS,major depressive disorder,Disease
+21368416,Paper,MENTIONS,depression,Disease
+21368416,Paper,MENTIONS,chaihu shugan san,Formula
+21368416,Paper,MENTIONS,rats,Species
+21368416,Paper,MENTIONS,erk1/2,Target
+24137289,Paper,MENTIONS,depression,Disease
+24137289,Paper,MENTIONS,pharmacokinetic study,Evidence
+24137289,Paper,MENTIONS,rat,Species
+24137289,Paper,MENTIONS,rats,Species
+32185198,Paper,MENTIONS,depression,Disease
+32185198,Paper,MENTIONS,sucrose preference,Experiment_indicator
+32185198,Paper,MENTIONS,open field test,Experiment_indicator
+32185198,Paper,MENTIONS,y-maze test,Experiment_indicator
+32185198,Paper,MENTIONS,chaihu shugan san,Formula
+32185198,Paper,MENTIONS,erk-creb,Pathway
+32185198,Paper,MENTIONS,rat,Species
+32185198,Paper,MENTIONS,rats,Species
+32185198,Paper,MENTIONS,bdnf,Target
+32185198,Paper,MENTIONS,creb,Target
+29843044,Paper,MENTIONS,perimenopausal depression,Disease
+29843044,Paper,MENTIONS,depression,Disease
+29843044,Paper,MENTIONS,chaihu shugan san,Formula
+29843044,Paper,MENTIONS,bdnf-trkb,Pathway
+29843044,Paper,MENTIONS,rats,Species
+29843044,Paper,MENTIONS,bdnf,Target
+29843044,Paper,MENTIONS,trkb,Target
+33167098,Paper,MENTIONS,depression,Disease
+33167098,Paper,MENTIONS,xiaoyao san,Formula
+33167098,Paper,MENTIONS,tnf,Pathway
+33167098,Paper,MENTIONS,rats,Species
+33167098,Paper,MENTIONS,tlr4,Target
+33167098,Paper,MENTIONS,il-6,Target
+41038327,Paper,MENTIONS,post-stroke depression,Disease
+41038327,Paper,MENTIONS,metabolomics,Evidence
+41038327,Paper,MENTIONS,molecular docking,Evidence
+41038327,Paper,MENTIONS,chaihu shugan san,Formula
+41038327,Paper,MENTIONS,nobiletin,Ingredient
+41038327,Paper,MENTIONS,rats,Species
+41038327,Paper,MENTIONS,bdnf,Target
+25427198,Paper,MENTIONS,depression,Disease
+25427198,Paper,MENTIONS,human,Species
+32348951,Paper,MENTIONS,depression,Disease
+32348951,Paper,MENTIONS,pharmacokinetic study,Evidence
+32348951,Paper,MENTIONS,ferulic acid,Ingredient
+32348951,Paper,MENTIONS,hesperidin,Ingredient
+32348951,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+32348951,Paper,MENTIONS,saikosaponin a,Ingredient
+32348951,Paper,MENTIONS,nobiletin,Ingredient
+32348951,Paper,MENTIONS,rats,Species
+32348951,Paper,MENTIONS,rat,Species
+41727502,Paper,MENTIONS,depression,Disease
+41727502,Paper,MENTIONS,multi-omics,Evidence
+41727502,Paper,MENTIONS,network pharmacology,Evidence
+41727502,Paper,MENTIONS,xiaoyao san,Formula
+41727502,Paper,MENTIONS,nf-kb,Pathway
+41727502,Paper,MENTIONS,mouse,Species
+41727502,Paper,MENTIONS,rela,Target
+23947143,Paper,MENTIONS,depression,Disease
+23947143,Paper,MENTIONS,chaihu shugan san,Formula
+23947143,Paper,MENTIONS,rats,Species
+29217494,Paper,MENTIONS,depression,Disease
+29217494,Paper,MENTIONS,open field test,Experiment_indicator
+29217494,Paper,MENTIONS,sucrose preference,Experiment_indicator
+29217494,Paper,MENTIONS,forced swim test,Experiment_indicator
+29217494,Paper,MENTIONS,locomotor activity,Experiment_indicator
+29217494,Paper,MENTIONS,food intake,Experiment_indicator
+29217494,Paper,MENTIONS,xiaoyao san,Formula
+29217494,Paper,MENTIONS,rat,Species
+29217494,Paper,MENTIONS,rats,Species
+29217494,Paper,MENTIONS,bdnf,Target
+29217494,Paper,MENTIONS,creb,Target
+27413389,Paper,MENTIONS,depression,Disease
+27413389,Paper,MENTIONS,hpa axis,Pathway
+27413389,Paper,MENTIONS,rats,Species
+27413389,Paper,MENTIONS,rat,Species
+41047379,Paper,MENTIONS,depression,Disease
+41047379,Paper,MENTIONS,anxiety,Disease
+41047379,Paper,MENTIONS,molecular docking,Evidence
+41047379,Paper,MENTIONS,zebrafish,Species
+41047379,Paper,MENTIONS,mice,Species
+41047379,Paper,MENTIONS,anxiety,Symptom
+41047379,Paper,MENTIONS,bdnf,Target
+41047379,Paper,MENTIONS,trkb,Target
+37295570,Paper,MENTIONS,depression,Disease
+37295570,Paper,MENTIONS,tnf,Pathway
+37295570,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+37295570,Paper,MENTIONS,mice,Species
+37295570,Paper,MENTIONS,mouse,Species
+37295570,Paper,MENTIONS,nlrp3,Target
+37295570,Paper,MENTIONS,il-1β,Target
+37295570,Paper,MENTIONS,il-6,Target
+37277081,Paper,MENTIONS,depression,Disease
+37277081,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37277081,Paper,MENTIONS,open field test,Experiment_indicator
+37277081,Paper,MENTIONS,tail suspension test,Experiment_indicator
+37277081,Paper,MENTIONS,saikosaponin b2,Ingredient
+37277081,Paper,MENTIONS,mice,Species
+37277081,Paper,MENTIONS,tlr4,Target
+38675471,Paper,MENTIONS,depression,Disease
+38675471,Paper,MENTIONS,sinisan,Formula
+38675471,Paper,MENTIONS,saikosaponin a,Ingredient
+38675471,Paper,MENTIONS,saikosaponin d,Ingredient
+38675471,Paper,MENTIONS,rutin,Ingredient
+38675471,Paper,MENTIONS,quercetin,Ingredient
+38675471,Paper,MENTIONS,human,Species
+38675471,Paper,MENTIONS,bdnf,Target
+22414105,Paper,MENTIONS,Pinelliae rhizoma,Herb
+22414105,Paper,MENTIONS,depression,Disease
+41547067,Paper,MENTIONS,depression,Disease
+41547067,Paper,MENTIONS,tnf,Pathway
+41547067,Paper,MENTIONS,rat,Species
+41547067,Paper,MENTIONS,primary neuron,Species
+41547067,Paper,MENTIONS,astrocyte,Species
+41547067,Paper,MENTIONS,rats,Species
+41547067,Paper,MENTIONS,p2x7r,Target
+41547067,Paper,MENTIONS,bdnf,Target
+41547067,Paper,MENTIONS,nlrp3,Target
+41547067,Paper,MENTIONS,il-1β,Target
+36408279,Paper,MENTIONS,depression,Disease
+36408279,Paper,MENTIONS,hpa axis,Pathway
+35462897,Paper,MENTIONS,depression,Disease
+35462897,Paper,MENTIONS,depressive disorder,Disease
+35462897,Paper,MENTIONS,meta-analysis,Evidence
+35462897,Paper,MENTIONS,network pharmacology,Evidence
+35462897,Paper,MENTIONS,randomized controlled trial,Evidence
+35462897,Paper,MENTIONS,bioinformatics analysis,Evidence
+35462897,Paper,MENTIONS,systematic review,Evidence
+35462897,Paper,MENTIONS,mapk,Pathway
+35462897,Paper,MENTIONS,jun,Target
+35462897,Paper,MENTIONS,myc,Target
+35462897,Paper,MENTIONS,mapk1,Target
+40427467,Paper,MENTIONS,depression,Disease
+40427467,Paper,MENTIONS,paeoniflorin,Ingredient
+40427467,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+40427467,Paper,MENTIONS,tnf,Pathway
+40427467,Paper,MENTIONS,mice,Species
+40427467,Paper,MENTIONS,hippocampal neuron,Species
+40427467,Paper,MENTIONS,bdnf,Target
+40427467,Paper,MENTIONS,nlrp3,Target
+40427467,Paper,MENTIONS,gsk3β,Target
+40427467,Paper,MENTIONS,il-1β,Target
+40427467,Paper,MENTIONS,il-6,Target
+40427467,Paper,MENTIONS,tlr4,Target
+40708436,Paper,MENTIONS,depression,Disease
+40708436,Paper,MENTIONS,systematic review,Evidence
+40708436,Paper,MENTIONS,albiflorin,Ingredient
+40708436,Paper,MENTIONS,mapk,Pathway
+40708436,Paper,MENTIONS,tryptophan metabolism,Pathway
+40708436,Paper,MENTIONS,hpa axis,Pathway
+40708436,Paper,MENTIONS,bdnf,Target
+37844745,Paper,MENTIONS,depression,Disease
+37844745,Paper,MENTIONS,depressive disorder,Disease
+37844745,Paper,MENTIONS,molecular docking,Evidence
+37844745,Paper,MENTIONS,social interaction test,Experiment_indicator
+37844745,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37844745,Paper,MENTIONS,tail suspension test,Experiment_indicator
+37844745,Paper,MENTIONS,open field test,Experiment_indicator
+37844745,Paper,MENTIONS,saikosaponin a,Ingredient
+37844745,Paper,MENTIONS,mice,Species
+37844745,Paper,MENTIONS,mouse,Species
+37844745,Paper,MENTIONS,bdnf,Target
+32178272,Paper,MENTIONS,depression,Disease
+32178272,Paper,MENTIONS,anxiety,Disease
+32178272,Paper,MENTIONS,human,Species
+32178272,Paper,MENTIONS,anxiety,Symptom
+41780614,Paper,MENTIONS,Chuanxiong rhizoma,Herb
+41780614,Paper,MENTIONS,depression,Disease
+41780614,Paper,MENTIONS,network pharmacology,Evidence
+41780614,Paper,MENTIONS,molecular docking,Evidence
+41780614,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41780614,Paper,MENTIONS,tnf,Pathway
+41780614,Paper,MENTIONS,rat,Species
+41780614,Paper,MENTIONS,rats,Species
+41780614,Paper,MENTIONS,blood stasis,Syndrome
+41780614,Paper,MENTIONS,blood deficiency,Syndrome
+41780614,Paper,MENTIONS,il-1β,Target
+41780614,Paper,MENTIONS,il-6,Target
+41780614,Paper,MENTIONS,bdnf,Target
+35881212,Paper,MENTIONS,depression,Disease
+35881212,Paper,MENTIONS,open field test,Experiment_indicator
+35881212,Paper,MENTIONS,tail suspension test,Experiment_indicator
+35881212,Paper,MENTIONS,mtor,Pathway
+35881212,Paper,MENTIONS,rats,Species
+35881212,Paper,MENTIONS,mice,Species
+35881212,Paper,MENTIONS,bdnf,Target
+35881212,Paper,MENTIONS,mtor,Target
+40682677,Paper,MENTIONS,depression,Disease
+40682677,Paper,MENTIONS,paeoniflorin,Ingredient
+40682677,Paper,MENTIONS,hpa axis,Pathway
+40682677,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+40682677,Paper,MENTIONS,mtor,Pathway
+40682677,Paper,MENTIONS,sadness,Symptom
+40682677,Paper,MENTIONS,hopelessness,Symptom
+40682677,Paper,MENTIONS,bdnf,Target
+40682677,Paper,MENTIONS,nlrp3,Target
+40682677,Paper,MENTIONS,creb,Target
+40682677,Paper,MENTIONS,mtor,Target
+38074876,Paper,MENTIONS,Ziziphi spinosae semen,Herb
+38074876,Paper,MENTIONS,major depressive disorder,Disease
+38074876,Paper,MENTIONS,liquiritin,Ingredient
+38074876,Paper,MENTIONS,bdnf,Target
+38074876,Paper,MENTIONS,trkb,Target
+38631487,Paper,MENTIONS,curcumae radix,Herb
+38631487,Paper,MENTIONS,depression,Disease
+38631487,Paper,MENTIONS,sucrose preference,Experiment_indicator
+38631487,Paper,MENTIONS,mice,Species
+38631487,Paper,MENTIONS,bdnf,Target
+31911246,Paper,MENTIONS,depression,Disease
+31911246,Paper,MENTIONS,berberine,Ingredient
+39637473,Paper,MENTIONS,depression,Disease
+39637473,Paper,MENTIONS,major depressive disorder,Disease
+39637473,Paper,MENTIONS,mice,Species
+41794258,Paper,MENTIONS,depression,Disease
+41794258,Paper,MENTIONS,saikosaponin a,Ingredient
+41794258,Paper,MENTIONS,mouse,Species
+41794258,Paper,MENTIONS,human,Species
+39094756,Paper,MENTIONS,gardeniae fructus,Herb
+39094756,Paper,MENTIONS,moutan cortex,Herb
+39094756,Paper,MENTIONS,bupleuri radix,Herb
+39094756,Paper,MENTIONS,depression,Disease
+39094756,Paper,MENTIONS,mtor,Pathway
+39094756,Paper,MENTIONS,mice,Species
+39094756,Paper,MENTIONS,mtor,Target
+39094756,Paper,MENTIONS,bdnf,Target
+31328996,Paper,MENTIONS,depression,Disease
+31328996,Paper,MENTIONS,major depressive disorder,Disease
+31328996,Paper,MENTIONS,systematic review,Evidence
+31328996,Paper,MENTIONS,meta-analysis,Evidence
+40816588,Paper,MENTIONS,bupleuri radix,Herb
+40816588,Paper,MENTIONS,depression,Disease
+40816588,Paper,MENTIONS,network pharmacology,Evidence
+40816588,Paper,MENTIONS,baicalin,Ingredient
+40816588,Paper,MENTIONS,wogonin,Ingredient
+40816588,Paper,MENTIONS,kaempferol,Ingredient
+40816588,Paper,MENTIONS,zebrafish,Species
+40816588,Paper,MENTIONS,mice,Species
+38972528,Paper,MENTIONS,adolescent depression,Disease
+38972528,Paper,MENTIONS,depression,Disease
+38972528,Paper,MENTIONS,sinisan,Formula
+38972528,Paper,MENTIONS,mice,Species
+22196583,Paper,MENTIONS,depression,Disease
+22196583,Paper,MENTIONS,forced swim test,Experiment_indicator
+22196583,Paper,MENTIONS,tail suspension test,Experiment_indicator
+22196583,Paper,MENTIONS,mouse,Species
+22196583,Paper,MENTIONS,mice,Species
+22196583,Paper,MENTIONS,rats,Species
+36046834,Paper,MENTIONS,depression,Disease
+36046834,Paper,MENTIONS,paeoniflorin,Ingredient
+36046834,Paper,MENTIONS,camp,Pathway
+36046834,Paper,MENTIONS,creb,Target
+36046834,Paper,MENTIONS,erk1/2,Target
+35088681,Paper,MENTIONS,depression,Disease
+35088681,Paper,MENTIONS,human,Species
+40453654,Paper,MENTIONS,depression,Disease
+40453654,Paper,MENTIONS,anxiety,Disease
+40453654,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40453654,Paper,MENTIONS,open field test,Experiment_indicator
+40453654,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+40453654,Paper,MENTIONS,saikosaponin a,Ingredient
+40453654,Paper,MENTIONS,tnf,Pathway
+40453654,Paper,MENTIONS,mouse,Species
+40453654,Paper,MENTIONS,mice,Species
+40453654,Paper,MENTIONS,anxiety,Symptom
+40453654,Paper,MENTIONS,tlr4,Target
+40453654,Paper,MENTIONS,bdnf,Target
+40453654,Paper,MENTIONS,il-1β,Target
+40453654,Paper,MENTIONS,il-6,Target
+36278199,Paper,MENTIONS,cyperi rhizoma,Herb
+36278199,Paper,MENTIONS,depression,Disease
+36278199,Paper,MENTIONS,systematic review,Evidence
+36278199,Paper,MENTIONS,liver qi stagnation,Syndrome
+36278199,Paper,MENTIONS,qi stagnation,Syndrome
+37764277,Paper,MENTIONS,depression,Disease
+37764277,Paper,MENTIONS,narrative review,Evidence
+37764277,Paper,MENTIONS,basic research,Evidence
+37764277,Paper,MENTIONS,baicalin,Ingredient
+34334273,Paper,MENTIONS,depression,Disease
+34334273,Paper,MENTIONS,paeoniflorin,Ingredient
+38572433,Paper,MENTIONS,major depressive disorder,Disease
+38572433,Paper,MENTIONS,depression,Disease
+38572433,Paper,MENTIONS,systematic review,Evidence
+38572433,Paper,MENTIONS,meta-analysis,Evidence
+40716620,Paper,MENTIONS,depression,Disease
+40716620,Paper,MENTIONS,molecular docking,Evidence
+40716620,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40716620,Paper,MENTIONS,open field test,Experiment_indicator
+40716620,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40716620,Paper,MENTIONS,mouse,Species
+40716620,Paper,MENTIONS,mice,Species
+35847012,Paper,MENTIONS,depression,Disease
+35847012,Paper,MENTIONS,metabolomics,Evidence
+35847012,Paper,MENTIONS,tnf,Pathway
+35847012,Paper,MENTIONS,rat,Species
+35847012,Paper,MENTIONS,nlrp3,Target
+35847012,Paper,MENTIONS,il-6,Target
+40348996,Paper,MENTIONS,depression,Disease
+40348996,Paper,MENTIONS,metabolomics,Evidence
+40348996,Paper,MENTIONS,open field test,Experiment_indicator
+40348996,Paper,MENTIONS,hpa axis,Pathway
+40348996,Paper,MENTIONS,rats,Species
+40348996,Paper,MENTIONS,rat,Species
+38217462,Paper,MENTIONS,depression,Disease
+38217462,Paper,MENTIONS,metabolomics,Evidence
+38217462,Paper,MENTIONS,rat,Species
+38217462,Paper,MENTIONS,rats,Species
+35589704,Paper,MENTIONS,depression,Disease
+35589704,Paper,MENTIONS,anxiety,Disease
+35589704,Paper,MENTIONS,human,Species
+35589704,Paper,MENTIONS,mice,Species
+35589704,Paper,MENTIONS,anxiety,Symptom
+35589704,Paper,MENTIONS,bdnf,Target
+39701046,Paper,MENTIONS,scutellariae radix,Herb
+39701046,Paper,MENTIONS,anxiety,Disease
+39701046,Paper,MENTIONS,depression,Disease
+39701046,Paper,MENTIONS,molecular docking,Evidence
+39701046,Paper,MENTIONS,open field test,Experiment_indicator
+39701046,Paper,MENTIONS,tail suspension test,Experiment_indicator
+39701046,Paper,MENTIONS,wogonin,Ingredient
+39701046,Paper,MENTIONS,baicalin,Ingredient
+39701046,Paper,MENTIONS,hpa axis,Pathway
+39701046,Paper,MENTIONS,mouse,Species
+39701046,Paper,MENTIONS,mice,Species
+39701046,Paper,MENTIONS,anxiety,Symptom
+36574791,Paper,MENTIONS,depression,Disease
+36574791,Paper,MENTIONS,metabolomics,Evidence
+36574791,Paper,MENTIONS,molecular docking,Evidence
+36574791,Paper,MENTIONS,rats,Species
+34900345,Paper,MENTIONS,depression,Disease
+34900345,Paper,MENTIONS,cryptotanshinone,Ingredient
+34900345,Paper,MENTIONS,camp,Pathway
+34900345,Paper,MENTIONS,tnf,Pathway
+34900345,Paper,MENTIONS,mice,Species
+34900345,Paper,MENTIONS,bdnf,Target
+34900345,Paper,MENTIONS,trkb,Target
+34900345,Paper,MENTIONS,creb,Target
+34900345,Paper,MENTIONS,il-6,Target
+40077679,Paper,MENTIONS,anxiety,Disease
+40077679,Paper,MENTIONS,depression,Disease
+40077679,Paper,MENTIONS,placebo-controlled trial,Evidence
+40077679,Paper,MENTIONS,patient,Species
+40077679,Paper,MENTIONS,anxiety,Symptom
+39971013,Paper,MENTIONS,paeoniae radix alba,Herb
+39971013,Paper,MENTIONS,depression,Disease
+39971013,Paper,MENTIONS,anxiety,Disease
+39971013,Paper,MENTIONS,network pharmacology,Evidence
+39971013,Paper,MENTIONS,molecular docking,Evidence
+39971013,Paper,MENTIONS,paeoniflorin,Ingredient
+39971013,Paper,MENTIONS,mice,Species
+39971013,Paper,MENTIONS,anxiety,Symptom
+39971013,Paper,MENTIONS,fos,Target
+39971013,Paper,MENTIONS,erk1/2,Target
+41139445,Paper,MENTIONS,anxiety,Disease
+41139445,Paper,MENTIONS,depression,Disease
+41139445,Paper,MENTIONS,literature review,Evidence
+41139445,Paper,MENTIONS,network pharmacology,Evidence
+41139445,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41139445,Paper,MENTIONS,forced swim test,Experiment_indicator
+41139445,Paper,MENTIONS,open field test,Experiment_indicator
+41139445,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+41139445,Paper,MENTIONS,quercetin,Ingredient
+41139445,Paper,MENTIONS,formononetin,Ingredient
+41139445,Paper,MENTIONS,nobiletin,Ingredient
+41139445,Paper,MENTIONS,mice,Species
+41139445,Paper,MENTIONS,mouse,Species
+41139445,Paper,MENTIONS,anxiety,Symptom
+41139445,Paper,MENTIONS,stat3,Target
+41139445,Paper,MENTIONS,il-1β,Target
+41139445,Paper,MENTIONS,il-6,Target
+34049474,Paper,MENTIONS,depression,Disease
+34049474,Paper,MENTIONS,sucrose preference,Experiment_indicator
+34049474,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+34049474,Paper,MENTIONS,berberine,Ingredient
+34049474,Paper,MENTIONS,ginsenoside rb1,Ingredient
+34049474,Paper,MENTIONS,rats,Species
+34049474,Paper,MENTIONS,rat,Species
+34049474,Paper,MENTIONS,bdnf,Target
+35924058,Paper,MENTIONS,depression,Disease
+35143936,Paper,MENTIONS,depression,Disease
+35143936,Paper,MENTIONS,systematic review,Evidence
+35143936,Paper,MENTIONS,meta-analysis,Evidence
+35143936,Paper,MENTIONS,paeoniflorin,Ingredient
+41033421,Paper,MENTIONS,depression,Disease
+41033421,Paper,MENTIONS,network pharmacology,Evidence
+41033421,Paper,MENTIONS,camp,Pathway
+41033421,Paper,MENTIONS,pka,Pathway
+41033421,Paper,MENTIONS,human,Species
+41033421,Paper,MENTIONS,mouse,Species
+41033421,Paper,MENTIONS,mice,Species
+40657643,Paper,MENTIONS,depression,Disease
+40657643,Paper,MENTIONS,salvianolic acid b,Ingredient
+40657643,Paper,MENTIONS,ampk,Pathway
+32810624,Paper,MENTIONS,depression,Disease
+32810624,Paper,MENTIONS,network pharmacology,Evidence
+32810624,Paper,MENTIONS,metabolomics,Evidence
+32810624,Paper,MENTIONS,sucrose preference,Experiment_indicator
+32810624,Paper,MENTIONS,forced swim test,Experiment_indicator
+32810624,Paper,MENTIONS,mapk,Pathway
+32810624,Paper,MENTIONS,arachidonic acid metabolism,Pathway
+32810624,Paper,MENTIONS,rat,Species
+22450800,Paper,MENTIONS,depression,Disease
+22450800,Paper,MENTIONS,anxiety,Disease
+22450800,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+22450800,Paper,MENTIONS,rats,Species
+22450800,Paper,MENTIONS,rat,Species
+22450800,Paper,MENTIONS,anxiety,Symptom
+24974002,Paper,MENTIONS,depression,Disease
+24974002,Paper,MENTIONS,major depressive disorder,Disease
+24974002,Paper,MENTIONS,systematic review,Evidence
+24974002,Paper,MENTIONS,meta-analysis,Evidence
+41115486,Paper,MENTIONS,polygalae radix,Herb
+41115486,Paper,MENTIONS,depression,Disease
+41115486,Paper,MENTIONS,multi-omics,Evidence
+41115486,Paper,MENTIONS,transcriptomics,Evidence
+41115486,Paper,MENTIONS,metabolomics,Evidence
+41115486,Paper,MENTIONS,zebrafish,Species
+33069838,Paper,MENTIONS,polygalae radix,Herb
+33069838,Paper,MENTIONS,depression,Disease
+33069838,Paper,MENTIONS,insomnia,Symptom
+37315645,Paper,MENTIONS,depression,Disease
+37315645,Paper,MENTIONS,major depressive disorder,Disease
+37315645,Paper,MENTIONS,molecular docking,Evidence
+37315645,Paper,MENTIONS,paeoniflorin,Ingredient
+37315645,Paper,MENTIONS,mice,Species
+37315645,Paper,MENTIONS,hepg2 cell,Species
+37315645,Paper,MENTIONS,human,Species
+37315645,Paper,MENTIONS,mouse,Species
+37745719,Paper,MENTIONS,depression,Disease
+37745719,Paper,MENTIONS,network pharmacology,Evidence
+37745719,Paper,MENTIONS,molecular docking,Evidence
+37745719,Paper,MENTIONS,quercetin,Ingredient
+37745719,Paper,MENTIONS,beta-sitosterol,Ingredient
+37745719,Paper,MENTIONS,kaempferol,Ingredient
+37745719,Paper,MENTIONS,jun,Target
+37745719,Paper,MENTIONS,akt1,Target
+37745719,Paper,MENTIONS,tp53,Target
+37745719,Paper,MENTIONS,stat3,Target
+25719303,Paper,MENTIONS,depression,Disease
+25719303,Paper,MENTIONS,liquiritin,Ingredient
+25719303,Paper,MENTIONS,curcumin,Ingredient
+37258428,Paper,MENTIONS,protocol,Evidence
+37258428,Paper,MENTIONS,body weight change,Experiment_indicator
+37258428,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37258428,Paper,MENTIONS,rats,Species
+37258428,Paper,MENTIONS,tlr4,Target
+41218379,Paper,MENTIONS,adolescent depression,Disease
+41218379,Paper,MENTIONS,depression,Disease
+41218379,Paper,MENTIONS,molecular docking,Evidence
+41218379,Paper,MENTIONS,z-ligustilide,Ingredient
+41218379,Paper,MENTIONS,pka,Pathway
+41218379,Paper,MENTIONS,ampk,Pathway
+41218379,Paper,MENTIONS,rat,Species
+41218379,Paper,MENTIONS,rats,Species
+38479544,Paper,MENTIONS,depression,Disease
+38479544,Paper,MENTIONS,network pharmacology,Evidence
+38479544,Paper,MENTIONS,mice,Species
+38479544,Paper,MENTIONS,stat3,Target
+38479544,Paper,MENTIONS,akt1,Target
+38479544,Paper,MENTIONS,il-6,Target
+41237868,Paper,MENTIONS,anxiety,Disease
+41237868,Paper,MENTIONS,depression,Disease
+41237868,Paper,MENTIONS,metabolomics,Evidence
+41237868,Paper,MENTIONS,tryptophan metabolism,Pathway
+41237868,Paper,MENTIONS,rats,Species
+41237868,Paper,MENTIONS,rat,Species
+41237868,Paper,MENTIONS,anxiety,Symptom
+41237868,Paper,MENTIONS,insomnia,Symptom
+41237868,Paper,MENTIONS,il-1β,Target
+41237868,Paper,MENTIONS,il-6,Target
+35098831,Paper,MENTIONS,comorbid anxiety and depression,Disease
+35098831,Paper,MENTIONS,anxiety,Disease
+35098831,Paper,MENTIONS,depression,Disease
+35098831,Paper,MENTIONS,network pharmacology,Evidence
+35098831,Paper,MENTIONS,tnf,Pathway
+35098831,Paper,MENTIONS,anxiety,Symptom
+35098831,Paper,MENTIONS,akt1,Target
+35098831,Paper,MENTIONS,jun,Target
+35098831,Paper,MENTIONS,casp3,Target
+37925093,Paper,MENTIONS,depression,Disease
+37925093,Paper,MENTIONS,network pharmacology,Evidence
+37925093,Paper,MENTIONS,liquiritin,Ingredient
+37925093,Paper,MENTIONS,glycyrrhizic acid,Ingredient
+37925093,Paper,MENTIONS,quercetin,Ingredient
+41213440,Paper,MENTIONS,depression,Disease
+41213440,Paper,MENTIONS,network pharmacology,Evidence
+41213440,Paper,MENTIONS,molecular docking,Evidence
+41213440,Paper,MENTIONS,saikosaponin a,Ingredient
+41213440,Paper,MENTIONS,quercetin,Ingredient
+41213440,Paper,MENTIONS,rutin,Ingredient
+41213440,Paper,MENTIONS,saikosaponin d,Ingredient
+41213440,Paper,MENTIONS,tnf,Pathway
+41213440,Paper,MENTIONS,rats,Species
+41213440,Paper,MENTIONS,rat,Species
+41213440,Paper,MENTIONS,liver qi stagnation,Syndrome
+41213440,Paper,MENTIONS,creb,Target
+40907728,Paper,MENTIONS,depression,Disease
+40907728,Paper,MENTIONS,network pharmacology,Evidence
+40907728,Paper,MENTIONS,molecular docking,Evidence
+40907728,Paper,MENTIONS,pc12 cell,Species
+40907728,Paper,MENTIONS,drd2,Target
+40290440,Paper,MENTIONS,depression,Disease
+40290440,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40290440,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40290440,Paper,MENTIONS,locomotor activity,Experiment_indicator
+40290440,Paper,MENTIONS,food intake,Experiment_indicator
+40290440,Paper,MENTIONS,baicalin,Ingredient
+40290440,Paper,MENTIONS,mice,Species
+36676679,Paper,MENTIONS,post-stroke depression,Disease
+36873540,Paper,MENTIONS,depression,Disease
+36873540,Paper,MENTIONS,proteomics,Evidence
+36873540,Paper,MENTIONS,open field test,Experiment_indicator
+36873540,Paper,MENTIONS,rats,Species
+38113631,Paper,MENTIONS,depression,Disease
+38113631,Paper,MENTIONS,berberine,Ingredient
+38113631,Paper,MENTIONS,mice,Species
+38113631,Paper,MENTIONS,mouse,Species
+38113631,Paper,MENTIONS,creb,Target
+38113631,Paper,MENTIONS,bdnf,Target
+37948105,Paper,MENTIONS,depression,Disease
+37948105,Paper,MENTIONS,open field test,Experiment_indicator
+37948105,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37948105,Paper,MENTIONS,camp,Pathway
+37948105,Paper,MENTIONS,rats,Species
+37948105,Paper,MENTIONS,hippocampal neuron,Species
+37948105,Paper,MENTIONS,bdnf,Target
+37948105,Paper,MENTIONS,trkb,Target
+37948105,Paper,MENTIONS,creb,Target
+38851983,Paper,MENTIONS,depression,Disease
+38851983,Paper,MENTIONS,camp,Pathway
+38851983,Paper,MENTIONS,mice,Species
+38851983,Paper,MENTIONS,bdnf,Target
+38851983,Paper,MENTIONS,jun,Target
+38851983,Paper,MENTIONS,creb,Target
+38851983,Paper,MENTIONS,trkb,Target
+40403895,Paper,MENTIONS,depression,Disease
+40403895,Paper,MENTIONS,network pharmacology,Evidence
+40403895,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40403895,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40403895,Paper,MENTIONS,mtor,Pathway
+40403895,Paper,MENTIONS,tnf,Pathway
+40403895,Paper,MENTIONS,mice,Species
+40403895,Paper,MENTIONS,mouse,Species
+40403895,Paper,MENTIONS,mtor,Target
+40403895,Paper,MENTIONS,akt1,Target
+40403895,Paper,MENTIONS,il-6,Target
+40906192,Paper,MENTIONS,depression,Disease
+40906192,Paper,MENTIONS,major depressive disorder,Disease
+40906192,Paper,MENTIONS,quercetin,Ingredient
+40906192,Paper,MENTIONS,nf-kb,Pathway
+40906192,Paper,MENTIONS,ampk,Pathway
+38850305,Paper,MENTIONS,anxiety,Disease
+38850305,Paper,MENTIONS,depression,Disease
+38850305,Paper,MENTIONS,tnf,Pathway
+38850305,Paper,MENTIONS,anxiety,Symptom
+38850305,Paper,MENTIONS,insomnia,Symptom
+38850305,Paper,MENTIONS,bdnf,Target
+38850305,Paper,MENTIONS,il-6,Target
+38850305,Paper,MENTIONS,il-1β,Target
+32754030,Paper,MENTIONS,depression,Disease
+32754030,Paper,MENTIONS,tail suspension test,Experiment_indicator
+32754030,Paper,MENTIONS,open field test,Experiment_indicator
+32754030,Paper,MENTIONS,camp,Pathway
+32754030,Paper,MENTIONS,tnf,Pathway
+32754030,Paper,MENTIONS,mice,Species
+32754030,Paper,MENTIONS,bdnf,Target
+32754030,Paper,MENTIONS,creb,Target
+32754030,Paper,MENTIONS,il-6,Target
+32754030,Paper,MENTIONS,il-1β,Target
+40506009,Paper,MENTIONS,depression,Disease
+40506009,Paper,MENTIONS,camp,Pathway
+40506009,Paper,MENTIONS,mapk,Pathway
+40506009,Paper,MENTIONS,mtor,Pathway
+40506009,Paper,MENTIONS,creb,Target
+40506009,Paper,MENTIONS,mtor,Target
+34979889,Paper,MENTIONS,depressive disorder,Disease
+34979889,Paper,MENTIONS,depression,Disease
+34979889,Paper,MENTIONS,anxiety,Disease
+34979889,Paper,MENTIONS,anxiety,Symptom
+34979889,Paper,MENTIONS,weight loss,Symptom
+34979889,Paper,MENTIONS,bdnf,Target
+37944872,Paper,MENTIONS,depression,Disease
+37944872,Paper,MENTIONS,sucrose preference,Experiment_indicator
+37944872,Paper,MENTIONS,bdnf-trkb,Pathway
+37944872,Paper,MENTIONS,pc12 cell,Species
+37944872,Paper,MENTIONS,rat,Species
+37944872,Paper,MENTIONS,rats,Species
+37944872,Paper,MENTIONS,bdnf,Target
+37944872,Paper,MENTIONS,trkb,Target
+37944872,Paper,MENTIONS,creb,Target
+37612866,Paper,MENTIONS,depression,Disease
+37612866,Paper,MENTIONS,anxiety,Disease
+37612866,Paper,MENTIONS,systematic review,Evidence
+37612866,Paper,MENTIONS,protocol,Evidence
+37612866,Paper,MENTIONS,tnf,Pathway
+37612866,Paper,MENTIONS,anxiety,Symptom
+37612866,Paper,MENTIONS,bdnf,Target
+37612866,Paper,MENTIONS,il-1β,Target
+41242308,Paper,MENTIONS,depression,Disease
+41242308,Paper,MENTIONS,major depressive disorder,Disease
+41242308,Paper,MENTIONS,anxiety,Disease
+41242308,Paper,MENTIONS,metabolomics,Evidence
+41242308,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41242308,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+41242308,Paper,MENTIONS,shenling kaixin granules,Formula
+41242308,Paper,MENTIONS,mice,Species
+41242308,Paper,MENTIONS,mouse,Species
+41242308,Paper,MENTIONS,weight loss,Symptom
+41242308,Paper,MENTIONS,anhedonia,Symptom
+41242308,Paper,MENTIONS,anxiety,Symptom
+41242308,Paper,MENTIONS,creb,Target
+41242308,Paper,MENTIONS,bdnf,Target
+41242308,Paper,MENTIONS,tlr4,Target
+39408591,Paper,MENTIONS,depression,Disease
+39408591,Paper,MENTIONS,network pharmacology,Evidence
+39408591,Paper,MENTIONS,molecular docking,Evidence
+39408591,Paper,MENTIONS,baicalin,Ingredient
+39408591,Paper,MENTIONS,mice,Species
+39408591,Paper,MENTIONS,akt1,Target
+39408591,Paper,MENTIONS,tp53,Target
+39408591,Paper,MENTIONS,casp3,Target
+38457106,Paper,MENTIONS,depression,Disease
+38457106,Paper,MENTIONS,mood disorder,Disease
+38457106,Paper,MENTIONS,mice,Species
+38457106,Paper,MENTIONS,sadness,Symptom
+40881230,Paper,MENTIONS,major depressive disorder,Disease
+40881230,Paper,MENTIONS,depression,Disease
+40881230,Paper,MENTIONS,paeoniflorin,Ingredient
+40881230,Paper,MENTIONS,rats,Species
+40881230,Paper,MENTIONS,anhedonia,Symptom
+40769438,Paper,MENTIONS,depression,Disease
+40769438,Paper,MENTIONS,major depressive disorder,Disease
+40769438,Paper,MENTIONS,grip strength test,Experiment_indicator
+40769438,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40769438,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40769438,Paper,MENTIONS,tnf,Pathway
+40769438,Paper,MENTIONS,nf-kb,Pathway
+40769438,Paper,MENTIONS,mouse,Species
+40769438,Paper,MENTIONS,mice,Species
+40769438,Paper,MENTIONS,fatigue,Symptom
+40769438,Paper,MENTIONS,qi deficiency,Syndrome
+40769438,Paper,MENTIONS,il-1β,Target
+36604883,Paper,MENTIONS,depression,Disease
+36604883,Paper,MENTIONS,wuling capsules,Formula
+36604883,Paper,MENTIONS,salvianolic acid b,Ingredient
+36604883,Paper,MENTIONS,rats,Species
+36604883,Paper,MENTIONS,rat,Species
+36604883,Paper,MENTIONS,liver qi stagnation,Syndrome
+36604883,Paper,MENTIONS,spleen deficiency,Syndrome
+36604883,Paper,MENTIONS,blood stasis,Syndrome
+33120798,Paper,MENTIONS,cancer-related depression,Disease
+33120798,Paper,MENTIONS,mood disorder,Disease
+33120798,Paper,MENTIONS,depression,Disease
+33120798,Paper,MENTIONS,protocol,Evidence
+33120798,Paper,MENTIONS,systematic review,Evidence
+33120798,Paper,MENTIONS,meta-analysis,Evidence
+33120798,Paper,MENTIONS,patient,Species
+33120798,Paper,MENTIONS,qi stagnation,Syndrome
+40134975,Paper,MENTIONS,depressive disorder,Disease
+40134975,Paper,MENTIONS,depression,Disease
+40134975,Paper,MENTIONS,cohort study,Evidence
+40134975,Paper,MENTIONS,liver qi stagnation,Syndrome
+40134975,Paper,MENTIONS,qi stagnation,Syndrome
+25821499,Paper,MENTIONS,depression,Disease
+25821499,Paper,MENTIONS,yin deficiency,Syndrome
+39367470,Paper,MENTIONS,depression,Disease
+39367470,Paper,MENTIONS,adolescent depression,Disease
+40945253,Paper,MENTIONS,adolescent depression,Disease
+40945253,Paper,MENTIONS,depression,Disease
+40945253,Paper,MENTIONS,network pharmacology,Evidence
+40945253,Paper,MENTIONS,molecular docking,Evidence
+40945253,Paper,MENTIONS,forced swim test,Experiment_indicator
+40945253,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40945253,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40945253,Paper,MENTIONS,mice,Species
+40945253,Paper,MENTIONS,tlr4,Target
+40727849,Paper,MENTIONS,adolescent depression,Disease
+40727849,Paper,MENTIONS,depression,Disease
+40727849,Paper,MENTIONS,protocol,Evidence
+40727849,Paper,MENTIONS,randomized controlled trial,Evidence
+31259837,Paper,MENTIONS,postpartum depression,Disease
+31259837,Paper,MENTIONS,depression,Disease
+31259837,Paper,MENTIONS,systematic review,Evidence
+31259837,Paper,MENTIONS,meta-analysis,Evidence
+29907576,Paper,MENTIONS,postpartum depression,Disease
+29907576,Paper,MENTIONS,depression,Disease
+29907576,Paper,MENTIONS,systematic review,Evidence
+29907576,Paper,MENTIONS,meta-analysis,Evidence
+29907576,Paper,MENTIONS,protocol,Evidence
+41376232,Paper,MENTIONS,postpartum depression,Disease
+41376232,Paper,MENTIONS,depression,Disease
+41376232,Paper,MENTIONS,insomnia,Symptom
+36867647,Paper,MENTIONS,postpartum depression,Disease
+36867647,Paper,MENTIONS,qualitative study,Evidence
+36867647,Paper,MENTIONS,patient,Species
+39247617,Paper,MENTIONS,depression,Disease
+39247617,Paper,MENTIONS,anxiety,Disease
+39247617,Paper,MENTIONS,adolescent depression,Disease
+39247617,Paper,MENTIONS,network pharmacology,Evidence
+39247617,Paper,MENTIONS,molecular docking,Evidence
+39247617,Paper,MENTIONS,quercetin,Ingredient
+39247617,Paper,MENTIONS,luteolin,Ingredient
+39247617,Paper,MENTIONS,kaempferol,Ingredient
+39247617,Paper,MENTIONS,formononetin,Ingredient
+39247617,Paper,MENTIONS,nobiletin,Ingredient
+39247617,Paper,MENTIONS,tnf,Pathway
+39247617,Paper,MENTIONS,hif-1 signaling pathway,Pathway
+39247617,Paper,MENTIONS,pi3k-akt,Pathway
+39247617,Paper,MENTIONS,rats,Species
+39247617,Paper,MENTIONS,anxiety,Symptom
+39247617,Paper,MENTIONS,stat3,Target
+39247617,Paper,MENTIONS,akt1,Target
+39247617,Paper,MENTIONS,tp53,Target
+39247617,Paper,MENTIONS,vegfa,Target
+39247617,Paper,MENTIONS,casp3,Target
+37015141,Paper,MENTIONS,late-life depression,Disease
+37015141,Paper,MENTIONS,systematic review,Evidence
+37015141,Paper,MENTIONS,meta-analysis,Evidence
+35960108,Paper,MENTIONS,postpartum depression,Disease
+35960108,Paper,MENTIONS,protocol,Evidence
+27774110,Paper,MENTIONS,postpartum depression,Disease
+27774110,Paper,MENTIONS,systematic review,Evidence
+41074408,Paper,MENTIONS,adolescent depression,Disease
+41074408,Paper,MENTIONS,depression,Disease
+41074408,Paper,MENTIONS,clinical trial,Evidence
+31016194,Paper,MENTIONS,postpartum depression,Disease
+31016194,Paper,MENTIONS,systematic review,Evidence
+31016194,Paper,MENTIONS,meta-analysis,Evidence
+35910879,Paper,MENTIONS,postpartum depression,Disease
+37068818,Paper,MENTIONS,treatment-resistant depression,Disease
+37068818,Paper,MENTIONS,depression,Disease
+37068818,Paper,MENTIONS,anxiety,Disease
+37068818,Paper,MENTIONS,randomized controlled trial,Evidence
+37068818,Paper,MENTIONS,anxiety,Symptom
+37266323,Paper,MENTIONS,postpartum depression,Disease
+37266323,Paper,MENTIONS,depression,Disease
+40753796,Paper,MENTIONS,depression,Disease
+40753796,Paper,MENTIONS,treatment-resistant depression,Disease
+40753796,Paper,MENTIONS,patient,Species
+35926637,Paper,MENTIONS,postpartum depression,Disease
+35926637,Paper,MENTIONS,depression,Disease
+35926637,Paper,MENTIONS,systematic review,Evidence
+29454341,Paper,MENTIONS,depression,Disease
+29454341,Paper,MENTIONS,post-stroke depression,Disease
+29454341,Paper,MENTIONS,postpartum depression,Disease
+29454341,Paper,MENTIONS,systematic review,Evidence
+29454341,Paper,MENTIONS,meta-analysis,Evidence
+40469980,Paper,MENTIONS,adolescent depression,Disease
+40469980,Paper,MENTIONS,depression,Disease
+40469980,Paper,MENTIONS,anxiety,Disease
+40469980,Paper,MENTIONS,sinisan,Formula
+40469980,Paper,MENTIONS,rats,Species
+40469980,Paper,MENTIONS,anxiety,Symptom
+40778325,Paper,MENTIONS,adolescent depression,Disease
+40778325,Paper,MENTIONS,depression,Disease
+40778325,Paper,MENTIONS,protocol,Evidence
+40778325,Paper,MENTIONS,systematic review,Evidence
+40778325,Paper,MENTIONS,meta-analysis,Evidence
+39323936,Paper,MENTIONS,postpartum depression,Disease
+39323936,Paper,MENTIONS,depression,Disease
+39323936,Paper,MENTIONS,anxiety,Disease
+39323936,Paper,MENTIONS,systematic review,Evidence
+39323936,Paper,MENTIONS,meta-analysis,Evidence
+39323936,Paper,MENTIONS,anxiety,Symptom
+15010661,Paper,MENTIONS,postpartum depression,Disease
+29540339,Paper,MENTIONS,postpartum depression,Disease
+29540339,Paper,MENTIONS,depression,Disease
+29540339,Paper,MENTIONS,patient,Species
+38449668,Paper,MENTIONS,postpartum depression,Disease
+38449668,Paper,MENTIONS,depression,Disease
+38449668,Paper,MENTIONS,rat,Species
+38449668,Paper,MENTIONS,rats,Species
+38915473,Paper,MENTIONS,depression,Disease
+38915473,Paper,MENTIONS,erxian decoction,Formula
+40195969,Paper,MENTIONS,postpartum depression,Disease
+40195969,Paper,MENTIONS,depression,Disease
+40195969,Paper,MENTIONS,meta-analysis,Evidence
+39319351,Paper,MENTIONS,depression,Disease
+39319351,Paper,MENTIONS,postpartum depression,Disease
+39319351,Paper,MENTIONS,randomized controlled trial,Evidence
+32765632,Paper,MENTIONS,postpartum depression,Disease
+32765632,Paper,MENTIONS,cross-sectional study,Evidence
+34369698,Paper,MENTIONS,postpartum depression,Disease
+34369698,Paper,MENTIONS,depression,Disease
+38726147,Paper,MENTIONS,postpartum depression,Disease
+38726147,Paper,MENTIONS,sucrose preference,Experiment_indicator
+38726147,Paper,MENTIONS,shenqi jieyu formula,Formula
+38726147,Paper,MENTIONS,tnf,Pathway
+38726147,Paper,MENTIONS,rats,Species
+38726147,Paper,MENTIONS,rat,Species
+38726147,Paper,MENTIONS,cox-2,Target
+38726147,Paper,MENTIONS,il-6,Target
+38726147,Paper,MENTIONS,il-1β,Target
+36951085,Paper,MENTIONS,gv20,Acupoint
+36951085,Paper,MENTIONS,sp6,Acupoint
+36951085,Paper,MENTIONS,lr3,Acupoint
+36951085,Paper,MENTIONS,pc6,Acupoint
+36951085,Paper,MENTIONS,st36,Acupoint
+36951085,Paper,MENTIONS,ht7,Acupoint
+36951085,Paper,MENTIONS,bl15,Acupoint
+36951085,Paper,MENTIONS,bl18,Acupoint
+36951085,Paper,MENTIONS,bl20,Acupoint
+36951085,Paper,MENTIONS,cv4,Acupoint
+36951085,Paper,MENTIONS,li4,Acupoint
+36951085,Paper,MENTIONS,cv6,Acupoint
+36951085,Paper,MENTIONS,ex-hn1,Acupoint
+36951085,Paper,MENTIONS,postpartum depression,Disease
+36951085,Paper,MENTIONS,depression,Disease
+35089211,Paper,MENTIONS,postpartum depression,Disease
+35089211,Paper,MENTIONS,anxiety,Disease
+35089211,Paper,MENTIONS,depression,Disease
+35089211,Paper,MENTIONS,protocol,Evidence
+35089211,Paper,MENTIONS,systematic review,Evidence
+35089211,Paper,MENTIONS,meta-analysis,Evidence
+35089211,Paper,MENTIONS,patient,Species
+35089211,Paper,MENTIONS,anxiety,Symptom
+41409594,Paper,MENTIONS,postpartum depression,Disease
+41409594,Paper,MENTIONS,patient,Species
+38026979,Paper,MENTIONS,depression,Disease
+38026979,Paper,MENTIONS,adolescent depression,Disease
+38026979,Paper,MENTIONS,anxiety,Disease
+38026979,Paper,MENTIONS,sucrose preference,Experiment_indicator
+38026979,Paper,MENTIONS,tail suspension test,Experiment_indicator
+38026979,Paper,MENTIONS,open field test,Experiment_indicator
+38026979,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+38026979,Paper,MENTIONS,mice,Species
+38026979,Paper,MENTIONS,anxiety,Symptom
+36316904,Paper,MENTIONS,postpartum depression,Disease
+36316904,Paper,MENTIONS,network pharmacology,Evidence
+36316904,Paper,MENTIONS,molecular docking,Evidence
+36316904,Paper,MENTIONS,baihe zhimu decoction,Formula
+36316904,Paper,MENTIONS,mtor,Pathway
+36316904,Paper,MENTIONS,esr1,Target
+36316904,Paper,MENTIONS,maoa,Target
+36316904,Paper,MENTIONS,vegfa,Target
+36316904,Paper,MENTIONS,mtor,Target
+35244051,Paper,MENTIONS,postpartum depression,Disease
+35244051,Paper,MENTIONS,protocol,Evidence
+35244051,Paper,MENTIONS,systematic review,Evidence
+35244051,Paper,MENTIONS,meta-analysis,Evidence
+34490139,Paper,MENTIONS,postpartum depression,Disease
+34490139,Paper,MENTIONS,919 syrup,Formula
+34490139,Paper,MENTIONS,mice,Species
+36126781,Paper,MENTIONS,depression,Disease
+36126781,Paper,MENTIONS,anxiety,Disease
+36126781,Paper,MENTIONS,network pharmacology,Evidence
+36126781,Paper,MENTIONS,open field test,Experiment_indicator
+36126781,Paper,MENTIONS,sucrose preference,Experiment_indicator
+36126781,Paper,MENTIONS,tail suspension test,Experiment_indicator
+36126781,Paper,MENTIONS,mapk,Pathway
+36126781,Paper,MENTIONS,calcium signaling pathway,Pathway
+36126781,Paper,MENTIONS,camp,Pathway
+36126781,Paper,MENTIONS,mice,Species
+36126781,Paper,MENTIONS,anxiety,Symptom
+36126781,Paper,MENTIONS,bdnf,Target
+36126781,Paper,MENTIONS,erk1/2,Target
+39241390,Paper,MENTIONS,Glycyrrhizae radix,Herb
+39241390,Paper,MENTIONS,Astragali radix,Herb
+39241390,Paper,MENTIONS,depression,Disease
+39241390,Paper,MENTIONS,anxiety,Disease
+39241390,Paper,MENTIONS,network pharmacology,Evidence
+39241390,Paper,MENTIONS,molecular docking,Evidence
+39241390,Paper,MENTIONS,pc12 cell,Species
+39241390,Paper,MENTIONS,mice,Species
+39241390,Paper,MENTIONS,mouse,Species
+39241390,Paper,MENTIONS,anxiety,Symptom
+39241390,Paper,MENTIONS,slc6a3,Target
+39241390,Paper,MENTIONS,htr1a,Target
+39241390,Paper,MENTIONS,drd2,Target
+39241390,Paper,MENTIONS,gabra1,Target
+38296172,Paper,MENTIONS,depressive disorder,Disease
+38296172,Paper,MENTIONS,depression,Disease
+38296172,Paper,MENTIONS,molecular docking,Evidence
+38296172,Paper,MENTIONS,berberine,Ingredient
+38296172,Paper,MENTIONS,camp,Pathway
+38296172,Paper,MENTIONS,pka,Pathway
+38296172,Paper,MENTIONS,mice,Species
+38296172,Paper,MENTIONS,mouse,Species
+38296172,Paper,MENTIONS,hippocampal neuron,Species
+38296172,Paper,MENTIONS,creb,Target
+34627986,Paper,MENTIONS,depression,Disease
+34627986,Paper,MENTIONS,anxiety,Disease
+34627986,Paper,MENTIONS,transcriptomics,Evidence
+34627986,Paper,MENTIONS,molecular docking,Evidence
+34627986,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+34627986,Paper,MENTIONS,forced swim test,Experiment_indicator
+34627986,Paper,MENTIONS,mice,Species
+34627986,Paper,MENTIONS,mouse,Species
+34627986,Paper,MENTIONS,anxiety,Symptom
+34627986,Paper,MENTIONS,insomnia,Symptom
+34627986,Paper,MENTIONS,il-6,Target
+34627986,Paper,MENTIONS,il-1β,Target
+38490155,Paper,MENTIONS,depression,Disease
+38490155,Paper,MENTIONS,anxiety,Disease
+38490155,Paper,MENTIONS,network pharmacology,Evidence
+38490155,Paper,MENTIONS,cynaroside,Ingredient
+38490155,Paper,MENTIONS,mice,Species
+38490155,Paper,MENTIONS,anxiety,Symptom
+38490155,Paper,MENTIONS,anhedonia,Symptom
+39385284,Paper,MENTIONS,major depressive disorder,Disease
+39385284,Paper,MENTIONS,molecular docking,Evidence
+39385284,Paper,MENTIONS,quercetin,Ingredient
+39385284,Paper,MENTIONS,kaempferol,Ingredient
+39385284,Paper,MENTIONS,luteolin,Ingredient
+39385284,Paper,MENTIONS,akt1,Target
+39385284,Paper,MENTIONS,mapk1,Target
+39385284,Paper,MENTIONS,myc,Target
+39385284,Paper,MENTIONS,egf,Target
+39385284,Paper,MENTIONS,hsp90aa1,Target
+38815404,Paper,MENTIONS,cancer-related depression,Disease
+38815404,Paper,MENTIONS,network pharmacology,Evidence
+38815404,Paper,MENTIONS,molecular docking,Evidence
+38815404,Paper,MENTIONS,sucrose preference,Experiment_indicator
+38815404,Paper,MENTIONS,quercetin,Ingredient
+38815404,Paper,MENTIONS,mice,Species
+40547671,Paper,MENTIONS,depression,Disease
+40547671,Paper,MENTIONS,multi-omics,Evidence
+40547671,Paper,MENTIONS,network pharmacology,Evidence
+40547671,Paper,MENTIONS,transcriptomics,Evidence
+40547671,Paper,MENTIONS,proteomics,Evidence
+40547671,Paper,MENTIONS,molecular docking,Evidence
+40547671,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40547671,Paper,MENTIONS,open field test,Experiment_indicator
+40547671,Paper,MENTIONS,forced swim test,Experiment_indicator
+40547671,Paper,MENTIONS,mtor,Pathway
+40547671,Paper,MENTIONS,tnf,Pathway
+40547671,Paper,MENTIONS,rats,Species
+40547671,Paper,MENTIONS,rat,Species
+40547671,Paper,MENTIONS,weight loss,Symptom
+40547671,Paper,MENTIONS,mtor,Target
+40547671,Paper,MENTIONS,il-1β,Target
+39467428,Paper,MENTIONS,depression,Disease
+39467428,Paper,MENTIONS,molecular docking,Evidence
+39467428,Paper,MENTIONS,rutin,Ingredient
+39467428,Paper,MENTIONS,mice,Species
+39467428,Paper,MENTIONS,ppar-γ,Target
+39467428,Paper,MENTIONS,il-6,Target
+40550295,Paper,MENTIONS,depression,Disease
+40550295,Paper,MENTIONS,molecular docking,Evidence
+40550295,Paper,MENTIONS,open field test,Experiment_indicator
+40550295,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40550295,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40550295,Paper,MENTIONS,tnf,Pathway
+40550295,Paper,MENTIONS,mice,Species
+40550295,Paper,MENTIONS,fkbp5,Target
+40425078,Paper,MENTIONS,depression,Disease
+40425078,Paper,MENTIONS,molecular docking,Evidence
+40425078,Paper,MENTIONS,icariin,Ingredient
+40425078,Paper,MENTIONS,rats,Species
+39770479,Paper,MENTIONS,depression,Disease
+39770479,Paper,MENTIONS,molecular docking,Evidence
+39770479,Paper,MENTIONS,mice,Species
+39904199,Paper,MENTIONS,Phellodendri cortex,Herb
+39904199,Paper,MENTIONS,depression,Disease
+39904199,Paper,MENTIONS,network pharmacology,Evidence
+39904199,Paper,MENTIONS,molecular docking,Evidence
+39904199,Paper,MENTIONS,tnf,Pathway
+39904199,Paper,MENTIONS,rat,Species
+39904199,Paper,MENTIONS,bv2 cell,Species
+39904199,Paper,MENTIONS,il-6,Target
+39904199,Paper,MENTIONS,rela,Target
+39904199,Paper,MENTIONS,ppar-γ,Target
+36045534,Paper,MENTIONS,major depressive disorder,Disease
+36045534,Paper,MENTIONS,depression,Disease
+36045534,Paper,MENTIONS,network pharmacology,Evidence
+36045534,Paper,MENTIONS,molecular docking,Evidence
+36045534,Paper,MENTIONS,quercetin,Ingredient
+36045534,Paper,MENTIONS,camp,Pathway
+36045534,Paper,MENTIONS,maoa,Target
+36045534,Paper,MENTIONS,drd2,Target
+36045534,Paper,MENTIONS,oprm1,Target
+40481474,Paper,MENTIONS,Ziziphi spinosae semen,Herb
+40481474,Paper,MENTIONS,depression,Disease
+40481474,Paper,MENTIONS,network pharmacology,Evidence
+40481474,Paper,MENTIONS,molecular docking,Evidence
+40481474,Paper,MENTIONS,pc12 cell,Species
+40481474,Paper,MENTIONS,hsp90aa1,Target
+34976096,Paper,MENTIONS,cyperi rhizoma,Herb
+34976096,Paper,MENTIONS,chuanxiong rhizoma,Herb
+34976096,Paper,MENTIONS,depression,Disease
+34976096,Paper,MENTIONS,network pharmacology,Evidence
+34976096,Paper,MENTIONS,molecular docking,Evidence
+34976096,Paper,MENTIONS,quercetin,Ingredient
+34976096,Paper,MENTIONS,tnf,Pathway
+34976096,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+34976096,Paper,MENTIONS,pi3k-akt,Pathway
+34976096,Paper,MENTIONS,dopaminergic synapse,Pathway
+34976096,Paper,MENTIONS,mtor,Pathway
+34976096,Paper,MENTIONS,akt1,Target
+34976096,Paper,MENTIONS,il-6,Target
+34976096,Paper,MENTIONS,tp53,Target
+34976096,Paper,MENTIONS,drd2,Target
+34976096,Paper,MENTIONS,mapk1,Target
+34976096,Paper,MENTIONS,mtor,Target
+40803031,Paper,MENTIONS,depression,Disease
+40803031,Paper,MENTIONS,metabolomics,Evidence
+40803031,Paper,MENTIONS,network pharmacology,Evidence
+40803031,Paper,MENTIONS,molecular docking,Evidence
+40803031,Paper,MENTIONS,bioinformatics analysis,Evidence
+40803031,Paper,MENTIONS,icariin,Ingredient
+40803031,Paper,MENTIONS,rats,Species
+39486672,Paper,MENTIONS,depression,Disease
+39486672,Paper,MENTIONS,network pharmacology,Evidence
+39486672,Paper,MENTIONS,molecular docking,Evidence
+39486672,Paper,MENTIONS,sucrose preference,Experiment_indicator
+39486672,Paper,MENTIONS,quercetin,Ingredient
+39486672,Paper,MENTIONS,liquiritin,Ingredient
+39486672,Paper,MENTIONS,mtor,Pathway
+39486672,Paper,MENTIONS,mapk,Pathway
+39486672,Paper,MENTIONS,bdnf-trkb,Pathway
+39486672,Paper,MENTIONS,tnf,Pathway
+39486672,Paper,MENTIONS,mice,Species
+39486672,Paper,MENTIONS,mouse,Species
+39486672,Paper,MENTIONS,mtor,Target
+39486672,Paper,MENTIONS,bdnf,Target
+39486672,Paper,MENTIONS,trkb,Target
+39486672,Paper,MENTIONS,il-6,Target
+39486672,Paper,MENTIONS,il-1β,Target
+38704913,Paper,MENTIONS,depression,Disease
+38704913,Paper,MENTIONS,metabolomics,Evidence
+38704913,Paper,MENTIONS,network pharmacology,Evidence
+38704913,Paper,MENTIONS,tryptophan metabolism,Pathway
+38704913,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+38704913,Paper,MENTIONS,pi3k-akt,Pathway
+38704913,Paper,MENTIONS,camp,Pathway
+38704913,Paper,MENTIONS,mice,Species
+41307677,Paper,MENTIONS,depression,Disease
+41307677,Paper,MENTIONS,mood disorder,Disease
+41307677,Paper,MENTIONS,systematic review,Evidence
+41307677,Paper,MENTIONS,bioinformatics analysis,Evidence
+41307677,Paper,MENTIONS,network pharmacology,Evidence
+41307677,Paper,MENTIONS,molecular docking,Evidence
+41307677,Paper,MENTIONS,geniposide,Ingredient
+41307677,Paper,MENTIONS,magnolol,Ingredient
+41307677,Paper,MENTIONS,honokiol,Ingredient
+41307677,Paper,MENTIONS,hesperidin,Ingredient
+41307677,Paper,MENTIONS,naringenin,Ingredient
+41307677,Paper,MENTIONS,nobiletin,Ingredient
+41307677,Paper,MENTIONS,hpa axis,Pathway
+35717786,Paper,MENTIONS,depression,Disease
+35717786,Paper,MENTIONS,network pharmacology,Evidence
+35717786,Paper,MENTIONS,hpa axis,Pathway
+35717786,Paper,MENTIONS,nlrp3 inflammasome,Pathway
+35717786,Paper,MENTIONS,mapk,Pathway
+35717786,Paper,MENTIONS,mice,Species
+35717786,Paper,MENTIONS,insomnia,Symptom
+35717786,Paper,MENTIONS,nlrp3,Target
+41045619,Paper,MENTIONS,depression,Disease
+41045619,Paper,MENTIONS,molecular docking,Evidence
+41045619,Paper,MENTIONS,mouse,Species
+36440424,Paper,MENTIONS,depression,Disease
+36440424,Paper,MENTIONS,network pharmacology,Evidence
+36440424,Paper,MENTIONS,molecular docking,Evidence
+36440424,Paper,MENTIONS,bioinformatics analysis,Evidence
+36440424,Paper,MENTIONS,sinisan,Formula
+36440424,Paper,MENTIONS,beta-sitosterol,Ingredient
+36440424,Paper,MENTIONS,nobiletin,Ingredient
+36440424,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+36440424,Paper,MENTIONS,serotonergic synapse,Pathway
+36440424,Paper,MENTIONS,dopaminergic synapse,Pathway
+36440424,Paper,MENTIONS,gabaergic synapse,Pathway
+36440424,Paper,MENTIONS,casp3,Target
+36440424,Paper,MENTIONS,tp53,Target
+36440424,Paper,MENTIONS,esr1,Target
+36431060,Paper,MENTIONS,depression,Disease
+36431060,Paper,MENTIONS,network pharmacology,Evidence
+36431060,Paper,MENTIONS,molecular docking,Evidence
+36431060,Paper,MENTIONS,tail suspension test,Experiment_indicator
+36431060,Paper,MENTIONS,social interaction test,Experiment_indicator
+36431060,Paper,MENTIONS,stigmasterol,Ingredient
+36431060,Paper,MENTIONS,wogonin,Ingredient
+36431060,Paper,MENTIONS,atractylenolide i,Ingredient
+36431060,Paper,MENTIONS,atractylenolide ii,Ingredient
+36431060,Paper,MENTIONS,atractylenolide iii,Ingredient
+36431060,Paper,MENTIONS,dopaminergic synapse,Pathway
+36431060,Paper,MENTIONS,tnf,Pathway
+36431060,Paper,MENTIONS,mice,Species
+36431060,Paper,MENTIONS,il-6,Target
+36431060,Paper,MENTIONS,esr1,Target
+40617360,Paper,MENTIONS,anxiety,Disease
+40617360,Paper,MENTIONS,depression,Disease
+40617360,Paper,MENTIONS,metabolomics,Evidence
+40617360,Paper,MENTIONS,network pharmacology,Evidence
+40617360,Paper,MENTIONS,elevated plus maze,Experiment_indicator
+40617360,Paper,MENTIONS,mice,Species
+40617360,Paper,MENTIONS,astrocyte,Species
+40617360,Paper,MENTIONS,mouse,Species
+40617360,Paper,MENTIONS,human,Species
+40617360,Paper,MENTIONS,anxiety,Symptom
+40617360,Paper,MENTIONS,bdnf,Target
+34447243,Paper,MENTIONS,epimedii herba,Herb
+34447243,Paper,MENTIONS,depressive disorder,Disease
+34447243,Paper,MENTIONS,network pharmacology,Evidence
+34447243,Paper,MENTIONS,literature review,Evidence
+34447243,Paper,MENTIONS,icariin,Ingredient
+41164411,Paper,MENTIONS,post-stroke depression,Disease
+41164411,Paper,MENTIONS,molecular docking,Evidence
+41164411,Paper,MENTIONS,sucrose preference,Experiment_indicator
+41164411,Paper,MENTIONS,berberine,Ingredient
+41164411,Paper,MENTIONS,tnf,Pathway
+41164411,Paper,MENTIONS,rat,Species
+41164411,Paper,MENTIONS,rats,Species
+41164411,Paper,MENTIONS,il-1β,Target
+41164411,Paper,MENTIONS,il-6,Target
+40621015,Paper,MENTIONS,depression,Disease
+40621015,Paper,MENTIONS,network pharmacology,Evidence
+40621015,Paper,MENTIONS,molecular docking,Evidence
+40621015,Paper,MENTIONS,naringenin,Ingredient
+40621015,Paper,MENTIONS,camp,Pathway
+40621015,Paper,MENTIONS,pka,Pathway
+40621015,Paper,MENTIONS,mouse,Species
+40621015,Paper,MENTIONS,creb,Target
+40621015,Paper,MENTIONS,bdnf,Target
+37657207,Paper,MENTIONS,depression,Disease
+37657207,Paper,MENTIONS,systematic review,Evidence
+37657207,Paper,MENTIONS,bioinformatics analysis,Evidence
+37657207,Paper,MENTIONS,network pharmacology,Evidence
+37657207,Paper,MENTIONS,molecular docking,Evidence
+37657207,Paper,MENTIONS,verbascoside,Ingredient
+37657207,Paper,MENTIONS,fos,Target
+40221743,Paper,MENTIONS,depression,Disease
+40221743,Paper,MENTIONS,network pharmacology,Evidence
+40221743,Paper,MENTIONS,xiao-chai-hu-tang,Formula
+40221743,Paper,MENTIONS,mouse,Species
+40221743,Paper,MENTIONS,mice,Species
+40221743,Paper,MENTIONS,il-6,Target
+40221743,Paper,MENTIONS,stat3,Target
+35003290,Paper,MENTIONS,depression,Disease
+35003290,Paper,MENTIONS,network pharmacology,Evidence
+35003290,Paper,MENTIONS,isorhamnetin,Ingredient
+35003290,Paper,MENTIONS,quercetin,Ingredient
+35003290,Paper,MENTIONS,luteolin,Ingredient
+35003290,Paper,MENTIONS,esr1,Target
+35003290,Paper,MENTIONS,hsp90aa1,Target
+35003290,Paper,MENTIONS,jun,Target
+35003290,Paper,MENTIONS,mapk1,Target
+35003290,Paper,MENTIONS,rela,Target
+35003290,Paper,MENTIONS,tp53,Target
+39041272,Paper,MENTIONS,depression,Disease
+39041272,Paper,MENTIONS,network pharmacology,Evidence
+39041272,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+39041272,Paper,MENTIONS,camp,Pathway
+39041272,Paper,MENTIONS,serotonergic synapse,Pathway
+39041272,Paper,MENTIONS,dopaminergic synapse,Pathway
+39041272,Paper,MENTIONS,mapk,Pathway
+39041272,Paper,MENTIONS,tnf,Pathway
+39041272,Paper,MENTIONS,mice,Species
+39041272,Paper,MENTIONS,mouse,Species
+39041272,Paper,MENTIONS,il-1β,Target
+39041272,Paper,MENTIONS,il-6,Target
+39041272,Paper,MENTIONS,gsk3β,Target
+39041272,Paper,MENTIONS,bdnf,Target
+39041272,Paper,MENTIONS,creb,Target
+39041272,Paper,MENTIONS,erk1/2,Target
+35230627,Paper,MENTIONS,depression,Disease
+35230627,Paper,MENTIONS,network pharmacology,Evidence
+35230627,Paper,MENTIONS,molecular docking,Evidence
+35230627,Paper,MENTIONS,calcium signaling pathway,Pathway
+38582152,Paper,MENTIONS,major depressive disorder,Disease
+38582152,Paper,MENTIONS,depression,Disease
+38582152,Paper,MENTIONS,network pharmacology,Evidence
+38582152,Paper,MENTIONS,kaiyu zhishen decoction,Formula
+38582152,Paper,MENTIONS,kaempferol,Ingredient
+38582152,Paper,MENTIONS,quercetin,Ingredient
+38582152,Paper,MENTIONS,mapk,Pathway
+38582152,Paper,MENTIONS,erk-creb,Pathway
+38582152,Paper,MENTIONS,mice,Species
+38582152,Paper,MENTIONS,creb,Target
+38582152,Paper,MENTIONS,bdnf,Target
+41101552,Paper,MENTIONS,depression,Disease
+41101552,Paper,MENTIONS,network pharmacology,Evidence
+41101552,Paper,MENTIONS,serotonergic synapse,Pathway
+41101552,Paper,MENTIONS,dopaminergic synapse,Pathway
+41101552,Paper,MENTIONS,tnf,Pathway
+41101552,Paper,MENTIONS,mice,Species
+41101552,Paper,MENTIONS,akt1,Target
+41101552,Paper,MENTIONS,maoa,Target
+36560929,Paper,MENTIONS,depression,Disease
+36560929,Paper,MENTIONS,systematic review,Evidence
+36560929,Paper,MENTIONS,meta-analysis,Evidence
+36560929,Paper,MENTIONS,network pharmacology,Evidence
+36560929,Paper,MENTIONS,basic research,Evidence
+36560929,Paper,MENTIONS,sucrose preference,Experiment_indicator
+36560929,Paper,MENTIONS,tnf,Pathway
+36560929,Paper,MENTIONS,camp,Pathway
+36560929,Paper,MENTIONS,akt1,Target
+36560929,Paper,MENTIONS,tp53,Target
+41448368,Paper,MENTIONS,depression,Disease
+41448368,Paper,MENTIONS,molecular docking,Evidence
+41448368,Paper,MENTIONS,shugan wendan decoction,Formula
+41448368,Paper,MENTIONS,tryptophan metabolism,Pathway
+41448368,Paper,MENTIONS,nlrp3,Target
+41448368,Paper,MENTIONS,il-1β,Target
+34880597,Paper,MENTIONS,depression,Disease
+34880597,Paper,MENTIONS,network pharmacology,Evidence
+34880597,Paper,MENTIONS,catechin,Ingredient
+34880597,Paper,MENTIONS,cynaroside,Ingredient
+41189264,Paper,MENTIONS,major depressive disorder,Disease
+41189264,Paper,MENTIONS,network pharmacology,Evidence
+41189264,Paper,MENTIONS,molecular docking,Evidence
+41189264,Paper,MENTIONS,yangxin decoction,Formula
+41189264,Paper,MENTIONS,akt1,Target
+39263345,Paper,MENTIONS,depression,Disease
+39263345,Paper,MENTIONS,molecular docking,Evidence
+39263345,Paper,MENTIONS,forced swim test,Experiment_indicator
+39263345,Paper,MENTIONS,tail suspension test,Experiment_indicator
+39263345,Paper,MENTIONS,dehydrocostus lactone,Ingredient
+36070047,Paper,MENTIONS,depression,Disease
+36070047,Paper,MENTIONS,network pharmacology,Evidence
+36070047,Paper,MENTIONS,molecular docking,Evidence
+36070047,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+36070047,Paper,MENTIONS,serotonergic synapse,Pathway
+36070047,Paper,MENTIONS,pi3k-akt,Pathway
+36070047,Paper,MENTIONS,mapk,Pathway
+41015074,Paper,MENTIONS,depression,Disease
+41015074,Paper,MENTIONS,anxiety,Disease
+41015074,Paper,MENTIONS,network pharmacology,Evidence
+41015074,Paper,MENTIONS,molecular docking,Evidence
+41015074,Paper,MENTIONS,pi3k-akt,Pathway
+41015074,Paper,MENTIONS,mouse,Species
+41015074,Paper,MENTIONS,human,Species
+41015074,Paper,MENTIONS,mice,Species
+41015074,Paper,MENTIONS,anxiety,Symptom
+41015074,Paper,MENTIONS,jun,Target
+41015074,Paper,MENTIONS,stat3,Target
+41015074,Paper,MENTIONS,tp53,Target
+41015074,Paper,MENTIONS,rela,Target
+40915371,Paper,MENTIONS,depression,Disease
+40915371,Paper,MENTIONS,molecular docking,Evidence
+40915371,Paper,MENTIONS,in vitro study,Evidence
+40915371,Paper,MENTIONS,jatrorrhizine,Ingredient
+40915371,Paper,MENTIONS,mice,Species
+40915371,Paper,MENTIONS,insomnia,Symptom
+38007768,Paper,MENTIONS,depression,Disease
+38007768,Paper,MENTIONS,network pharmacology,Evidence
+38007768,Paper,MENTIONS,molecular docking,Evidence
+38007768,Paper,MENTIONS,baihe zhimu decoction,Formula
+38007768,Paper,MENTIONS,kaempferol,Ingredient
+38007768,Paper,MENTIONS,stigmasterol,Ingredient
+38007768,Paper,MENTIONS,tnf,Pathway
+38007768,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+38007768,Paper,MENTIONS,pi3k-akt,Pathway
+38007768,Paper,MENTIONS,akt1,Target
+38007768,Paper,MENTIONS,tp53,Target
+38007768,Paper,MENTIONS,casp3,Target
+38174416,Paper,MENTIONS,depression,Disease
+38174416,Paper,MENTIONS,network pharmacology,Evidence
+38174416,Paper,MENTIONS,molecular docking,Evidence
+38174416,Paper,MENTIONS,sinisan,Formula
+37847347,Paper,MENTIONS,depression,Disease
+37847347,Paper,MENTIONS,major depressive disorder,Disease
+37847347,Paper,MENTIONS,network pharmacology,Evidence
+37847347,Paper,MENTIONS,tnf,Pathway
+37847347,Paper,MENTIONS,egf,Target
+37847347,Paper,MENTIONS,bdnf,Target
+41377151,Paper,MENTIONS,anxiety,Disease
+41377151,Paper,MENTIONS,depression,Disease
+41377151,Paper,MENTIONS,network pharmacology,Evidence
+41377151,Paper,MENTIONS,molecular docking,Evidence
+41377151,Paper,MENTIONS,xiaochaihu decoction,Formula
+41377151,Paper,MENTIONS,mice,Species
+41377151,Paper,MENTIONS,anxiety,Symptom
+39684318,Paper,MENTIONS,depression,Disease
+39684318,Paper,MENTIONS,network pharmacology,Evidence
+39684318,Paper,MENTIONS,transcriptomics,Evidence
+39684318,Paper,MENTIONS,ampk,Pathway
+39684318,Paper,MENTIONS,c57bl/6 mouse,Species
+39684318,Paper,MENTIONS,mice,Species
+39684318,Paper,MENTIONS,bdnf,Target
+38004472,Paper,MENTIONS,depression,Disease
+38004472,Paper,MENTIONS,metabolomics,Evidence
+38004472,Paper,MENTIONS,network pharmacology,Evidence
+38004472,Paper,MENTIONS,molecular docking,Evidence
+38004472,Paper,MENTIONS,mice,Species
+38004472,Paper,MENTIONS,mouse,Species
+38004472,Paper,MENTIONS,vegfa,Target
+40157401,Paper,MENTIONS,depression,Disease
+40157401,Paper,MENTIONS,network pharmacology,Evidence
+40157401,Paper,MENTIONS,molecular docking,Evidence
+40157401,Paper,MENTIONS,open field test,Experiment_indicator
+40157401,Paper,MENTIONS,forced swim test,Experiment_indicator
+40157401,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40157401,Paper,MENTIONS,sinisan,Formula
+40157401,Paper,MENTIONS,mice,Species
+40157401,Paper,MENTIONS,weight loss,Symptom
+34471414,Paper,MENTIONS,depression,Disease
+34471414,Paper,MENTIONS,network pharmacology,Evidence
+34471414,Paper,MENTIONS,molecular docking,Evidence
+34471414,Paper,MENTIONS,prospective study,Evidence
+34471414,Paper,MENTIONS,quercetin,Ingredient
+34471414,Paper,MENTIONS,luteolin,Ingredient
+34471414,Paper,MENTIONS,kaempferol,Ingredient
+34471414,Paper,MENTIONS,naringenin,Ingredient
+34471414,Paper,MENTIONS,isorhamnetin,Ingredient
+34471414,Paper,MENTIONS,tnf,Pathway
+34471414,Paper,MENTIONS,human,Species
+34471414,Paper,MENTIONS,stat3,Target
+34471414,Paper,MENTIONS,jun,Target
+34471414,Paper,MENTIONS,akt1,Target
+40816580,Paper,MENTIONS,depression,Disease
+40816580,Paper,MENTIONS,network pharmacology,Evidence
+40816580,Paper,MENTIONS,tail suspension test,Experiment_indicator
+40816580,Paper,MENTIONS,open field test,Experiment_indicator
+40816580,Paper,MENTIONS,sucrose preference,Experiment_indicator
+40816580,Paper,MENTIONS,mice,Species
+40816580,Paper,MENTIONS,bdnf,Target
+40816580,Paper,MENTIONS,trkb,Target
+38218856,Paper,MENTIONS,depression,Disease
+38218856,Paper,MENTIONS,meta-analysis,Evidence
+38218856,Paper,MENTIONS,network pharmacology,Evidence
+38218856,Paper,MENTIONS,mice,Species
+38218856,Paper,MENTIONS,microglial cell,Species
+38218856,Paper,MENTIONS,cox-2,Target
+41391369,Paper,MENTIONS,depression,Disease
+41391369,Paper,MENTIONS,metabolomics,Evidence
+41391369,Paper,MENTIONS,network pharmacology,Evidence
+41391369,Paper,MENTIONS,arachidonic acid metabolism,Pathway
+41391369,Paper,MENTIONS,mtor,Pathway
+41391369,Paper,MENTIONS,mice,Species
+41391369,Paper,MENTIONS,mtor,Target
+40064322,Paper,MENTIONS,depression,Disease
+40064322,Paper,MENTIONS,network pharmacology,Evidence
+40064322,Paper,MENTIONS,metabolomics,Evidence
+40064322,Paper,MENTIONS,changpu san,Formula
+40064322,Paper,MENTIONS,tryptophan metabolism,Pathway
+40064322,Paper,MENTIONS,mouse,Species
+40064322,Paper,MENTIONS,mice,Species
+41763619,Paper,MENTIONS,acori tatarinowii rhizoma,Herb
+41763619,Paper,MENTIONS,polygalae radix,Herb
+41763619,Paper,MENTIONS,post-stroke depression,Disease
+41763619,Paper,MENTIONS,depression,Disease
+41763619,Paper,MENTIONS,multi-omics,Evidence
+41763619,Paper,MENTIONS,network pharmacology,Evidence
+41763619,Paper,MENTIONS,transcriptomics,Evidence
+41763619,Paper,MENTIONS,metabolomics,Evidence
+41763619,Paper,MENTIONS,kaempferol,Ingredient
+41763619,Paper,MENTIONS,rat,Species
+41763619,Paper,MENTIONS,rats,Species
+41763619,Paper,MENTIONS,anhedonia,Symptom
+40231535,Paper,MENTIONS,major depressive disorder,Disease
+40231535,Paper,MENTIONS,network pharmacology,Evidence
+40231535,Paper,MENTIONS,molecular docking,Evidence
+40231535,Paper,MENTIONS,akt1,Target
+40231535,Paper,MENTIONS,casp3,Target
+40231535,Paper,MENTIONS,esr1,Target
+40910010,Paper,MENTIONS,depression,Disease
+40910010,Paper,MENTIONS,anxiety,Disease
+40910010,Paper,MENTIONS,molecular docking,Evidence
+40910010,Paper,MENTIONS,network pharmacology,Evidence
+40910010,Paper,MENTIONS,nobiletin,Ingredient
+40910010,Paper,MENTIONS,tangeritin,Ingredient
+40910010,Paper,MENTIONS,magnolol,Ingredient
+40910010,Paper,MENTIONS,formononetin,Ingredient
+40910010,Paper,MENTIONS,neuroactive ligand-receptor interaction,Pathway
+40910010,Paper,MENTIONS,patient,Species
+40910010,Paper,MENTIONS,anxiety,Symptom
+40910010,Paper,MENTIONS,slc6a3,Target
+40910010,Paper,MENTIONS,oprm1,Target
+40740639,Paper,MENTIONS,depression,Disease
+40740639,Paper,MENTIONS,network pharmacology,Evidence
+40740639,Paper,MENTIONS,quercetin,Ingredient
+40740639,Paper,MENTIONS,mice,Species
+39884598,Paper,MENTIONS,depression,Disease
+39884598,Paper,MENTIONS,network pharmacology,Evidence
+39884598,Paper,MENTIONS,mice,Species
+39884598,Paper,MENTIONS,htr2a,Target
+39884598,Paper,MENTIONS,gsk3β,Target
+39884598,Paper,MENTIONS,bdnf,Target
+32256358,Paper,MENTIONS,depression,Disease
+32256358,Paper,MENTIONS,paeoniflorin,Ingredient
+32256358,Paper,MENTIONS,quercetin,Ingredient
+32256358,Paper,MENTIONS,luteolin,Ingredient
+32256358,Paper,MENTIONS,kaempferol,Ingredient
+32256358,Paper,MENTIONS,akt1,Target
+32256358,Paper,MENTIONS,tp53,Target
+32256358,Paper,MENTIONS,vegfa,Target

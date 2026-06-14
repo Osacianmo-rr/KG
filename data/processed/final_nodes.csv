@@ -1,0 +1,5836 @@
+﻿id,type,name
+H0718,Herb,Bletilla striata
+H0627,Herb,Siegesbeckia orientalis
+H0666,Herb,Triticum aestivum
+H1189,Herb,Radix et rhizoma rhodiolae
+H0678,Herb,Magnolia liliflora
+H0873,Herb,Melia toosendan
+H0972,Herb,Rehmannia glutinosa
+H1219,Herb,Arachis hypogaea
+H1241,Herb,Coptis chinensis
+H0784,Herb,Paeonia obovata
+H0619,Herb,Lespedeza virgata
+Herb ID,Herb,Latin_name
+H1224,Herb,Sophora japonica
+H0929,Herb,Caulis sargentodoxae
+H0804,Herb,Citrus aurantium
+H1251,Herb,Scutellaria baicalensis
+H1211,Herb,Gerbera piloselloides
+H0912,Herb,Eleutherococcus senticosus
+H1037,Herb,Pueraria thomsonii
+H0996,Herb,Atalantia buxifolia
+H1032,Herb,Eriocheir sinensis seu poramon
+H0670,Herb,Litsea rotundifolia
+H0643,Herb,Musa paradisiaca var. sapientum
+H0691,Herb,Saussurea involucrata
+H0910,Herb,Eleutherococcus senticosus
+H1018,Herb,Amomum kravanh
+H1231,Herb,Phellodendron amurense
+H0854,Herb,Campsis grandiflora
+H0764,Herb,Houttuynia cordata
+H0701,Herb,Juniperus formosana
+H1203,Herb,Viscum coloratum
+H1111,Herb,Trichosanthes kirilowii
+H0907,Herb,Corium erinacei seu hemiechianus
+H0962,Herb,Canavalia gladiata
+H0743,Herb,Alpinia oxyphylla
+H0900,Herb,Ailanthus altissima
+H1023,Herb,Hedyotis auricularia
+H1053,Herb,Wolfiporia cocos
+H0832,Herb,Ardisia crenata
+H0955,Herb,Angelica sinensis
+H0980,Herb,Sanguisorba officinalis
+H0820,Herb,Rhizoma paridis
+H0945,Herb,Aconitum carmichaeli
+H0884,Herb,Radix aconiti
+H0684,Herb,Cynanchum paniculatum
+H0675,Herb,Magnolia liliflora
+H1169,Herb,Nelumbo nucifera
+H0757,Herb,Papaver somniferum
+H0587,Herb,Concha arcae
+H1002,Herb,Ilex chinensis
+H1212,Herb,Quercus dentata
+H0601,Herb,Prunus mume
+H0892,Herb,Cnidium officinale
+H0628,Herb,Siegesbeckiae herba
+H0905,Herb,Rosa roxburghii
+H1190,Herb,Herba lagotidis
+H0681,Herb,Conyza blinii
+H1175,Herb,Semen glycine max
+H1221,Herb,Platycarya strobilacea
+H1131,Herb,Plastrum testudinis
+H1099,Herb,Uncaria rhynchophylla
+H1138,Herb,Thlaspi arvense
+H0756,Herb,Papaver somniferum
+H0707,Herb,Daphne genkwa
+H0944,Herb,Glycine max
+H0645,Herb,Elephas maximus
+H0959,Herb,Rhizoma codonopsis pilosulae
+H0732,Herb,Melastoma candidum
+H1054,Herb,Exodermis poria
+H1209,Herb,Succinus
+H1216,Herb,Ophicalcitum
+H1144,Herb,Liquidambar formosana
+H0687,Herb,Rhizoma corydalis
+H0725,Herb,Cassia angustifolia
+H0924,Herb,Pericarpium arecae
+H0788,Herb,Cinnamomum camphora
+H0798,Herb,Phyllanthus urinaria
+H1172,Herb,Radix aconiti kusnezoffii
+H0827,Herb,Hypocrella bambusae
+H0825,Herb,Poria cocos
+H0871,Herb,Dipsacus asper
+H1120,Herb,Pogostemon cablin
+H0838,Herb,Rhizoma panacis majoris
+H1017,Herb,Eucommia ulmoides
+H0634,Herb,Agrimonia pilosa var. japonica
+H1069,Herb,Glycyrrhiza uralensis
+H0738,Herb,Kadsura heteroclita
+H0936,Herb,Halitum
+H1056,Herb,Rubus idaeus
+H1063,Herb,Aconitum carmichaeli
+H0896,Herb,Morinda officinalis
+H1010,Herb,Pogostemon cablin
+H0865,Herb,Piper hancei
+H0808,Herb,Oleum sesami
+H0677,Herb,Bufo melanostictus
+H0582,Herb,Alpinia katsumadai
+H0857,Herb,Trachycarpus fortunei
+H0644,Herb,Cymbopogon citratus
+H0755,Herb,Rhododendron mucronulatum
+H0921,Herb,Dysosma versipellis
+H1156,Herb,Rehmannia glutinosa
+H1140,Herb,Entada phaseoloides
+H0752,Herb,Epimedium brevicornum
+H0694,Herb,Aristolochia mollissima
+H0613,Herb,Artemisia princeps
+H0654,Herb,Ligum cinnamomi camphorae
+H0772,Herb,Rosa chinensis
+H1076,Herb,Radix glycyrrhizae uralensis
+H0882,Herb,Rhizoma dioscoreae nipponicae
+H1086,Herb,Cleome gynandra
+H0728,Herb,Zingiber cassumunar
+H0733,Herb,Crataegus pinnatifida
+H0602,Herb,Prunus mume
+H0923,Herb,Blumea balsamifera
+H0953,Herb,Rhizoma arisaema cum bile
+H0851,Herb,Fructus perillae
+H0767,Herb,Rhizoma corydalis
+H1049,Herb,Liquidambar formosana
+H0891,Herb,Andrographis herba
+H1121,Herb,Tribulus terrestris
+H0859,Herb,Fritillaria cirrhosa
+H0664,Herb,Cirsium arvense
+H0704,Herb,Phellodendron amurense
+H0742,Herb,Aquilaria agallocha
+H1124,Herb,Desmodium styracifolium
+H0807,Herb,Strychnos nux-vomica
+H0665,Herb,Bupleurum chinense
+H1151,Herb,Ilex chinensis
+H0949,Herb,Salvia miltiorrhiza
+H0810,Herb,Arisaema consanguineum
+H0676,Herb,Magnolia liliflora
+H0611,Herb,Lindera strychnifolia
+H0614,Herb,Ipomoea cairica
+H0652,Herb,Citrus medica
+H1092,Herb,Alpinia officinarum
+H1122,Herb,Folium pogostemonis
+H0922,Herb,Radix heraclei maximi
+H1181,Herb,Sesamum indicum
+H0790,Herb,Cinnamomum camphora
+H1067,Herb,Glycyrrhiza uralensis
+H0919,Herb,Selaginella uncinata
+H0843,Herb,Fritillaria unibracteata
+H0930,Herb,Herba cirsii japonici
+H1070,Herb,Glycyrrhiza uralensis
+H1007,Herb,Glycine max
+H0963,Herb,Achyranthes aspera
+H0680,Herb,Conyza blinii
+H1044,Herb,Pteris multifida
+H1031,Herb,Anisomeles indica
+H0990,Herb,Syzygium aromaticum
+H0946,Herb,Ferula assafoetida
+H1159,Herb,Calcitum
+H0783,Herb,Lycopi Herba
+H1228,Herb,Phellodendron amurense
+H0893,Herb,Cnidium officinale
+H1059,Herb,Poria
+H0931,Herb,Herba cirsii japonici
+H0633,Herb,Corydalis decumbens
+H0909,Herb,Eleutherococcus senticosus
+H1030,Herb,Saposhnikovia divaricata
+H1254,Herb,Scutellaria baicalensis
+H0598,Herb,Trogopterus xanthipes
+H0741,Herb,Solidago decurrens
+H1033,Herb,Stephania tetrandra
+H0723,Herb,Caro caprae seu ovis
+H1060,Herb,Citrus medica var. sarcodactylis
+H0898,Herb,Sedum sarmentosum
+H0775,Herb,Polysaccharidum versicolor
+H0821,Herb,Laggera pterodonta
+H0978,Herb,Urena lobata
+H1016,Herb,Eucommia ulmoides
+H0719,Herb,Pericarpium citri reticulatae
+H0947,Herb,Zanthoxylum echinocarpum
+H0917,Herb,Carapax trionycis
+H0758,Herb,Citrus aurantium
+H1132,Herb,Colla carapacis et plastri testudinis
+H1149,Herb,Lygodium japonicum
+H1243,Herb,Coptis chinensis
+H0689,Herb,Ventilago leiocarpa
+H0937,Herb,Isatis indigotica
+H0762,Herb,Prunus japonica
+H0686,Herb,Flos inulae
+H0802,Herb,Citrus aurantium
+H1142,Herb,Millettia dielsiana
+H0925,Herb,Areca catechu
+H1128,Herb,Patrinia villosa
+H0657,Herb,Herba plantaginis minutae
+H1230,Herb,Phellodendron amurense
+H0722,Herb,Elaeagnus pungens
+H0879,Herb,Radix cudraniae
+H0721,Herb,Myrica rubra
+H0904,Herb,Tribulus terrestris
+H0833,Herb,Aristolochia kaempferi
+H1207,Herb,Sesamum indicum
+H1199,Herb,Damnacanthus indicus
+H0739,Herb,Coix lacryma- jobi var. ma - yuen
+H1035,Herb,Wolfiporia cocos
+H0943,Herb,Mytilus edulis
+H0956,Herb,Angelica sinensis
+H0823,Herb,Crassum intestinum porci
+H0800,Herb,Margarita
+H1028,Herb,Cassia angustifolia
+H0888,Herb,Croton tiglium
+H0663,Herb,Cirsium setosum
+H0639,Herb,Isodon amethystoides
+H1136,Herb,Oleum corticis cinnamomi
+H0826,Herb,Clerodendrum bungei
+H0964,Herb,Juncus effusus
+H0895,Herb,Curcuma longa
+H0777,Herb,Gleditsia sinensis
+H0903,Herb,Capsella bursa-pastoris
+H0724,Herb,Radix rumicis japonici
+H0780,Herb,Ziziphus jujuba mill. var. inermis (bge.) rehd.
+H1191,Herb,Radix ginseng rubra
+H0750,Herb,Ginkgo biloba
+H1157,Herb,Herba ecliptae prostratae
+H1164,Herb,Nelumbo nucifera
+H0650,Herb,Bupleurum chinense
+H0878,Herb,Croton tiglium
+H0699,Herb,Acorus calamus
+H1073,Herb,Glycyrrhiza uralensis
+H1108,Herb,Trichosanthes kirilowii
+H0586,Herb,Concha arcae
+H1061,Herb,Lilium brownii
+H0847,Herb,Homo sapiens
+H1148,Herb,Lygodium japonicum
+H1206,Herb,Lagenaria siceraria
+H0870,Herb,Cortex eucommiae
+H0982,Herb,Stemona tuberosa
+H1161,Herb,Chrysanthemum morifolium
+H0957,Herb,Embelia parviflora
+H1226,Herb,Rhizoma dioscoreae
+H0940,Herb,Callicarpa macrophylla
+H0693,Herb,Daemonorops draco
+H0987,Herb,Stemona tuberosa
+H0860,Herb,Trachycarpus fortunei
+H0979,Herb,Sanguisorba officinalis
+H0848,Herb,Ardisia japonica
+H1097,Herb,Syzygium aromaticum
+H0585,Herb,Artemisia capillaris
+H0647,Herb,Elsholtzia splendens
+H0695,Herb,Brucea javanica
+H0715,Herb,Plantago asiatica
+H0674,Herb,Magnolia liliflora
+H1238,Herb,Polygonatum sibiricum
+H1244,Herb,Taraxacum mongolicum
+H0637,Herb,Camellia sinensis
+H0580,Herb,Cuscuta australis
+H1083,Herb,Caro verci
+H1047,Herb,Liquidambar formosana
+H0623,Herb,Stigma croci
+H0763,Herb,Zea mays
+H0607,Herb,Schisandra chinensis
+H1174,Herb,Glycine max
+H1171,Herb,Terminalia chebula
+H1105,Herb,Trichosanthes kirilowii
+H0726,Herb,Atropa belladonna
+H0706,Herb,Corydalis yanhusuo
+H0625,Herb,Platycladus orientalis
+H0661,Herb,Phaseolus vulgaris
+H0651,Herb,Citrus medica
+H1101,Herb,Ardisiae japonicae
+H0709,Herb,Dichroa febrifuga
+H0928,Herb,Rheum officinale
+H0747,Herb,Styrax benzoin
+H0874,Herb,Dioscorea nipponica
+H1240,Herb,Vitex negundo
+H0786,Herb,Cinnamomum camphora
+H0653,Herb,Cinnamomum parthenoxylum
+H0877,Herb,Cyathula officinalis
+H1106,Herb,Trichosanthes kirilowii
+H0679,Herb,Prunus armeniaca
+H0845,Herb,Salvia przewalskii var. mandarinorum
+H0779,Herb,Gleditsia sinensis
+H0621,Herb,Citrullus lanatus
+H1179,Herb,Breynia fruticosa
+H0744,Herb,Stellaria dichotoma var. lanceolata
+H0911,Herb,Illicium verum
+H1019,Herb,Centipeda minima
+H1201,Herb,Saxifraga stolonifera
+H0588,Herb,Fructus tsaoko
+H0748,Herb,Triticum aestivum
+H0920,Herb,Lobelia chinensis
+H0939,Herb,Sargentodoxa cuneata
+H1147,Herb,Lygodium japonicum
+H1184,Herb,Ampelopsis japonica
+H0631,Herb,Panax quinquefolium
+H0591,Herb,Potentilla chinensis
+H0950,Herb,Salvia miltiorrhiza
+H1188,Herb,Carthamus tinctorius
+H0983,Herb,Atropa belladonna
+H0822,Herb,Elsholtzia splendens
+H1182,Herb,Nigella damascena
+H1245,Herb,Cynanchum stauntonii
+H0915,Herb,Allium fistulosum
+H0711,Herb,Daphne genkwa
+H0624,Herb,Succinus
+H1233,Herb,Prismatomeris tetrandra
+H1025,Herb,Potentilla discolor
+H0992,Herb,Oleum ocimi gratissimi
+H0899,Herb,Sedum sarmentosum
+H0872,Herb,Coptis chinensis
+H1112,Herb,Trichosanthes kirilowii
+H0770,Herb,Polygala tenuifolia
+H0581,Herb,Cuscuta australis
+H0731,Herb,Rosa canina
+H0636,Herb,Curculigo orchioides
+H0620,Herb,Citrullus vulgaris
+H0702,Herb,Bergenia purpurascens
+H0599,Herb,Trogopterus xanthipes
+H0997,Herb,Atalantia buxifolia
+H0629,Herb,Asarum sieboldii
+H0734,Herb,Phyllanthus urinaria
+H0746,Herb,Artemisia capillaris
+H0875,Herb,Clematidis armandii caulis
+H1078,Herb,Bufo melanostictus
+H0883,Herb,Belamcanda chinensis
+H0986,Herb,Onosma paniculatum
+H1055,Herb,Ginkgo biloba
+H0759,Herb,Fructus phyllanthi
+H1186,Herb,Salvia prionitis
+H0829,Herb,Anemone raddeana
+H1068,Herb,Lilium brownii
+H0811,Herb,Scorpio preparata
+H0791,Herb,Pinellia pedatisecta
+H0814,Herb,Radix polygoni multiflori preparata
+H1066,Herb,Glycyrrhiza uralensis
+H0967,Herb,Hypericum japonicum
+H0765,Herb,Vigna angularis
+H0714,Herb,Bupleurum chinense
+H1158,Herb,Massa hanshi fermentata
+H0894,Herb,Dipsacus asperoides
+H0778,Herb,Spina gleditsiae
+H1154,Herb,Sargassum
+H1177,Herb,Ficus pumila
+H1249,Herb,Astragalus membranaceus
+H0638,Herb,Fritillaria thunbergii
+H0671,Herb,Valeriana officinalis
+H0646,Herb,Dracocephalum moldavica
+H0839,Herb,Valeriana officinalis
+H1253,Herb,Scutellaria baicalensis
+H1133,Herb,Euonymus alatus
+H1135,Herb,Cinnamomum japonicum
+H0781,Herb,Ziziphus jujuba var. spinosa
+H0985,Herb,Phyllostachys nigra
+H1102,Herb,Drynaria fortunei
+H0692,Herb,Lespedeza bicolor
+H0815,Herb,Rhizoma corydalis
+H1170,Herb,Terminalia chebula
+H0840,Herb,Oleum eucalypti
+H1021,Herb,Oxytropis falcata
+H0668,Herb,Buxus microphylla
+ERN2,Herb,Cirsium setosum
+H0816,Herb,Laggera pterodonta
+H1167,Herb,Semen juglandis
+H1225,Herb,Sophora japonica
+H1048,Herb,Resina liquidambaris
+H0968,Herb,Illicium difengpi
+H0597,Herb,Acanthopanax gracilistylus
+H1187,Herb,Aster ageratoides
+H1091,Herb,Radix ginseng korea
+H0989,Herb,Kummerowia striata
+H1229,Herb,Aquilaria sinensis
+H0592,Herb,Clematis chinensis
+H1143,Herb,Herba lysimachiae
+H0705,Herb,Trigonella foenum-graecum
+H0855,Herb,Fritillaria cirrhosa
+H0844,Herb,Lithospermum erythrorhizon
+H1116,Herb,Aristolochia manshuriensis
+H0867,Herb,Juncus effusus
+H0648,Herb,Abrus precatorius
+H0713,Herb,Plantago depressa
+H1022,Herb,Curcuma aeruginosa
+H0890,Herb,Andrographis paniculata
+H0868,Herb,Angelica pubescens
+H1026,Herb,Aster tataricus
+H0806,Herb,Semen sesami
+H0834,Herb,Fructus broussonetiae
+H1113,Herb,Aconitum coreanum
+H0793,Herb,Rhododendron micranthum
+H1043,Herb,Piper kadsura
+H1109,Herb,Oldenlandia diffusa
+H0698,Herb,Gleditsia sinensis
+H1009,Herb,Angelica pubescens
+H0660,Herb,Radix glycyrrhizae
+H0901,Herb,Psychotria serpens
+H0669,Herb,Allium macrostemon
+H0887,Herb,Andrographis paniculata
+H1081,Herb,Cancrinia discoidea
+H1088,Herb,Saccharum sinensis
+H0934,Herb,Radix euphorbiae pekinensis
+H0740,Herb,Alpinia oxyphylla
+H1072,Herb,Glycyrrhiza uralensis
+H0960,Herb,Codonopsis pilosula
+H1183,Herb,Ormosia hosiei
+H1045,Herb,Impatiens balsamina
+H0712,Herb,Naja naja
+H0787,Herb,Cinnamomum camphora
+H0852,Herb,Pterocarpus indicus
+H0961,Herb,Swertia chinensis
+H1110,Herb,Trichosanthes kirilowii maxim
+H0805,Herb,Citrus aurantium
+H1038,Herb,Nidus vespae
+H0869,Herb,Croton tiglium
+H0685,Herb,Hemerocallis fulva
+H1119,Herb,Aristolochia fangchi
+H0794,Herb,Fritillaria verticillata var. thunbergii
+H0812,Herb,Cortex mori radicis praeparata
+H1074,Herb,Glycyrrhiza uralensis
+H1095,Herb,Pueraria lobata
+H1093,Herb,Alpinia officinarum
+H0836,Herb,Nelumbo nucifera
+H0604,Herb,Securidaca inappendiculata
+H0974,Herb,Euphorbia humifusa
+H0760,Herb,Coptis chinensis
+H1057,Herb,Aconitum carmichaeli
+H0927,Herb,Rheum officinale
+H0948,Herb,Rhizoma arisaema cum bile
+H1194,Herb,Pithecellobium clypearia
+H1052,Herb,Euonymus fortunei
+H1152,Herb,Sinapis alba
+H1003,Herb,Ilex chinensis
+H1200,Herb,Imperata cylindrica
+H0708,Herb,Daphne genkwa
+H0583,Herb,Cuscuta australis
+H1100,Herb,Eriocaulon buergerianum
+H0864,Herb,Oxalis corniculata
+H1214,Herb,Zanthoxylum bungeanum
+H1071,Herb,Glycyrrhiza uralensis
+H0863,Herb,Datura stramonium
+H1062,Herb,Aconitum carmichaeli
+H1178,Herb,Rhizoma zingiberis recens preparata
+H1082,Herb,Canarium album
+H0935,Herb,Fructus arctii lappae
+H0856,Herb,Trachycarpus fortunei
+H0703,Herb,Rhus chinensis
+H0975,Herb,Euphorbia humifusa
+H0862,Herb,Piper hancei
+H1014,Herb,Lamiophlomis rotata
+H1000,Herb,Benincasa hispida
+H0761,Herb,Curcuma aromatica
+H0688,Herb,Scrophularia ningpoensis
+H0995,Herb,Cordyceps sinensis
+H1232,Herb,Aconitum vilmorinianum
+H1166,Herb,Polygonum multiflorum
+H1126,Herb,Radix aucklandiae
+H1011,Herb,Semen pharbitidis
+H0984,Herb,Atropa belladonna
+H1125,Herb,Sal
+H0828,Herb,Pig's spinal cord
+H0771,Herb,Polygala tenuifolia
+H1137,Herb,Dimocarpus longan
+H1163,Herb,Lamprocapnos spectabilis
+H0642,Herb,Periploca sepium
+H0897,Herb,Melia azedarach
+H0745,Herb,Artemisia capillaris
+H1039,Herb,Typhonium giganteum
+H0641,Herb,Lentinus edodes
+H1001,Herb,Rabdosia rubescens
+H0813,Herb,Citrus aurantium
+H1027,Herb,Psidium guajava
+H0768,Herb,Scrophularia ningpoensis
+H0998,Herb,Benincasa hispida
+H1008,Herb,Asarum forbesii
+H0976,Herb,Pericarpium citri reticulatae viride
+H0818,Herb,Gardenia jasminoides
+H1090,Herb,Ligusticum sinense
+H1064,Herb,Gecko
+H0737,Herb,Saccharum granorum
+H0600,Herb,Trogopterus xanthipes
+H0589,Herb,Vaccaria segetalis
+H0971,Herb,Lablab purpureus
+H1051,Herb,Ginkgo biloba
+H0969,Herb,Fructus kochiae
+H1213,Herb,Polygonum cuspidatum
+H0841,Herb,Clerodendrum trichotomum
+H1005,Herb,Litsea cubeba
+H0954,Herb,Lophatherum gracile
+H0612,Herb,Sarcandra glabra
+H1020,Herb,Centipeda minima
+H0830,Herb,Fructus broussonetiae
+H1080,Herb,Pueraria lobata
+H0659,Herb,Bupleurum chinense
+H1205,Herb,Tadehagi triquetrum
+H1085,Herb,Nardostachys chinensis
+H0605,Herb,Schisandra chinensis
+H0649,Herb,Abrus precatorius
+H0596,Herb,Gallus domesticus
+H0938,Herb,Allium sativum
+H0610,Herb,Schisandra sphenanthera
+H0958,Herb,Codonopsis pilosula
+H0608,Herb,Schisandra chinensis
+H0988,Herb,Erycibe obtusifolia
+H0795,Herb,Eucalyptus globulus
+H0880,Herb,Cortex magnoliae officinalis
+H0594,Herb,Galla chinensis
+H0918,Herb,Daphne genkwa
+H1248,Herb,Astragalus membranaceus
+H1208,Herb,Sesamum indicum
+H0991,Herb,Stemona tuberosa
+H0773,Herb,Wolfiporia cocos
+H1223,Herb,Aster tataricus
+H1236,Herb,Hemerocallis citrina
+H0584,Herb,Acanthopanax gracilistylus
+H1197,Herb,Flos magnoliae offcinalis
+H0881,Herb,Notopterygium incisum
+H0769,Herb,Polygala tenuifolia
+H0618,Herb,Aconitum carmichaelii
+H1204,Herb,Piper nigrum
+H1222,Herb,Sophora japonica
+H1042,Herb,Acer saccharum
+H0729,Herb,Chrysanthemum indicum
+H0850,Herb,Perilla frutescens var. arguta
+H1117,Herb,Dryopteris crassirhizoma
+H0609,Herb,Schisandra chinensis
+H1077,Herb,Piper nigrum
+H0926,Herb,Rheum officinale
+H0913,Herb,Eleutherococcus senticosus
+H0606,Herb,Schisandra chinensis
+H0902,Herb,Ailanthi cortex
+H0977,Herb,Stemona tuberosa
+H1127,Herb,Crataegus pinnatifida
+H0853,Herb,Aster tataricus
+H1024,Herb,Rhizoma pinelliae preparata
+H0981,Herb,Spatholobus suberectus
+H1006,Herb,Fructus amomi rotundus
+H0809,Herb,Anemarrhena asphodeloides
+H1015,Herb,Eucommia ulmoides
+H0994,Herb,Oleum caryophylli
+H0593,Herb,Angelica dahurica
+H0696,Herb,Artemisia lactiflora
+H1041,Herb,Datura stramonium
+H0858,Herb,Trachycarpus fortunei
+H1220,Herb,Platycarya strobilacea
+H0785,Herb,Coptis chinensis
+H0700,Herb,Commelina communis
+H0966,Herb,Corydalis bungeana
+H0710,Herb,Daphne genkwa
+H0886,Herb,Andrographis paniculata
+H1087,Herb,Euphorbia kansui
+H0720,Herb,Datura metel
+H0736,Herb,Emilia sonchifolia
+H0595,Herb,Ficus carica
+H0735,Herb,Fritillaria pallidiflora
+H1139,Herb,Cinnamomum cassia
+H0782,Herb,Paris polyphylla
+H0749,Herb,Siphonostegia chinensis
+H0846,Herb,Clerodendrum trichotomum
+H0662,Herb,fructus foeniculi
+H1235,Herb,Artemisia scoparia
+H1176,Herb,Piper nigrum
+H0727,Herb,Scoparia dulcis
+H0965,Herb,Erigeron breviscapus
+H0914,Herb,Bulbus allii fistulosi
+H1195,Herb,Herba serissae
+H0801,Herb,Ericerus pela
+H0952,Herb,Glycine max
+H0002,Herb,Foeniculum vulgare
+H1246,Herb,Clausena lansium
+H0754,Herb,Zanthoxylum avicennae
+H1050,Herb,Ardisiae japonicae
+H1237,Herb,Sida acuta
+H0817,Herb,Valeriana jatamansii
+H1218,Herb,Arachis hypogaea
+H0973,Herb,Rehmannia glutinosa
+H1215,Herb,Exocarpium citri grandis
+H0655,Herb,Asparagus officinalis
+H0789,Herb,Cinnamomum camphora
+H0941,Herb,Ziziphus jujuba
+H1252,Herb,Scutellaria baicalensis
+H0751,Herb,Epimedium brevicornum
+H0632,Herb,Prunella vulgaris
+H1013,Herb,Vanilla planifolia
+H1196,Herb,Cortex magnoliae officinalis
+H1094,Herb,Pueraria lobata
+H0658,Herb,Urena lobata
+H1162,Herb,Paeonia albiflora
+H1153,Herb,Holothuria leucospilota
+H1198,Herb,Hericium erinaceus
+H1173,Herb,Semen pharbitidis
+H1165,Herb,Fructus carpesii
+H1040,Herb,Apis cerana
+H0697,Herb,Linum usitatissimum
+H0766,Herb,Polygonatum odoratum
+H0842,Herb,Concha mauritiae arabicae
+H0835,Herb,Fructus gleditsiae abnormalis
+H1118,Herb,Bletilla striata
+H0861,Herb,Stephania hernandifolia
+H0866,Herb,Dioscorea septemloba
+H1104,Herb,Trichosanthes kirilowii
+H1239,Herb,Polygonatum sibiricum
+H1123,Herb,Oleum pogostemonis
+H0824,Herb,Bilis porci
+H1210,Herb,Elaeagnus pungens
+H1129,Herb,Rhizoma curcumae
+H0799,Herb,Margarita
+H0630,Herb,Thuja orientalis
+H0774,Herb,Ruta graveolens
+H1115,Herb,Phellodendron amurense
+H0837,Herb,Phyllostachys nigra
+H1103,Herb,Cucumis melo
+H0993,Herb,Folium caryophylli
+H0590,Herb,Clematis chinensis
+H0819,Herb,Gardenia jasminoides
+H0615,Herb,Ficus simplicissima
+H1004,Herb,Camellia sinensis
+H0730,Herb,Eupatorium lindleyanum
+H1192,Herb,Pithecellobium clypearia
+H1234,Herb,Testis et penis canis familiaris
+H0716,Herb,Allium cepa
+H0849,Herb,Perilla frutescens var. arguta
+H1160,Herb,Scutellaria indica
+H1227,Herb,Sophora japonica
+H1107,Herb,Trichosanthes kirilowii
+H1065,Herb,Concha meretricis seu cyclinae
+H0683,Herb,Spiraea japonica
+H0885,Herb,Swertia mussotii
+H1089,Herb,Rhodomyrtus tomentosa
+H0682,Herb,Coptis chinensis
+H0616,Herb,Evodia rutaecarpa
+H1247,Herb,Astragalus membranaceus
+H0908,Herb,Eleutherococcus senticosus
+H0796,Herb,Margarita
+H0617,Herb,Rubia cordifolia
+H0626,Herb,Scutellaria amoena
+H1075,Herb,Glycyrrhiza uralensis
+H0916,Herb,Bulbus allii fistulosi
+H1141,Herb,Entada phaseoloides
+H1250,Herb,Astragalus membranaceus
+H1098,Herb,Cudrania cochinchinensis
+H0906,Herb,Amaranthus spinosus
+H1242,Herb,Coptis chinensis
+H1034,Herb,Euphorbia hirta
+H1096,Herb,Pueraria lobata
+H0889,Herb,Andrographis paniculata
+H0622,Herb,Cacumen tamaricis
+H0797,Herb,Lysimachia clethroides
+H0672,Herb,Conioselinum vaginatum
+H1084,Herb,Herba dracocephali tangutici
+H0776,Herb,Spina gleditsiae
+H0831,Herb,Polyporus umbellatus
+H0753,Herb,Epimedium brevicornum
+H1217,Herb,Prunus mume
+H1155,Herb,Sinomenium acutum
+H1036,Herb,Paeonia suffruticosa
+H0803,Herb,Polygonatum sibiricum
+H0603,Herb,Firmiana simplex
+H1046,Herb,Impatiens balsamina
+H0640,Herb,Cyperus rotundus
+H1012,Herb,Typhonium giganteum
+H0717,Herb,Allium cepa
+H0999,Herb,Semen benincasae
+H0932,Herb,Smilax china
+H1134,Herb,Bombyx mori
+H0635,Herb,Agrimonia pilosa var. japonica
+H1150,Herb,Lygodium japonicum
+H1193,Herb,Pithecellobium clypearia
+H1079,Herb,Rehmannia glutinosa
+H1130,Herb,Fructus choerospondiatis
+H0673,Herb,Arnebia euchroma
+H0933,Herb,Herba cirsii japonici
+H1029,Herb,Senegalia catechu
+H1168,Herb,Semen juglandis
+H0792,Herb,Octopus vulgaris
+H0667,Herb,Pericarpium citri reticulatae viride
+H1185,Herb,Fructus galangae
+H0656,Herb,Berberis julianae
+H1202,Herb,Picrorhiza kurrooa
+H0951,Herb,Salvia miltiorrhiza
+H1114,Herb,Cinnamomum cassia
+H1180,Herb,Auricularia auricula-judae
+H0970,Herb,Cortex lycii radicis
+L-Carnosine,Ingredient,L-Carnosine
+Prostaglandin D2,Ingredient,Prostaglandin D2
+Bilirubin,Ingredient,Bilirubin
+Deoxyguanosine,Ingredient,Deoxyguanosine
+Allopurinol,Ingredient,Allopurinol
+Rhododendrol,Ingredient,Rhododendrol
+Albiflorin,Ingredient,Albiflorin
+Cucurbitacin B,Ingredient,Cucurbitacin B
+Alvespimycin,Ingredient,Alvespimycin
+Rutin,Ingredient,Rutin
+Sanggenon C,Ingredient,Sanggenon C
+Solamargine,Ingredient,Solamargine
+Biochanin,Ingredient,Biochanin
+gamma-aminobutyric acid,Ingredient,gamma-aminobutyric acid
+Dichlorvos,Ingredient,Dichlorvos
+Myricetin,Ingredient,Myricetin
+Isoalantolactone,Ingredient,Isoalantolactone
+Falcarinol,Ingredient,Falcarinol
+Tranexamic Acid,Ingredient,Tranexamic Acid
+Bakuchiol,Ingredient,Bakuchiol
+Vitamin E,Ingredient,Vitamin E
+Octanol,Ingredient,Octanol
+Trans-N-Caffeoyltyramine,Ingredient,Trans-N-Caffeoyltyramine
+Oridonin,Ingredient,Oridonin
+Boswellic Acid,Ingredient,Boswellic Acid
+Laminarin,Ingredient,Laminarin
+Stemofoline,Ingredient,Stemofoline
+Papaverine,Ingredient,Papaverine
+Hydroquinone,Ingredient,Hydroquinone
+Osthenol,Ingredient,Osthenol
+Flavanone,Ingredient,Flavanone
+Quinazolinone,Ingredient,Quinazolinone
+Indirubin,Ingredient,Indirubin
+Alitretinoin,Ingredient,Alitretinoin
+Manassantin A,Ingredient,Manassantin A
+Damnacanthal,Ingredient,Damnacanthal
+Pyridine,Ingredient,Pyridine
+Licarin A,Ingredient,Licarin A
+Ethylene Glycol,Ingredient,Ethylene Glycol
+Aminolevulinic Acid,Ingredient,Aminolevulinic Acid
+Allitridin,Ingredient,Allitridin
+Desoxypodophyllotoxin,Ingredient,Desoxypodophyllotoxin
+Centaureidin,Ingredient,Centaureidin
+Chuanxiongzine,Ingredient,Chuanxiongzine
+Sennoside A,Ingredient,Sennoside A
+Matairesinol,Ingredient,Matairesinol
+Pamoic Acid,Ingredient,Pamoic Acid
+Berberine,Ingredient,Berberine
+Tectoridin,Ingredient,Tectoridin
+3-Hydroxybenzoic Acid,Ingredient,3-Hydroxybenzoic Acid
+Baccharin,Ingredient,Baccharin
+Menadione,Ingredient,Menadione
+"1-(4-Hydroxy-Benzyl)-1,2,3,4-Tetrahydro-Isoquinoline-6,7-Diol",Ingredient,"1-(4-Hydroxy-Benzyl)-1,2,3,4-Tetrahydro-Isoquinoline-6,7-Diol"
+Agmatine,Ingredient,Agmatine
+Farnesiferol B,Ingredient,Farnesiferol B
+Dibenzoylmethane,Ingredient,Dibenzoylmethane
+Trans-Asarone,Ingredient,Trans-Asarone
+Alpinetin,Ingredient,Alpinetin
+Angiotensin Ii,Ingredient,Angiotensin Ii
+Benzo[Def]Chrysene,Ingredient,Benzo[Def]Chrysene
+Dihydrocapsaicin,Ingredient,Dihydrocapsaicin
+Cryptotanshinone,Ingredient,Cryptotanshinone
+Butein,Ingredient,Butein
+Nonanoic Acid,Ingredient,Nonanoic Acid
+Tetradecane,Ingredient,Tetradecane
+"5,7,2',3'-Tetrahydroxyflavone",Ingredient,"5,7,2',3'-Tetrahydroxyflavone"
+Corosolic Acid,Ingredient,Corosolic Acid
+Tartrate,Ingredient,Tartrate
+Chavicol,Ingredient,Chavicol
+Strictinin,Ingredient,Strictinin
+8-Prenylnaringenin,Ingredient,8-Prenylnaringenin
+ARB,Ingredient,ARB
+Tetrahydrocurcumin,Ingredient,Tetrahydrocurcumin
+Saikosaponin A,Ingredient,Saikosaponin A
+Atractylenolide I,Ingredient,Atractylenolide I
+Gentiopicroside,Ingredient,Gentiopicroside
+Apigenin,Ingredient,Apigenin
+Rhynchophylline,Ingredient,Rhynchophylline
+Betunolic Acid,Ingredient,Betunolic Acid
+Pentazocine,Ingredient,Pentazocine
+Pronuciferine,Ingredient,Pronuciferine
+"Peiminine,Simperialine",Ingredient,"Peiminine,Simperialine"
+Styrene,Ingredient,Styrene
+Curcumine,Ingredient,Curcumine
+Ligustilide,Ingredient,Ligustilide
+Butylated Hydroxytoluene,Ingredient,Butylated Hydroxytoluene
+Butanone,Ingredient,Butanone
+Theophylline,Ingredient,Theophylline
+Liquiritin,Ingredient,Liquiritin
+Cearoin,Ingredient,Cearoin
+Inositol,Ingredient,Inositol
+Neoechinulin A,Ingredient,Neoechinulin A
+"7,8-Dihydroxyflavone",Ingredient,"7,8-Dihydroxyflavone"
+Plumbagin,Ingredient,Plumbagin
+Loratadine,Ingredient,Loratadine
+Bisdemethoxycurcumin,Ingredient,Bisdemethoxycurcumin
+Ketoprofen,Ingredient,Ketoprofen
+"1,2,3,4,6-Penta-O-Galloyl-D-Glucopyranose",Ingredient,"1,2,3,4,6-Penta-O-Galloyl-D-Glucopyranose"
+Eckol,Ingredient,Eckol
+Esculin,Ingredient,Esculin
+Sophocarpine,Ingredient,Sophocarpine
+Tangeretin,Ingredient,Tangeretin
+Oxiglutatione,Ingredient,Oxiglutatione
+Morphine,Ingredient,Morphine
+Bisphenol A,Ingredient,Bisphenol A
+Orcinol Glucoside,Ingredient,Orcinol Glucoside
+Paeoniflorin,Ingredient,Paeoniflorin
+Geniposide,Ingredient,Geniposide
+Cytochalasin B,Ingredient,Cytochalasin B
+Sertraline,Ingredient,Sertraline
+Chrysin,Ingredient,Chrysin
+Tretinoin,Ingredient,Tretinoin
+Gallocatechin,Ingredient,Gallocatechin
+Bq-123,Ingredient,Bq-123
+Diallyl Sulfide,Ingredient,Diallyl Sulfide
+Uridine Triphosphate,Ingredient,Uridine Triphosphate
+Ginkgetin,Ingredient,Ginkgetin
+Methyleugenol,Ingredient,Methyleugenol
+Somatostatin,Ingredient,Somatostatin
+Acetaminophen,Ingredient,Acetaminophen
+Phorbol Myristate Acetate,Ingredient,Phorbol Myristate Acetate
+?-Ionone,Ingredient,?-Ionone
+Aristolochic Acid,Ingredient,Aristolochic Acid
+Diphenylether,Ingredient,Diphenylether
+Aspartic Acid,Ingredient,Aspartic Acid
+Chelidonine,Ingredient,Chelidonine
+Allicin,Ingredient,Allicin
+Cytidine 5'-Phosphate,Ingredient,Cytidine 5'-Phosphate
+Delphinidin,Ingredient,Delphinidin
+"1,3,7-Trihydroxyxanthone",Ingredient,"1,3,7-Trihydroxyxanthone"
+Osajin,Ingredient,Osajin
+S-Adenosyl Methionine,Ingredient,S-Adenosyl Methionine
+Farrerol,Ingredient,Farrerol
+Niacinamide,Ingredient,Niacinamide
+Dihydrotanshinone I,Ingredient,Dihydrotanshinone I
+Acetamide,Ingredient,Acetamide
+Isocorynoxeine,Ingredient,Isocorynoxeine
+Epigalocatechin Gallate,Ingredient,Epigalocatechin Gallate
+Brevilin A,Ingredient,Brevilin A
+"5-Hydroxy-6,7,8,3',4'-Pentamethoxyflavone",Ingredient,"5-Hydroxy-6,7,8,3',4'-Pentamethoxyflavone"
+Tumulosic Acid,Ingredient,Tumulosic Acid
+Apocynin,Ingredient,Apocynin
+Hesperetin,Ingredient,Hesperetin
+Theobromine,Ingredient,Theobromine
+Oxypurinol,Ingredient,Oxypurinol
+Cynaropicrin,Ingredient,Cynaropicrin
+Neoandrographolide,Ingredient,Neoandrographolide
+Taurine,Ingredient,Taurine
+Chloroform,Ingredient,Chloroform
+Biphenyl,Ingredient,Biphenyl
+Beta-Eudesmol,Ingredient,Beta-Eudesmol
+Loganin,Ingredient,Loganin
+Quinalizarin,Ingredient,Quinalizarin
+Naloxone,Ingredient,Naloxone
+Zingerone,Ingredient,Zingerone
+Cis-Asarone,Ingredient,Cis-Asarone
+Fanchinin,Ingredient,Fanchinin
+Myrtenal,Ingredient,Myrtenal
+Nandrolone Decanoate,Ingredient,Nandrolone Decanoate
+Colchicine,Ingredient,Colchicine
+Tmpea,Ingredient,Tmpea
+Parathion,Ingredient,Parathion
+D-Mannoheptulose,Ingredient,D-Mannoheptulose
+Isorhamnetin,Ingredient,Isorhamnetin
+Danthron,Ingredient,Danthron
+Enoxolone,Ingredient,Enoxolone
+[6]-Gingerol,Ingredient,[6]-Gingerol
+Desmethoxyyangonin,Ingredient,Desmethoxyyangonin
+O-Cresol,Ingredient,O-Cresol
+Rhapontigenin,Ingredient,Rhapontigenin
+Oxitriptan,Ingredient,Oxitriptan
+Sophoridine,Ingredient,Sophoridine
+Methylglyoxal,Ingredient,Methylglyoxal
+Acetaldehyde,Ingredient,Acetaldehyde
+Astragaloside Iv,Ingredient,Astragaloside Iv
+Alkannin,Ingredient,Alkannin
+(-)-Antofine,Ingredient,(-)-Antofine
+"Vitamin E?,â-Tocopherol",Ingredient,"Vitamin E?,â-Tocopherol"
+Stylopine,Ingredient,Stylopine
+Jatrorrhizine,Ingredient,Jatrorrhizine
+Lutein,Ingredient,Lutein
+Telekin,Ingredient,Telekin
+Atenolol,Ingredient,Atenolol
+Sesamolin,Ingredient,Sesamolin
+Cianidanol,Ingredient,Cianidanol
+Curculigoside,Ingredient,Curculigoside
+"2,3,9,10-Tetramethoxy-6,8,13,13A-Tetrahydro-5H-Isoquinolino[2,1-B]Isoquinoline",Ingredient,"2,3,9,10-Tetramethoxy-6,8,13,13A-Tetrahydro-5H-Isoquinolino[2,1-B]Isoquinoline"
+Nonane,Ingredient,Nonane
+Ajoene,Ingredient,Ajoene
+Artepillin,Ingredient,Artepillin
+Ppi,Ingredient,Ppi
+Toosendanin,Ingredient,Toosendanin
+Phenylethyl Alcohol,Ingredient,Phenylethyl Alcohol
+Ursodiol,Ingredient,Ursodiol
+Icariside Ii,Ingredient,Icariside Ii
+Palmitic Acid,Ingredient,Palmitic Acid
+Herbacetin,Ingredient,Herbacetin
+Enkephalin,Ingredient,Enkephalin
+"(1R,9S)-4,11,11-Trimethyl-8-Methylenebicyclo[7.2.0]Undec-4-Ene,Caryophellene,?-Caryophyllene",Ingredient,"(1R,9S)-4,11,11-Trimethyl-8-Methylenebicyclo[7.2.0]Undec-4-Ene,Caryophellene,?-Caryophyllene"
+Fluoxetine,Ingredient,Fluoxetine
+Gentianine,Ingredient,Gentianine
+Desoxycorticosterone,Ingredient,Desoxycorticosterone
+Maslinic Acid,Ingredient,Maslinic Acid
+Sulfuretin,Ingredient,Sulfuretin
+Fumaric Acid,Ingredient,Fumaric Acid
+Tuberostemonine,Ingredient,Tuberostemonine
+Nitidine Chloride,Ingredient,Nitidine Chloride
+Hesperitin,Ingredient,Hesperitin
+Fluoranthene,Ingredient,Fluoranthene
+Obtusifolin,Ingredient,Obtusifolin
+Liriodenine,Ingredient,Liriodenine
+Xanthotoxol,Ingredient,Xanthotoxol
+Nobiletin,Ingredient,Nobiletin
+N-Acetyl-D-Glucosamine,Ingredient,N-Acetyl-D-Glucosamine
+Pyroglutamic Acid,Ingredient,Pyroglutamic Acid
+Ascorbate,Ingredient,Ascorbate
+Cyanidin Chloride,Ingredient,Cyanidin Chloride
+Ubidecarenone,Ingredient,Ubidecarenone
+Myricitrin,Ingredient,Myricitrin
+Prasterone,Ingredient,Prasterone
+Pidolic Acid,Ingredient,Pidolic Acid
+Tubocurarine,Ingredient,Tubocurarine
+Amarogentin,Ingredient,Amarogentin
+Chrysoeriol,Ingredient,Chrysoeriol
+Scutellarein,Ingredient,Scutellarein
+Ginsenoside Rf,Ingredient,Ginsenoside Rf
+Glabridin,Ingredient,Glabridin
+Tamsulosin,Ingredient,Tamsulosin
+Testosterone,Ingredient,Testosterone
+Succinic Acid,Ingredient,Succinic Acid
+Retinal,Ingredient,Retinal
+Thiram,Ingredient,Thiram
+Oxycodone,Ingredient,Oxycodone
+Limonene,Ingredient,Limonene
+Dimethyl Phthalate,Ingredient,Dimethyl Phthalate
+Isopimpinellin,Ingredient,Isopimpinellin
+Cannabidiol Acid,Ingredient,Cannabidiol Acid
+(-)-Demecolcine,Ingredient,(-)-Demecolcine
+Pinusolide,Ingredient,Pinusolide
+Ginsenoside Rg1,Ingredient,Ginsenoside Rg1
+Morusin,Ingredient,Morusin
+Glycybenzofuran,Ingredient,Glycybenzofuran
+Liensinine,Ingredient,Liensinine
+Estriol,Ingredient,Estriol
+Uridine,Ingredient,Uridine
+Verapamil,Ingredient,Verapamil
+Benzylamine,Ingredient,Benzylamine
+Demethoxycurcumin,Ingredient,Demethoxycurcumin
+Sakuranetin,Ingredient,Sakuranetin
+Monocrotaline,Ingredient,Monocrotaline
+Isoeugenol,Ingredient,Isoeugenol
+Chrysin Dimethyl Ether,Ingredient,Chrysin Dimethyl Ether
+Ribose,Ingredient,Ribose
+Trioxsalen,Ingredient,Trioxsalen
+Betaine,Ingredient,Betaine
+?-Crocetin,Ingredient,?-Crocetin
+Mangostin,Ingredient,Mangostin
+Citropten,Ingredient,Citropten
+Quercetin,Ingredient,Quercetin
+Ponasterone A,Ingredient,Ponasterone A
+S-Nitrosoglutathione,Ingredient,S-Nitrosoglutathione
+Calcimycin,Ingredient,Calcimycin
+Bergaptol,Ingredient,Bergaptol
+Topiramate,Ingredient,Topiramate
+Ginsenoside Rh2,Ingredient,Ginsenoside Rh2
+Nordihydroguaiaretic Acid,Ingredient,Nordihydroguaiaretic Acid
+Chikusetsusaponin Iva,Ingredient,Chikusetsusaponin Iva
+Bradykinin,Ingredient,Bradykinin
+Lactic Acid,Ingredient,Lactic Acid
+Oleoylethanolamide,Ingredient,Oleoylethanolamide
+Naringenin,Ingredient,Naringenin
+Oleanolic_Acid,Ingredient,Oleanolic_Acid
+Eucalyptol,Ingredient,Eucalyptol
+Syringin,Ingredient,Syringin
+Silybin B,Ingredient,Silybin B
+P-Nitrophenol,Ingredient,P-Nitrophenol
+Isopropyl Alcohol,Ingredient,Isopropyl Alcohol
+Glutathione,Ingredient,Glutathione
+Permethrin,Ingredient,Permethrin
+Pinostrobin,Ingredient,Pinostrobin
+Pyridoxal Phosphate,Ingredient,Pyridoxal Phosphate
+8-Prenylapigenin,Ingredient,8-Prenylapigenin
+Linoleic Acid,Ingredient,Linoleic Acid
+Gamma-Aminobutyric Acid,Ingredient,Gamma-Aminobutyric Acid
+Isoguvacine,Ingredient,Isoguvacine
+Ginsenoside Rg2,Ingredient,Ginsenoside Rg2
+Adenine,Ingredient,Adenine
+Sucrose,Ingredient,Sucrose
+Phillyrin,Ingredient,Phillyrin
+Terpinen-4-Ol,Ingredient,Terpinen-4-Ol
+Genipin,Ingredient,Genipin
+2-Phenoxyethanol,Ingredient,2-Phenoxyethanol
+"5,7-Dihydroxy-2-(4-Hydroxyphenyl)-2,3-Dihydrochromen-4-One",Ingredient,"5,7-Dihydroxy-2-(4-Hydroxyphenyl)-2,3-Dihydrochromen-4-One"
+Grifolin,Ingredient,Grifolin
+Ecdysone,Ingredient,Ecdysone
+Tannic Acid,Ingredient,Tannic Acid
+Thiazole,Ingredient,Thiazole
+Bruceantinol,Ingredient,Bruceantinol
+Grandisin,Ingredient,Grandisin
+Piceid,Ingredient,Piceid
+Isoliquiritigenin,Ingredient,Isoliquiritigenin
+Putrescine,Ingredient,Putrescine
+Arecoline,Ingredient,Arecoline
+Ganodermic Acid R,Ingredient,Ganodermic Acid R
+Tricin,Ingredient,Tricin
+Yakuchinone B,Ingredient,Yakuchinone B
+Bicarbonate,Ingredient,Bicarbonate
+Cardamomin,Ingredient,Cardamomin
+Aurapten,Ingredient,Aurapten
+Spermidine,Ingredient,Spermidine
+3-Methyl-1H-Indole,Ingredient,3-Methyl-1H-Indole
+Coumarin,Ingredient,Coumarin
+Borneol,Ingredient,Borneol
+Propionic Acid,Ingredient,Propionic Acid
+Pinocembrin,Ingredient,Pinocembrin
+Juglone,Ingredient,Juglone
+Chenodiol,Ingredient,Chenodiol
+Congo Red,Ingredient,Congo Red
+(-)-Epicatechin,Ingredient,(-)-Epicatechin
+Orcinol,Ingredient,Orcinol
+Osthole,Ingredient,Osthole
+"2,3-Dihydroxypropanal",Ingredient,"2,3-Dihydroxypropanal"
+Sinomenine,Ingredient,Sinomenine
+Citral,Ingredient,Citral
+Scopolin,Ingredient,Scopolin
+Valproic Acid,Ingredient,Valproic Acid
+Zingiberene,Ingredient,Zingiberene
+Coumestrol,Ingredient,Coumestrol
+Camphor,Ingredient,Camphor
+Phenethylamine,Ingredient,Phenethylamine
+Dibutyl Phthalate,Ingredient,Dibutyl Phthalate
+Cytidine Diphosphate,Ingredient,Cytidine Diphosphate
+Ganodermanontriol,Ingredient,Ganodermanontriol
+Icosapent,Ingredient,Icosapent
+Prostaglandin A2,Ingredient,Prostaglandin A2
+Tilianine,Ingredient,Tilianine
+Kynurenine,Ingredient,Kynurenine
+Palmitoleic Acid,Ingredient,Palmitoleic Acid
+Wogonoside,Ingredient,Wogonoside
+Beta-Sitosterol,Ingredient,Beta-Sitosterol
+Uridine Diphosphate Glucose,Ingredient,Uridine Diphosphate Glucose
+?-Bourbonene,Ingredient,?-Bourbonene
+Aniline,Ingredient,Aniline
+Bis(2-Ethylhexyl) Phthalate,Ingredient,Bis(2-Ethylhexyl) Phthalate
+Alpha-Amyrin,Ingredient,Alpha-Amyrin
+Sauchinone,Ingredient,Sauchinone
+Alpha-Humulone,Ingredient,Alpha-Humulone
+Rutaecarpine,Ingredient,Rutaecarpine
+Benzaldehyde,Ingredient,Benzaldehyde
+Uralsaponin A,Ingredient,Uralsaponin A
+Madecassoside,Ingredient,Madecassoside
+Maackiain,Ingredient,Maackiain
+Galactose,Ingredient,Galactose
+Saccharin,Ingredient,Saccharin
+Punicalagin,Ingredient,Punicalagin
+Prunin,Ingredient,Prunin
+Bilobetin,Ingredient,Bilobetin
+Cyclic Adenosine Monophosphate,Ingredient,Cyclic Adenosine Monophosphate
+Leukotriene D4,Ingredient,Leukotriene D4
+Shogaol,Ingredient,Shogaol
+Terephthalic Acid,Ingredient,Terephthalic Acid
+Benzene,Ingredient,Benzene
+Ethinyl Estradiol,Ingredient,Ethinyl Estradiol
+Ap,Ingredient,Ap
+Oleic Acid,Ingredient,Oleic Acid
+Bile Acid,Ingredient,Bile Acid
+Gedunin,Ingredient,Gedunin
+Safranal,Ingredient,Safranal
+Alprostadil,Ingredient,Alprostadil
+Ganciclovir,Ingredient,Ganciclovir
+Arctiin,Ingredient,Arctiin
+Luteolin,Ingredient,Luteolin
+"4,7,7-Trimethylbicyclo[2.2.1]Heptan-3-One",Ingredient,"4,7,7-Trimethylbicyclo[2.2.1]Heptan-3-One"
+Dronabinol,Ingredient,Dronabinol
+Isoxanthohumol,Ingredient,Isoxanthohumol
+Estrone,Ingredient,Estrone
+Escitalopram,Ingredient,Escitalopram
+Picroside Ii,Ingredient,Picroside Ii
+Isoliensinine,Ingredient,Isoliensinine
+Glycitein,Ingredient,Glycitein
+Xanthatin,Ingredient,Xanthatin
+Schisandrin B,Ingredient,Schisandrin B
+Levofloxacin,Ingredient,Levofloxacin
+Ouabain,Ingredient,Ouabain
+Chalcone,Ingredient,Chalcone
+Esculentoside A,Ingredient,Esculentoside A
+Eupafolin,Ingredient,Eupafolin
+Delphinidin Chloride,Ingredient,Delphinidin Chloride
+Pyridoxine,Ingredient,Pyridoxine
+Cortodoxone,Ingredient,Cortodoxone
+Geraniin,Ingredient,Geraniin
+Alcohol,Ingredient,Alcohol
+Saikosaponin D,Ingredient,Saikosaponin D
+Visnagin,Ingredient,Visnagin
+Matrine,Ingredient,Matrine
+Beta Carotene,Ingredient,Beta Carotene
+Muscarine,Ingredient,Muscarine
+Ginsenoside Rd,Ingredient,Ginsenoside Rd
+Phloretin,Ingredient,Phloretin
+Methyldopa,Ingredient,Methyldopa
+Paraben,Ingredient,Paraben
+Androstenediol,Ingredient,Androstenediol
+Ailanthone,Ingredient,Ailanthone
+Pachymic Acid,Ingredient,Pachymic Acid
+Mangiferin,Ingredient,Mangiferin
+Erucic Acid,Ingredient,Erucic Acid
+Cholecalciferol,Ingredient,Cholecalciferol
+Silychristin,Ingredient,Silychristin
+(+)-Taxifolin,Ingredient,(+)-Taxifolin
+Imidazole,Ingredient,Imidazole
+Lanatoside C,Ingredient,Lanatoside C
+Anethole,Ingredient,Anethole
+Tetrodotoxin,Ingredient,Tetrodotoxin
+Allopregnanolone,Ingredient,Allopregnanolone
+Nandrolone,Ingredient,Nandrolone
+Canavanine,Ingredient,Canavanine
+Tetrandrine,Ingredient,Tetrandrine
+Daphnetin,Ingredient,Daphnetin
+Procyanidin B2,Ingredient,Procyanidin B2
+Diosmetin,Ingredient,Diosmetin
+Tectorigenin,Ingredient,Tectorigenin
+P-Hydroxybenzoic Acid,Ingredient,P-Hydroxybenzoic Acid
+Deoxycholic Acid,Ingredient,Deoxycholic Acid
+Eupatorin,Ingredient,Eupatorin
+Codeine,Ingredient,Codeine
+Abscisic Acid,Ingredient,Abscisic Acid
+Oxidopamine,Ingredient,Oxidopamine
+Acacetin,Ingredient,Acacetin
+Ginsenoside Re,Ingredient,Ginsenoside Re
+Bornyl Acetate,Ingredient,Bornyl Acetate
+Fomepizole,Ingredient,Fomepizole
+Ethyl Vanillin,Ingredient,Ethyl Vanillin
+Ferulic Acid,Ingredient,Ferulic Acid
+Swertiajaponin,Ingredient,Swertiajaponin
+Hesperidin,Ingredient,Hesperidin
+Kaempferol,Ingredient,Kaempferol
+Digoxin,Ingredient,Digoxin
+Heptadecane,Ingredient,Heptadecane
+Araloside A,Ingredient,Araloside A
+Ginkgolide J,Ingredient,Ginkgolide J
+Humulone,Ingredient,Humulone
+Catechin,Ingredient,Catechin
+Aspirin,Ingredient,Aspirin
+Taraxasterol,Ingredient,Taraxasterol
+Nectandrin B,Ingredient,Nectandrin B
+Linolenic Acid,Ingredient,Linolenic Acid
+Estradiol,Ingredient,Estradiol
+"5-Hydroxy-3-(4-Hydroxyphenyl)-7-[3,4,5-Trihydroxy-6-(Hydroxymethyl)Oxan-2-Yl]Oxychromen-4-One",Ingredient,"5-Hydroxy-3-(4-Hydroxyphenyl)-7-[3,4,5-Trihydroxy-6-(Hydroxymethyl)Oxan-2-Yl]Oxychromen-4-One"
+Triolein,Ingredient,Triolein
+Caryophellene,Ingredient,Caryophellene
+Crocin,Ingredient,Crocin
+Obovatol,Ingredient,Obovatol
+Rhaponticin,Ingredient,Rhaponticin
+Andrographolide,Ingredient,Andrographolide
+Quinolinic Acid,Ingredient,Quinolinic Acid
+Arundine,Ingredient,Arundine
+Acetylcysteine,Ingredient,Acetylcysteine
+D-Epigalbacin,Ingredient,D-Epigalbacin
+Levocarnitine,Ingredient,Levocarnitine
+Duvoglustat,Ingredient,Duvoglustat
+Mannitol,Ingredient,Mannitol
+Lignoceric Acid,Ingredient,Lignoceric Acid
+Chrysophanol,Ingredient,Chrysophanol
+Squalene,Ingredient,Squalene
+Ursolic Acid,Ingredient,Ursolic Acid
+Citric Acid,Ingredient,Citric Acid
+Sphingosine,Ingredient,Sphingosine
+Dopamine,Ingredient,Dopamine
+Collettiside Iii,Ingredient,Collettiside Iii
+Levodopa,Ingredient,Levodopa
+Salsolinol,Ingredient,Salsolinol
+Wedelolactone,Ingredient,Wedelolactone
+Angelicin,Ingredient,Angelicin
+Flavonol,Ingredient,Flavonol
+Carvacrol,Ingredient,Carvacrol
+irisolidone,Ingredient,irisolidone
+Gdp,Ingredient,Gdp
+Xanthoxylin,Ingredient,Xanthoxylin
+Naringin,Ingredient,Naringin
+Danshensu,Ingredient,Danshensu
+M-Xylene,Ingredient,M-Xylene
+Strychnine,Ingredient,Strychnine
+Methoxsalen,Ingredient,Methoxsalen
+Morin,Ingredient,Morin
+L-Fucose,Ingredient,L-Fucose
+Daidzein,Ingredient,Daidzein
+"Methyl Hexadecanate,Methyl Palmitate",Ingredient,"Methyl Hexadecanate,Methyl Palmitate"
+Norathyriol,Ingredient,Norathyriol
+Ginsenoside Rb2,Ingredient,Ginsenoside Rb2
+Plaunotol,Ingredient,Plaunotol
+"?-Elemene,?-Elemene",Ingredient,"?-Elemene,?-Elemene"
+Oxymatrine,Ingredient,Oxymatrine
+Famotidine,Ingredient,Famotidine
+Emodin,Ingredient,Emodin
+Dopa,Ingredient,Dopa
+Cinnamaldehyde,Ingredient,Cinnamaldehyde
+Cannabichromene,Ingredient,Cannabichromene
+Tanshinone Iia,Ingredient,Tanshinone Iia
+Methyl Alcohol,Ingredient,Methyl Alcohol
+Carbon Tetrachloride,Ingredient,Carbon Tetrachloride
+Azelaic Acid,Ingredient,Azelaic Acid
+Ethyl Acetate,Ingredient,Ethyl Acetate
+Chelerythrine,Ingredient,Chelerythrine
+Oseltamivir,Ingredient,Oseltamivir
+Eugenol,Ingredient,Eugenol
+Rosmarinic Acid,Ingredient,Rosmarinic Acid
+Sanggenone G,Ingredient,Sanggenone G
+Cirsilineol,Ingredient,Cirsilineol
+Genistein,Ingredient,Genistein
+Bavachin,Ingredient,Bavachin
+Resveratrol 4'-Methyl Ether,Ingredient,Resveratrol 4'-Methyl Ether
+Thymol,Ingredient,Thymol
+Berberine Chloride,Ingredient,Berberine Chloride
+(R)-Cysteine,Ingredient,(R)-Cysteine
+Piperine,Ingredient,Piperine
+"3(S)-3-Butyl-4,5-Dihydrophthalide",Ingredient,"3(S)-3-Butyl-4,5-Dihydrophthalide"
+Bergenin,Ingredient,Bergenin
+Sinapinate,Ingredient,Sinapinate
+Quindoline,Ingredient,Quindoline
+GLA,Ingredient,GLA
+Neferine,Ingredient,Neferine
+Irigenin,Ingredient,Irigenin
+Citronellol,Ingredient,Citronellol
+Oleuropein,Ingredient,Oleuropein
+Phenylephrine,Ingredient,Phenylephrine
+Triptolide,Ingredient,Triptolide
+Coptisine,Ingredient,Coptisine
+2-Nonenal,Ingredient,2-Nonenal
+Dimethyl Sulfide,Ingredient,Dimethyl Sulfide
+Taxifolin,Ingredient,Taxifolin
+Triclosan,Ingredient,Triclosan
+Rhein,Ingredient,Rhein
+Evodiamine,Ingredient,Evodiamine
+Levothyroxine,Ingredient,Levothyroxine
+Mesalamine,Ingredient,Mesalamine
+Picropodophyllotoxin,Ingredient,Picropodophyllotoxin
+Toluene,Ingredient,Toluene
+Decursinol,Ingredient,Decursinol
+Raffinose,Ingredient,Raffinose
+Kuwanon C,Ingredient,Kuwanon C
+Zerumbone,Ingredient,Zerumbone
+Brucine,Ingredient,Brucine
+Palmidrol,Ingredient,Palmidrol
+Celecoxib,Ingredient,Celecoxib
+Formononetin,Ingredient,Formononetin
+Bergapten,Ingredient,Bergapten
+Selenomethionine,Ingredient,Selenomethionine
+Farnesol,Ingredient,Farnesol
+Cyanidin,Ingredient,Cyanidin
+Scutellarin,Ingredient,Scutellarin
+Acetophenone,Ingredient,Acetophenone
+Lycopene,Ingredient,Lycopene
+Flavone,Ingredient,Flavone
+Niacin,Ingredient,Niacin
+3-Iodothyronamine,Ingredient,3-Iodothyronamine
+Ergosterol,Ingredient,Ergosterol
+Stigmasterol,Ingredient,Stigmasterol
+Salicylic Acid,Ingredient,Salicylic Acid
+Risedronic Acid,Ingredient,Risedronic Acid
+Resorcinol,Ingredient,Resorcinol
+Cinnamic Acid,Ingredient,Cinnamic Acid
+Sanggenon G,Ingredient,Sanggenon G
+Butyl Alcohol,Ingredient,Butyl Alcohol
+O-Xylene,Ingredient,O-Xylene
+"2'-Methoxy-3,4,4'-Trihydroxychalcone",Ingredient,"2'-Methoxy-3,4,4'-Trihydroxychalcone"
+Oxytocin,Ingredient,Oxytocin
+Guanine,Ingredient,Guanine
+Quinoline,Ingredient,Quinoline
+Curcumol,Ingredient,Curcumol
+sitosterol,Ingredient,sitosterol
+Acetylcholine,Ingredient,Acetylcholine
+Tryptanthrin,Ingredient,Tryptanthrin
+10-Gingerol,Ingredient,10-Gingerol
+Methyl Rosmarinate,Ingredient,Methyl Rosmarinate
+Yakuchinone A,Ingredient,Yakuchinone A
+Sanguinarium,Ingredient,Sanguinarium
+Ethacrynic Acid,Ingredient,Ethacrynic Acid
+Tetraethylammonium Chloride,Ingredient,Tetraethylammonium Chloride
+Venlafaxine,Ingredient,Venlafaxine
+Catalpol,Ingredient,Catalpol
+Chlorogenic Acid,Ingredient,Chlorogenic Acid
+Pelargonidin,Ingredient,Pelargonidin
+Zaluzanin C,Ingredient,Zaluzanin C
+Digitoxin,Ingredient,Digitoxin
+Arjunolic Acid,Ingredient,Arjunolic Acid
+Xanthohumol,Ingredient,Xanthohumol
+Fisetin,Ingredient,Fisetin
+Amentoflavone,Ingredient,Amentoflavone
+Atropine,Ingredient,Atropine
+Lycorine,Ingredient,Lycorine
+Harmine,Ingredient,Harmine
+Pristimerin,Ingredient,Pristimerin
+Indigo,Ingredient,Indigo
+Menthone,Ingredient,Menthone
+Naproxen,Ingredient,Naproxen
+Salvianolic Acid A,Ingredient,Salvianolic Acid A
+Aconitine,Ingredient,Aconitine
+Schisandrol B,Ingredient,Schisandrol B
+Diphenhydramine,Ingredient,Diphenhydramine
+Stearic Acid,Ingredient,Stearic Acid
+Simvastatin,Ingredient,Simvastatin
+Hispidulin,Ingredient,Hispidulin
+Fructose,Ingredient,Fructose
+Canthaxanthin,Ingredient,Canthaxanthin
+estrone,Ingredient,estrone
+Oroxylin A,Ingredient,Oroxylin A
+Aicar,Ingredient,Aicar
+1-Tetradecanol,Ingredient,1-Tetradecanol
+Caffeic Acid,Ingredient,Caffeic Acid
+Adenosine Triphosphate,Ingredient,Adenosine Triphosphate
+Crotonaldehyde,Ingredient,Crotonaldehyde
+Glycycoumarin,Ingredient,Glycycoumarin
+Pterostilbene,Ingredient,Pterostilbene
+Dulcitol,Ingredient,Dulcitol
+Cyclohexanone,Ingredient,Cyclohexanone
+Levomenthol,Ingredient,Levomenthol
+Sanguinarine,Ingredient,Sanguinarine
+Isotrifoliol,Ingredient,Isotrifoliol
+Tiliroside,Ingredient,Tiliroside
+4-Hydroxybenzyl Alcohol,Ingredient,4-Hydroxybenzyl Alcohol
+Benzophenone,Ingredient,Benzophenone
+Vanillic Acid,Ingredient,Vanillic Acid
+Diphyllin,Ingredient,Diphyllin
+Cycloheximide,Ingredient,Cycloheximide
+Phytanic Acid,Ingredient,Phytanic Acid
+Methylthioadenosine,Ingredient,Methylthioadenosine
+Spermine,Ingredient,Spermine
+Corticosterone,Ingredient,Corticosterone
+Riboflavin,Ingredient,Riboflavin
+2-Arachidonoylglycerol,Ingredient,2-Arachidonoylglycerol
+Besigomsin,Ingredient,Besigomsin
+Inosine,Ingredient,Inosine
+Malonic Acid,Ingredient,Malonic Acid
+Betulinic Acid,Ingredient,Betulinic Acid
+Ginkgolide B,Ingredient,Ginkgolide B
+Anonaine,Ingredient,Anonaine
+"(2E,4E)-Deca-2,4-Dienal",Ingredient,"(2E,4E)-Deca-2,4-Dienal"
+Loperamide,Ingredient,Loperamide
+Paeonol,Ingredient,Paeonol
+Physcion,Ingredient,Physcion
+Corilagin,Ingredient,Corilagin
+Arachidonic Acid,Ingredient,Arachidonic Acid
+Ursocholanic Acid,Ingredient,Ursocholanic Acid
+Noscapine,Ingredient,Noscapine
+Pyrazinoic Acid,Ingredient,Pyrazinoic Acid
+Esculetin,Ingredient,Esculetin
+Ergosterol Peroxide,Ingredient,Ergosterol Peroxide
+Cytisine,Ingredient,Cytisine
+Pentachlorophenol,Ingredient,Pentachlorophenol
+Menthol,Ingredient,Menthol
+Folic Acid,Ingredient,Folic Acid
+Brefeldin A,Ingredient,Brefeldin A
+Phenol,Ingredient,Phenol
+Daidzin,Ingredient,Daidzin
+Eriodictyol,Ingredient,Eriodictyol
+Ampelopsin,Ingredient,Ampelopsin
+Flavin Adenine Dinucleotide,Ingredient,Flavin Adenine Dinucleotide
+Piplartine,Ingredient,Piplartine
+Brasilin,Ingredient,Brasilin
+Tigogenin,Ingredient,Tigogenin
+Flazin,Ingredient,Flazin
+Sinensetin,Ingredient,Sinensetin
+Myristic Acid,Ingredient,Myristic Acid
+Gossypol,Ingredient,Gossypol
+Hinokitiol,Ingredient,Hinokitiol
+Scopoletin,Ingredient,Scopoletin
+Gambogic Acid,Ingredient,Gambogic Acid
+Benzamide,Ingredient,Benzamide
+Daminozide,Ingredient,Daminozide
+Octanoic Acid,Ingredient,Octanoic Acid
+Glycyrrhizin,Ingredient,Glycyrrhizin
+Atorvastatin,Ingredient,Atorvastatin
+Ascaridole,Ingredient,Ascaridole
+Wogonin,Ingredient,Wogonin
+Ginsenoside Rb1,Ingredient,Ginsenoside Rb1
+Sulforaphane,Ingredient,Sulforaphane
+Stepholidine,Ingredient,Stepholidine
+L-2-Hydroxyglutarate,Ingredient,L-2-Hydroxyglutarate
+Phellodendrine,Ingredient,Phellodendrine
+Orientin,Ingredient,Orientin
+?-Spinasterol,Ingredient,?-Spinasterol
+Swertiamarin,Ingredient,Swertiamarin
+Senkyunolide,Ingredient,Senkyunolide
+Thiamine,Ingredient,Thiamine
+S-Adenosylhomocysteine,Ingredient,S-Adenosylhomocysteine
+Nalorphine,Ingredient,Nalorphine
+Oxyresveratrol,Ingredient,Oxyresveratrol
+Norepinephrine,Ingredient,Norepinephrine
+Isoimperatorin,Ingredient,Isoimperatorin
+Puerarin,Ingredient,Puerarin
+Aloe-Emodin,Ingredient,Aloe-Emodin
+Fucosterol,Ingredient,Fucosterol
+Dictamnine,Ingredient,Dictamnine
+Panduratin A,Ingredient,Panduratin A
+Ellagic Acid,Ingredient,Ellagic Acid
+Astragalin,Ingredient,Astragalin
+Psoralen,Ingredient,Psoralen
+Uracil,Ingredient,Uracil
+Diosmin,Ingredient,Diosmin
+Gefitinib,Ingredient,Gefitinib
+Tyramine,Ingredient,Tyramine
+Paroxypropione,Ingredient,Paroxypropione
+Meglutol,Ingredient,Meglutol
+?-Cyperone,Ingredient,?-Cyperone
+"(1E,6E)-1,7-Bis(4-Hydroxy-3-Methoxyphenyl)Hepta-1,6-Diene-3,5-Dione",Ingredient,"(1E,6E)-1,7-Bis(4-Hydroxy-3-Methoxyphenyl)Hepta-1,6-Diene-3,5-Dione"
+Hydrocortisone,Ingredient,Hydrocortisone
+Hydrastine,Ingredient,Hydrastine
+Linalool,Ingredient,Linalool
+Retinol,Ingredient,Retinol
+Aldosterone,Ingredient,Aldosterone
+Quercitrin,Ingredient,Quercitrin
+Ifenprodil,Ingredient,Ifenprodil
+Propoxur,Ingredient,Propoxur
+Isoquercetin,Ingredient,Isoquercetin
+Phenanthrene,Ingredient,Phenanthrene
+Gallic Acid,Ingredient,Gallic Acid
+Glycinebetaine,Ingredient,Glycinebetaine
+Dihydroberberine,Ingredient,Dihydroberberine
+Serotonin,Ingredient,Serotonin
+Gastrodin,Ingredient,Gastrodin
+Arjungenin,Ingredient,Arjungenin
+Butylphthalide,Ingredient,Butylphthalide
+Sesamin,Ingredient,Sesamin
+Aucubin,Ingredient,Aucubin
+Tetrahydropalmatine,Ingredient,Tetrahydropalmatine
+Taurocholate,Ingredient,Taurocholate
+Cpg,Ingredient,Cpg
+Quercetin Dihydrate,Ingredient,Quercetin Dihydrate
+Abietic Acid,Ingredient,Abietic Acid
+Lecanoric Acid,Ingredient,Lecanoric Acid
+Galangin,Ingredient,Galangin
+Phlorizin,Ingredient,Phlorizin
+Sesamol,Ingredient,Sesamol
+Phloroglucinol,Ingredient,Phloroglucinol
+Embelin,Ingredient,Embelin
+Carnosic Acid,Ingredient,Carnosic Acid
+Biotin,Ingredient,Biotin
+Ciprofloxacin,Ingredient,Ciprofloxacin
+7-Oxocholesterol,Ingredient,7-Oxocholesterol
+Gabapentin,Ingredient,Gabapentin
+Pyruvic Acid,Ingredient,Pyruvic Acid
+"Rhodioloside,Salidroside",Ingredient,"Rhodioloside,Salidroside"
+Fucoidan,Ingredient,Fucoidan
+Anemonin,Ingredient,Anemonin
+Jaceosidine,Ingredient,Jaceosidine
+Epicatechin Gallate,Ingredient,Epicatechin Gallate
+Propranolol,Ingredient,Propranolol
+Nerolidol,Ingredient,Nerolidol
+Epigallocatechin,Ingredient,Epigallocatechin
+Anthraquinone,Ingredient,Anthraquinone
+Kojic Acid,Ingredient,Kojic Acid
+Limonin,Ingredient,Limonin
+Platycodin D,Ingredient,Platycodin D
+Vitexin,Ingredient,Vitexin
+Guaiol,Ingredient,Guaiol
+Geraniol,Ingredient,Geraniol
+Berbamine,Ingredient,Berbamine
+Decursin,Ingredient,Decursin
+Pyridoxal,Ingredient,Pyridoxal
+Kinetin,Ingredient,Kinetin
+Cynarin,Ingredient,Cynarin
+Tanshinone I,Ingredient,Tanshinone I
+Cholic Acid,Ingredient,Cholic Acid
+Acetyltryptophan,Ingredient,Acetyltryptophan
+Brusatol,Ingredient,Brusatol
+Acetoside,Ingredient,Acetoside
+Cucurbitacin E,Ingredient,Cucurbitacin E
+Nomilin,Ingredient,Nomilin
+Liothyronine,Ingredient,Liothyronine
+Licochalcone D,Ingredient,Licochalcone D
+Polygodial,Ingredient,Polygodial
+Zeaxanthin,Ingredient,Zeaxanthin
+Octopamine,Ingredient,Octopamine
+Cytochrome C,Ingredient,Cytochrome C
+Diazepam,Ingredient,Diazepam
+Obacunone,Ingredient,Obacunone
+Byakangelicin,Ingredient,Byakangelicin
+Metoprolol,Ingredient,Metoprolol
+Naphthalene,Ingredient,Naphthalene
+Forsythiaside,Ingredient,Forsythiaside
+(S)-N-Trans-Feruloyloctopamine,Ingredient,(S)-N-Trans-Feruloyloctopamine
+Thebaine,Ingredient,Thebaine
+Progesterone,Ingredient,Progesterone
+GLY,Ingredient,GLY
+Hippuric Acid,Ingredient,Hippuric Acid
+Pinosylvin,Ingredient,Pinosylvin
+Purpurin,Ingredient,Purpurin
+Palmitine,Ingredient,Palmitine
+Curcumin,Ingredient,Curcumin
+Propyl Gallate,Ingredient,Propyl Gallate
+Morroniside,Ingredient,Morroniside
+Piperidine,Ingredient,Piperidine
+Betulin,Ingredient,Betulin
+Indole-3-Acetic Acid,Ingredient,Indole-3-Acetic Acid
+Dicumarol,Ingredient,Dicumarol
+Asiatic Acid,Ingredient,Asiatic Acid
+Cholesterol,Ingredient,Cholesterol
+27-Hydroxycholesterol,Ingredient,27-Hydroxycholesterol
+Benzoic Acid,Ingredient,Benzoic Acid
+Acrolein,Ingredient,Acrolein
+Dauricine,Ingredient,Dauricine
+Ginkgolide C,Ingredient,Ginkgolide C
+Schisandrol A,Ingredient,Schisandrol A
+"(1S)-1-Methyl-1,2,3,4-Tetrahydroisoquinoline-6,7-Diol",Ingredient,"(1S)-1-Methyl-1,2,3,4-Tetrahydroisoquinoline-6,7-Diol"
+Choline,Ingredient,Choline
+Icaritin,Ingredient,Icaritin
+Rotenone,Ingredient,Rotenone
+Nodakenin,Ingredient,Nodakenin
+Scoparone,Ingredient,Scoparone
+?-Pinene,Ingredient,?-Pinene
+Hyperforin,Ingredient,Hyperforin
+Tryptamine,Ingredient,Tryptamine
+Esculentic Acid,Ingredient,Esculentic Acid
+Isovitexin,Ingredient,Isovitexin
+Anandamide,Ingredient,Anandamide
+Silibinin,Ingredient,Silibinin
+Astaxanthin,Ingredient,Astaxanthin
+Fraxetin,Ingredient,Fraxetin
+2-Methoxyestradiol,Ingredient,2-Methoxyestradiol
+Choline Chloride,Ingredient,Choline Chloride
+Pyrogallol,Ingredient,Pyrogallol
+Sciadopitisin,Ingredient,Sciadopitisin
+Eupatilin,Ingredient,Eupatilin
+Oleamide,Ingredient,Oleamide
+Caffeic Acid Phenethyl Ester,Ingredient,Caffeic Acid Phenethyl Ester
+Cgmp,Ingredient,Cgmp
+Cyasterone,Ingredient,Cyasterone
+(-)-Lobeline,Ingredient,(-)-Lobeline
+"1,3-Dicyclohexylurea",Ingredient,"1,3-Dicyclohexylurea"
+Psoralidin,Ingredient,Psoralidin
+3-Aminobenzoic Acid,Ingredient,3-Aminobenzoic Acid
+Methyl Syringate,Ingredient,Methyl Syringate
+Hyperoside,Ingredient,Hyperoside
+Lupeol,Ingredient,Lupeol
+Pyrene,Ingredient,Pyrene
+Ganoderic Acid F,Ingredient,Ganoderic Acid F
+Capsaicin,Ingredient,Capsaicin
+Pyridoxamine,Ingredient,Pyridoxamine
+Melatonin,Ingredient,Melatonin
+Tyrosol,Ingredient,Tyrosol
+Magnolol,Ingredient,Magnolol
+Isomitraphylline,Ingredient,Isomitraphylline
+Oxalic Acid,Ingredient,Oxalic Acid
+Propylene Glycol,Ingredient,Propylene Glycol
+10-Dehydrogingerdione,Ingredient,10-Dehydrogingerdione
+Rocaglamide,Ingredient,Rocaglamide
+Alpha-Santalol,Ingredient,Alpha-Santalol
+Melanin,Ingredient,Melanin
+Kurarinol,Ingredient,Kurarinol
+Resveratrol,Ingredient,Resveratrol
+Jujuboside A,Ingredient,Jujuboside A
+(4-Prop-1-En-2-Ylcyclohexen-1-Yl)Methanol,Ingredient,(4-Prop-1-En-2-Ylcyclohexen-1-Yl)Methanol
+Nanafrocin,Ingredient,Nanafrocin
+Aminosalicylic Acid,Ingredient,Aminosalicylic Acid
+20-Hydroxyecdysone,Ingredient,20-Hydroxyecdysone
+Phorbol,Ingredient,Phorbol
+Safrole,Ingredient,Safrole
+Pregnenolone,Ingredient,Pregnenolone
+Anthranilic Acid,Ingredient,Anthranilic Acid
+Sodium Benzoate,Ingredient,Sodium Benzoate
+Cycloastragenol,Ingredient,Cycloastragenol
+"Butylethylene Ether,Hexanal",Ingredient,"Butylethylene Ether,Hexanal"
+Lithocholic Acid,Ingredient,Lithocholic Acid
+Licoagrochacone A,Ingredient,Licoagrochacone A
+Bicuculline,Ingredient,Bicuculline
+Prunetin,Ingredient,Prunetin
+Costunolide,Ingredient,Costunolide
+Nicotine,Ingredient,Nicotine
+Epinephrine,Ingredient,Epinephrine
+Sophoramine,Ingredient,Sophoramine
+Stanolone,Ingredient,Stanolone
+Deoxyguanosine Triphosphate,Ingredient,Deoxyguanosine Triphosphate
+"3,5-Dihydroxybenzoic Acid",Ingredient,"3,5-Dihydroxybenzoic Acid"
+(2S)-2-Amino-5-[[Amino(Dimethylamino)Methylidene]Amino]Pentanoic Acid,Ingredient,(2S)-2-Amino-5-[[Amino(Dimethylamino)Methylidene]Amino]Pentanoic Acid
+Androstenedione,Ingredient,Androstenedione
+Disogenin,Ingredient,Disogenin
+Terpineol,Ingredient,Terpineol
+Arctigenin,Ingredient,Arctigenin
+(+/-)Nicotine,Ingredient,(+/-)Nicotine
+Ferruginol,Ingredient,Ferruginol
+Phytol,Ingredient,Phytol
+Baicalin,Ingredient,Baicalin
+Nootkatone,Ingredient,Nootkatone
+Caffeine,Ingredient,Caffeine
+Cannabigerol,Ingredient,Cannabigerol
+Histamine,Ingredient,Histamine
+Catechol,Ingredient,Catechol
+Piceatannol,Ingredient,Piceatannol
+Isoferulic Acid,Ingredient,Isoferulic Acid
+Lipoic Acid,Ingredient,Lipoic Acid
+Taurolithocholic Acid,Ingredient,Taurolithocholic Acid
+Terbutaline,Ingredient,Terbutaline
+Crotonoside,Ingredient,Crotonoside
+Soyasaponin I,Ingredient,Soyasaponin I
+Icariin,Ingredient,Icariin
+Cannabidiol,Ingredient,Cannabidiol
+Calcitriol,Ingredient,Calcitriol
+Methylprednisolone,Ingredient,Methylprednisolone
+Isatin,Ingredient,Isatin
+(20S)-Protopanaxadiol,Ingredient,(20S)-Protopanaxadiol
+Indole,Ingredient,Indole
+Honokiol,Ingredient,Honokiol
+Benzoquinone,Ingredient,Benzoquinone
+Maltose,Ingredient,Maltose
+Tromethamine,Ingredient,Tromethamine
+Vanillin,Ingredient,Vanillin
+Baicalein,Ingredient,Baicalein
+Auraptene,Ingredient,Auraptene
+Mannose,Ingredient,Mannose
+Deguelin,Ingredient,Deguelin
+Paclitaxel,Ingredient,Paclitaxel
+Schisandrin A,Ingredient,Schisandrin A
+Apicidin,Ingredient,Apicidin
+Trigonelline,Ingredient,Trigonelline
+Asiaticoside,Ingredient,Asiaticoside
+Miltirone,Ingredient,Miltirone
+Raphanin,Ingredient,Raphanin
+Kushenol X,Ingredient,Kushenol X
+Caryophyllene,Ingredient,Caryophyllene
+25-Hydroxycholecalciferol,Ingredient,25-Hydroxycholecalciferol
+Pantoprazole,Ingredient,Pantoprazole
+Arbutin,Ingredient,Arbutin
+Dehydrocostuslactone,Ingredient,Dehydrocostuslactone
+Cyclopamine,Ingredient,Cyclopamine
+Chlorhexidine,Ingredient,Chlorhexidine
+Isocryptotanshinone,Ingredient,Isocryptotanshinone
+Alfatradiol,Ingredient,Alfatradiol
+Isoorientin,Ingredient,Isoorientin
+Cotinine,Ingredient,Cotinine
+Phorbol-12-Myristate-13-Acetate,Ingredient,Phorbol-12-Myristate-13-Acetate
+Uridylic Acid,Ingredient,Uridylic Acid
+Geranylgeraniol,Ingredient,Geranylgeraniol
+Nifedipine,Ingredient,Nifedipine
+Alpha-Terpineol,Ingredient,Alpha-Terpineol
+Metformin,Ingredient,Metformin
+"3,7,7-Trimethylbicyclo[4.1.0]Hept-3-Ene,3-Carene",Ingredient,"3,7,7-Trimethylbicyclo[4.1.0]Hept-3-Ene,3-Carene"
+Ibuprofen,Ingredient,Ibuprofen
+Loliolide,Ingredient,Loliolide
+Glycyrol,Ingredient,Glycyrol
+Atrazine,Ingredient,Atrazine
+"3',4'-Dihydroxyacetophenone",Ingredient,"3',4'-Dihydroxyacetophenone"
+Salvianolic Acid B,Ingredient,Salvianolic Acid B
+Protocatechualdehyde,Ingredient,Protocatechualdehyde
+Z-Butylidenephthalide,Ingredient,Z-Butylidenephthalide
+Ar-Turmerone,Ingredient,Ar-Turmerone
+Procaine,Ingredient,Procaine
+Harpagoside,Ingredient,Harpagoside
+Dioscin,Ingredient,Dioscin
+Shikonin,Ingredient,Shikonin
+Urea,Ingredient,Urea
+?-Carotene,Ingredient,?-Carotene
+"2,6-Diacetyl-7,9-Dihydroxy-8,9B-Dimethyldibenzofuran-1,3-Dione",Ingredient,"2,6-Diacetyl-7,9-Dihydroxy-8,9B-Dimethyldibenzofuran-1,3-Dione"
+Dalfampridine,Ingredient,Dalfampridine
+2-(5-Hydroxy-1H-Indol-3-Yl)Acetic Acid,Ingredient,2-(5-Hydroxy-1H-Indol-3-Yl)Acetic Acid
+Acetylshikonin,Ingredient,Acetylshikonin
+Quercetagetin,Ingredient,Quercetagetin
+Celastrol,Ingredient,Celastrol
+Isolinderalactone,Ingredient,Isolinderalactone
+Calycosin,Ingredient,Calycosin
+Coumaric Acid,Ingredient,Coumaric Acid
+Isotretinoin,Ingredient,Isotretinoin
+Adenosine,Ingredient,Adenosine
+"Dipentene,L-Limonene",Ingredient,"Dipentene,L-Limonene"
+Allantoin,Ingredient,Allantoin
+Rhamnetin,Ingredient,Rhamnetin
+Fangchinoline,Ingredient,Fangchinoline
+Quetiapine,Ingredient,Quetiapine
+Trans-Phytol,Ingredient,Trans-Phytol
+Allyl Isothiocyanate,Ingredient,Allyl Isothiocyanate
+Endosulfan,Ingredient,Endosulfan
+Nuciferine,Ingredient,Nuciferine
+?-Cryptoxanthin,Ingredient,?-Cryptoxanthin
+"Acetic Acid,Propionic Acid",Ingredient,"Acetic Acid,Propionic Acid"
+Astilbin,Ingredient,Astilbin
+Acrylamide,Ingredient,Acrylamide
+Anacardic Acid,Ingredient,Anacardic Acid
+Panaxynol,Ingredient,Panaxynol
+Cysteamine,Ingredient,Cysteamine
+(+)-Pentazocine,Ingredient,(+)-Pentazocine
+Protocatechuic Acid,Ingredient,Protocatechuic Acid
+Spinosin,Ingredient,Spinosin
+Dimethylformamide,Ingredient,Dimethylformamide
+Gamolenic Acid,Ingredient,Gamolenic Acid
+Chlorpheniramine,Ingredient,Chlorpheniramine
+CBR1,Target,CBR1
+HP,Target,HP
+F12,Target,F12
+SHBG,Target,SHBG
+NPVF,Target,NPVF
+SLC16A1,Target,SLC16A1
+PDE2A,Target,PDE2A
+AHCY,Target,AHCY
+KLF1,Target,KLF1
+SLC1A3,Target,SLC1A3
+CYP26A1,Target,CYP26A1
+DIABLO,Target,DIABLO
+PDK1,Target,PDK1
+GLS,Target,GLS
+AKR1C3,Target,AKR1C3
+URAD,Target,URAD
+SLC25A21,Target,SLC25A21
+BTK,Target,BTK
+ACE2,Target,ACE2
+MCM2,Target,MCM2
+CRISP2,Target,CRISP2
+BIRC7,Target,BIRC7
+BUB1,Target,BUB1
+KIF20A,Target,KIF20A
+CXCL12,Target,CXCL12
+PAK4,Target,PAK4
+PRMT5,Target,PRMT5
+PTK2,Target,PTK2
+SLC9A8,Target,SLC9A8
+TAS2R5,Target,TAS2R5
+LGALS3,Target,LGALS3
+MARK4,Target,MARK4
+F2R,Target,F2R
+AQP9,Target,AQP9
+FOXM1,Target,FOXM1
+LORICRIN,Target,LORICRIN
+PRSS50,Target,PRSS50
+CIDEB,Target,CIDEB
+MSI1,Target,MSI1
+AMH,Target,AMH
+GSK3B,Target,GSK3B
+VIM2P,Target,VIM2P
+LPIN1,Target,LPIN1
+ADRB3,Target,ADRB3
+PVALB,Target,PVALB
+ALOX12,Target,ALOX12
+PNPLA2,Target,PNPLA2
+TET1,Target,TET1
+GPX5,Target,GPX5
+CASR,Target,CASR
+HTR2B,Target,HTR2B
+DLG4,Target,DLG4
+DLK1,Target,DLK1
+IGF1,Target,IGF1
+CNR1,Target,CNR1
+SLC9A2,Target,SLC9A2
+SFTPA1,Target,SFTPA1
+IL13RA2,Target,IL13RA2
+ERCC1,Target,ERCC1
+PBK,Target,PBK
+S100G,Target,S100G
+NEIL2,Target,NEIL2
+TRAF2,Target,TRAF2
+HDAC8,Target,HDAC8
+ADCYAP1,Target,ADCYAP1
+CTSC,Target,CTSC
+NQO1,Target,NQO1
+CORT,Target,CORT
+RSAD2,Target,RSAD2
+BMI1,Target,BMI1
+NOTCH1,Target,NOTCH1
+NRP1,Target,NRP1
+AGER,Target,AGER
+LEP,Target,LEP
+P2RY2,Target,P2RY2
+GPBAR1,Target,GPBAR1
+MC4R,Target,MC4R
+SLC5A6,Target,SLC5A6
+IL17A,Target,IL17A
+AMY2A,Target,AMY2A
+ICMT,Target,ICMT
+BMPR2,Target,BMPR2
+UCHL1,Target,UCHL1
+DUOX2,Target,DUOX2
+UCP3,Target,UCP3
+LMNB1,Target,LMNB1
+GSR,Target,GSR
+GABARAP,Target,GABARAP
+ABAT,Target,ABAT
+PML,Target,PML
+MIR21,Target,MIR21
+MEG3,Target,MEG3
+SLC22A7,Target,SLC22A7
+TEK,Target,TEK
+KLF7,Target,KLF7
+RAD51,Target,RAD51
+TRPM3,Target,TRPM3
+SULT1E1,Target,SULT1E1
+CCND1,Target,CCND1
+CCNE2,Target,CCNE2
+PRKD3,Target,PRKD3
+THBD,Target,THBD
+MDC1,Target,MDC1
+GUCY2D,Target,GUCY2D
+CAPN1,Target,CAPN1
+NT5E,Target,NT5E
+PTPN13,Target,PTPN13
+BMP5,Target,BMP5
+KCNMB1,Target,KCNMB1
+LGSN,Target,LGSN
+HOXC13,Target,HOXC13
+ELAVL4,Target,ELAVL4
+ROS1,Target,ROS1
+NTRK2,Target,NTRK2
+LARS1,Target,LARS1
+CSNK2A1,Target,CSNK2A1
+NEK2,Target,NEK2
+PTPN6,Target,PTPN6
+GPD1,Target,GPD1
+ACLY,Target,ACLY
+ARRB1,Target,ARRB1
+MIR203A,Target,MIR203A
+GJA1,Target,GJA1
+AHSG,Target,AHSG
+AKT1,Target,AKT1
+IL21,Target,IL21
+APEX1,Target,APEX1
+DAO,Target,DAO
+MAOA,Target,MAOA
+SKIL,Target,SKIL
+CASP2,Target,CASP2
+NME1,Target,NME1
+SLC23A2,Target,SLC23A2
+AURKA,Target,AURKA
+MADCAM1,Target,MADCAM1
+HAT1,Target,HAT1
+FXR1,Target,FXR1
+BRCA2,Target,BRCA2
+SLC26A3,Target,SLC26A3
+GLB1,Target,GLB1
+NRG1,Target,NRG1
+COX8A,Target,COX8A
+DDX5,Target,DDX5
+GYPA,Target,GYPA
+TRPC6,Target,TRPC6
+PRKCA,Target,PRKCA
+WNT5A,Target,WNT5A
+CSF3R,Target,CSF3R
+SIGMAR1,Target,SIGMAR1
+ACP1,Target,ACP1
+RARG,Target,RARG
+OPN4,Target,OPN4
+FGF21,Target,FGF21
+TNFSF13B,Target,TNFSF13B
+INPPL1,Target,INPPL1
+PDE5A,Target,PDE5A
+ALOX5,Target,ALOX5
+GZMB,Target,GZMB
+GCG,Target,GCG
+PRKCE,Target,PRKCE
+DNAJC5,Target,DNAJC5
+AVP,Target,AVP
+CCK,Target,CCK
+HEXB,Target,HEXB
+GLO1,Target,GLO1
+CLU,Target,CLU
+CASP14,Target,CASP14
+TNFSF9,Target,TNFSF9
+MAP3K20,Target,MAP3K20
+TF,Target,TF
+MUC5AC,Target,MUC5AC
+EIF2AK2,Target,EIF2AK2
+TNF,Target,TNF
+RAF1,Target,RAF1
+RYR2,Target,RYR2
+CDK7,Target,CDK7
+SMAD5,Target,SMAD5
+MTOR,Target,MTOR
+XPO1,Target,XPO1
+NR4A1,Target,NR4A1
+SCNN1A,Target,SCNN1A
+MCM6,Target,MCM6
+HSP90AA1,Target,HSP90AA1
+TPO,Target,TPO
+ADORA1,Target,ADORA1
+CSNK2A2,Target,CSNK2A2
+SLC19A3,Target,SLC19A3
+CFLAR,Target,CFLAR
+HCAR1,Target,HCAR1
+HPGDS,Target,HPGDS
+EIF2AK3,Target,EIF2AK3
+FFAR4,Target,FFAR4
+FOXD3,Target,FOXD3
+DNER,Target,DNER
+NUCB2,Target,NUCB2
+SLC52A1,Target,SLC52A1
+FGFR2,Target,FGFR2
+MCIDAS,Target,MCIDAS
+CREM,Target,CREM
+STIM1,Target,STIM1
+SKI,Target,SKI
+MMP14,Target,MMP14
+KCNA5,Target,KCNA5
+MLXIPL,Target,MLXIPL
+CDK2,Target,CDK2
+TRPV3,Target,TRPV3
+EPHA2,Target,EPHA2
+CDKN1A,Target,CDKN1A
+SLC1A2,Target,SLC1A2
+AHCYL1,Target,AHCYL1
+SERPINC1,Target,SERPINC1
+DBP,Target,DBP
+MIR146A,Target,MIR146A
+ADRA1D,Target,ADRA1D
+IRAK1,Target,IRAK1
+SLC17A5,Target,SLC17A5
+CYP4B1,Target,CYP4B1
+GABBR1,Target,GABBR1
+IGF2,Target,IGF2
+MAP1LC3A,Target,MAP1LC3A
+YWHAZ,Target,YWHAZ
+MIR182,Target,MIR182
+TRIB3,Target,TRIB3
+BARD1,Target,BARD1
+C5AR1,Target,C5AR1
+TRPV4,Target,TRPV4
+CCR3,Target,CCR3
+PFKM,Target,PFKM
+CA9,Target,CA9
+VRK1,Target,VRK1
+HRH2,Target,HRH2
+HGF,Target,HGF
+ST6GAL2,Target,ST6GAL2
+STAT3,Target,STAT3
+FGF10,Target,FGF10
+COL9A1,Target,COL9A1
+CAMK4,Target,CAMK4
+MIR7-2,Target,MIR7-2
+SLC5A5,Target,SLC5A5
+IKBKG,Target,IKBKG
+CAV1,Target,CAV1
+PAEP,Target,PAEP
+ABCG2,Target,ABCG2
+EIF4B,Target,EIF4B
+TNFAIP3,Target,TNFAIP3
+PCK1,Target,PCK1
+ZBTB16,Target,ZBTB16
+WNT1,Target,WNT1
+GLIPR2,Target,GLIPR2
+MIF,Target,MIF
+GLP1R,Target,GLP1R
+RAC1,Target,RAC1
+IFNB1,Target,IFNB1
+MAPK10,Target,MAPK10
+CXCL14,Target,CXCL14
+FOSB,Target,FOSB
+PARP2,Target,PARP2
+HSD17B3,Target,HSD17B3
+STXBP1,Target,STXBP1
+GLI1,Target,GLI1
+IGFBP3,Target,IGFBP3
+GAD1,Target,GAD1
+PTHLH,Target,PTHLH
+CREB1,Target,CREB1
+FABP6,Target,FABP6
+MUC2,Target,MUC2
+AQP3,Target,AQP3
+CYP2J2,Target,CYP2J2
+FXYD2,Target,FXYD2
+MCM5,Target,MCM5
+CASP1,Target,CASP1
+KDM6B,Target,KDM6B
+CYP2D6,Target,CYP2D6
+HSP90B1,Target,HSP90B1
+ING4,Target,ING4
+MT-ND1,Target,MT-ND1
+IL7R,Target,IL7R
+PLEK,Target,PLEK
+BCL2L12,Target,BCL2L12
+NR1I2,Target,NR1I2
+MIR197,Target,MIR197
+RPS6KA3,Target,RPS6KA3
+MSX2,Target,MSX2
+CD69,Target,CD69
+NLRP3,Target,NLRP3
+TREH,Target,TREH
+CDX2,Target,CDX2
+PTH,Target,PTH
+NR3C2,Target,NR3C2
+BAD,Target,BAD
+MBTPS1,Target,MBTPS1
+MMP9,Target,MMP9
+FGF23,Target,FGF23
+NPY,Target,NPY
+MYH2,Target,MYH2
+TFF1,Target,TFF1
+RECK,Target,RECK
+Rock2,Target,Rock2
+PLA2G1B,Target,PLA2G1B
+PGP,Target,PGP
+BCL2L11,Target,BCL2L11
+IREB2,Target,IREB2
+Cyp2b1,Target,Cyp2b1
+ATP2A2,Target,ATP2A2
+OSR2,Target,OSR2
+P2RY12,Target,P2RY12
+SLC15A1,Target,SLC15A1
+ATG12,Target,ATG12
+BRF1,Target,BRF1
+DSPP,Target,DSPP
+DKK1,Target,DKK1
+DHFR,Target,DHFR
+USP10,Target,USP10
+SNCAIP,Target,SNCAIP
+UGT2B4,Target,UGT2B4
+SLC18A2,Target,SLC18A2
+EGF,Target,EGF
+TLR4,Target,TLR4
+MIP,Target,MIP
+P2RY1,Target,P2RY1
+SIRT3,Target,SIRT3
+NME4,Target,NME4
+PLXNA2,Target,PLXNA2
+EMP2,Target,EMP2
+PEA15,Target,PEA15
+LTC4S,Target,LTC4S
+GGT1,Target,GGT1
+UBE3A,Target,UBE3A
+ABCG1,Target,ABCG1
+PCNA,Target,PCNA
+CXCR4,Target,CXCR4
+ADH4,Target,ADH4
+JUND,Target,JUND
+ASCL1,Target,ASCL1
+CASP7,Target,CASP7
+SRC,Target,SRC
+NR4A2,Target,NR4A2
+SYK,Target,SYK
+SCARB1,Target,SCARB1
+AATF,Target,AATF
+REN,Target,REN
+CDK9,Target,CDK9
+NEUROG2,Target,NEUROG2
+ABCB1,Target,ABCB1
+AQP2,Target,AQP2
+NR5A1,Target,NR5A1
+KRT10,Target,KRT10
+ITGAM,Target,ITGAM
+GPI,Target,GPI
+OPN3,Target,OPN3
+MGMT,Target,MGMT
+OLIG2,Target,OLIG2
+HOXA11,Target,HOXA11
+TRPV1,Target,TRPV1
+SOCS3,Target,SOCS3
+TFEB,Target,TFEB
+CDT1,Target,CDT1
+ERBB4,Target,ERBB4
+CCN5,Target,CCN5
+PSMB1,Target,PSMB1
+IPMK,Target,IPMK
+KDM2A,Target,KDM2A
+GDE1,Target,GDE1
+PRKDC,Target,PRKDC
+PRSS1,Target,PRSS1
+EHHADH,Target,EHHADH
+TRPM8,Target,TRPM8
+CCL5,Target,CCL5
+IKZF1,Target,IKZF1
+NR1H2,Target,NR1H2
+CFTR,Target,CFTR
+TMPRSS11D,Target,TMPRSS11D
+CHAT,Target,CHAT
+NOS2B,Target,NOS2B
+gyrB,Target,gyrB
+MT-ND4,Target,MT-ND4
+TACR3,Target,TACR3
+SLC7A11,Target,SLC7A11
+MLC1,Target,MLC1
+MIR374A,Target,MIR374A
+DBH,Target,DBH
+HRAS,Target,HRAS
+DNAH8,Target,DNAH8
+TRNG,Target,TRNG
+MIR216B,Target,MIR216B
+NFKBIA,Target,NFKBIA
+XIAP,Target,XIAP
+NR1I3,Target,NR1I3
+GDNF,Target,GDNF
+MSR1,Target,MSR1
+NGB,Target,NGB
+PLG,Target,PLG
+CTSB,Target,CTSB
+BMP4,Target,BMP4
+UGT1A1,Target,UGT1A1
+BSG,Target,BSG
+KCNA3,Target,KCNA3
+SLC4A4,Target,SLC4A4
+SNCA,Target,SNCA
+GPER1,Target,GPER1
+HAVCR1,Target,HAVCR1
+CDK4,Target,CDK4
+GNAI1,Target,GNAI1
+XRCC3,Target,XRCC3
+MYOD1,Target,MYOD1
+IDO1,Target,IDO1
+FSCN1,Target,FSCN1
+PMP22,Target,PMP22
+SNX8,Target,SNX8
+MYOC,Target,MYOC
+GLUD1,Target,GLUD1
+MAP3K1,Target,MAP3K1
+HNRNPA1,Target,HNRNPA1
+CYBA,Target,CYBA
+SMO,Target,SMO
+YARS1,Target,YARS1
+C3,Target,C3
+Gene Symbol,Target,Gene Symbol
+SLC22A2,Target,SLC22A2
+PRNP,Target,PRNP
+FLG,Target,FLG
+PINK1,Target,PINK1
+HSPA5,Target,HSPA5
+DMP1,Target,DMP1
+GSTK1,Target,GSTK1
+REST,Target,REST
+PLAGL1,Target,PLAGL1
+HTR7,Target,HTR7
+EYA3,Target,EYA3
+MTA1,Target,MTA1
+CEBPB,Target,CEBPB
+GPR137,Target,GPR137
+ZBTB7A,Target,ZBTB7A
+TNFRSF11A,Target,TNFRSF11A
+SMYD2,Target,SMYD2
+SPRY1,Target,SPRY1
+IMPDH2,Target,IMPDH2
+PRKD1,Target,PRKD1
+TXK,Target,TXK
+ALKBH1,Target,ALKBH1
+NPR2,Target,NPR2
+SERPINF1,Target,SERPINF1
+SMOX,Target,SMOX
+HLA-G,Target,HLA-G
+PRDX2,Target,PRDX2
+TGFB3,Target,TGFB3
+VAV1,Target,VAV1
+PGR,Target,PGR
+CA2,Target,CA2
+SOD2,Target,SOD2
+PIAS3,Target,PIAS3
+GRK2,Target,GRK2
+SRR,Target,SRR
+ID1,Target,ID1
+ATF2,Target,ATF2
+ACADM,Target,ACADM
+FAAH,Target,FAAH
+TKT,Target,TKT
+IRS1,Target,IRS1
+MIR185,Target,MIR185
+ARG2,Target,ARG2
+PLK1,Target,PLK1
+RARB,Target,RARB
+AR,Target,AR
+PRDM2,Target,PRDM2
+ATF6,Target,ATF6
+ESR1,Target,ESR1
+BGLAP,Target,BGLAP
+SDC3,Target,SDC3
+MPZ,Target,MPZ
+CYP3A4,Target,CYP3A4
+SIX6,Target,SIX6
+KRT14,Target,KRT14
+NOX4,Target,NOX4
+STARD5,Target,STARD5
+GNRH2,Target,GNRH2
+NOS1,Target,NOS1
+SCP2,Target,SCP2
+GADD45A,Target,GADD45A
+ERG,Target,ERG
+P4HA2,Target,P4HA2
+HOXA1,Target,HOXA1
+BRCA1,Target,BRCA1
+ALPI,Target,ALPI
+LRRK2,Target,LRRK2
+CDC37,Target,CDC37
+MIR148A,Target,MIR148A
+TET2,Target,TET2
+FLT3,Target,FLT3
+MVP,Target,MVP
+UGP2,Target,UGP2
+FOXO3,Target,FOXO3
+CYP17A1,Target,CYP17A1
+SERPINA1,Target,SERPINA1
+F3,Target,F3
+SFRP1,Target,SFRP1
+SHH,Target,SHH
+SELENOK,Target,SELENOK
+MYC,Target,MYC
+TG,Target,TG
+GUCA2A,Target,GUCA2A
+CXCL1,Target,CXCL1
+NCF1,Target,NCF1
+SELENOS,Target,SELENOS
+MAFA,Target,MAFA
+EPHA4,Target,EPHA4
+PDE4A,Target,PDE4A
+HPSE,Target,HPSE
+DPYD,Target,DPYD
+PRKG1,Target,PRKG1
+MPL,Target,MPL
+TGFBR1,Target,TGFBR1
+NTRK1,Target,NTRK1
+CTSD,Target,CTSD
+FOLH1,Target,FOLH1
+UGT1A,Target,UGT1A
+ECI1,Target,ECI1
+ODC1,Target,ODC1
+AQP4,Target,AQP4
+ADIPOR1,Target,ADIPOR1
+MTDH,Target,MTDH
+POLL,Target,POLL
+CDC25A,Target,CDC25A
+FSHB,Target,FSHB
+MAGEC3,Target,MAGEC3
+EGFR,Target,EGFR
+CDKN2B,Target,CDKN2B
+CYCS,Target,CYCS
+THEM4,Target,THEM4
+NPHS2,Target,NPHS2
+PIK3CB,Target,PIK3CB
+FCER1A,Target,FCER1A
+AAGAB,Target,AAGAB
+ITGA3,Target,ITGA3
+MAP2K2,Target,MAP2K2
+DNMT3A,Target,DNMT3A
+CALCA,Target,CALCA
+Cyp2b10,Target,Cyp2b10
+KRT5,Target,KRT5
+CSF1,Target,CSF1
+BID,Target,BID
+NANOG,Target,NANOG
+CNP,Target,CNP
+GPCPD1,Target,GPCPD1
+LEPR,Target,LEPR
+CCND3,Target,CCND3
+ADORA3,Target,ADORA3
+FCAMR,Target,FCAMR
+LOX,Target,LOX
+SPHK2,Target,SPHK2
+CYSLTR1,Target,CYSLTR1
+SMAD2,Target,SMAD2
+UQCRC1,Target,UQCRC1
+PLP1,Target,PLP1
+F11R,Target,F11R
+CYP1A2,Target,CYP1A2
+YAP1,Target,YAP1
+VLDLR,Target,VLDLR
+MIR190B,Target,MIR190B
+PHB,Target,PHB
+JAK3,Target,JAK3
+ME1,Target,ME1
+FDPS,Target,FDPS
+KITLG,Target,KITLG
+DAPK1,Target,DAPK1
+TOP2A,Target,TOP2A
+MEF2A,Target,MEF2A
+AMER1,Target,AMER1
+STARD3,Target,STARD3
+MIR93,Target,MIR93
+CHRNA7,Target,CHRNA7
+MET,Target,MET
+ENG,Target,ENG
+JUNB,Target,JUNB
+APOA5,Target,APOA5
+NISCH,Target,NISCH
+PTGER4,Target,PTGER4
+CDK5,Target,CDK5
+ADAM17,Target,ADAM17
+DDIT4,Target,DDIT4
+ADM,Target,ADM
+MIRLET7B,Target,MIRLET7B
+PODXL,Target,PODXL
+CEBPE,Target,CEBPE
+RETN,Target,RETN
+UGT2B7,Target,UGT2B7
+GATA1,Target,GATA1
+OPRD1,Target,OPRD1
+ATP5F1B,Target,ATP5F1B
+CCN1,Target,CCN1
+MMP3,Target,MMP3
+AMY1A,Target,AMY1A
+CACNA1I,Target,CACNA1I
+KRT6A,Target,KRT6A
+ALDH1A1,Target,ALDH1A1
+FOLR2,Target,FOLR2
+ABHD15,Target,ABHD15
+NR3C1,Target,NR3C1
+VASP,Target,VASP
+PRF1,Target,PRF1
+CACNA1S,Target,CACNA1S
+ABCB11,Target,ABCB11
+VAMP2,Target,VAMP2
+RAB9A,Target,RAB9A
+HSF1,Target,HSF1
+ITGB3,Target,ITGB3
+CLIC1,Target,CLIC1
+MIR196B,Target,MIR196B
+PARK7,Target,PARK7
+MELK,Target,MELK
+DHCR24,Target,DHCR24
+MIR29B1,Target,MIR29B1
+DHODH,Target,DHODH
+GRIN2B,Target,GRIN2B
+MAT1A,Target,MAT1A
+CD40,Target,CD40
+MCM7,Target,MCM7
+LIF,Target,LIF
+HMGN1,Target,HMGN1
+CSN2,Target,CSN2
+GDF15,Target,GDF15
+ADAM10,Target,ADAM10
+AIFM1,Target,AIFM1
+PEG10,Target,PEG10
+TPMT,Target,TPMT
+MYB,Target,MYB
+CAV3,Target,CAV3
+CRK,Target,CRK
+NPSR1,Target,NPSR1
+CHRNA5,Target,CHRNA5
+PCGF1,Target,PCGF1
+PFKFB3,Target,PFKFB3
+SCNN1G,Target,SCNN1G
+APOBEC3B,Target,APOBEC3B
+ANGPT1,Target,ANGPT1
+ARC,Target,ARC
+SMPD1,Target,SMPD1
+CDC20,Target,CDC20
+PDE4B,Target,PDE4B
+PIK3CG,Target,PIK3CG
+NPM1,Target,NPM1
+FABP7,Target,FABP7
+NEDD4L,Target,NEDD4L
+SLC12A3,Target,SLC12A3
+PTPA,Target,PTPA
+PIM1,Target,PIM1
+ACOX1,Target,ACOX1
+IL4,Target,IL4
+MGAT1,Target,MGAT1
+GSTP1,Target,GSTP1
+IL11,Target,IL11
+AGRN,Target,AGRN
+LOC102724197,Target,LOC102724197
+PDCD4,Target,PDCD4
+PSME1,Target,PSME1
+DECR1,Target,DECR1
+CRTC1,Target,CRTC1
+FABP1,Target,FABP1
+TIPARP,Target,TIPARP
+CEBPA,Target,CEBPA
+IL17B,Target,IL17B
+SMAD7,Target,SMAD7
+OCLN,Target,OCLN
+PRKAG2,Target,PRKAG2
+CES1,Target,CES1
+COL3A1,Target,COL3A1
+RNF8,Target,RNF8
+NEK11,Target,NEK11
+ATP6AP2,Target,ATP6AP2
+NTN1,Target,NTN1
+MIR34C,Target,MIR34C
+BIRC3,Target,BIRC3
+IL10,Target,IL10
+ITGA5,Target,ITGA5
+MGST1,Target,MGST1
+LAMP1,Target,LAMP1
+TCF4,Target,TCF4
+PLA2G7,Target,PLA2G7
+AXL,Target,AXL
+FZD1,Target,FZD1
+IDE,Target,IDE
+NPPB,Target,NPPB
+RARRES2,Target,RARRES2
+CTBP2,Target,CTBP2
+PDE10A,Target,PDE10A
+NRG3,Target,NRG3
+MMP13,Target,MMP13
+RCAN2,Target,RCAN2
+HTR1A,Target,HTR1A
+KIF11,Target,KIF11
+SOX2,Target,SOX2
+SELP,Target,SELP
+NFATC4,Target,NFATC4
+CDKN2A,Target,CDKN2A
+ADAM9,Target,ADAM9
+MYH11,Target,MYH11
+ABCC5,Target,ABCC5
+COL10A1,Target,COL10A1
+SLC9C1,Target,SLC9C1
+USP5,Target,USP5
+CDC25B,Target,CDC25B
+Alpl,Target,Alpl
+SERPINF2,Target,SERPINF2
+SLC10A2,Target,SLC10A2
+PKM,Target,PKM
+IMPDH1,Target,IMPDH1
+HES3,Target,HES3
+CD55,Target,CD55
+SLC2A1,Target,SLC2A1
+CCR7,Target,CCR7
+LPO,Target,LPO
+IER3,Target,IER3
+CD38,Target,CD38
+UCP1,Target,UCP1
+PDK4,Target,PDK4
+MFSD4B,Target,MFSD4B
+WT1,Target,WT1
+IFI27,Target,IFI27
+CCNA2,Target,CCNA2
+ADORA2A,Target,ADORA2A
+FOSL1,Target,FOSL1
+LALBA,Target,LALBA
+HTR1B,Target,HTR1B
+CTSG,Target,CTSG
+CCL2,Target,CCL2
+CDC25C,Target,CDC25C
+MUC4,Target,MUC4
+MIR122,Target,MIR122
+RAP1B,Target,RAP1B
+SHC1,Target,SHC1
+MSH6,Target,MSH6
+NGF,Target,NGF
+MERTK,Target,MERTK
+RELA,Target,RELA
+FBLN2,Target,FBLN2
+MMP10,Target,MMP10
+NCOA1,Target,NCOA1
+CSTB,Target,CSTB
+NPC1,Target,NPC1
+CCKBR,Target,CCKBR
+NCCRP1,Target,NCCRP1
+RASSF1,Target,RASSF1
+TDO2,Target,TDO2
+BDNF,Target,BDNF
+DLC1,Target,DLC1
+CTSK,Target,CTSK
+UGT1A6,Target,UGT1A6
+CD209,Target,CD209
+MMP8,Target,MMP8
+MT2A,Target,MT2A
+SLC22A1,Target,SLC22A1
+NES,Target,NES
+PCSK2,Target,PCSK2
+PRDX1,Target,PRDX1
+DOT1L,Target,DOT1L
+SLC2A2,Target,SLC2A2
+AKAP12,Target,AKAP12
+TP53,Target,TP53
+PROM1,Target,PROM1
+GRK5,Target,GRK5
+FCER2,Target,FCER2
+MIOX,Target,MIOX
+GSS,Target,GSS
+NOTCH2,Target,NOTCH2
+NLRC4,Target,NLRC4
+HSD11B2,Target,HSD11B2
+FLT1,Target,FLT1
+RBP1,Target,RBP1
+PRKCI,Target,PRKCI
+RFX5,Target,RFX5
+CHUK,Target,CHUK
+NNMT,Target,NNMT
+NSFL1C,Target,NSFL1C
+ATP2A3,Target,ATP2A3
+CDH5,Target,CDH5
+CYP46A1,Target,CYP46A1
+FXN,Target,FXN
+KDM4C,Target,KDM4C
+ITGB2,Target,ITGB2
+SLC2A3,Target,SLC2A3
+MAPT,Target,MAPT
+LDLR,Target,LDLR
+HSP90B2P,Target,HSP90B2P
+FTH1,Target,FTH1
+DRD3,Target,DRD3
+SARM1,Target,SARM1
+IGFBP2,Target,IGFBP2
+SIAH2,Target,SIAH2
+CLEC2A,Target,CLEC2A
+HNF4A,Target,HNF4A
+ATF4,Target,ATF4
+SLC5A1,Target,SLC5A1
+TRIM63,Target,TRIM63
+GABRA3,Target,GABRA3
+CHRNA4,Target,CHRNA4
+NOX5,Target,NOX5
+CCR5,Target,CCR5
+NR5A2,Target,NR5A2
+CHGA,Target,CHGA
+LMTK3,Target,LMTK3
+SYP,Target,SYP
+NPS,Target,NPS
+COL7A1,Target,COL7A1
+GNA12,Target,GNA12
+MAPK7,Target,MAPK7
+PDX1,Target,PDX1
+CYP2B6,Target,CYP2B6
+EDNRB,Target,EDNRB
+DIO1,Target,DIO1
+PDGFB,Target,PDGFB
+EDNRA,Target,EDNRA
+SPP1,Target,SPP1
+S1PR1,Target,S1PR1
+SOAT1,Target,SOAT1
+BAX,Target,BAX
+HCAR2,Target,HCAR2
+FEN1,Target,FEN1
+RTN4,Target,RTN4
+TUBA1B,Target,TUBA1B
+THBS1,Target,THBS1
+RHEB,Target,RHEB
+PRC1,Target,PRC1
+EGR1,Target,EGR1
+MIR33A,Target,MIR33A
+GABRR3,Target,GABRR3
+MIR192,Target,MIR192
+KRT1,Target,KRT1
+CISD2,Target,CISD2
+CLEC1B,Target,CLEC1B
+BAK1,Target,BAK1
+ALAS1,Target,ALAS1
+WNT3A,Target,WNT3A
+CPT1B,Target,CPT1B
+,Target,
+YIF1B,Target,YIF1B
+ESRRG,Target,ESRRG
+ACAT1,Target,ACAT1
+HSD17B7,Target,HSD17B7
+CALR,Target,CALR
+AQP5,Target,AQP5
+SLC47A1,Target,SLC47A1
+APC,Target,APC
+CCR2,Target,CCR2
+ETS1,Target,ETS1
+CYBB,Target,CYBB
+TACR1,Target,TACR1
+HK2,Target,HK2
+MIR7-3,Target,MIR7-3
+DDAH1,Target,DDAH1
+CTSS,Target,CTSS
+CYP3A,Target,CYP3A
+PLIN1,Target,PLIN1
+ACAN,Target,ACAN
+CACUL1,Target,CACUL1
+KDM3A,Target,KDM3A
+OXER1,Target,OXER1
+H1-0,Target,H1-0
+PRKAA2,Target,PRKAA2
+MMP1,Target,MMP1
+PTGDS,Target,PTGDS
+CA1,Target,CA1
+CX3CL1,Target,CX3CL1
+KDR,Target,KDR
+PON3,Target,PON3
+RTL10,Target,RTL10
+CRHR1,Target,CRHR1
+E2F2,Target,E2F2
+CSF2,Target,CSF2
+ADRA2B,Target,ADRA2B
+RHOA,Target,RHOA
+SLC26A4,Target,SLC26A4
+MT1A,Target,MT1A
+DFFB,Target,DFFB
+TAC1,Target,TAC1
+PAM,Target,PAM
+MADD,Target,MADD
+NKX3-1,Target,NKX3-1
+MMP7,Target,MMP7
+CATSPER1,Target,CATSPER1
+ABL1,Target,ABL1
+GHSR,Target,GHSR
+GCK,Target,GCK
+SELE,Target,SELE
+CDH2,Target,CDH2
+EIF6,Target,EIF6
+POMK,Target,POMK
+TPP2,Target,TPP2
+TBK1,Target,TBK1
+NTF3,Target,NTF3
+SOCS1,Target,SOCS1
+ECE1,Target,ECE1
+CYP1A1,Target,CYP1A1
+TARDBP,Target,TARDBP
+CA7,Target,CA7
+FABP4,Target,FABP4
+NAE1,Target,NAE1
+IRAK4,Target,IRAK4
+CISD1,Target,CISD1
+SFN,Target,SFN
+MIR26A1,Target,MIR26A1
+CYP27B1,Target,CYP27B1
+S100A8,Target,S100A8
+GABRB3,Target,GABRB3
+TSHB,Target,TSHB
+ABCC2,Target,ABCC2
+PTPN1,Target,PTPN1
+ZFHX3,Target,ZFHX3
+PENK,Target,PENK
+HMGN3,Target,HMGN3
+GABRG2,Target,GABRG2
+TNFRSF13B,Target,TNFRSF13B
+HMGB3,Target,HMGB3
+CDC45,Target,CDC45
+UNC13A,Target,UNC13A
+GABRA4,Target,GABRA4
+ICAM1,Target,ICAM1
+MAP2K1,Target,MAP2K1
+CKB,Target,CKB
+CSRP1,Target,CSRP1
+CYP7A1,Target,CYP7A1
+MAPK15,Target,MAPK15
+SIRT1,Target,SIRT1
+IRF3,Target,IRF3
+EDN2,Target,EDN2
+CXCL13,Target,CXCL13
+GSTA1,Target,GSTA1
+ADRA1A,Target,ADRA1A
+PAWR,Target,PAWR
+CLDN4,Target,CLDN4
+YY1,Target,YY1
+CRYBA1,Target,CRYBA1
+NR2C2,Target,NR2C2
+NFE2L2,Target,NFE2L2
+EIF4EBP1,Target,EIF4EBP1
+CELF1,Target,CELF1
+SP1,Target,SP1
+EIF4E,Target,EIF4E
+IGHE,Target,IGHE
+GPT,Target,GPT
+MSTN,Target,MSTN
+GDF2,Target,GDF2
+ST8SIA2,Target,ST8SIA2
+IGBP1,Target,IGBP1
+TEP1,Target,TEP1
+IL6R,Target,IL6R
+KCNJ11,Target,KCNJ11
+PTGR1,Target,PTGR1
+APOM,Target,APOM
+UNG,Target,UNG
+EGLN1,Target,EGLN1
+BCL11A,Target,BCL11A
+UGT1A3,Target,UGT1A3
+HSD3B2,Target,HSD3B2
+MIR155,Target,MIR155
+BAP1,Target,BAP1
+SLC32A1,Target,SLC32A1
+CYP19A1,Target,CYP19A1
+MDK,Target,MDK
+ARG1,Target,ARG1
+PDIA3,Target,PDIA3
+CYP2C19,Target,CYP2C19
+SULT1A1,Target,SULT1A1
+OAS3,Target,OAS3
+UGT2B10,Target,UGT2B10
+LIPG,Target,LIPG
+CASP12,Target,CASP12
+FOXO1,Target,FOXO1
+CYP2A6,Target,CYP2A6
+PAX6,Target,PAX6
+TRPV6,Target,TRPV6
+CNTF,Target,CNTF
+NFKB1,Target,NFKB1
+ENDOG,Target,ENDOG
+ACTA2,Target,ACTA2
+FFAR3,Target,FFAR3
+BOK,Target,BOK
+KLK3,Target,KLK3
+HNRNPA2B1,Target,HNRNPA2B1
+HPCA,Target,HPCA
+PFN1,Target,PFN1
+FBXO32,Target,FBXO32
+IL5,Target,IL5
+TPH2,Target,TPH2
+CRHR2,Target,CRHR2
+TNFRSF1B,Target,TNFRSF1B
+APOBEC3A,Target,APOBEC3A
+PRRT2,Target,PRRT2
+GPR3,Target,GPR3
+RHO,Target,RHO
+CD40LG,Target,CD40LG
+TNFRSF12A,Target,TNFRSF12A
+KCNK18,Target,KCNK18
+GNB3,Target,GNB3
+CALB2,Target,CALB2
+NAMPT,Target,NAMPT
+AKT2,Target,AKT2
+CD81,Target,CD81
+CLIP1,Target,CLIP1
+GBF1,Target,GBF1
+MGLL,Target,MGLL
+BNIP3,Target,BNIP3
+JAG1,Target,JAG1
+CCL16,Target,CCL16
+OPRM1,Target,OPRM1
+LYVE1,Target,LYVE1
+ECM1,Target,ECM1
+SCN5A,Target,SCN5A
+TACSTD2,Target,TACSTD2
+SFRP2,Target,SFRP2
+TNFRSF10A,Target,TNFRSF10A
+DNMT3B,Target,DNMT3B
+MRC1,Target,MRC1
+PRKCB,Target,PRKCB
+NDUFV2,Target,NDUFV2
+SSTR5,Target,SSTR5
+ABCF3,Target,ABCF3
+SULT2A1,Target,SULT2A1
+PLA2G4A,Target,PLA2G4A
+CCNG1,Target,CCNG1
+TCF7L2,Target,TCF7L2
+S100A10,Target,S100A10
+PTGES3,Target,PTGES3
+NUAK2,Target,NUAK2
+TGM1,Target,TGM1
+MIR143,Target,MIR143
+PECAM1,Target,PECAM1
+FAS,Target,FAS
+HADHB,Target,HADHB
+TINCR,Target,TINCR
+SERTAD1,Target,SERTAD1
+SPAG5,Target,SPAG5
+KLRB1,Target,KLRB1
+CYP51A1,Target,CYP51A1
+PTEN,Target,PTEN
+FLT4,Target,FLT4
+PDE4D,Target,PDE4D
+PPM1A,Target,PPM1A
+DAXX,Target,DAXX
+RORA,Target,RORA
+MIR132,Target,MIR132
+GRIN2D,Target,GRIN2D
+MECP2,Target,MECP2
+CERS6,Target,CERS6
+SLC1A6,Target,SLC1A6
+CMAHP,Target,CMAHP
+LINC00974,Target,LINC00974
+PTTG1,Target,PTTG1
+APLN,Target,APLN
+HOTAIR,Target,HOTAIR
+SPHK1,Target,SPHK1
+TLR9,Target,TLR9
+PRMT1,Target,PRMT1
+GOT1,Target,GOT1
+MIR140,Target,MIR140
+TH,Target,TH
+PPIP5K1,Target,PPIP5K1
+GABRA2,Target,GABRA2
+OLR1,Target,OLR1
+KRAS,Target,KRAS
+MBD2,Target,MBD2
+SP3,Target,SP3
+PPARA,Target,PPARA
+FGF1,Target,FGF1
+MMP11,Target,MMP11
+PIGK,Target,PIGK
+TERC,Target,TERC
+SERPINH1,Target,SERPINH1
+MAPKAP1,Target,MAPKAP1
+IL22,Target,IL22
+CYP4F3,Target,CYP4F3
+CALM3;CALM1;CALM2,Target,CALM3;CALM1;CALM2
+S100A9,Target,S100A9
+PGD,Target,PGD
+MIR125B1,Target,MIR125B1
+AGTRAP,Target,AGTRAP
+MPST,Target,MPST
+TAT,Target,TAT
+CALM3;CALML2;CAM3;CAMC;CAMIII,Target,CALM3;CALML2;CAM3;CAMC;CAMIII
+GRIA4,Target,GRIA4
+SYN1,Target,SYN1
+BACH1,Target,BACH1
+SKP2,Target,SKP2
+LRP5,Target,LRP5
+GFAP,Target,GFAP
+TIMP1,Target,TIMP1
+PCLAF,Target,PCLAF
+APOB,Target,APOB
+TAS2R14,Target,TAS2R14
+PRKAR1A,Target,PRKAR1A
+MIR15B,Target,MIR15B
+F2RL1,Target,F2RL1
+ITIH4,Target,ITIH4
+CRTC2,Target,CRTC2
+CD28,Target,CD28
+ACACA,Target,ACACA
+MYD88,Target,MYD88
+MIR133B,Target,MIR133B
+LRP6,Target,LRP6
+MIR146B,Target,MIR146B
+PCSK1,Target,PCSK1
+PAK1,Target,PAK1
+SREBF2,Target,SREBF2
+LAT,Target,LAT
+AKR1A1,Target,AKR1A1
+MALAT1,Target,MALAT1
+LEF1,Target,LEF1
+STAT5A,Target,STAT5A
+PLD1,Target,PLD1
+HPD,Target,HPD
+TNFSF10,Target,TNFSF10
+TAAR1,Target,TAAR1
+MIR663A,Target,MIR663A
+SRD5A1,Target,SRD5A1
+HSD3B1,Target,HSD3B1
+MBP,Target,MBP
+ENOX2,Target,ENOX2
+CRBN,Target,CRBN
+ZEB1,Target,ZEB1
+DCT,Target,DCT
+KEAP1,Target,KEAP1
+CNR2,Target,CNR2
+PPID,Target,PPID
+CRYZ,Target,CRYZ
+SYN2,Target,SYN2
+PPP1R12A,Target,PPP1R12A
+EZH2,Target,EZH2
+KHK,Target,KHK
+MAPK8,Target,MAPK8
+PTGS1,Target,PTGS1
+GAS5,Target,GAS5
+SPTLC2,Target,SPTLC2
+ABCB6,Target,ABCB6
+GUCY1B1,Target,GUCY1B1
+VIM,Target,VIM
+PPARG,Target,PPARG
+SMPD2,Target,SMPD2
+CLDN2,Target,CLDN2
+MPP1,Target,MPP1
+HDAC9,Target,HDAC9
+CTLA4,Target,CTLA4
+TNFRSF11B,Target,TNFRSF11B
+H6PD,Target,H6PD
+TNFRSF4,Target,TNFRSF4
+GSTM2,Target,GSTM2
+NUS1,Target,NUS1
+SLC20A2,Target,SLC20A2
+MMP2,Target,MMP2
+PGRMC1,Target,PGRMC1
+P4HB,Target,P4HB
+G3BP1,Target,G3BP1
+FGF7,Target,FGF7
+CASP3,Target,CASP3
+PMM2,Target,PMM2
+ROCK2,Target,ROCK2
+DAG1,Target,DAG1
+HNF1A,Target,HNF1A
+GAST,Target,GAST
+MAP1B,Target,MAP1B
+RALA,Target,RALA
+WWOX,Target,WWOX
+IL33,Target,IL33
+MIR22,Target,MIR22
+MAP3K11,Target,MAP3K11
+MAPK1,Target,MAPK1
+CCL11,Target,CCL11
+IMPA1,Target,IMPA1
+SP6,Target,SP6
+MSH2,Target,MSH2
+PLAUR,Target,PLAUR
+DAGLA,Target,DAGLA
+GHR,Target,GHR
+CHRNA6,Target,CHRNA6
+SGCB,Target,SGCB
+ADRA1B,Target,ADRA1B
+THBS4,Target,THBS4
+TJP1,Target,TJP1
+HSD11B1,Target,HSD11B1
+SERPINA6,Target,SERPINA6
+TGM2,Target,TGM2
+FYN,Target,FYN
+PRKCD,Target,PRKCD
+CPT1A,Target,CPT1A
+CD36,Target,CD36
+PLA2G2A,Target,PLA2G2A
+BMP2,Target,BMP2
+DNMT1,Target,DNMT1
+APOA1,Target,APOA1
+HOXB13,Target,HOXB13
+PGF,Target,PGF
+AHR,Target,AHR
+BIRC2,Target,BIRC2
+TMED2,Target,TMED2
+PDLIM1,Target,PDLIM1
+GPR35,Target,GPR35
+MAPK11,Target,MAPK11
+ITGA2,Target,ITGA2
+PREP,Target,PREP
+FOS,Target,FOS
+TYRP1,Target,TYRP1
+MAPKAPK2,Target,MAPKAPK2
+GPR119,Target,GPR119
+BECN1,Target,BECN1
+GRM5,Target,GRM5
+TWIST1,Target,TWIST1
+FAH,Target,FAH
+HFM1,Target,HFM1
+MYH7,Target,MYH7
+IL16,Target,IL16
+CRISPLD2,Target,CRISPLD2
+ABCC3,Target,ABCC3
+COL1A2,Target,COL1A2
+TLR7,Target,TLR7
+ADRA2A,Target,ADRA2A
+ERBB2,Target,ERBB2
+PTGS2,Target,PTGS2
+MAFG,Target,MAFG
+GGT5,Target,GGT5
+SIAH1,Target,SIAH1
+SLC12A5,Target,SLC12A5
+OPCML,Target,OPCML
+DBI,Target,DBI
+PTCH1,Target,PTCH1
+TRPV2,Target,TRPV2
+HCRT,Target,HCRT
+ALB,Target,ALB
+HMOX1,Target,HMOX1
+SNAI2,Target,SNAI2
+LIN28B,Target,LIN28B
+PLAU,Target,PLAU
+MIR33B,Target,MIR33B
+DRD4,Target,DRD4
+STAT4,Target,STAT4
+XDH,Target,XDH
+RIPK2,Target,RIPK2
+FFAR1,Target,FFAR1
+CDKN2C,Target,CDKN2C
+HDAC4,Target,HDAC4
+OR51E2,Target,OR51E2
+EEF2,Target,EEF2
+PNLIP,Target,PNLIP
+ATG5,Target,ATG5
+TAS2R39,Target,TAS2R39
+ADRB1,Target,ADRB1
+SMAD4,Target,SMAD4
+KLF15,Target,KLF15
+CYP11B2,Target,CYP11B2
+MTR,Target,MTR
+MKI67,Target,MKI67
+PPARGC1A,Target,PPARGC1A
+SLC25A5,Target,SLC25A5
+NCL,Target,NCL
+NPHS1,Target,NPHS1
+ALDH2,Target,ALDH2
+MIR96,Target,MIR96
+OXTR,Target,OXTR
+COL4A4,Target,COL4A4
+LCK,Target,LCK
+HDAC3,Target,HDAC3
+RASAL2,Target,RASAL2
+UGT1A9,Target,UGT1A9
+TOB1,Target,TOB1
+BCL2,Target,BCL2
+MB,Target,MB
+POU2F1,Target,POU2F1
+TRAF6,Target,TRAF6
+PROCR,Target,PROCR
+SALL3,Target,SALL3
+MGAM,Target,MGAM
+FGFR4,Target,FGFR4
+IGF1R,Target,IGF1R
+MAT2B,Target,MAT2B
+PEMT,Target,PEMT
+FBXW7,Target,FBXW7
+IL18,Target,IL18
+DNTT,Target,DNTT
+HTR2A,Target,HTR2A
+SLC19A2,Target,SLC19A2
+EP300,Target,EP300
+ATP4A,Target,ATP4A
+ADH1C,Target,ADH1C
+SH3GL1,Target,SH3GL1
+UHRF1,Target,UHRF1
+SLCO1B1,Target,SLCO1B1
+PAND1,Target,PAND1
+TXNDC17,Target,TXNDC17
+GRK4,Target,GRK4
+TXNRD1,Target,TXNRD1
+DEPTOR,Target,DEPTOR
+IARS1,Target,IARS1
+ETF1,Target,ETF1
+CNGA3,Target,CNGA3
+LIN28A,Target,LIN28A
+KL,Target,KL
+CD86,Target,CD86
+CCL3,Target,CCL3
+CYP2A13,Target,CYP2A13
+OR51E1,Target,OR51E1
+PDGFRB,Target,PDGFRB
+STAT5B,Target,STAT5B
+FURIN,Target,FURIN
+ATF3,Target,ATF3
+RAPGEF4,Target,RAPGEF4
+JUN,Target,JUN
+GADD45B,Target,GADD45B
+FBLN1,Target,FBLN1
+GYPB,Target,GYPB
+TGFBR2,Target,TGFBR2
+DFFA,Target,DFFA
+RPS9,Target,RPS9
+COG2,Target,COG2
+OTX2,Target,OTX2
+GP6,Target,GP6
+TIGAR,Target,TIGAR
+LPL,Target,LPL
+RASGRF1,Target,RASGRF1
+SCAP,Target,SCAP
+KLK4,Target,KLK4
+CACNA1C,Target,CACNA1C
+KCNK10,Target,KCNK10
+IER5,Target,IER5
+P2RX4,Target,P2RX4
+TLR8,Target,TLR8
+EPO,Target,EPO
+KLF11,Target,KLF11
+GRIN1,Target,GRIN1
+NOD2,Target,NOD2
+HMGB1,Target,HMGB1
+UGCG,Target,UGCG
+GPX1,Target,GPX1
+NUP62,Target,NUP62
+SELL,Target,SELL
+SOST,Target,SOST
+MIR145,Target,MIR145
+CRYAB,Target,CRYAB
+ENPEP,Target,ENPEP
+SMAD3,Target,SMAD3
+MTTP,Target,MTTP
+IKBKB,Target,IKBKB
+GK,Target,GK
+ALDH7A1,Target,ALDH7A1
+PTP4A3,Target,PTP4A3
+KCNK2,Target,KCNK2
+MIR15A,Target,MIR15A
+PMAIP1,Target,PMAIP1
+UBIAD1,Target,UBIAD1
+GRIN2A,Target,GRIN2A
+SLC5A4,Target,SLC5A4
+PTX3,Target,PTX3
+MRGPRX3,Target,MRGPRX3
+MC1R,Target,MC1R
+MAP1LC3B,Target,MAP1LC3B
+FABP5,Target,FABP5
+HIF1A,Target,HIF1A
+PRDX6,Target,PRDX6
+CREBBP,Target,CREBBP
+MCM4,Target,MCM4
+LRP1,Target,LRP1
+FGF2,Target,FGF2
+ANXA1,Target,ANXA1
+SOD3,Target,SOD3
+MAP3K5,Target,MAP3K5
+LY96,Target,LY96
+CALCR,Target,CALCR
+TLR5,Target,TLR5
+AQP1,Target,AQP1
+ALPL,Target,ALPL
+ADCY8,Target,ADCY8
+HCN4,Target,HCN4
+CD274,Target,CD274
+BCL2L1,Target,BCL2L1
+GATA3,Target,GATA3
+DRD1,Target,DRD1
+GCM1,Target,GCM1
+CEBPD,Target,CEBPD
+CD19,Target,CD19
+SRSF3,Target,SRSF3
+MIR30A,Target,MIR30A
+ACHE,Target,ACHE
+CDH6,Target,CDH6
+CCL4,Target,CCL4
+MFN2,Target,MFN2
+CENPE,Target,CENPE
+SLCO1B3,Target,SLCO1B3
+HDAC1,Target,HDAC1
+PSEN1,Target,PSEN1
+RPTOR,Target,RPTOR
+ALOX15,Target,ALOX15
+HMGN5,Target,HMGN5
+GSTM1,Target,GSTM1
+IL2,Target,IL2
+IL2RA,Target,IL2RA
+CXCL8,Target,CXCL8
+PARG,Target,PARG
+ATR,Target,ATR
+ATM,Target,ATM
+ANPEP,Target,ANPEP
+PIK3CA,Target,PIK3CA
+PTPN2,Target,PTPN2
+MIR126,Target,MIR126
+AGT,Target,AGT
+PKD2,Target,PKD2
+HDC,Target,HDC
+PKLR,Target,PKLR
+EZR,Target,EZR
+SFTPB,Target,SFTPB
+GABRG1,Target,GABRG1
+WARS2,Target,WARS2
+ISG20,Target,ISG20
+GATA2,Target,GATA2
+SLC22A6,Target,SLC22A6
+CXCR1,Target,CXCR1
+ROCK1,Target,ROCK1
+CARTPT,Target,CARTPT
+CX3CR1,Target,CX3CR1
+FCGR1A,Target,FCGR1A
+CYP27A1,Target,CYP27A1
+Bcl2l1,Target,Bcl2l1
+CD34,Target,CD34
+ABCB4,Target,ABCB4
+FANCD2,Target,FANCD2
+CD1D,Target,CD1D
+FGB,Target,FGB
+ELK1,Target,ELK1
+CDH1,Target,CDH1
+CDC7,Target,CDC7
+C5,Target,C5
+IL6,Target,IL6
+AQP7,Target,AQP7
+IL1B,Target,IL1B
+CD46,Target,CD46
+SLC22A3,Target,SLC22A3
+CFL1,Target,CFL1
+MPO,Target,MPO
+VASH1,Target,VASH1
+PRKACA,Target,PRKACA
+JMJD6,Target,JMJD6
+CXCL10,Target,CXCL10
+ADIPOQ,Target,ADIPOQ
+ELAVL1,Target,ELAVL1
+SMAD6,Target,SMAD6
+MAP2K4,Target,MAP2K4
+ASIC3,Target,ASIC3
+NGFR,Target,NGFR
+ERRFI1,Target,ERRFI1
+ERBB3,Target,ERBB3
+ADIPOR2,Target,ADIPOR2
+T01IGB,Target,T01IGB
+SLC9A1,Target,SLC9A1
+GMPPB,Target,GMPPB
+CREB3L3,Target,CREB3L3
+CYP2B7P,Target,CYP2B7P
+MT-ND6,Target,MT-ND6
+PNO1,Target,PNO1
+AURKB,Target,AURKB
+PTGER2,Target,PTGER2
+PCSK9,Target,PCSK9
+GAPDH,Target,GAPDH
+ATG7,Target,ATG7
+GPR55,Target,GPR55
+VEGFA,Target,VEGFA
+EGR2,Target,EGR2
+GPD2,Target,GPD2
+TIMP3,Target,TIMP3
+CHEK2,Target,CHEK2
+CD33,Target,CD33
+TOP1,Target,TOP1
+SREBF1,Target,SREBF1
+CASP9,Target,CASP9
+PRKCZ,Target,PRKCZ
+PNPO,Target,PNPO
+SOAT2,Target,SOAT2
+GSTA2,Target,GSTA2
+NF2,Target,NF2
+IRF1,Target,IRF1
+MIR7641-1,Target,MIR7641-1
+IFIH1,Target,IFIH1
+CHST10,Target,CHST10
+ITGB1,Target,ITGB1
+HVCN1,Target,HVCN1
+UGT2B28,Target,UGT2B28
+NR0B2,Target,NR0B2
+MIR223,Target,MIR223
+CBS;CBSL,Target,CBS;CBSL
+MIR384,Target,MIR384
+PSG1,Target,PSG1
+CAMK2G,Target,CAMK2G
+NPEPPS,Target,NPEPPS
+LRIG1,Target,LRIG1
+TSPO,Target,TSPO
+NR1H4,Target,NR1H4
+BHMT,Target,BHMT
+STING1,Target,STING1
+CRH,Target,CRH
+DDIT3,Target,DDIT3
+CCR1,Target,CCR1
+NOX1,Target,NOX1
+MMP12,Target,MMP12
+ACP5,Target,ACP5
+NR1H3,Target,NR1H3
+PTGFR,Target,PTGFR
+PTGES,Target,PTGES
+RIT1,Target,RIT1
+FCGR1CP,Target,FCGR1CP
+DYRK1A,Target,DYRK1A
+MIR330,Target,MIR330
+TNNT2,Target,TNNT2
+MIR206,Target,MIR206
+ITGAL,Target,ITGAL
+ZHX2,Target,ZHX2
+ABCG5,Target,ABCG5
+AGTR2,Target,AGTR2
+RYR1,Target,RYR1
+MIR130A,Target,MIR130A
+MIR34A,Target,MIR34A
+SLC6A11,Target,SLC6A11
+PDCD1LG2,Target,PDCD1LG2
+PIK3CD,Target,PIK3CD
+SPI1,Target,SPI1
+CCND2,Target,CCND2
+SLC22A8,Target,SLC22A8
+FOSL2,Target,FOSL2
+SLC6A3,Target,SLC6A3
+GABRA1,Target,GABRA1
+BMF,Target,BMF
+ABCC4,Target,ABCC4
+NQO2,Target,NQO2
+CIP2A,Target,CIP2A
+VEGFC,Target,VEGFC
+MIR135B,Target,MIR135B
+HINT1,Target,HINT1
+GJB1,Target,GJB1
+CYP11A1,Target,CYP11A1
+KCNJ2,Target,KCNJ2
+CTRC,Target,CTRC
+IFNG,Target,IFNG
+PGAM1,Target,PGAM1
+MYLK,Target,MYLK
+TNFRSF1A,Target,TNFRSF1A
+CD14,Target,CD14
+KLF2,Target,KLF2
+PPP3CA,Target,PPP3CA
+CD80,Target,CD80
+FTO,Target,FTO
+ABCC1,Target,ABCC1
+TTK,Target,TTK
+MITF,Target,MITF
+PIN1,Target,PIN1
+STAT1,Target,STAT1
+PRSS8,Target,PRSS8
+CLEC2B,Target,CLEC2B
+CETP,Target,CETP
+CCNB1,Target,CCNB1
+PRKAA1,Target,PRKAA1
+DRD2,Target,DRD2
+LCN2,Target,LCN2
+THRB,Target,THRB
+PTN,Target,PTN
+ABCA1,Target,ABCA1
+CDKN1B,Target,CDKN1B
+S100A1,Target,S100A1
+PKB_RS07820,Target,PKB_RS07820
+LTA4H,Target,LTA4H
+MIR7-1,Target,MIR7-1
+TIMP4,Target,TIMP4
+PTPRH,Target,PTPRH
+CA3,Target,CA3
+ANGPTL4,Target,ANGPTL4
+TNFSF11,Target,TNFSF11
+SERPINE1,Target,SERPINE1
+MST1,Target,MST1
+FSHR,Target,FSHR
+DDC,Target,DDC
+CYP3A7,Target,CYP3A7
+AGTR1,Target,AGTR1
+KAT5,Target,KAT5
+BACE1,Target,BACE1
+SSTR2,Target,SSTR2
+SLCO2B1,Target,SLCO2B1
+DNPEP,Target,DNPEP
+BIRC5,Target,BIRC5
+PPP1R1B,Target,PPP1R1B
+ABCG8,Target,ABCG8
+KCNQ3,Target,KCNQ3
+BCL2A1,Target,BCL2A1
+MAPK3,Target,MAPK3
+ALDH1A2,Target,ALDH1A2
+ELANE,Target,ELANE
+NLK,Target,NLK
+EPOR,Target,EPOR
+HDAC11,Target,HDAC11
+KLK10,Target,KLK10
+GBA2,Target,GBA2
+VIP,Target,VIP
+CD276,Target,CD276
+MCU,Target,MCU
+KLK5,Target,KLK5
+AXIN2,Target,AXIN2
+RPA1,Target,RPA1
+SLC16A7,Target,SLC16A7
+ESR2,Target,ESR2
+MT3,Target,MT3
+CPM,Target,CPM
+HPRT1,Target,HPRT1
+ITPR1,Target,ITPR1
+MAP2,Target,MAP2
+GH1,Target,GH1
+CCN2,Target,CCN2
+GAMT,Target,GAMT
+RHOB,Target,RHOB
+ATP1A1,Target,ATP1A1
+LHB,Target,LHB
+HDAC6,Target,HDAC6
+SCD,Target,SCD
+CCL26,Target,CCL26
+GUSB,Target,GUSB
+ALDH3A1,Target,ALDH3A1
+HDGF,Target,HDGF
+TFAP2A,Target,TFAP2A
+RPS6KA1,Target,RPS6KA1
+p27 kip1,Target,p27 kip1
+MDM2,Target,MDM2
+CYP3A5,Target,CYP3A5
+SAMHD1,Target,SAMHD1
+BCHE,Target,BCHE
+AOX1,Target,AOX1
+FH,Target,FH
+ADRB2,Target,ADRB2
+TIMP2,Target,TIMP2
+COL1A1,Target,COL1A1
+ARF1,Target,ARF1
+PLSCR1,Target,PLSCR1
+FUS,Target,FUS
+PON1,Target,PON1
+MAOB,Target,MAOB
+ANGPT2,Target,ANGPT2
+MUSK,Target,MUSK
+EFNB2,Target,EFNB2
+SLC36A1,Target,SLC36A1
+SLPI,Target,SLPI
+TNFRSF10B,Target,TNFRSF10B
+JAK2,Target,JAK2
+CDH11,Target,CDH11
+MIR34B,Target,MIR34B
+CYP8B1,Target,CYP8B1
+CCNE1,Target,CCNE1
+EIF2S1,Target,EIF2S1
+CCL22,Target,CCL22
+SLC2A9,Target,SLC2A9
+ESM1,Target,ESM1
+LYN,Target,LYN
+COMT,Target,COMT
+SLC1A1,Target,SLC1A1
+ACVR1,Target,ACVR1
+NRF1,Target,NRF1
+RET,Target,RET
+PTPN11,Target,PTPN11
+NCOR1,Target,NCOR1
+SELENOW,Target,SELENOW
+LIPE,Target,LIPE
+SLC17A7,Target,SLC17A7
+CTNNB1,Target,CTNNB1
+APAF1,Target,APAF1
+MEF2D,Target,MEF2D
+ECB2,Target,ECB2
+IVL,Target,IVL
+HAMP,Target,HAMP
+KISS1,Target,KISS1
+POMC,Target,POMC
+CES2,Target,CES2
+FASLG,Target,FASLG
+DGAT1,Target,DGAT1
+ILK,Target,ILK
+AZIN2,Target,AZIN2
+HSD17B2,Target,HSD17B2
+PTGES2,Target,PTGES2
+HSPB1,Target,HSPB1
+CTSL,Target,CTSL
+TNNI3,Target,TNNI3
+CD4,Target,CD4
+CHS2,Target,CHS2
+SULT1C2,Target,SULT1C2
+MIR411,Target,MIR411
+UGT1A4,Target,UGT1A4
+BIK,Target,BIK
+MAT2A,Target,MAT2A
+FNDC5,Target,FNDC5
+ADAMTS5,Target,ADAMTS5
+SMAD1,Target,SMAD1
+HOXD1,Target,HOXD1
+MAPK9,Target,MAPK9
+NCF2,Target,NCF2
+MIR183,Target,MIR183
+TXN,Target,TXN
+MDM4,Target,MDM4
+CS,Target,CS
+MAP2K5,Target,MAP2K5
+KDM1A,Target,KDM1A
+PIK3R1,Target,PIK3R1
+CASP10,Target,CASP10
+VAOA,Target,VAOA
+GAP43,Target,GAP43
+YBX1,Target,YBX1
+GNRH1,Target,GNRH1
+EIF5B,Target,EIF5B
+PLAT,Target,PLAT
+RNASE3,Target,RNASE3
+CLDN11,Target,CLDN11
+CDC42BPA,Target,CDC42BPA
+SNAI1,Target,SNAI1
+GJD4,Target,GJD4
+S100B,Target,S100B
+GRM1,Target,GRM1
+AXIN1,Target,AXIN1
+REG1A,Target,REG1A
+CLCN3,Target,CLCN3
+CXCL2,Target,CXCL2
+APOA4,Target,APOA4
+SPARC,Target,SPARC
+PARP1,Target,PARP1
+RGN,Target,RGN
+MIR17HG,Target,MIR17HG
+Akr1c9,Target,Akr1c9
+GNRHR,Target,GNRHR
+PRDX5,Target,PRDX5
+MYLK3,Target,MYLK3
+TPH1,Target,TPH1
+GRIA1,Target,GRIA1
+SLC5A2,Target,SLC5A2
+STK11,Target,STK11
+MPDZ,Target,MPDZ
+GHRL,Target,GHRL
+CYP21A2,Target,CYP21A2
+LBP,Target,LBP
+ALDH1A3,Target,ALDH1A3
+PRKCG,Target,PRKCG
+DCK,Target,DCK
+DPYSL2,Target,DPYSL2
+MIR144,Target,MIR144
+CDK6,Target,CDK6
+LAMP2,Target,LAMP2
+GAK,Target,GAK
+PLCG1,Target,PLCG1
+HK1,Target,HK1
+TTR,Target,TTR
+SOD1,Target,SOD1
+P2RX7,Target,P2RX7
+GLUL,Target,GLUL
+STAR,Target,STAR
+NSD2,Target,NSD2
+IL13,Target,IL13
+TRPA1,Target,TRPA1
+CD44,Target,CD44
+FN1,Target,FN1
+APOE,Target,APOE
+EDN3,Target,EDN3
+CLEC7A,Target,CLEC7A
+SERPINB3,Target,SERPINB3
+POR,Target,POR
+TLR2,Target,TLR2
+CD9,Target,CD9
+NPR3,Target,NPR3
+SLC22A4,Target,SLC22A4
+CDA,Target,CDA
+DNAJB4,Target,DNAJB4
+HSPA4,Target,HSPA4
+RXRB,Target,RXRB
+IL1A,Target,IL1A
+ENPP7,Target,ENPP7
+RB1,Target,RB1
+SGK2,Target,SGK2
+TCIRG1,Target,TCIRG1
+CHRM1,Target,CHRM1
+CRP,Target,CRP
+NOS2,Target,NOS2
+DEFB4A; DEFB4B,Target,DEFB4A; DEFB4B
+NPC1L1,Target,NPC1L1
+UCP2,Target,UCP2
+MYLIP,Target,MYLIP
+CCL24,Target,CCL24
+ARNTL,Target,ARNTL
+GAD2,Target,GAD2
+CMA1,Target,CMA1
+MIR18A,Target,MIR18A
+GSTM5,Target,GSTM5
+APOF,Target,APOF
+MIR98,Target,MIR98
+JAK1,Target,JAK1
+AKR1C1,Target,AKR1C1
+TGFB2,Target,TGFB2
+BBC3,Target,BBC3
+F2,Target,F2
+HTR3A,Target,HTR3A
+CHGB,Target,CHGB
+PCK2,Target,PCK2
+CD83,Target,CD83
+IL12B,Target,IL12B
+TCF21,Target,TCF21
+RBP4,Target,RBP4
+CRHBP,Target,CRHBP
+TERT,Target,TERT
+PER1,Target,PER1
+SLC9A3,Target,SLC9A3
+DYNC1LI1,Target,DYNC1LI1
+VDR,Target,VDR
+CASP8,Target,CASP8
+PPP5C,Target,PPP5C
+E2F1,Target,E2F1
+HRH1,Target,HRH1
+GABRR1,Target,GABRR1
+SLC16A2,Target,SLC16A2
+SLC12A2,Target,SLC12A2
+HBB,Target,HBB
+RPS6KB1,Target,RPS6KB1
+GSN,Target,GSN
+INS,Target,INS
+GAA,Target,GAA
+BTRC,Target,BTRC
+HSPA1A;HSPA1B,Target,HSPA1A;HSPA1B
+EDN1,Target,EDN1
+HMGCR,Target,HMGCR
+SGMS2,Target,SGMS2
+TSC2,Target,TSC2
+RACK1,Target,RACK1
+CYP2C9,Target,CYP2C9
+ACE,Target,ACE
+P2RY4,Target,P2RY4
+CHRM3,Target,CHRM3
+NOS3,Target,NOS3
+ERN1,Target,ERN1
+GSTO1,Target,GSTO1
+SGK1,Target,SGK1
+MYL9,Target,MYL9
+MAPK14,Target,MAPK14
+FOXP3,Target,FOXP3
+CASP6,Target,CASP6
+IRF9,Target,IRF9
+SDHB,Target,SDHB
+CYP24A1,Target,CYP24A1
+CHRNE,Target,CHRNE
+CLDN5,Target,CLDN5
+NPPC,Target,NPPC
+HSPD1,Target,HSPD1
+NDRG2,Target,NDRG2
+SLC26A6,Target,SLC26A6
+OGG1,Target,OGG1
+DPP4,Target,DPP4
+MAP2K7,Target,MAP2K7
+CDR1,Target,CDR1
+ANO1,Target,ANO1
+PPARD,Target,PPARD
+MME,Target,MME
+AKR1B1,Target,AKR1B1
+POU5F1,Target,POU5F1
+NOX3,Target,NOX3
+P2RX3,Target,P2RX3
+MIR373,Target,MIR373
+FZD7,Target,FZD7
+VCP,Target,VCP
+VCAM1,Target,VCAM1
+CD1A,Target,CD1A
+FZD8,Target,FZD8
+VWF,Target,VWF
+TNFRSF9,Target,TNFRSF9
+CYP1B1,Target,CYP1B1
+SLC6A4,Target,SLC6A4
+CLDN3,Target,CLDN3
+PRDM13,Target,PRDM13
+OXT,Target,OXT
+NPPA,Target,NPPA
+FGFR1,Target,FGFR1
+SLC2A4,Target,SLC2A4
+MGP,Target,MGP
+FGF19,Target,FGF19
+TGFA,Target,TGFA
+BHLHE40,Target,BHLHE40
+CDC42,Target,CDC42
+PRL,Target,PRL
+MCM3,Target,MCM3
+DDIT4L,Target,DDIT4L
+FASN,Target,FASN
+CAMP,Target,CAMP
+KRT20,Target,KRT20
+RBP2,Target,RBP2
+PTAFR,Target,PTAFR
+CAT,Target,CAT
+EPHX2,Target,EPHX2
+STARD6,Target,STARD6
+CPD,Target,CPD
+TRPM7,Target,TRPM7
+NKX2-5,Target,NKX2-5
+CACNA2D1,Target,CACNA2D1
+XBP1,Target,XBP1
+ESRRA,Target,ESRRA
+MICAL1,Target,MICAL1
+HLF,Target,HLF
+CAMKK2,Target,CAMKK2
+HTR2C,Target,HTR2C
+CDK1,Target,CDK1
+RARA,Target,RARA
+CRCP,Target,CRCP
+LYZ,Target,LYZ
+G6PC1,Target,G6PC1
+MT-ND2,Target,MT-ND2
+IGFBP1,Target,IGFBP1
+ALDOB,Target,ALDOB
+REG3A,Target,REG3A
+POLB,Target,POLB
+KCNH1,Target,KCNH1
+CCL3L1; CCL3L3,Target,CCL3L1; CCL3L3
+CYP2C8,Target,CYP2C8
+AQP8,Target,AQP8
+GCLC,Target,GCLC
+NFATC1,Target,NFATC1
+IQGAP2,Target,IQGAP2
+TFAM,Target,TFAM
+L1CAM,Target,L1CAM
+BRAF,Target,BRAF
+TXNIP,Target,TXNIP
+HOTTIP,Target,HOTTIP
+CYP2E1,Target,CYP2E1
+SLC23A1,Target,SLC23A1
+COL2A1,Target,COL2A1
+ADA,Target,ADA
+NEU1,Target,NEU1
+APOD,Target,APOD
+TRPC3,Target,TRPC3
+IGFBP5,Target,IGFBP5
+CRMP1,Target,CRMP1
+KCNN4,Target,KCNN4
+B2M,Target,B2M
+BDKRB2,Target,BDKRB2
+KAT2B,Target,KAT2B
+DHCR7,Target,DHCR7
+MCL1,Target,MCL1
+SMN1; SMN2,Target,SMN1; SMN2
+ATP7A,Target,ATP7A
+AFP,Target,AFP
+ENO2,Target,ENO2
+HEXA,Target,HEXA
+GNMT,Target,GNMT
+RXRA,Target,RXRA
+COL18A1,Target,COL18A1
+CCR6,Target,CCR6
+RAPGEF3,Target,RAPGEF3
+XRCC6,Target,XRCC6
+TGFB1,Target,TGFB1
+OPRK1,Target,OPRK1
+TYR,Target,TYR
+CXCL16,Target,CXCL16
+SRD5A2,Target,SRD5A2
+ADH5,Target,ADH5
+SERPINI1,Target,SERPINI1
+DYSF,Target,DYSF
+CD200,Target,CD200
+ISYNA1,Target,ISYNA1
+ASGR1,Target,ASGR1
+ORAI1,Target,ORAI1
+INSR,Target,INSR
+SEMA3A,Target,SEMA3A
+IFNA1; IFNA13,Target,IFNA1; IFNA13
+CLPB,Target,CLPB
+ITGA4,Target,ITGA4
+TFRC,Target,TFRC
+MIR150,Target,MIR150
+MIR107,Target,MIR107
+H2AX,Target,H2AX
+TLR3,Target,TLR3
+CLDN1,Target,CLDN1
+SH3GL2,Target,SH3GL2
+TICAM2,Target,TICAM2
+AGRP,Target,AGRP
+SLCO1A2,Target,SLCO1A2
+MARCKS,Target,MARCKS
+ITGAV,Target,ITGAV
+APP,Target,APP
+HULC,Target,HULC
+RUNX2,Target,RUNX2
+KLF4,Target,KLF4
+DUSP1,Target,DUSP1
+CD24,Target,CD24
+PTP4A1,Target,PTP4A1
+HDAC2,Target,HDAC2
+CXADR,Target,CXADR
+G6PD,Target,G6PD
+TRPC5,Target,TRPC5
+TPT1,Target,TPT1
+NAT1,Target,NAT1
+PTK2B,Target,PTK2B
+KIT,Target,KIT
+Crust,Symptom,Crust
+Objective Tinnitus,Symptom,Objective Tinnitus
+Appendicitis,Symptom,Appendicitis
+Angina Pectoris,Symptom,Angina Pectoris
+Vision Disturbance,Symptom,Vision Disturbance
+Weakness In Limb Causing Difficulty Lifting,Symptom,Weakness In Limb Causing Difficulty Lifting
+Narcosis,Symptom,Narcosis
+Laryngeal Edema,Symptom,Laryngeal Edema
+Injury,Symptom,Injury
+"Amenorrhea, Postpartum",Symptom,"Amenorrhea, Postpartum"
+Deafness,Symptom,Deafness
+Shoulder Pain Joint,Symptom,Shoulder Pain Joint
+Lower Extremity Muscle Weakness,Symptom,Lower Extremity Muscle Weakness
+Developmental Delay,Symptom,Developmental Delay
+Tongue Edema,Symptom,Tongue Edema
+Memory Impairment,Symptom,Memory Impairment
+Crescendo Angina,Symptom,Crescendo Angina
+Arthritis,Symptom,Arthritis
+Depressive Neurosis,Symptom,Depressive Neurosis
+Asthenia,Symptom,Asthenia
+Iliohypogastric Nerve Neuralgia,Symptom,Iliohypogastric Nerve Neuralgia
+Infantile Colic,Symptom,Infantile Colic
+Vertigo,Symptom,Vertigo
+Prelingual Deafness,Symptom,Prelingual Deafness
+Psoriasis,Symptom,Psoriasis
+Gingiva Hemorrhage,Symptom,Gingiva Hemorrhage
+Atrophy,Symptom,Atrophy
+Face Edema,Symptom,Face Edema
+Chyluria; Nonfilarial,Symptom,Chyluria; Nonfilarial
+"Facial Paralyses, Peripheral",Symptom,"Facial Paralyses, Peripheral"
+Spasm,Symptom,Spasm
+Olfactory Uncinate Fit,Symptom,Olfactory Uncinate Fit
+Duodenal Ulcer Hemorrhage,Symptom,Duodenal Ulcer Hemorrhage
+Scald,Symptom,Scald
+Spastic Aphonia,Symptom,Spastic Aphonia
+Cough,Symptom,Cough
+Convulsive Syncope,Symptom,Convulsive Syncope
+Sleep Disturbances,Symptom,Sleep Disturbances
+Dermatophytosis,Symptom,Dermatophytosis
+Discoloration Urine,Symptom,Discoloration Urine
+Myofacial Pain,Symptom,Myofacial Pain
+Mental Aberration,Symptom,Mental Aberration
+Tongue Swelling,Symptom,Tongue Swelling
+Sexual Dysfunction,Symptom,Sexual Dysfunction
+Pemphigus,Symptom,Pemphigus
+Aphagia,Symptom,Aphagia
+Cardiac Arrhythmia,Symptom,Cardiac Arrhythmia
+Catalepsy,Symptom,Catalepsy
+Feeling Of Heat,Symptom,Feeling Of Heat
+name Dilation,Symptom,name Dilation
+Acne Aggravated,Symptom,Acne Aggravated
+Convulsions,Symptom,Convulsions
+Underweight,Symptom,Underweight
+Abnormal Ejaculation,Symptom,Abnormal Ejaculation
+Urine Rbc,Symptom,Urine Rbc
+"Hoarseness, Neurogenic",Symptom,"Hoarseness, Neurogenic"
+Stomatitis,Symptom,Stomatitis
+Bloody Diarrhea,Symptom,Bloody Diarrhea
+Arteriosclerosis,Symptom,Arteriosclerosis
+Breast Pain,Symptom,Breast Pain
+Lymphadenopathy Regional,Symptom,Lymphadenopathy Regional
+Hoarseness,Symptom,Hoarseness
+Uterine Prolapse,Symptom,Uterine Prolapse
+Unresponsive To Stimuli,Symptom,Unresponsive To Stimuli
+Fever Symptoms,Symptom,Fever Symptoms
+Rosacea,Symptom,Rosacea
+Dermatitis Eyelid,Symptom,Dermatitis Eyelid
+Dyssomnia,Symptom,Dyssomnia
+Typhoid Fever,Symptom,Typhoid Fever
+Flatulence,Symptom,Flatulence
+Ache,Symptom,Ache
+Deglutitional Syncope,Symptom,Deglutitional Syncope
+Mixed Aphasia,Symptom,Mixed Aphasia
+Seizure(S) Jacksonian,Symptom,Seizure(S) Jacksonian
+Tonic Seizure,Symptom,Tonic Seizure
+Defecation Pain,Symptom,Defecation Pain
+Liver Function Abnormal,Symptom,Liver Function Abnormal
+Burning Pain,Symptom,Burning Pain
+Retrograde Menstruation,Symptom,Retrograde Menstruation
+Facial Pallor,Symptom,Facial Pallor
+Airway Obstruction Nasal,Symptom,Airway Obstruction Nasal
+Compression Nerve Root,Symptom,Compression Nerve Root
+Thrombocytopenic Purpura,Symptom,Thrombocytopenic Purpura
+Edema,Symptom,Edema
+Skin Thickening,Symptom,Skin Thickening
+Emotional Instability,Symptom,Emotional Instability
+Neoplastic Growth,Symptom,Neoplastic Growth
+Craniofacial Pain,Symptom,Craniofacial Pain
+Anosmia,Symptom,Anosmia
+Lassitude,Symptom,Lassitude
+[D]Fit (In Non-Epileptic) Nos,Symptom,[D]Fit (In Non-Epileptic) Nos
+Dermatophytosis Of Scalp Or Beard Nos,Symptom,Dermatophytosis Of Scalp Or Beard Nos
+"Abdominal Or Pelvic Swelling, Mass, Or Lump, Generalized",Symptom,"Abdominal Or Pelvic Swelling, Mass, Or Lump, Generalized"
+"Mental Retardations, Psychosocial",Symptom,"Mental Retardations, Psychosocial"
+Extremity Contracture,Symptom,Extremity Contracture
+Pharyngolaryngeal Pain,Symptom,Pharyngolaryngeal Pain
+Drooling,Symptom,Drooling
+Swelling Round Eyes: [periorbital Edema],Symptom,Swelling Round Eyes: [periorbital Edema]
+Stupor,Symptom,Stupor
+Burning Anal,Symptom,Burning Anal
+Syncope Cough,Symptom,Syncope Cough
+Radiculitis,Symptom,Radiculitis
+Splitting Pain,Symptom,Splitting Pain
+Slurred Speech,Symptom,Slurred Speech
+Gastrointestinal Discomfort,Symptom,Gastrointestinal Discomfort
+Anal Canal Prolapse,Symptom,Anal Canal Prolapse
+Gingival Pain,Symptom,Gingival Pain
+Central Facial Paralyses,Symptom,Central Facial Paralyses
+Disorder Of Smell,Symptom,Disorder Of Smell
+Micturition Disorder,Symptom,Micturition Disorder
+Arthropathy,Symptom,Arthropathy
+Movement Disorder,Symptom,Movement Disorder
+Breast Tenderness,Symptom,Breast Tenderness
+Nephrotic Syndrome,Symptom,Nephrotic Syndrome
+Thyroid Tumor,Symptom,Thyroid Tumor
+Essential Vertigo,Symptom,Essential Vertigo
+Caustic Injury,Symptom,Caustic Injury
+Acute Suppurative Otitis Media In Diseases Classified Elsewhere,Symptom,Acute Suppurative Otitis Media In Diseases Classified Elsewhere
+Dizziness Vertigo,Symptom,Dizziness Vertigo
+Haemorrhage Ant Chamber Eye,Symptom,Haemorrhage Ant Chamber Eye
+Gouty Pain,Symptom,Gouty Pain
+Vitreous Detachment Posterior,Symptom,Vitreous Detachment Posterior
+Respiratory Distress,Symptom,Respiratory Distress
+Geniculate Ganglionitis,Symptom,Geniculate Ganglionitis
+Skin Pain,Symptom,Skin Pain
+Dry Tongue,Symptom,Dry Tongue
+Cough Nonproductive,Symptom,Cough Nonproductive
+Injuries Wounds,Symptom,Injuries Wounds
+Breast Mass,Symptom,Breast Mass
+Vocal Tic,Symptom,Vocal Tic
+Alcohol Abuse,Symptom,Alcohol Abuse
+Xerophthalmia,Symptom,Xerophthalmia
+Tachypnea,Symptom,Tachypnea
+Cerebromedullospinal Disconnection,Symptom,Cerebromedullospinal Disconnection
+Hernia,Symptom,Hernia
+Panic State,Symptom,Panic State
+Rectal Prolapse,Symptom,Rectal Prolapse
+Head Discomfort,Symptom,Head Discomfort
+Orofacial Oedema,Symptom,Orofacial Oedema
+Tooth Disorder,Symptom,Tooth Disorder
+Gastric Hemorrhage,Symptom,Gastric Hemorrhage
+Eczema,Symptom,Eczema
+Hyperpyrexia,Symptom,Hyperpyrexia
+Lockjaw,Symptom,Lockjaw
+Somatization Disorder,Symptom,Somatization Disorder
+Sialorrhea,Symptom,Sialorrhea
+Sleep-Related Neurogenic Tachypnoea,Symptom,Sleep-Related Neurogenic Tachypnoea
+Lower Extremity Edema,Symptom,Lower Extremity Edema
+Pigmentation,Symptom,Pigmentation
+Post-traumatic Pain,Symptom,Post-traumatic Pain
+Neoplasm Benign Nos,Symptom,Neoplasm Benign Nos
+Enuresis,Symptom,Enuresis
+Prostatism,Symptom,Prostatism
+Paracusia,Symptom,Paracusia
+Swelling,Symptom,Swelling
+Limb Pain,Symptom,Limb Pain
+Tinnitus,Symptom,Tinnitus
+Chest Pain Angina,Symptom,Chest Pain Angina
+Soft Tissue Injury,Symptom,Soft Tissue Injury
+Lower Extremity Pain,Symptom,Lower Extremity Pain
+Tingling Gingival,Symptom,Tingling Gingival
+Hair Disorder,Symptom,Hair Disorder
+Erectile Dysfunction,Symptom,Erectile Dysfunction
+Viral Hepatitis,Symptom,Viral Hepatitis
+Obnubilation,Symptom,Obnubilation
+Joint Range Of Motion Decreased,Symptom,Joint Range Of Motion Decreased
+Aging Premature,Symptom,Aging Premature
+Night Sweat,Symptom,Night Sweat
+Lacrimation,Symptom,Lacrimation
+Multiple Sores On Skin,Symptom,Multiple Sores On Skin
+Gi Bleeding,Symptom,Gi Bleeding
+Cervical Cancer,Symptom,Cervical Cancer
+Photophobia,Symptom,Photophobia
+Heartbeats Increased,Symptom,Heartbeats Increased
+Gastric Spasm,Symptom,Gastric Spasm
+Polymenorrhea,Symptom,Polymenorrhea
+(leukorrhea Unspecified) Or (vaginal Discharge Nos),Symptom,(leukorrhea Unspecified) Or (vaginal Discharge Nos)
+Biliary And Gallbladder Disorder,Symptom,Biliary And Gallbladder Disorder
+Mental Retardation,Symptom,Mental Retardation
+Tongue Burning Sensation,Symptom,Tongue Burning Sensation
+"Hemiplegia, Post Ictal",Symptom,"Hemiplegia, Post Ictal"
+Hyperemesis,Symptom,Hyperemesis
+Petechia,Symptom,Petechia
+Urethral Pain,Symptom,Urethral Pain
+Motion Sickness,Symptom,Motion Sickness
+Pregnancy Disorder,Symptom,Pregnancy Disorder
+Vaginal Pruritus,Symptom,Vaginal Pruritus
+Acrodynia,Symptom,Acrodynia
+Breast Mass Hard,Symptom,Breast Mass Hard
+"Goiter, Euthyroid",Symptom,"Goiter, Euthyroid"
+Menorrhagia,Symptom,Menorrhagia
+Irritability,Symptom,Irritability
+Mammary Neoplasms,Symptom,Mammary Neoplasms
+Other Abdominal Pain,Symptom,Other Abdominal Pain
+Myofacial Pain Syndrome,Symptom,Myofacial Pain Syndrome
+Earache,Symptom,Earache
+Increased Diastolic Blood Pressure,Symptom,Increased Diastolic Blood Pressure
+Ilioinguinal Neuralgia,Symptom,Ilioinguinal Neuralgia
+Colic,Symptom,Colic
+Bilateral Leg Pain,Symptom,Bilateral Leg Pain
+Cough Increased,Symptom,Cough Increased
+Pupil Dilated,Symptom,Pupil Dilated
+Common Cold,Symptom,Common Cold
+Odynophagia,Symptom,Odynophagia
+Inflammation,Symptom,Inflammation
+Loin Pain,Symptom,Loin Pain
+Colonic Inertia,Symptom,Colonic Inertia
+Major Depression,Symptom,Major Depression
+Facial Paralysis,Symptom,Facial Paralysis
+Syncope Exertional,Symptom,Syncope Exertional
+Blanching Of Skin,Symptom,Blanching Of Skin
+Hunger Abnormal,Symptom,Hunger Abnormal
+Neuralgia,Symptom,Neuralgia
+Warts,Symptom,Warts
+Sarcoidosis,Symptom,Sarcoidosis
+Acquired Aphasias,Symptom,Acquired Aphasias
+Comedome,Symptom,Comedome
+Dental Discomfort,Symptom,Dental Discomfort
+Numbness From Waist Down To Knee,Symptom,Numbness From Waist Down To Knee
+"Disease, Endometrial",Symptom,"Disease, Endometrial"
+Tongue Discoloration,Symptom,Tongue Discoloration
+Sweating,Symptom,Sweating
+Sprains And Strains,Symptom,Sprains And Strains
+Internal Haemorrhage,Symptom,Internal Haemorrhage
+Headache Unilateral,Symptom,Headache Unilateral
+Azospermia,Symptom,Azospermia
+Zoophaginae,Symptom,Zoophaginae
+Pre-Menstrual Tension Syndrome,Symptom,Pre-Menstrual Tension Syndrome
+Aplasia,Symptom,Aplasia
+Arthralgia,Symptom,Arthralgia
+Vaginal Discharge White,Symptom,Vaginal Discharge White
+Stridor,Symptom,Stridor
+Gagging,Symptom,Gagging
+Menometrorrhagia,Symptom,Menometrorrhagia
+Febrile Illness Acute,Symptom,Febrile Illness Acute
+Throat Tightness,Symptom,Throat Tightness
+"Overnutrition, Child",Symptom,"Overnutrition, Child"
+Other Conjunctivitis Nos,Symptom,Other Conjunctivitis Nos
+Anxiety,Symptom,Anxiety
+Dental Abscess,Symptom,Dental Abscess
+Yang Deficiency,Symptom,Yang Deficiency
+Urolithiasis,Symptom,Urolithiasis
+Vomiting Neonatal,Symptom,Vomiting Neonatal
+Subjective Tinnitus,Symptom,Subjective Tinnitus
+Renal Failure Adverse Event,Symptom,Renal Failure Adverse Event
+Labor Preterm,Symptom,Labor Preterm
+Painful Diarrhea,Symptom,Painful Diarrhea
+Mental Status Altered,Symptom,Mental Status Altered
+Alternate Hemiplegia,Symptom,Alternate Hemiplegia
+Myofascial Trigger Point Pain,Symptom,Myofascial Trigger Point Pain
+"Sports Injury, Nos",Symptom,"Sports Injury, Nos"
+Altered Tastes,Symptom,Altered Tastes
+Mechanical Low Back Pain,Symptom,Mechanical Low Back Pain
+Depression,Symptom,Depression
+Chill,Symptom,Chill
+Tetanus,Symptom,Tetanus
+"Preauricular Fistulae, Congenital",Symptom,"Preauricular Fistulae, Congenital"
+Lactation Decreased,Symptom,Lactation Decreased
+Abnormal Labor,Symptom,Abnormal Labor
+Tongue Pain,Symptom,Tongue Pain
+Purpuric Rash,Symptom,Purpuric Rash
+Pantothenic Acid,Symptom,Pantothenic Acid
+Distorted Hearing,Symptom,Distorted Hearing
+Hypervigilance,Symptom,Hypervigilance
+Athetosis,Symptom,Athetosis
+Bone Fracture,Symptom,Bone Fracture
+Diarrhea,Symptom,Diarrhea
+Facial Nerve Motor Disorder,Symptom,Facial Nerve Motor Disorder
+Influenza,Symptom,Influenza
+Food Poisoning,Symptom,Food Poisoning
+Blood Disorder,Symptom,Blood Disorder
+Fetal Mummification,Symptom,Fetal Mummification
+"Facial Pain, Neuralgic",Symptom,"Facial Pain, Neuralgic"
+Dermatitis,Symptom,Dermatitis
+Rigidity Of Limbs,Symptom,Rigidity Of Limbs
+Epidermophytosis,Symptom,Epidermophytosis
+Back Pain With Radiation,Symptom,Back Pain With Radiation
+Hemorrhage Of Pregnancy,Symptom,Hemorrhage Of Pregnancy
+Leprosy,Symptom,Leprosy
+Carbuncle,Symptom,Carbuncle
+Abnormal Stools,Symptom,Abnormal Stools
+Tenesmus,Symptom,Tenesmus
+Ulceration,Symptom,Ulceration
+Hand Swelling,Symptom,Hand Swelling
+Facial Myokymia,Symptom,Facial Myokymia
+Tinea Pedis,Symptom,Tinea Pedis
+Operative Bleeding,Symptom,Operative Bleeding
+Generalized Fatigue,Symptom,Generalized Fatigue
+Headache,Symptom,Headache
+German Measles,Symptom,German Measles
+Generalised Headache,Symptom,Generalised Headache
+Spastic Hemiplegia,Symptom,Spastic Hemiplegia
+Hyperalgia,Symptom,Hyperalgia
+Scalp Pruritus,Symptom,Scalp Pruritus
+Chest Symptom Discomfort,Symptom,Chest Symptom Discomfort
+Lower Extremity Pain Musculoskeletal,Symptom,Lower Extremity Pain Musculoskeletal
+Tinea Corporis,Symptom,Tinea Corporis
+Extreme Hearing Loss,Symptom,Extreme Hearing Loss
+Chapped Skin,Symptom,Chapped Skin
+Depressed - Symptom,Symptom,Depressed - Symptom
+Abdominal Cramp,Symptom,Abdominal Cramp
+Extremity Numbness,Symptom,Extremity Numbness
+Eclampsia,Symptom,Eclampsia
+Hyperexcitation,Symptom,Hyperexcitation
+Carbuncle And Furuncle Of Unspecified Site,Symptom,Carbuncle And Furuncle Of Unspecified Site
+Oligomenorrhea,Symptom,Oligomenorrhea
+Atypical Neuralgia,Symptom,Atypical Neuralgia
+Bright Red Blood Per Rectum,Symptom,Bright Red Blood Per Rectum
+Skin Laceration,Symptom,Skin Laceration
+Parosmia,Symptom,Parosmia
+Impetigo,Symptom,Impetigo
+Neurasthenia,Symptom,Neurasthenia
+Vulvar Pruritus,Symptom,Vulvar Pruritus
+Urticaria,Symptom,Urticaria
+Vaginal Prolapse,Symptom,Vaginal Prolapse
+Bulimia Nervosa,Symptom,Bulimia Nervosa
+Panic Disorder,Symptom,Panic Disorder
+Uterovaginal Prolapse,Symptom,Uterovaginal Prolapse
+Joint Dislocation,Symptom,Joint Dislocation
+Gingivitis,Symptom,Gingivitis
+Numbness Localized,Symptom,Numbness Localized
+Pain Acute,Symptom,Pain Acute
+Dreams,Symptom,Dreams
+Smarting Of Skin,Symptom,Smarting Of Skin
+Alteration In Level Of Consciousness,Symptom,Alteration In Level Of Consciousness
+Thrombocytopenia,Symptom,Thrombocytopenia
+Spastic Quadriplegia,Symptom,Spastic Quadriplegia
+Testicle Pain,Symptom,Testicle Pain
+Amenorrhea,Symptom,Amenorrhea
+Chilblains,Symptom,Chilblains
+Gastric Acid,Symptom,Gastric Acid
+Postoperative Hemorrhage,Symptom,Postoperative Hemorrhage
+Global Aphasia,Symptom,Global Aphasia
+Painful Red Eye,Symptom,Painful Red Eye
+Bad Dream,Symptom,Bad Dream
+Pulsatile Tinnitus,Symptom,Pulsatile Tinnitus
+Heavy Feeling,Symptom,Heavy Feeling
+Migraine,Symptom,Migraine
+Neck Stiffness,Symptom,Neck Stiffness
+Trichophytosis,Symptom,Trichophytosis
+Cardiospasm; Congenital,Symptom,Cardiospasm; Congenital
+Breast Engorgement,Symptom,Breast Engorgement
+Jaundice (excl Neonatal),Symptom,Jaundice (excl Neonatal)
+Face Injury,Symptom,Face Injury
+Spasticity Muscle,Symptom,Spasticity Muscle
+"Headache, Periorbital",Symptom,"Headache, Periorbital"
+Ocular Headache,Symptom,Ocular Headache
+Polycythemia,Symptom,Polycythemia
+Furuncle,Symptom,Furuncle
+Diplopia,Symptom,Diplopia
+Joint Swollen,Symptom,Joint Swollen
+Hyperchlorhydria,Symptom,Hyperchlorhydria
+"Skin Diseases, Eczematous",Symptom,"Skin Diseases, Eczematous"
+Conjunctivitis,Symptom,Conjunctivitis
+Hemorrhoid Bleeding,Symptom,Hemorrhoid Bleeding
+"Aphasia, Post Traumatic",Symptom,"Aphasia, Post Traumatic"
+Anorexia Symptom,Symptom,Anorexia Symptom
+Poisoning By,Symptom,Poisoning By
+Syncopal Episode,Symptom,Syncopal Episode
+Acute Chest Pain,Symptom,Acute Chest Pain
+Consciousness Disorder,Symptom,Consciousness Disorder
+Oral Ulcer,Symptom,Oral Ulcer
+Other Chest Pain,Symptom,Other Chest Pain
+Vision Dim,Symptom,Vision Dim
+Macula,Symptom,Macula
+Syncope Cardiac,Symptom,Syncope Cardiac
+Ecchymoses,Symptom,Ecchymoses
+No Vomiting,Symptom,No Vomiting
+Pseudoaphakia,Symptom,Pseudoaphakia
+Tongue Ulcer,Symptom,Tongue Ulcer
+Urethra Hemorrhage,Symptom,Urethra Hemorrhage
+Backache,Symptom,Backache
+Epizootic Lymphangitis,Symptom,Epizootic Lymphangitis
+Eschar,Symptom,Eschar
+Scabies,Symptom,Scabies
+Injury Of Muscle,Symptom,Injury Of Muscle
+Pain,Symptom,Pain
+Watery Eyes,Symptom,Watery Eyes
+Vein Disorder,Symptom,Vein Disorder
+Alopecia Cicatrisata,Symptom,Alopecia Cicatrisata
+Boredom,Symptom,Boredom
+Respiratory Tract Congestion,Symptom,Respiratory Tract Congestion
+Hypertrophic Osteoarthropathy,Symptom,Hypertrophic Osteoarthropathy
+Dysthymic Disorder,Symptom,Dysthymic Disorder
+Body Pain,Symptom,Body Pain
+Aphthous Ulcer,Symptom,Aphthous Ulcer
+Dysesthesia,Symptom,Dysesthesia
+Eye Disorder,Symptom,Eye Disorder
+Oropharyngeal Discomfort,Symptom,Oropharyngeal Discomfort
+Gangrene,Symptom,Gangrene
+Children Malnutrition,Symptom,Children Malnutrition
+Cardiac Discomfort,Symptom,Cardiac Discomfort
+Cva Nos Acute,Symptom,Cva Nos Acute
+Facial Droop,Symptom,Facial Droop
+Dysuria,Symptom,Dysuria
+Bites Insect Stings,Symptom,Bites Insect Stings
+Polyopsias,Symptom,Polyopsias
+Functional Aphasia,Symptom,Functional Aphasia
+Measles,Symptom,Measles
+Functional Aphonia,Symptom,Functional Aphonia
+Prostatic Hyperplasia Benign,Symptom,Prostatic Hyperplasia Benign
+Blurred Vision,Symptom,Blurred Vision
+Heartburn,Symptom,Heartburn
+Herpes Zoster Disease,Symptom,Herpes Zoster Disease
+Cortical Diplopia,Symptom,Cortical Diplopia
+Inability To Maintain Attention,Symptom,Inability To Maintain Attention
+Fatigue,Symptom,Fatigue
+Swelling - Edema - Symptom,Symptom,Swelling - Edema - Symptom
+Gasping,Symptom,Gasping
+Behavior Drinking,Symptom,Behavior Drinking
+Foreign Body,Symptom,Foreign Body
+Chest Mass,Symptom,Chest Mass
+Motor Tics,Symptom,Motor Tics
+Posterior Compartment Low Back Pain,Symptom,Posterior Compartment Low Back Pain
+Colorectal Cancer,Symptom,Colorectal Cancer
+Presyncope,Symptom,Presyncope
+Scrotum,Symptom,Scrotum
+Necrosis,Symptom,Necrosis
+Colic Renal,Symptom,Colic Renal
+Extremity Necrosis,Symptom,Extremity Necrosis
+Orthostatic Headache,Symptom,Orthostatic Headache
+Anal Sphincter Atony,Symptom,Anal Sphincter Atony
+Skin Infection,Symptom,Skin Infection
+Gastrointestinal Carcinoma,Symptom,Gastrointestinal Carcinoma
+Salivation,Symptom,Salivation
+Hand Soreness,Symptom,Hand Soreness
+Psychotic Depression,Symptom,Psychotic Depression
+Bronchial Asthma,Symptom,Bronchial Asthma
+Panic Attack,Symptom,Panic Attack
+Hemorrhoids,Symptom,Hemorrhoids
+Infantile Hemiplegia,Symptom,Infantile Hemiplegia
+Otitis Media Purulent,Symptom,Otitis Media Purulent
+Acquired Facial Neuropathies,Symptom,Acquired Facial Neuropathies
+Dyspepsia,Symptom,Dyspepsia
+(non-dependent Abuse Of Alcohol) Or (drunkenness) Or (hangover),Symptom,(non-dependent Abuse Of Alcohol) Or (drunkenness) Or (hangover)
+Sleep Disorder,Symptom,Sleep Disorder
+Alopecia Hereditaria,Symptom,Alopecia Hereditaria
+Vertigo Central Origin,Symptom,Vertigo Central Origin
+Insomnia Adverse Event,Symptom,Insomnia Adverse Event
+Thirsty,Symptom,Thirsty
+Left Flank Pain,Symptom,Left Flank Pain
+Decreased Urine Flow,Symptom,Decreased Urine Flow
+Urinary Tract Stone,Symptom,Urinary Tract Stone
+Profound Mental Retardation,Symptom,Profound Mental Retardation
+Epigastric Pain,Symptom,Epigastric Pain
+Chest Symptom Heaviness,Symptom,Chest Symptom Heaviness
+Myopathy,Symptom,Myopathy
+Carcinomas,Symptom,Carcinomas
+Pneumonia Lobar,Symptom,Pneumonia Lobar
+Pharyngeal Mucositis,Symptom,Pharyngeal Mucositis
+Mental Deficiency,Symptom,Mental Deficiency
+Abdomen Distention,Symptom,Abdomen Distention
+Emotional Depression,Symptom,Emotional Depression
+Disorder Of Lactation,Symptom,Disorder Of Lactation
+Abdominal Pain,Symptom,Abdominal Pain
+Renal Colic Of Both Kidneys,Symptom,Renal Colic Of Both Kidneys
+Experimental Lung Inflammation,Symptom,Experimental Lung Inflammation
+Coryza,Symptom,Coryza
+Joint Contracture,Symptom,Joint Contracture
+Constant Vertigo,Symptom,Constant Vertigo
+Auditory Discriminatory Aphasia,Symptom,Auditory Discriminatory Aphasia
+Alopecia Areata,Symptom,Alopecia Areata
+Generalized Convulsions Occurring With High Fever,Symptom,Generalized Convulsions Occurring With High Fever
+Back Stiffness,Symptom,Back Stiffness
+Hematoma,Symptom,Hematoma
+Upper Extremity Pain Musculoskeletal,Symptom,Upper Extremity Pain Musculoskeletal
+Sneezing,Symptom,Sneezing
+Ankle Pain,Symptom,Ankle Pain
+Spotting,Symptom,Spotting
+Halitosis,Symptom,Halitosis
+Skin Swelling,Symptom,Skin Swelling
+Hypomenorrhea,Symptom,Hypomenorrhea
+(excessive Thirst) Or (polydipsia),Symptom,(excessive Thirst) Or (polydipsia)
+Alopecia,Symptom,Alopecia
+Metrorrhagia,Symptom,Metrorrhagia
+Peripheral Vertigo,Symptom,Peripheral Vertigo
+Induration Of Breast,Symptom,Induration Of Breast
+Cold Sweat,Symptom,Cold Sweat
+Sutton'S Disease,Symptom,Sutton'S Disease
+Vomiting,Symptom,Vomiting
+Paralysis,Symptom,Paralysis
+Hemiparesis,Symptom,Hemiparesis
+Chills And Fever,Symptom,Chills And Fever
+Micturition Burning,Symptom,Micturition Burning
+Purpura,Symptom,Purpura
+Menses Abnormal,Symptom,Menses Abnormal
+Acquired Language Disorder,Symptom,Acquired Language Disorder
+Communicable Disease,Symptom,Communicable Disease
+Vulvar Abscess,Symptom,Vulvar Abscess
+Pulse Weakness,Symptom,Pulse Weakness
+"Paralyses, Hemifacial",Symptom,"Paralyses, Hemifacial"
+Pneumonia,Symptom,Pneumonia
+Hemorrhage Postpartum,Symptom,Hemorrhage Postpartum
+Vertex Headache,Symptom,Vertex Headache
+Back Pain Without Radiation Nos,Symptom,Back Pain Without Radiation Nos
+Lice Infestation,Symptom,Lice Infestation
+Jaundice,Symptom,Jaundice
+"Headache, Retro-Ocular",Symptom,"Headache, Retro-Ocular"
+Vomit,Symptom,Vomit
+Facial Neuritides,Symptom,Facial Neuritides
+Postural Low Back Pain,Symptom,Postural Low Back Pain
+Nasopharyngitis,Symptom,Nasopharyngitis
+Stillbirth,Symptom,Stillbirth
+Cataract,Symptom,Cataract
+Skin Disorder,Symptom,Skin Disorder
+Sarcoptic Red Mange,Symptom,Sarcoptic Red Mange
+Scrofula,Symptom,Scrofula
+Hyperventilation Syncope,Symptom,Hyperventilation Syncope
+Lymphadenitis,Symptom,Lymphadenitis
+Edema Legs,Symptom,Edema Legs
+Stump Neuralgia,Symptom,Stump Neuralgia
+Urologic Disease,Symptom,Urologic Disease
+Hemorrhages Symptoms,Symptom,Hemorrhages Symptoms
+Chilliness,Symptom,Chilliness
+Skin Decubitus Ulcer(S),Symptom,Skin Decubitus Ulcer(S)
+Cold Sensation,Symptom,Cold Sensation
+Syncope,Symptom,Syncope
+Rumination Disorder,Symptom,Rumination Disorder
+Feeding And Eating Disorders Of Childhood,Symptom,Feeding And Eating Disorders Of Childhood
+Muscle Fatigue,Symptom,Muscle Fatigue
+"Nasal Obstruction, Unilateral",Symptom,"Nasal Obstruction, Unilateral"
+Otitis,Symptom,Otitis
+Cervical Radiculopathy,Symptom,Cervical Radiculopathy
+Urine Abnormality,Symptom,Urine Abnormality
+Cryptogenic Epilepsies,Symptom,Cryptogenic Epilepsies
+Annular Erythema,Symptom,Annular Erythema
+Diphtheria,Symptom,Diphtheria
+Myositis,Symptom,Myositis
+Lack Of Libido,Symptom,Lack Of Libido
+Abdomen Discomfort,Symptom,Abdomen Discomfort
+Nuchal Rigidity,Symptom,Nuchal Rigidity
+Laryngitis,Symptom,Laryngitis
+Long Sleeper Syndrome,Symptom,Long Sleeper Syndrome
+Tonsillitis,Symptom,Tonsillitis
+Air Sickness,Symptom,Air Sickness
+Masseter Muscle Spasm,Symptom,Masseter Muscle Spasm
+Arthralgia/arthritis,Symptom,Arthralgia/arthritis
+Vaginal Discharge,Symptom,Vaginal Discharge
+Skin Benign Neoplasm,Symptom,Skin Benign Neoplasm
+Intellectual Aphasia,Symptom,Intellectual Aphasia
+Postoperative Pain,Symptom,Postoperative Pain
+Colic Biliary,Symptom,Colic Biliary
+Seizure Focal,Symptom,Seizure Focal
+Painful Swollen Joints,Symptom,Painful Swollen Joints
+Knee Joint Laxity,Symptom,Knee Joint Laxity
+Ascaridiasis,Symptom,Ascaridiasis
+Feces Incontinence,Symptom,Feces Incontinence
+Trachoma,Symptom,Trachoma
+Abdominal Tenderness,Symptom,Abdominal Tenderness
+Nose Dryness,Symptom,Nose Dryness
+Premature Birth,Symptom,Premature Birth
+Breath Holding,Symptom,Breath Holding
+Sputum Discoloured,Symptom,Sputum Discoloured
+Osteoarticular Pain,Symptom,Osteoarticular Pain
+Cough Productive,Symptom,Cough Productive
+Stokes-Adams Syncope,Symptom,Stokes-Adams Syncope
+Hepatobiliary Disease,Symptom,Hepatobiliary Disease
+ache leg pain,Symptom,ache leg pain
+Auditory Dysesthesia,Symptom,Auditory Dysesthesia
+Fatigability,Symptom,Fatigability
+Neck Injury,Symptom,Neck Injury
+Constipation,Symptom,Constipation
+Urinary Tract Infection,Symptom,Urinary Tract Infection
+Status Marmoratus,Symptom,Status Marmoratus
+Dejerine Lichtheim Phenomenon,Symptom,Dejerine Lichtheim Phenomenon
+Hair Color Change,Symptom,Hair Color Change
+Breast Cyst,Symptom,Breast Cyst
+Liver Tender,Symptom,Liver Tender
+Bite Wound Insect,Symptom,Bite Wound Insect
+Hypalgesia,Symptom,Hypalgesia
+Sore Throat,Symptom,Sore Throat
+Diarrhea Watery,Symptom,Diarrhea Watery
+Stomach Cramps,Symptom,Stomach Cramps
+Sore Eye,Symptom,Sore Eye
+Pharyngolaryngitis,Symptom,Pharyngolaryngitis
+Autism Spectrum Disorder,Symptom,Autism Spectrum Disorder
+Cholelithiasis,Symptom,Cholelithiasis
+Larynx,Symptom,Larynx
+Bronchitis,Symptom,Bronchitis
+Headache Throbbing,Symptom,Headache Throbbing
+Blepharitis,Symptom,Blepharitis
+Orthostasis,Symptom,Orthostasis
+Rhinorrhea,Symptom,Rhinorrhea
+Facial Paresthesia,Symptom,Facial Paresthesia
+Ligament Sprain,Symptom,Ligament Sprain
+Anemia,Symptom,Anemia
+Nocturia Aggravated,Symptom,Nocturia Aggravated
+Dexol,Symptom,Dexol
+Belching,Symptom,Belching
+Tinea Manus,Symptom,Tinea Manus
+Glomerulonephritis,Symptom,Glomerulonephritis
+Depressive Syndrome,Symptom,Depressive Syndrome
+Ejaculation,Symptom,Ejaculation
+Vidian Neuralgia,Symptom,Vidian Neuralgia
+Erysipelas,Symptom,Erysipelas
+Cryanaesthesia,Symptom,Cryanaesthesia
+Chronic Constipation,Symptom,Chronic Constipation
+Pain Worsens,Symptom,Pain Worsens
+Face Pain,Symptom,Face Pain
+Convulsions Neonatal,Symptom,Convulsions Neonatal
+Myalgia,Symptom,Myalgia
+Edema Pharynx,Symptom,Edema Pharynx
+Ocular Icterus,Symptom,Ocular Icterus
+Hyperlipidemia,Symptom,Hyperlipidemia
+Upper Extremity Weakness,Symptom,Upper Extremity Weakness
+Syncope Postural,Symptom,Syncope Postural
+Nutrition Disorders In Children,Symptom,Nutrition Disorders In Children
+Monoparesis,Symptom,Monoparesis
+Leukopenia,Symptom,Leukopenia
+Liability To Disease,Symptom,Liability To Disease
+Respiratory Abnormality,Symptom,Respiratory Abnormality
+Subwakefullness Syndromes,Symptom,Subwakefullness Syndromes
+Thirst,Symptom,Thirst
+Pulse Rate Decrease,Symptom,Pulse Rate Decrease
+"Diplopias, Horizontal",Symptom,"Diplopias, Horizontal"
+Skin Pustule(S),Symptom,Skin Pustule(S)
+Suppuration,Symptom,Suppuration
+Mouth Disease,Symptom,Mouth Disease
+Vagina,Symptom,Vagina
+Intrauterine Fetal Demise,Symptom,Intrauterine Fetal Demise
+Bilateral Headache,Symptom,Bilateral Headache
+Feeling Of Residual Urine,Symptom,Feeling Of Residual Urine
+Hemorrhage Within 24 Hours Following Delivery Of Placenta,Symptom,Hemorrhage Within 24 Hours Following Delivery Of Placenta
+Difficulty Walking,Symptom,Difficulty Walking
+Eye Pain,Symptom,Eye Pain
+Pertussis,Symptom,Pertussis
+Syphilis,Symptom,Syphilis
+Malnutrition,Symptom,Malnutrition
+Functional Encopresis,Symptom,Functional Encopresis
+Aphonia,Symptom,Aphonia
+Ascites,Symptom,Ascites
+Respiratory Disorder,Symptom,Respiratory Disorder
+Vaginitis Trichomonas,Symptom,Vaginitis Trichomonas
+Mastitis,Symptom,Mastitis
+"Avulsion, Nerve Root",Symptom,"Avulsion, Nerve Root"
+Subfertility,Symptom,Subfertility
+Syncopal Vertigo,Symptom,Syncopal Vertigo
+Parasitemia,Symptom,Parasitemia
+Coughing Up Phlegm,Symptom,Coughing Up Phlegm
+Second Degree Burn,Symptom,Second Degree Burn
+"Pantothenate, Zinc",Symptom,"Pantothenate, Zinc"
+Tingling In Extremities,Symptom,Tingling In Extremities
+Hematemesis,Symptom,Hematemesis
+Infective Myositis,Symptom,Infective Myositis
+Skin Scaly,Symptom,Skin Scaly
+Acute Vomiting,Symptom,Acute Vomiting
+Appetite Disorder,Symptom,Appetite Disorder
+Sleep Difficult,Symptom,Sleep Difficult
+Generalized Spasm,Symptom,Generalized Spasm
+Dermatosis Of Scalp,Symptom,Dermatosis Of Scalp
+Hyperemesis Gravidarum,Symptom,Hyperemesis Gravidarum
+Nerve Pain,Symptom,Nerve Pain
+Facial Nerve Sensory Disorder,Symptom,Facial Nerve Sensory Disorder
+Memory Loss Or Impairment,Symptom,Memory Loss Or Impairment
+Frigidity,Symptom,Frigidity
+Forgetfulness,Symptom,Forgetfulness
+Hemorrhage After First 24 Hours Following Delivery Of Placenta,Symptom,Hemorrhage After First 24 Hours Following Delivery Of Placenta
+Osteomyelitis,Symptom,Osteomyelitis
+Arthritic Pains,Symptom,Arthritic Pains
+Musculoskeletal Pain,Symptom,Musculoskeletal Pain
+Myocardial Ischemia,Symptom,Myocardial Ischemia
+Limb Discomfort,Symptom,Limb Discomfort
+Malaise And Fatigue,Symptom,Malaise And Fatigue
+Arteriosclerotic Heart Disease,Symptom,Arteriosclerotic Heart Disease
+Renal Agenesis,Symptom,Renal Agenesis
+Nasal Congestion,Symptom,Nasal Congestion
+Genital Pruritus,Symptom,Genital Pruritus
+Bacterial Infections,Symptom,Bacterial Infections
+Melena,Symptom,Melena
+Rheumatic Disorder,Symptom,Rheumatic Disorder
+Transient Hemiplegia,Symptom,Transient Hemiplegia
+Bronchitis Chronic,Symptom,Bronchitis Chronic
+"Disease Of Vocal Cords, Nos",Symptom,"Disease Of Vocal Cords, Nos"
+Anterior Cervical Pains,Symptom,Anterior Cervical Pains
+Ecthyma,Symptom,Ecthyma
+Paralysis Spastic,Symptom,Paralysis Spastic
+Depressed Mood,Symptom,Depressed Mood
+Anasarca,Symptom,Anasarca
+Pain Precordial,Symptom,Pain Precordial
+Nephritis,Symptom,Nephritis
+Joint Stiffness,Symptom,Joint Stiffness
+Rash,Symptom,Rash
+Nausea,Symptom,Nausea
+Commisural Aphasia,Symptom,Commisural Aphasia
+Acute Hepatitis,Symptom,Acute Hepatitis
+Age Related Memory Disorders,Symptom,Age Related Memory Disorders
+Heat Stroke,Symptom,Heat Stroke
+Wheezing,Symptom,Wheezing
+Refractive Diplopia,Symptom,Refractive Diplopia
+Lip Dryness,Symptom,Lip Dryness
+Depressed Level Of Consciousness,Symptom,Depressed Level Of Consciousness
+Bilateral Knee Joint Pain,Symptom,Bilateral Knee Joint Pain
+Fuzzy,Symptom,Fuzzy
+Quadriplegic Spinal Paralysis,Symptom,Quadriplegic Spinal Paralysis
+Burn Injury,Symptom,Burn Injury
+Attention Disorders,Symptom,Attention Disorders
+Cholecystitis,Symptom,Cholecystitis
+Paresis,Symptom,Paresis
+Syncope Micturition,Symptom,Syncope Micturition
+Clonic Seizure,Symptom,Clonic Seizure
+Poor Quality Sleep,Symptom,Poor Quality Sleep
+"Sputums, Induced",Symptom,"Sputums, Induced"
+Venomous Bite,Symptom,Venomous Bite
+Rebound Hypertension,Symptom,Rebound Hypertension
+Pelvis Tumor,Symptom,Pelvis Tumor
+Dark Urine,Symptom,Dark Urine
+Dyspepsia-Aggravated,Symptom,Dyspepsia-Aggravated
+Transient Insomnia,Symptom,Transient Insomnia
+Sweat,Symptom,Sweat
+Tenderness,Symptom,Tenderness
+Diarrhea Acute,Symptom,Diarrhea Acute
+emantic Aphasia,Symptom,emantic Aphasia
+Flaccid Tetraplegia,Symptom,Flaccid Tetraplegia
+Asthenopia,Symptom,Asthenopia
+Seizure(S) Grand Mal,Symptom,Seizure(S) Grand Mal
+Ulcer,Symptom,Ulcer
+Splanchnoptosis,Symptom,Splanchnoptosis
+Bleeding Hemorrhage,Symptom,Bleeding Hemorrhage
+Chest Pain,Symptom,Chest Pain
+Trigeminal Autonomic Cephalgia,Symptom,Trigeminal Autonomic Cephalgia
+Parotid Enlargement,Symptom,Parotid Enlargement
+Beriberi,Symptom,Beriberi
+Lupus Erythematosus,Symptom,Lupus Erythematosus
+Retching,Symptom,Retching
+Semiconsciousness,Symptom,Semiconsciousness
+Filariasis,Symptom,Filariasis
+Virus,Symptom,Virus
+Gonorrhea,Symptom,Gonorrhea
+Speech Disorder,Symptom,Speech Disorder
+Nerve Root Disorder,Symptom,Nerve Root Disorder
+Oligospermia,Symptom,Oligospermia
+Polyuria,Symptom,Polyuria
+Bone Pain,Symptom,Bone Pain
+Flaccidity Muscle,Symptom,Flaccidity Muscle
+Keratitis,Symptom,Keratitis
+Shock,Symptom,Shock
+Hiccups,Symptom,Hiccups
+High Systolic Arterial Pulse Pressure,Symptom,High Systolic Arterial Pulse Pressure
+Taste Perversion,Symptom,Taste Perversion
+Vulvar Diseases,Symptom,Vulvar Diseases
+Favism,Symptom,Favism
+Myofascial Pain Syndrome,Symptom,Myofascial Pain Syndrome
+Hemiplegia,Symptom,Hemiplegia
+Congestion Of Throat,Symptom,Congestion Of Throat
+Psoriasis Vulgaris,Symptom,Psoriasis Vulgaris
+Overinclusion,Symptom,Overinclusion
+Hepatosplenomegaly,Symptom,Hepatosplenomegaly
+Mumps,Symptom,Mumps
+Xerostomia,Symptom,Xerostomia
+"Hemophilia, Nos",Symptom,"Hemophilia, Nos"
+Orofacial Dyskinesia,Symptom,Orofacial Dyskinesia
+Rheumatoid Arthritis,Symptom,Rheumatoid Arthritis
+Brain Stem Vertigo,Symptom,Brain Stem Vertigo
+Plague,Symptom,Plague
+Petechiae Oral Mucosa,Symptom,Petechiae Oral Mucosa
+Numbness,Symptom,Numbness
+Postictal Paralysis,Symptom,Postictal Paralysis
+Vaginitis,Symptom,Vaginitis
+Throat Dry,Symptom,Throat Dry
+Dizziness,Symptom,Dizziness
+Bilateral Stiffness Of Knee Joints,Symptom,Bilateral Stiffness Of Knee Joints
+Pneumatosis,Symptom,Pneumatosis
+Limb Anomaly Congenital,Symptom,Limb Anomaly Congenital
+Diplopia Vertical,Symptom,Diplopia Vertical
+Enteritis,Symptom,Enteritis
+Aphonia Paralytica,Symptom,Aphonia Paralytica
+"Headache, Dull",Symptom,"Headache, Dull"
+Uterine Bleeding,Symptom,Uterine Bleeding
+Localized; Swelling,Symptom,Localized; Swelling
+Hyperphagia,Symptom,Hyperphagia
+Complex Febrile Convulsion,Symptom,Complex Febrile Convulsion
+Aphasia,Symptom,Aphasia
+Nausea Vomiting And Diarrhea,Symptom,Nausea Vomiting And Diarrhea
+Dryness Vaginal,Symptom,Dryness Vaginal
+Emaciation,Symptom,Emaciation
+Visual Epilepsy,Symptom,Visual Epilepsy
+Pervasive Developmental Disorder,Symptom,Pervasive Developmental Disorder
+Hyperostosis,Symptom,Hyperostosis
+Palpitation(S),Symptom,Palpitation(S)
+Flaccid Hemiplegia,Symptom,Flaccid Hemiplegia
+Lens Opacity,Symptom,Lens Opacity
+Supraorbital Neuralgia,Symptom,Supraorbital Neuralgia
+Spleen Disorder,Symptom,Spleen Disorder
+"Nasal Obstruction, Bilateral",Symptom,"Nasal Obstruction, Bilateral"
+Anal Bleeding,Symptom,Anal Bleeding
+General Discomfort,Symptom,General Discomfort
+"Aphasia, Post Ictal",Symptom,"Aphasia, Post Ictal"
+Tensor Palatini Induced Tinnitus,Symptom,Tensor Palatini Induced Tinnitus
+"Dysentery, Bacillary",Symptom,"Dysentery, Bacillary"
+Transient Limb Paralysis,Symptom,Transient Limb Paralysis
+Hematuria,Symptom,Hematuria
+Shoulder Pain,Symptom,Shoulder Pain
+Dysphonia,Symptom,Dysphonia
+Loss Of Appetite,Symptom,Loss Of Appetite
+Miliaria,Symptom,Miliaria
+Angina Symptoms,Symptom,Angina Symptoms
+Recurrent Low Back Pain,Symptom,Recurrent Low Back Pain
+Hot Temperature,Symptom,Hot Temperature
+Hair Discoloration,Symptom,Hair Discoloration
+Eye Hemorrhage,Symptom,Eye Hemorrhage
+Vulvovaginal Swelling,Symptom,Vulvovaginal Swelling
+Eczema Asteatotic,Symptom,Eczema Asteatotic
+Physical Suffering,Symptom,Physical Suffering
+Neuralgia Facial,Symptom,Neuralgia Facial
+Cyanosis,Symptom,Cyanosis
+Neck Pain,Symptom,Neck Pain
+Disorder Of Skin And Subcutaneous Tissue,Symptom,Disorder Of Skin And Subcutaneous Tissue
+Language Disorder,Symptom,Language Disorder
+Asthma Attack,Symptom,Asthma Attack
+Lightheadedness,Symptom,Lightheadedness
+Hyperplasia Thymus,Symptom,Hyperplasia Thymus
+Foot Pain,Symptom,Foot Pain
+Dyslipoproteinemia,Symptom,Dyslipoproteinemia
+Behcet Syndrome,Symptom,Behcet Syndrome
+Malaria,Symptom,Malaria
+Polyarthralgia,Symptom,Polyarthralgia
+Abscess Gum,Symptom,Abscess Gum
+Anus,Symptom,Anus
+Vertebrogenic Pain Syndrome,Symptom,Vertebrogenic Pain Syndrome
+Focal Myositis,Symptom,Focal Myositis
+Pharynx Disease,Symptom,Pharynx Disease
+Skin Breakdown,Symptom,Skin Breakdown
+Night Blindness,Symptom,Night Blindness
+Spontaneous Oto Acoustic Emission Tinnitus,Symptom,Spontaneous Oto Acoustic Emission Tinnitus
+Empyema,Symptom,Empyema
+Female Infertility,Symptom,Female Infertility
+Sharp Headache,Symptom,Sharp Headache
+Catarrh,Symptom,Catarrh
+Emesis,Symptom,Emesis
+Prostate Adenoma,Symptom,Prostate Adenoma
+Perineal Neuralgia,Symptom,Perineal Neuralgia
+"Seizure, Convulsion",Symptom,"Seizure, Convulsion"
+Eye Pruritus,Symptom,Eye Pruritus
+Cramp In Limb,Symptom,Cramp In Limb
+"Prostate, Hyperplasia, Nodular",Symptom,"Prostate, Hyperplasia, Nodular"
+Intermittant Vertigo,Symptom,Intermittant Vertigo
+Acquired Deafness,Symptom,Acquired Deafness
+Unable To Urinate,Symptom,Unable To Urinate
+Pleural Effusion Disorder,Symptom,Pleural Effusion Disorder
+Right Flank Pain,Symptom,Right Flank Pain
+Breast Swelling,Symptom,Breast Swelling
+Goiter,Symptom,Goiter
+Hemorrhage,Symptom,Hemorrhage
+Endogenous Depression,Symptom,Endogenous Depression
+Rib Pain,Symptom,Rib Pain
+Smarting,Symptom,Smarting
+Epilepsy,Symptom,Epilepsy
+Nose Pruritus,Symptom,Nose Pruritus
+Laryngeal Pain,Symptom,Laryngeal Pain
+Behavior Disorder,Symptom,Behavior Disorder
+Dysphasia,Symptom,Dysphasia
+Gastrointestinal Pain,Symptom,Gastrointestinal Pain
+Hookworm Infections,Symptom,Hookworm Infections
+Mental Disorder,Symptom,Mental Disorder
+Oral Mucositis,Symptom,Oral Mucositis
+Pseudocomas,Symptom,Pseudocomas
+Prostate Hypertrophy,Symptom,Prostate Hypertrophy
+Uterine Disorder,Symptom,Uterine Disorder
+Binocular Eye Pain,Symptom,Binocular Eye Pain
+Aura,Symptom,Aura
+Enterobiasis,Symptom,Enterobiasis
+Toothache,Symptom,Toothache
+Insomnia,Symptom,Insomnia
+Parotid Disease,Symptom,Parotid Disease
+Graphomotor Aphasia,Symptom,Graphomotor Aphasia
+Acne,Symptom,Acne
+Anhidrosis,Symptom,Anhidrosis
+Tongue Disorder,Symptom,Tongue Disorder
+Crackling Sound In Ear,Symptom,Crackling Sound In Ear
+Increased Bronchial Secretion,Symptom,Increased Bronchial Secretion
+Blood Urine Present,Symptom,Blood Urine Present
+Buerger Disease,Symptom,Buerger Disease
+Lips Bleeding,Symptom,Lips Bleeding
+Muscle Weakness,Symptom,Muscle Weakness
+Menopause,Symptom,Menopause
+Paroxysmal Nerve Pain,Symptom,Paroxysmal Nerve Pain
+Skinny Build,Symptom,Skinny Build
+Acne Cystic,Symptom,Acne Cystic
+Hot Flash,Symptom,Hot Flash
+Abasia,Symptom,Abasia
+Hepatitis,Symptom,Hepatitis
+Memory Disorder,Symptom,Memory Disorder
+Functional Bowel Disorder,Symptom,Functional Bowel Disorder
+Dry Skin,Symptom,Dry Skin
+Ear Drainage,Symptom,Ear Drainage
+Pharyngeal Erythema,Symptom,Pharyngeal Erythema
+"Diplopia, Unilateral",Symptom,"Diplopia, Unilateral"
+Nocturia,Symptom,Nocturia
+Dribbling Of Urine (& Terminal ),Symptom,Dribbling Of Urine (& Terminal )
+Hypovolemic Shock,Symptom,Hypovolemic Shock
+Abdomen Ruq Pain,Symptom,Abdomen Ruq Pain
+Irritability And Anger,Symptom,Irritability And Anger
+Red,Symptom,Red
+Sprain,Symptom,Sprain
+Numbness In Shoulder,Symptom,Numbness In Shoulder
+Sputum Purulent,Symptom,Sputum Purulent
+Blotchy Rash,Symptom,Blotchy Rash
+Sputum,Symptom,Sputum
+Cirrhosis,Symptom,Cirrhosis
+Mania,Symptom,Mania
+Pain Shoulder Neck,Symptom,Pain Shoulder Neck
+Fever,Symptom,Fever
+Eyes Dry,Symptom,Eyes Dry
+Bone Disorder,Symptom,Bone Disorder
+Abdomen Bloating,Symptom,Abdomen Bloating
+Unipolar Depression,Symptom,Unipolar Depression
+"Memory Disorders, Spatial",Symptom,"Memory Disorders, Spatial"
+Carotid Sinus Syncope,Symptom,Carotid Sinus Syncope
+Tinea,Symptom,Tinea
+Short-Sleeper,Symptom,Short-Sleeper
+Heat Intolerance,Symptom,Heat Intolerance
+Liver Cirrhosis,Symptom,Liver Cirrhosis
+Emotional Distress,Symptom,Emotional Distress
+Lip Paresthesia,Symptom,Lip Paresthesia
+Noise-Induced Tinnitus,Symptom,Noise-Induced Tinnitus
+Chancroids,Symptom,Chancroids
+Sea Sickness,Symptom,Sea Sickness
+Idiopathic Inflammatory Myositis,Symptom,Idiopathic Inflammatory Myositis
+Bed-Wetting,Symptom,Bed-Wetting
+Hematuria Gross,Symptom,Hematuria Gross
+Orofacial Pains,Symptom,Orofacial Pains
+Sprain Of Joint,Symptom,Sprain Of Joint
+Crushing Pain,Symptom,Crushing Pain
+Eating Disorder,Symptom,Eating Disorder
+Polydipsia,Symptom,Polydipsia
+Stool Loose,Symptom,Stool Loose
+"Cervical Pain, Posterior",Symptom,"Cervical Pain, Posterior"
+Digestion Impaired,Symptom,Digestion Impaired
+Perineum Abscess,Symptom,Perineum Abscess
+Menstrual Cramp,Symptom,Menstrual Cramp
+Epistaxis,Symptom,Epistaxis
+Situational Syncope,Symptom,Situational Syncope
+Single Seizure,Symptom,Single Seizure
+Pus Drainage,Symptom,Pus Drainage
+Seizure Generalized,Symptom,Seizure Generalized
+Premature Ejaculation,Symptom,Premature Ejaculation
+"Child Development Disorders, Pervasive",Symptom,"Child Development Disorders, Pervasive"
+Nerve Root Pain,Symptom,Nerve Root Pain
+Stomach Discomfort,Symptom,Stomach Discomfort
+Disease Of Diaphragm,Symptom,Disease Of Diaphragm
+Dysentery,Symptom,Dysentery
+Blood Pressure Elevation,Symptom,Blood Pressure Elevation
+Pain Radiating,Symptom,Pain Radiating
+Impetigo Contagiosa,Symptom,Impetigo Contagiosa
+Flaccidity Of Muscle Of Lower Limb,Symptom,Flaccidity Of Muscle Of Lower Limb
+Gastrointestinal Hypermotility,Symptom,Gastrointestinal Hypermotility
+Herpesviridae Infections,Symptom,Herpesviridae Infections
+Vitreous Detachment,Symptom,Vitreous Detachment
+Ascariasis,Symptom,Ascariasis
+Cerebral Vascular Disorder,Symptom,Cerebral Vascular Disorder
+Bloating Feeling,Symptom,Bloating Feeling
+Animal Virus,Symptom,Animal Virus
+Habit Disorder,Symptom,Habit Disorder
+"Diarrhea, Chronic",Symptom,"Diarrhea, Chronic"
+King Evil,Symptom,King Evil
+Tuberculosis,Symptom,Tuberculosis
+Infertility,Symptom,Infertility
+Urination Urgency,Symptom,Urination Urgency
+Knee(S) Pain,Symptom,Knee(S) Pain
+Abdomen Tumor,Symptom,Abdomen Tumor
+Ageusic Aphasia,Symptom,Ageusic Aphasia
+Anorectal Disorder,Symptom,Anorectal Disorder
+Tongue Paralysis,Symptom,Tongue Paralysis
+Anal Discomforts,Symptom,Anal Discomforts
+Nervousness,Symptom,Nervousness
+Bloody Stool,Symptom,Bloody Stool
+Fever Convulsions,Symptom,Fever Convulsions
+Hair Abnormality,Symptom,Hair Abnormality
+Stroke,Symptom,Stroke
+Syntactical Aphasia,Symptom,Syntactical Aphasia
+"Febrile Seizure, Simple",Symptom,"Febrile Seizure, Simple"
+Limb Twitching,Symptom,Limb Twitching
+Gustatory Rhinorrhea,Symptom,Gustatory Rhinorrhea
+"Memory Disorders, Semantic",Symptom,"Memory Disorders, Semantic"
+Sjogren's Syndrome,Symptom,Sjogren's Syndrome
+Hemoptysis,Symptom,Hemoptysis
+Anorgasmia,Symptom,Anorgasmia
+Vertigo Paroxysmal,Symptom,Vertigo Paroxysmal
+"Neuralgia, Sluder",Symptom,"Neuralgia, Sluder"
+Intestinal Hemorrhage Nos,Symptom,Intestinal Hemorrhage Nos
+Ear Clicking Sound,Symptom,Ear Clicking Sound
+Vision Halo,Symptom,Vision Halo
+Nightmares,Symptom,Nightmares
+Prostate Hypertrophy Benign,Symptom,Prostate Hypertrophy Benign
+Stiffness Muscle,Symptom,Stiffness Muscle
+Urinary Tract Pain,Symptom,Urinary Tract Pain
+Quadriparesis,Symptom,Quadriparesis
+"Epilepsy, Awakening",Symptom,"Epilepsy, Awakening"
+Ocular Discomfort,Symptom,Ocular Discomfort
+General Abdominal Pain-Symptom,Symptom,General Abdominal Pain-Symptom
+Duodenitis Hemorrhagic,Symptom,Duodenitis Hemorrhagic
+Tinnitus Of Vascular Origin,Symptom,Tinnitus Of Vascular Origin
+Erythematous Condition,Symptom,Erythematous Condition
+Glossitis,Symptom,Glossitis
+Libido Decreased,Symptom,Libido Decreased
+Eyelid Irritation,Symptom,Eyelid Irritation
+Ache Stomach,Symptom,Ache Stomach
+Schistosomiasis,Symptom,Schistosomiasis
+Postpartum Disorder,Symptom,Postpartum Disorder
+Hepatomegaly,Symptom,Hepatomegaly
+Erythrosis,Symptom,Erythrosis
+Trismus,Symptom,Trismus
+Vertigo Postural,Symptom,Vertigo Postural
+Cold Hands Feet,Symptom,Cold Hands Feet
+Oral Dyskinesia,Symptom,Oral Dyskinesia
+Melancholia,Symptom,Melancholia
+Thermal Energy,Symptom,Thermal Energy
+Fistula Route,Symptom,Fistula Route
+Laryngopharyngeal Dysaesthesia,Symptom,Laryngopharyngeal Dysaesthesia
+Gingival Edema,Symptom,Gingival Edema
+"Disorder Of Seventh Cranial Nerve, Nos",Symptom,"Disorder Of Seventh Cranial Nerve, Nos"
+Testicle Swelling,Symptom,Testicle Swelling
+Manic Reaction,Symptom,Manic Reaction
+"Diplopias, Intermittent",Symptom,"Diplopias, Intermittent"
+Anorexia,Symptom,Anorexia
+Back Sore,Symptom,Back Sore
+Gastric Ulcer Bleeding,Symptom,Gastric Ulcer Bleeding
+Dyspnea,Symptom,Dyspnea
+Erythrocytosis,Symptom,Erythrocytosis
+Vitiligo,Symptom,Vitiligo
+Decreased Appetite,Symptom,Decreased Appetite
+Transitory Deafness,Symptom,Transitory Deafness
+Gastric Disorder,Symptom,Gastric Disorder
+Extremity Paresthesia,Symptom,Extremity Paresthesia
+Lethargy,Symptom,Lethargy
+Wound Infection,Symptom,Wound Infection
+Quadriplegia,Symptom,Quadriplegia
+Breast Disease,Symptom,Breast Disease
+Calcium Pantothenate,Symptom,Calcium Pantothenate
+Asthma Exacerbation Acute,Symptom,Asthma Exacerbation Acute
+Bleeding Ulcer,Symptom,Bleeding Ulcer
+Ciliary Spasm,Symptom,Ciliary Spasm
+Muscle Tightness,Symptom,Muscle Tightness
+Hearing Disorder,Symptom,Hearing Disorder
+Eye Blood Shot,Symptom,Eye Blood Shot
+Radiculopathy,Symptom,Radiculopathy
+Sweating Decreased,Symptom,Sweating Decreased
+Prolong Menstruation,Symptom,Prolong Menstruation
+Abnormal Menstrual Cycle,Symptom,Abnormal Menstrual Cycle
+Migratory Pain,Symptom,Migratory Pain
+Seizures,Symptom,Seizures
+Flank Pain,Symptom,Flank Pain
+Hair Dryness,Symptom,Hair Dryness
+Diabetes Mellitus,Symptom,Diabetes Mellitus
+Pharyngitis,Symptom,Pharyngitis
+Sweating Sickness,Symptom,Sweating Sickness
+Proliferative Myositis,Symptom,Proliferative Myositis
+Prickly Heat,Symptom,Prickly Heat
+Impaired Visual Acuity,Symptom,Impaired Visual Acuity
+Blood Prolactin Decreased,Symptom,Blood Prolactin Decreased
+Cyst,Symptom,Cyst
+Enterocele,Symptom,Enterocele
+Placental Disorder,Symptom,Placental Disorder
+Unspecified Acute Tympanitis,Symptom,Unspecified Acute Tympanitis
+Haematotoxicity,Symptom,Haematotoxicity
+Have Pain,Symptom,Have Pain
+"Facial Neuropathies, Familial",Symptom,"Facial Neuropathies, Familial"
+Obesity,Symptom,Obesity
+Rheumatism,Symptom,Rheumatism
+Neurotic Depression,Symptom,Neurotic Depression
+Essential Hypertension,Symptom,Essential Hypertension
+Pus,Symptom,Pus
+Chronic Lumbago,Symptom,Chronic Lumbago
+"Breast Disease, Endocrine",Symptom,"Breast Disease, Endocrine"
+Hyperhidrosis,Symptom,Hyperhidrosis
+Urination Frequency,Symptom,Urination Frequency
+Dyslipidemia,Symptom,Dyslipidemia
+Complete Deafness,Symptom,Complete Deafness
+Contusion,Symptom,Contusion
+Snake Bites,Symptom,Snake Bites
+Per Vaginal Discharge,Symptom,Per Vaginal Discharge
+Gastroenteritis,Symptom,Gastroenteritis
+Change In Bowel Habits,Symptom,Change In Bowel Habits
+Skin Abscess,Symptom,Skin Abscess
+Liver Pain,Symptom,Liver Pain
+Seizure(S) Somatosensory,Symptom,Seizure(S) Somatosensory
+Waxy Flexibility,Symptom,Waxy Flexibility
+Intrapulmonary Hemorrhage,Symptom,Intrapulmonary Hemorrhage
+Furunculosis,Symptom,Furunculosis
+Lower Extremity Paresthesia,Symptom,Lower Extremity Paresthesia
+Gingival Swelling,Symptom,Gingival Swelling
+Cholera,Symptom,Cholera
+Abortion,Symptom,Abortion
+Ligament Injury,Symptom,Ligament Injury
+Snake Venom Causing Toxic Effect,Symptom,Snake Venom Causing Toxic Effect
+Skin Ulcer(S),Symptom,Skin Ulcer(S)
+Diagnosis Psychiatric,Symptom,Diagnosis Psychiatric
+Anemic,Symptom,Anemic
+Heaviness Of Head,Symptom,Heaviness Of Head
+Vaginal Bleeding,Symptom,Vaginal Bleeding
+Bronchiectasis,Symptom,Bronchiectasis
+Progressive Aphasia,Symptom,Progressive Aphasia
+Sensory Seizure,Symptom,Sensory Seizure
+Arbovirus,Symptom,Arbovirus
+Lung Disorder,Symptom,Lung Disorder
+Cough Persistent,Symptom,Cough Persistent
+Anthrax Disease,Symptom,Anthrax Disease
+Iron Deficiency Anemia,Symptom,Iron Deficiency Anemia
+Muscle Wasting,Symptom,Muscle Wasting
+Nodule Subcutaneous,Symptom,Nodule Subcutaneous
+Chest Wall Pain,Symptom,Chest Wall Pain
+Yin Deficiency,Symptom,Yin Deficiency
+Pterygium,Symptom,Pterygium
+Eyelid Pain,Symptom,Eyelid Pain
+To remove blood stasis,Efficacy,To remove blood stasis
+Heying,Efficacy,Heying
+Shugan,Efficacy,Shugan
+Eliminate carbuncle,Efficacy,Eliminate carbuncle
+Supplement,Efficacy,Supplement
+Warm the lungs,Efficacy,Warm the lungs
+Chase water,Efficacy,Chase water
+Analgesia,Efficacy,Analgesia
+Shengshi,Efficacy,Shengshi
+Break gas,Efficacy,Break gas
+Clear deficiency and heat,Efficacy,Clear deficiency and heat
+Water utilization,Efficacy,Water utilization
+Qingli,Efficacy,Qingli
+Attack and accumulation,Efficacy,Attack and accumulation
+Cool off,Efficacy,Cool off
+Important town,Efficacy,Important town
+Strengthen the spleen,Efficacy,Strengthen the spleen
+Pass through,Efficacy,Pass through
+Detoxify,Efficacy,Detoxify
+In addition to fever,Efficacy,In addition to fever
+Expelling wind and phlegm,Efficacy,Expelling wind and phlegm
+Purge,Efficacy,Purge
+Cleans the lungs,Efficacy,Cleans the lungs
+Cool heart,Efficacy,Cool heart
+To purify the liver,Efficacy,To purify the liver
+Aromatic dehumidification,Efficacy,Aromatic dehumidification
+Yijing,Efficacy,Yijing
+Soothing the liver,Efficacy,Soothing the liver
+Dingchuan,Efficacy,Dingchuan
+Purulent,Efficacy,Purulent
+Heat removal,Efficacy,Heat removal
+Nourish the liver,Efficacy,Nourish the liver
+Yin,Efficacy,Yin
+Deworming,Efficacy,Deworming
+Active,Efficacy,Active
+Benefit the lungs,Efficacy,Benefit the lungs
+Kanaka,Efficacy,Kanaka
+Tongqiao,Efficacy,Tongqiao
+Depletion,Efficacy,Depletion
+Asthma,Efficacy,Asthma
+Urinate,Efficacy,Urinate
+Get rid of trouble,Efficacy,Get rid of trouble
+Reality,Efficacy,Reality
+Dispel the wind,Efficacy,Dispel the wind
+To rot,Efficacy,To rot
+Nourish blood,Efficacy,Nourish blood
+Solution table,Efficacy,Solution table
+Ufa,Efficacy,Ufa
+Qi,Efficacy,Qi
+Tonic bone marrow,Efficacy,Tonic bone marrow
+Hemostasis,Efficacy,Hemostasis
+Strong heart,Efficacy,Strong heart
+Cool blood,Efficacy,Cool blood
+Treatment of ringworm,Efficacy,Treatment of ringworm
+Sanyu,Efficacy,Sanyu
+Vent evil,Efficacy,Vent evil
+Detoxification,Efficacy,Detoxification
+Dampness,Efficacy,Dampness
+Warm the kidney,Efficacy,Warm the kidney
+Relieve eye pain,Efficacy,Relieve eye pain
+Soothe the nerves,Efficacy,Soothe the nerves
+Yellowing,Efficacy,Yellowing
+Dehumidification,Efficacy,Dehumidification
+Dampness and heat,Efficacy,Dampness and heat
+Attack product,Efficacy,Attack product
+Stop bleeding,Efficacy,Stop bleeding
+Nourish the spleen,Efficacy,Nourish the spleen
+nausea,Efficacy,nausea
+Treat traumatic bleeding,Efficacy,Treat traumatic bleeding
+Venting heat,Efficacy,Venting heat
+Yiqi,Efficacy,Yiqi
+Clear leader,Efficacy,Clear leader
+Surely shocked,Efficacy,Surely shocked
+Yiyin,Efficacy,Yiyin
+Damp heat,Efficacy,Damp heat
+Nourish yin,Efficacy,Nourish yin
+Break up,Efficacy,Break up
+Bone,Efficacy,Bone
+Qianyang,Efficacy,Qianyang
+Kill lice,Efficacy,Kill lice
+Pain relief,Efficacy,Pain relief
+Degenerative fever,Efficacy,Degenerative fever
+Stop leaking,Efficacy,Stop leaking
+Gas,Efficacy,Gas
+i my crystal blood,Efficacy,i my crystal blood
+Warm lungs,Efficacy,Warm lungs
+Flash point,Efficacy,Flash point
+Filling,Efficacy,Filling
+Opening and closing,Efficacy,Opening and closing
+Wetting,Efficacy,Wetting
+Wake up the spleen,Efficacy,Wake up the spleen
+Pure heart,Efficacy,Pure heart
+Run intestines,Efficacy,Run intestines
+Chu Bi,Efficacy,Chu Bi
+Phlegm,Efficacy,Phlegm
+Invigorate,Efficacy,Invigorate
+Soufeng,Efficacy,Soufeng
+Li Qiao,Efficacy,Li Qiao
+Solid watch,Efficacy,Solid watch
+Rejuvenate the stomach,Efficacy,Rejuvenate the stomach
+Antitussive,Efficacy,Antitussive
+Dissipate,Efficacy,Dissipate
+stomachic,Efficacy,stomachic
+Help Yang,Efficacy,Help Yang
+Replenish,Efficacy,Replenish
+Harmony,Efficacy,Harmony
+Sterilization,Efficacy,Sterilization
+Quench thirst,Efficacy,Quench thirst
+Zhenxin,Efficacy,Zhenxin
+Anti-inflammatory,Efficacy,Anti-inflammatory
+Diabetes,Efficacy,Diabetes
+Cool liver,Efficacy,Cool liver
+Fixed tire,Efficacy,Fixed tire
+Astringent intestines,Efficacy,Astringent intestines
+Silt,Efficacy,Silt
+Stop cough,Efficacy,Stop cough
+Tonic,Efficacy,Tonic
+Perforated,Efficacy,Perforated
+Elimination of galls,Efficacy,Elimination of galls
+Laxative,Efficacy,Laxative
+Zhuang Yuanyang,Efficacy,Zhuang Yuanyang
+Slippery bowel,Efficacy,Slippery bowel
+Resolve phlegm,Efficacy,Resolve phlegm
+Nourish the heart,Efficacy,Nourish the heart
+Analgesic,Efficacy,Analgesic
+Retreat,Efficacy,Retreat
+Liyan,Efficacy,Liyan
+Hold sweat,Efficacy,Hold sweat
+Rescue,Efficacy,Rescue
+Detumescence,Efficacy,Detumescence
+Tongluo,Efficacy,Tongluo
+Gallbladder,Efficacy,Gallbladder
+Anti-spot,Efficacy,Anti-spot
+Dispel cold,Efficacy,Dispel cold
+Spitting out,Efficacy,Spitting out
+Antipyretic,Efficacy,Antipyretic
+Line stagnation,Efficacy,Line stagnation
+Remove blood stasis,Efficacy,Remove blood stasis
+Aromatization,Efficacy,Aromatization
+Corrosion,Efficacy,Corrosion
+Eyesight,Efficacy,Eyesight
+disinfect,Efficacy,disinfect
+Photo,Efficacy,Photo
+Ignite down,Efficacy,Ignite down
+Cleanse the intestines,Efficacy,Cleanse the intestines
+Tonglin,Efficacy,Tonglin
+Expectorant,Efficacy,Expectorant
+Pitfall,Efficacy,Pitfall
+Turbidity,Efficacy,Turbidity
+Tongyang,Efficacy,Tongyang
+Puzzle,Efficacy,Puzzle
+Fumai,Efficacy,Fumai
+Challenge,Efficacy,Challenge
+Blood run,Efficacy,Blood run
+Consignment,Efficacy,Consignment
+Shengjin,Efficacy,Shengjin
+Tune in,Efficacy,Tune in
+Stun,Efficacy,Stun
+Impotence,Efficacy,Impotence
+Warm the liver,Efficacy,Warm the liver
+Soft,Efficacy,Soft
+Anti-jaundice,Efficacy,Anti-jaundice
+Muscle growth,Efficacy,Muscle growth
+Urinary contraction,Efficacy,Urinary contraction
+Germination,Efficacy,Germination
+Antipruritic,Efficacy,Antipruritic
+Nourish the stomach,Efficacy,Nourish the stomach
+Wide chest,Efficacy,Wide chest
+Reduce swelling,Efficacy,Reduce swelling
+Stop convulsions,Efficacy,Stop convulsions
+An round,Efficacy,An round
+Diarrhea cold accumulation,Efficacy,Diarrhea cold accumulation
+Invigorate blood,Efficacy,Invigorate blood
+Extinguishing,Efficacy,Extinguishing
+Warm the spleen,Efficacy,Warm the spleen
+Purging fire,Efficacy,Purging fire
+Xuanfei,Efficacy,Xuanfei
+Desteaming,Efficacy,Desteaming
+Antiseptic,Efficacy,Antiseptic
+Diuretic,Efficacy,Diuretic
+Dispel the wind and chill,Efficacy,Dispel the wind and chill
+Sharp joints,Efficacy,Sharp joints
+Fill the fire,Efficacy,Fill the fire
+Chemical food,Efficacy,Chemical food
+Reconcile the camp and guard,Efficacy,Reconcile the camp and guard
+Li Qi,Efficacy,Li Qi
+Disperse the wind,Efficacy,Disperse the wind
+Sore,Efficacy,Sore
+Chasing evil,Efficacy,Chasing evil
+Clever,Efficacy,Clever
+Antiperspirant,Efficacy,Antiperspirant
+Inverse reduction,Efficacy,Inverse reduction
+Cut malaria,Efficacy,Cut malaria
+benefit,Efficacy,benefit
+Acid production,Efficacy,Acid production
+Anti-vomiting,Efficacy,Anti-vomiting
+Pinggan,Efficacy,Pinggan
+Stop band,Efficacy,Stop band
+Chasing the wind,Efficacy,Chasing the wind
+Fill the heart,Efficacy,Fill the heart
+Insecticide,Efficacy,Insecticide
+Xuan Yu,Efficacy,Xuan Yu
+Fast diaphragm,Efficacy,Fast diaphragm
+Zhuyu,Efficacy,Zhuyu
+Broken blood,Efficacy,Broken blood
+Appetizer,Efficacy,Appetizer
+Extinguish the wind,Efficacy,Extinguish the wind
+Tongmai,Efficacy,Tongmai
+Reconcile all medicines,Efficacy,Reconcile all medicines
+Open knot,Efficacy,Open knot
+Nasal orifice,Efficacy,Nasal orifice
+Urgent,Efficacy,Urgent
+Chancre fever,Efficacy,Chancre fever
+Huiyang,Efficacy,Huiyang
+Huayu,Efficacy,Huayu
+Untie muscles,Efficacy,Untie muscles
+Social phlegm,Efficacy,Social phlegm
+Sluggish,Efficacy,Sluggish
+Hygroscopic,Efficacy,Hygroscopic
+anesthesia,Efficacy,anesthesia
+Nourish the lungs,Efficacy,Nourish the lungs
+Ning Xin,Efficacy,Ning Xin
+Reduce fire,Efficacy,Reduce fire
+Exhaust,Efficacy,Exhaust
+Fetus,Efficacy,Fetus
+Urgency,Efficacy,Urgency
+Raise Yang Qi,Efficacy,Raise Yang Qi
+Gushen,Efficacy,Gushen
+Water elimination,Efficacy,Water elimination
+Tonifying the kidney,Efficacy,Tonifying the kidney
+Chancre,Efficacy,Chancre
+Blood stasis,Efficacy,Blood stasis
+Breastfeeding,Efficacy,Breastfeeding
+Gyozui,Efficacy,Gyozui
+Strong bones,Efficacy,Strong bones
+Resuscitate,Efficacy,Resuscitate
+Drink by drink,Efficacy,Drink by drink
+Stop dysentery,Efficacy,Stop dysentery
+Rot,Efficacy,Rot
+Soothe the liver,Efficacy,Soothe the liver
+Get angry,Efficacy,Get angry
+Digestion,Efficacy,Digestion
+Solid off,Efficacy,Solid off
+convergence,Efficacy,convergence
+Chemical product,Efficacy,Chemical product
+De rheumatism,Efficacy,De rheumatism
+Astringent,Efficacy,Astringent
+Menstruation,Efficacy,Menstruation
+Blood intake,Efficacy,Blood intake
+Qingshu,Efficacy,Qingshu
+Clear heat,Efficacy,Clear heat
+Sekkotsuin,Efficacy,Sekkotsuin
+Relieve heat,Efficacy,Relieve heat
+Publish,Efficacy,Publish
+Dissipate wind heat,Efficacy,Dissipate wind heat
+Heat dissipation,Efficacy,Heat dissipation
+Soothing wind,Efficacy,Soothing wind
+Kaibi,Efficacy,Kaibi
+Fill in,Efficacy,Fill in
+Nai Qi,Efficacy,Nai Qi
+Treat blood in the stool,Efficacy,Treat blood in the stool
+Eliminate blood stasis,Efficacy,Eliminate blood stasis
+Elimination of symptoms,Efficacy,Elimination of symptoms
+Thick intestine,Efficacy,Thick intestine
+Treat snake and insect bites,Efficacy,Treat snake and insect bites
+And stomach,Efficacy,And stomach
+Constrict the lungs,Efficacy,Constrict the lungs
+Libi,Efficacy,Libi
+Strong tendons,Efficacy,Strong tendons
+Erosion sore,Efficacy,Erosion sore
+Breast milk,Efficacy,Breast milk
+Lower breath,Efficacy,Lower breath
+And blood,Efficacy,And blood
+Anti-swelling,Efficacy,Anti-swelling
+sweat,Efficacy,sweat
+Shujin,Efficacy,Shujin
+Kaoru,Efficacy,Kaoru
+Stop,Efficacy,Stop
+Disperse ruffian,Efficacy,Disperse ruffian
+Clear the fire,Efficacy,Clear the fire
+Liver cleansing,Efficacy,Liver cleansing
+Milk back,Efficacy,Milk back
+Benefit stomach,Efficacy,Benefit stomach
+Eliminate phlegm,Efficacy,Eliminate phlegm
+Solid,Efficacy,Solid
+Disperse,Efficacy,Disperse
+Susuji,Efficacy,Susuji
+Nourish the kidney,Efficacy,Nourish the kidney
+Wenjing,Efficacy,Wenjing
+Moisturize,Efficacy,Moisturize
+Heat up,Efficacy,Heat up
+Wanaka,Efficacy,Wanaka
+Treatment of sores,Efficacy,Treatment of sores
+Lag,Efficacy,Lag
+Wenzhong,Efficacy,Wenzhong
+Solid essence,Efficacy,Solid essence
+Tune blood,Efficacy,Tune blood
+Ex-full,Efficacy,Ex-full
+Pit cancer,Efficacy,Pit cancer
+Scatter blood,Efficacy,Scatter blood
+Robbery,Efficacy,Robbery
+Warm palace,Efficacy,Warm palace
+Emollient,Efficacy,Emollient
+Pi Hui,Efficacy,Pi Hui
+Antidiarrheal,Efficacy,Antidiarrheal
+Buck,Efficacy,Buck
+Solid off Healthy waist and feet,Efficacy,Solid off Healthy waist and feet
+Blood collapse,Efficacy,Blood collapse
+Open depressed,Efficacy,Open depressed
+Make up,Efficacy,Make up
+Lead lag,Efficacy,Lead lag
+Wake up,Efficacy,Wake up
+Stool,Efficacy,Stool
+Antispasmodic,Efficacy,Antispasmodic
+Break blood stasis,Efficacy,Break blood stasis
+depression,Disease,depression
+major depressive disorder,Disease,major depressive disorder
+post-stroke depression,Disease,post-stroke depression
+postpartum depression,Disease,postpartum depression
+acupuncture,Intervention,acupuncture
+human,Species,human
+anxiety,Adverse_event,anxiety
+insomnia,Adverse_event,insomnia
+systematic review,Evidence,systematic review
+network meta-analysis,Evidence,network meta-analysis
+clinical trial,Evidence,clinical trial
+bayesian network meta-analysis,Evidence,bayesian network meta-analysis
+repetitive transcranial magnetic stimulation,Intervention,repetitive transcranial magnetic stimulation
+hopelessness,Symptom,hopelessness
+st36,Acupoint,st36
+prefrontal cortex,Brain_region,prefrontal cortex
+sucrose preference,Experiment_indicator,sucrose preference
+tail suspension test,Experiment_indicator,tail suspension test
+electroacupuncture,Intervention,electroacupuncture
+fluoxetine,Pharmacology,fluoxetine
+astrocyte,Species,astrocyte
+mice,Species,mice
+meta-analysis,Evidence,meta-analysis
+hippocampus,Brain_region,hippocampus
+amygdala,Brain_region,amygdala
+il-1β,Cytokine,il-1β
+controlled clinical trial,Evidence,controlled clinical trial
+tnf,Gene,tnf
+ht7,Acupoint,ht7
+pc6,Acupoint,pc6
+sp6,Acupoint,sp6
+lr3,Acupoint,lr3
+somnolence,Adverse_event,somnolence
+striatum,Brain_region,striatum
+cerebellum,Brain_region,cerebellum
+randomized controlled trial,Evidence,randomized controlled trial
+intradermal acupuncture,Intervention,intradermal acupuncture
+serotonin,Neurotransmitter,serotonin
+hamd-17,Scale,hamd-17
+fmri,Evidence,fmri
+paeoniflorin,Ingredient,paeoniflorin
+hypericin,Ingredient,hypericin
+rats,Species,rats
+bdnf,Gene,bdnf
+glutamate,Neurotransmitter,glutamate
+pilot study,Evidence,pilot study
+whodas 2.0,Scale,whodas 2.0
+phq-9,Scale,phq-9
+patient,Species,patient
+literature review,Evidence,literature review
+narrative review,Evidence,narrative review
+gv20,Acupoint,gv20
+16s rrna sequencing,Evidence,16s rrna sequencing
+metabolomics,Evidence,metabolomics
+data mining,Evidence,data mining
+manual acupuncture,Intervention,manual acupuncture
+jiuwei zhenxin granules,Formula,jiuwei zhenxin granules
+patch,Administration,patch
+addiction,Adverse_event,addiction
+rabbit,Species,rabbit
+mood disorder,Disease,mood disorder
+moxibustion,Intervention,moxibustion
+cognitive behavioral therapy,Intervention,cognitive behavioral therapy
+cortisol,Neurotransmitter,cortisol
+sadness,Symptom,sadness
+loss of interest,Symptom,loss of interest
+decoction,Administration,decoction
+network pharmacology,Evidence,network pharmacology
+xiaochaihu decoction,Formula,xiaochaihu decoction
+regulating qi,Tcm_therapy,regulating qi
+laser acupuncture,Intervention,laser acupuncture
+ham-d,Scale,ham-d
+weakness,Symptom,weakness
+capsule,Administration,capsule
+venlafaxine,Pharmacology,venlafaxine
+perimenopausal depression,Disease,perimenopausal depression
+ca1 region,Brain_region,ca1 region
+corticosterone,Neurotransmitter,corticosterone
+depressive disorder,Disease,depressive disorder
+il-10,Cytokine,il-10
+il-6,Cytokine,il-6
+protocol,Evidence,protocol
+5-ht,Neurotransmitter,5-ht
+dopamine,Neurotransmitter,dopamine
+da,Neurotransmitter,da
+neural stem cell,Species,neural stem cell
+rat,Species,rat
+hypothalamus,Brain_region,hypothalamus
+epds,Scale,epds
+basic research,Evidence,basic research
+nlrp3,Gene,nlrp3
+acupoint catgut embedding,Intervention,acupoint catgut embedding
+calcium signaling pathway,Pathway,calcium signaling pathway
+p2x7r,Target,p2x7r
+subthreshold depression,Disease,subthreshold depression
+tuina,Intervention,tuina
+scoping review,Evidence,scoping review
+baweixiaoyaosan,Formula,baweixiaoyaosan
+jun,Target,jun
+qigong,Intervention,qigong
+worry,Symptom,worry
+sds,Scale,sds
+sas,Scale,sas
+fecal microbiota transplantation,Intervention,fecal microbiota transplantation
+machine learning,Evidence,machine learning
+max,Target,max
+bl18,Acupoint,bl18
+hematoma,Adverse_event,hematoma
+open field test,Experiment_indicator,open field test
+pill,Administration,pill
+qualitative study,Evidence,qualitative study
+microglia,Species,microglia
+anhedonia,Symptom,anhedonia
+text mining,Evidence,text mining
+flow cytometry,Evidence,flow cytometry
+stat3,Target,stat3
+gsk3β,Target,gsk3β
+tnf-α,Cytokine,tnf-α
+immunofluorescence,Evidence,immunofluorescence
+elisa,Evidence,elisa
+il6,Gene,il6
+creb,Gene,creb
+ne,Neurotransmitter,ne
+mouse,Species,mouse
+pde4d,Target,pde4d
+il-17,Cytokine,il-17
+cancer-related depression,Disease,cancer-related depression
+western blot,Evidence,western blot
+qrt-pcr,Evidence,qrt-pcr
+molecular docking,Evidence,molecular docking
+saikosaponin a,Ingredient,saikosaponin a
+saikosaponin c,Ingredient,saikosaponin c
+saikosaponin d,Ingredient,saikosaponin d
+multi-omics,Evidence,multi-omics
+xiaoyao san,Formula,xiaoyao san
+hmox1,Target,hmox1
+gpx4,Target,gpx4
+sweating,Adverse_event,sweating
+danzhi xiaoyao san,Formula,danzhi xiaoyao san
+liver qi stagnation,Syndrome,liver qi stagnation
+blood deficiency,Syndrome,blood deficiency
+powder,Administration,powder
+akt1,Gene,akt1
+mapk1,Gene,mapk1
+erk1,Gene,erk1
+senkyunolide a,Ingredient,senkyunolide a
+atractylenolide iii,Ingredient,atractylenolide iii
+erk1/2,Target,erk1/2
+guipi tang,Formula,guipi tang
+bcl2,Target,bcl2
+jnk,Target,jnk
+food intake,Experiment_indicator,food intake
+placebo-controlled trial,Evidence,placebo-controlled trial
+quercetin,Ingredient,quercetin
+luteolin,Ingredient,luteolin
+soothing liver,Tcm_therapy,soothing liver
+invigorating spleen,Tcm_therapy,invigorating spleen
+clearing heat,Tcm_therapy,clearing heat
+acth,Neurotransmitter,acth
+rage signaling pathway,Pathway,rage signaling pathway
+hif-1 signaling pathway,Pathway,hif-1 signaling pathway
+gsdmd,Target,gsdmd
+forced swim test,Experiment_indicator,forced swim test
+nf-κb signaling pathway,Pathway,nf-κb signaling pathway
+atractylenolide i,Ingredient,atractylenolide i
+ferulic acid,Ingredient,ferulic acid
+kaempferol,Ingredient,kaempferol
+atractylenolide ii,Ingredient,atractylenolide ii
+z-ligustilide,Ingredient,z-ligustilide
+glycyrrhizic acid,Ingredient,glycyrrhizic acid
+microglial cell,Species,microglial cell
+stigmasterol,Ingredient,stigmasterol
+norepinephrine,Neurotransmitter,norepinephrine
+pik3r1,Target,pik3r1
+mapk3,Target,mapk3
+ligustilide,Ingredient,ligustilide
+albiflorin,Ingredient,albiflorin
+liquiritin,Ingredient,liquiritin
+tension,Symptom,tension
+chaihu shugan san,Formula,chaihu shugan san
+naringin,Ingredient,naringin
+naringenin,Ingredient,naringenin
+paroxetine,Pharmacology,paroxetine
+doxepin,Pharmacology,doxepin
+intragastric administration,Administration,intragastric administration
+ganmai dazao tang,Formula,ganmai dazao tang
+mendelian randomization,Evidence,mendelian randomization
+amitriptyline,Pharmacology,amitriptyline
+locomotor activity,Experiment_indicator,locomotor activity
+imipramine,Pharmacology,imipramine
+Angelicae sinensis radix,Herb,Angelicae sinensis radix
+danggui shaoyao san,Formula,danggui shaoyao san
+il-18,Cytokine,il-18
+transcriptomics,Evidence,transcriptomics
+chlorogenic acid,Ingredient,chlorogenic acid
+adrenocorticotropic hormone,Neurotransmitter,adrenocorticotropic hormone
+jnk signaling pathway,Pathway,jnk signaling pathway
+zebrafish,Species,zebrafish
+relieving depression,Tcm_therapy,relieving depression
+locus coeruleus,Brain_region,locus coeruleus
+psychomotor retardation,Symptom,psychomotor retardation
+proteomics,Evidence,proteomics
+mtor,Gene,mtor
+vegfa,Gene,vegfa
+bioinformatics analysis,Evidence,bioinformatics analysis
+trkb,Gene,trkb
+bax,Target,bax
+drd2,Gene,drd2
+sirt1,Target,sirt1
+foxo1,Target,foxo1
+irritability,Symptom,irritability
+weight gain,Adverse_event,weight gain
+gaba,Neurotransmitter,gaba
+acetylcholine,Neurotransmitter,acetylcholine
+chinese herbal formula,Intervention,chinese herbal formula
+granule,Administration,granule
+metagenomics,Evidence,metagenomics
+yueju wan,Formula,yueju wan
+xingnao jieyu decoction,Formula,xingnao jieyu decoction
+alprazolam,Pharmacology,alprazolam
+escitalopram,Pharmacology,escitalopram
+sertraline,Pharmacology,sertraline
+hamd,Scale,hamd
+sini san,Formula,sini san
+glycyrrhetinic acid,Ingredient,glycyrrhetinic acid
+qi stagnation,Syndrome,qi stagnation
+spleen deficiency,Syndrome,spleen deficiency
+nourishing blood,Tcm_therapy,nourishing blood
+social interaction test,Experiment_indicator,social interaction test
+elevated plus maze,Experiment_indicator,elevated plus maze
+adiponectin,Neurotransmitter,adiponectin
+tlr4,Gene,tlr4
+cell line,Species,cell line
+hesperetin,Ingredient,hesperetin
+nobiletin,Ingredient,nobiletin
+mapk14,Target,mapk14
+ghrelin,Neurotransmitter,ghrelin
+crh,Neurotransmitter,crh
+oral administration,Administration,oral administration
+pharmacokinetic study,Evidence,pharmacokinetic study
+co-immunoprecipitation,Evidence,co-immunoprecipitation
+dentate gyrus,Brain_region,dentate gyrus
+aromatherapy,Intervention,aromatherapy
+casp3,Target,casp3
+rela,Target,rela
+Glycyrrhizae radix,Herb,Glycyrrhizae radix
+dyspepsia,Adverse_event,dyspepsia
+liver depression and spleen deficiency,Syndrome,liver depression and spleen deficiency
+y-maze test,Experiment_indicator,y-maze test
+erk-creb signaling pathway,Pathway,erk-creb signaling pathway
+injection,Administration,injection
+microdialysis,Evidence,microdialysis
+hesperidin,Ingredient,hesperidin
+kmo,Target,kmo
+vasopressin,Neurotransmitter,vasopressin
+eeg,Evidence,eeg
+saikosaponin b2,Ingredient,saikosaponin b2
+sinisan,Formula,sinisan
+rutin,Ingredient,rutin
+puerarin,Ingredient,puerarin
+Pinelliae rhizoma,Herb,Pinelliae rhizoma
+primary neuron,Species,primary neuron
+xiaoyao pill,Formula,xiaoyao pill
+mapk signaling pathway,Pathway,mapk signaling pathway
+myc,Target,myc
+nrf2/ho-1 signaling pathway,Pathway,nrf2/ho-1 signaling pathway
+hippocampal neuron,Species,hippocampal neuron
+keap1,Target,keap1
+Chuanxiong rhizoma,Herb,Chuanxiong rhizoma
+blood stasis,Syndrome,blood stasis
+thalamus,Brain_region,thalamus
+Ziziphi spinosae semen,Herb,Ziziphi spinosae semen
+berberine,Ingredient,berberine
+intraperitoneal injection,Administration,intraperitoneal injection
+cetsa,Evidence,cetsa
+ca3 region,Brain_region,ca3 region
+baicalin,Ingredient,baicalin
+baicalein,Ingredient,baicalein
+wogonin,Ingredient,wogonin
+adolescent depression,Disease,adolescent depression
+cat,Target,cat
+chest pain,Symptom,chest pain
+relieving pain,Tcm_therapy,relieving pain
+sert,Gene,sert
+xenopus,Species,xenopus
+wogonoside,Ingredient,wogonoside
+cryptotanshinone,Ingredient,cryptotanshinone
+fos,Target,fos
+formononetin,Ingredient,formononetin
+jak2,Target,jak2
+ginsenoside rb1,Ingredient,ginsenoside rb1
+epinephrine,Neurotransmitter,epinephrine
+camp signaling pathway,Pathway,camp signaling pathway
+creb1,Target,creb1
+salvianolic acid b,Ingredient,salvianolic acid b
+ptgs2,Gene,ptgs2
+opening orifices,Tcm_therapy,opening orifices
+palpitation,Adverse_event,palpitation
+hepg2 cell,Species,hepg2 cell
+tp53,Gene,tp53
+beta-sitosterol,Ingredient,beta-sitosterol
+curcumin,Ingredient,curcumin
+body weight change,Experiment_indicator,body weight change
+surface plasmon resonance,Evidence,surface plasmon resonance
+pik3ca,Target,pik3ca
+dizziness,Adverse_event,dizziness
+comorbid anxiety and depression,Disease,comorbid anxiety and depression
+mapk8,Target,mapk8
+nos3,Target,nos3
+drd1,Gene,drd1
+pc12 cell,Species,pc12 cell
+duloxetine,Pharmacology,duloxetine
+chromatin immunoprecipitation,Evidence,chromatin immunoprecipitation
+mtor signaling pathway,Pathway,mtor signaling pathway
+vegf,Neurotransmitter,vegf
+sod1,Target,sod1
+nqo1,Target,nqo1
+diarrhea,Adverse_event,diarrhea
+constipation,Adverse_event,constipation
+weight loss,Adverse_event,weight loss
+isi,Scale,isi
+shenling kaixin granules,Formula,shenling kaixin granules
+il1b,Gene,il1b
+fatigue,Adverse_event,fatigue
+grip strength test,Experiment_indicator,grip strength test
+qi deficiency,Syndrome,qi deficiency
+wuling capsules,Formula,wuling capsules
+cohort study,Evidence,cohort study
+yin deficiency,Syndrome,yin deficiency
+pde4b,Target,pde4b
+cdrs-r,Scale,cdrs-r
+psqi,Scale,psqi
+c-ssrs,Scale,c-ssrs
+pi3k-akt signaling pathway,Pathway,pi3k-akt signaling pathway
+tnf signaling pathway,Pathway,tnf signaling pathway
+late-life depression,Disease,late-life depression
+tess,Scale,tess
+hamd-24,Scale,hamd-24
+treatment-resistant depression,Disease,treatment-resistant depression
+hama,Scale,hama
+acupressure,Intervention,acupressure
+psychotherapy,Intervention,psychotherapy
+case series,Evidence,case series
+erxian decoction,Formula,erxian decoction
+cross-sectional study,Evidence,cross-sectional study
+shenqi jieyu formula,Formula,shenqi jieyu formula
+cox-2,Target,cox-2
+bl15,Acupoint,bl15
+bl20,Acupoint,bl20
+cv4,Acupoint,cv4
+li4,Acupoint,li4
+cv6,Acupoint,cv6
+ex-hn1,Acupoint,ex-hn1
+acupoint injection,Administration,acupoint injection
+acupoint application,Intervention,acupoint application
+nucleus accumbens,Brain_region,nucleus accumbens
+rac1,Target,rac1
+baihe zhimu decoction,Formula,baihe zhimu decoction
+maoa,Gene,maoa
+esr1,Target,esr1
+nr3c1,Target,nr3c1
+syrup,Administration,syrup
+919 syrup,Formula,919 syrup
+inhalation,Administration,inhalation
+raf1,Target,raf1
+Astragali radix,Herb,Astragali radix
+slc6a4,Gene,slc6a4
+slc6a3,Gene,slc6a3
+htr1a,Target,htr1a
+gabra1,Target,gabra1
+cynaroside,Ingredient,cynaroside
+egf,Target,egf
+hsp90aa1,Target,hsp90aa1
+ifn-γ,Cytokine,ifn-γ
+il-22,Cytokine,il-22
+molecular dynamics simulation,Evidence,molecular dynamics simulation
+ppar-γ,Target,ppar-γ
+il-23,Cytokine,il-23
+fkbp5,Gene,fkbp5
+icariin,Ingredient,icariin
+Phellodendri cortex,Herb,Phellodendri cortex
+bv2 cell,Species,bv2 cell
+oprm1,Gene,oprm1
+crem,Target,crem
+ar,Target,ar
+esr2,Target,esr2
+nos2,Target,nos2
+pde5a,Target,pde5a
+geniposide,Ingredient,geniposide
+magnolol,Ingredient,magnolol
+honokiol,Ingredient,honokiol
+darts,Evidence,darts
+kynurenine pathway,Pathway,kynurenine pathway
+ccl2,Cytokine,ccl2
+verbascoside,Ingredient,verbascoside
+oral gavage,Administration,oral gavage
+xiao-chai-hu-tang,Formula,xiao-chai-hu-tang
+isorhamnetin,Ingredient,isorhamnetin
+prkaca,Target,prkaca
+ppara,Target,ppara
+kaiyu zhishen decoction,Formula,kaiyu zhishen decoction
+ido1,Gene,ido1
+maob,Target,maob
+shugan wendan decoction,Formula,shugan wendan decoction
+casp1,Target,casp1
+atf3,Target,atf3
+catechin,Ingredient,catechin
+protocatechuic acid,Ingredient,protocatechuic acid
+yangxin decoction,Formula,yangxin decoction
+dehydrocostus lactone,Ingredient,dehydrocostus lactone
+isocarboxazid,Pharmacology,isocarboxazid
+kaixinsan powder,Formula,kaixinsan powder
+ginsenoside rg1,Ingredient,ginsenoside rg1
+in vitro study,Evidence,in vitro study
+jatrorrhizine,Ingredient,jatrorrhizine
+crp,Cytokine,crp
+il10,Gene,il10
+ampk signaling pathway,Pathway,ampk signaling pathway
+c57bl/6 mouse,Species,c57bl/6 mouse
+prospective study,Evidence,prospective study
+gria1,Target,gria1
+changpu san,Formula,changpu san
+tangeritin,Ingredient,tangeritin
+htr2a,Gene,htr2a
+35168522,Paper,35168522
+37143014,Paper,37143014
+37248211,Paper,37248211
+34446530,Paper,34446530
+40466510,Paper,40466510
+36948325,Paper,36948325
+39648209,Paper,39648209
+39426604,Paper,39426604
+42088582,Paper,42088582
+27693978,Paper,27693978
+38262525,Paper,38262525
+28807166,Paper,28807166
+34551699,Paper,34551699
+32457610,Paper,32457610
+39620153,Paper,39620153
+28925891,Paper,28925891
+36949321,Paper,36949321
+38983910,Paper,38983910
+36969689,Paper,36969689
+41163407,Paper,41163407
+37159675,Paper,37159675
+33116523,Paper,33116523
+9646895,Paper,9646895
+35496318,Paper,35496318
+39253375,Paper,39253375
+41100813,Paper,41100813
+40018358,Paper,40018358
+37631092,Paper,37631092
+36873772,Paper,36873772
+36682244,Paper,36682244
+31370200,Paper,31370200
+25183301,Paper,25183301
+24697344,Paper,24697344
+40515694,Paper,40515694
+35152089,Paper,35152089
+40374592,Paper,40374592
+34225013,Paper,34225013
+39528081,Paper,39528081
+33466877,Paper,33466877
+37930334,Paper,37930334
+30396632,Paper,30396632
+40033393,Paper,40033393
+41437027,Paper,41437027
+38808079,Paper,38808079
+31780032,Paper,31780032
+32147048,Paper,32147048
+39701700,Paper,39701700
+37255171,Paper,37255171
+40785662,Paper,40785662
+34636498,Paper,34636498
+19507266,Paper,19507266
+36791924,Paper,36791924
+36921619,Paper,36921619
+36529248,Paper,36529248
+37897838,Paper,37897838
+34049476,Paper,34049476
+38306565,Paper,38306565
+24761171,Paper,24761171
+39157399,Paper,39157399
+34623754,Paper,34623754
+35232229,Paper,35232229
+34840949,Paper,34840949
+28851961,Paper,28851961
+39140625,Paper,39140625
+33324063,Paper,33324063
+30963358,Paper,30963358
+38694562,Paper,38694562
+37802855,Paper,37802855
+38152691,Paper,38152691
+41015814,Paper,41015814
+36698870,Paper,36698870
+36774722,Paper,36774722
+40154896,Paper,40154896
+40382939,Paper,40382939
+40945251,Paper,40945251
+37597362,Paper,37597362
+39197805,Paper,39197805
+41061289,Paper,41061289
+39515106,Paper,39515106
+37632305,Paper,37632305
+34968660,Paper,34968660
+39687683,Paper,39687683
+38375048,Paper,38375048
+38628641,Paper,38628641
+41273446,Paper,41273446
+40541752,Paper,40541752
+41225027,Paper,41225027
+37808199,Paper,37808199
+40998134,Paper,40998134
+29808808,Paper,29808808
+37562092,Paper,37562092
+41724290,Paper,41724290
+21933701,Paper,21933701
+33629558,Paper,33629558
+38941409,Paper,38941409
+18343064,Paper,18343064
+36844911,Paper,36844911
+41485625,Paper,41485625
+30841419,Paper,30841419
+40127829,Paper,40127829
+30687098,Paper,30687098
+39957155,Paper,39957155
+36536902,Paper,36536902
+33825416,Paper,33825416
+40179998,Paper,40179998
+36039087,Paper,36039087
+41802506,Paper,41802506
+35111057,Paper,35111057
+24015243,Paper,24015243
+36545317,Paper,36545317
+20673169,Paper,20673169
+37924576,Paper,37924576
+36279723,Paper,36279723
+37751044,Paper,37751044
+35190952,Paper,35190952
+38633609,Paper,38633609
+24914308,Paper,24914308
+24486208,Paper,24486208
+40969945,Paper,40969945
+31781287,Paper,31781287
+37664720,Paper,37664720
+40912487,Paper,40912487
+35906133,Paper,35906133
+34391441,Paper,34391441
+29728023,Paper,29728023
+36339629,Paper,36339629
+29864926,Paper,29864926
+38451006,Paper,38451006
+37263314,Paper,37263314
+38551057,Paper,38551057
+29863014,Paper,29863014
+21791239,Paper,21791239
+39295891,Paper,39295891
+25210314,Paper,25210314
+32923002,Paper,32923002
+42266144,Paper,42266144
+31022598,Paper,31022598
+15642599,Paper,15642599
+34385814,Paper,34385814
+40686183,Paper,40686183
+22019334,Paper,22019334
+36099982,Paper,36099982
+41894346,Paper,41894346
+40028110,Paper,40028110
+39603396,Paper,39603396
+39512328,Paper,39512328
+26889228,Paper,26889228
+34467737,Paper,34467737
+25422553,Paper,25422553
+21368416,Paper,21368416
+24137289,Paper,24137289
+32185198,Paper,32185198
+29843044,Paper,29843044
+33167098,Paper,33167098
+41038327,Paper,41038327
+25427198,Paper,25427198
+32348951,Paper,32348951
+41727502,Paper,41727502
+23947143,Paper,23947143
+29217494,Paper,29217494
+27413389,Paper,27413389
+41047379,Paper,41047379
+37295570,Paper,37295570
+37277081,Paper,37277081
+38675471,Paper,38675471
+22414105,Paper,22414105
+41547067,Paper,41547067
+36408279,Paper,36408279
+35462897,Paper,35462897
+40427467,Paper,40427467
+40708436,Paper,40708436
+37844745,Paper,37844745
+32178272,Paper,32178272
+41780614,Paper,41780614
+35881212,Paper,35881212
+40682677,Paper,40682677
+38074876,Paper,38074876
+38631487,Paper,38631487
+31911246,Paper,31911246
+39637473,Paper,39637473
+41794258,Paper,41794258
+39094756,Paper,39094756
+31328996,Paper,31328996
+40816588,Paper,40816588
+38972528,Paper,38972528
+22196583,Paper,22196583
+36046834,Paper,36046834
+35088681,Paper,35088681
+40453654,Paper,40453654
+36278199,Paper,36278199
+37764277,Paper,37764277
+34334273,Paper,34334273
+38572433,Paper,38572433
+40716620,Paper,40716620
+35847012,Paper,35847012
+40348996,Paper,40348996
+38217462,Paper,38217462
+35589704,Paper,35589704
+39701046,Paper,39701046
+36574791,Paper,36574791
+34900345,Paper,34900345
+40077679,Paper,40077679
+39971013,Paper,39971013
+41139445,Paper,41139445
+34049474,Paper,34049474
+35924058,Paper,35924058
+35143936,Paper,35143936
+41033421,Paper,41033421
+40657643,Paper,40657643
+32810624,Paper,32810624
+22450800,Paper,22450800
+24974002,Paper,24974002
+41115486,Paper,41115486
+33069838,Paper,33069838
+37315645,Paper,37315645
+37745719,Paper,37745719
+25719303,Paper,25719303
+37258428,Paper,37258428
+41218379,Paper,41218379
+38479544,Paper,38479544
+41237868,Paper,41237868
+35098831,Paper,35098831
+37925093,Paper,37925093
+41213440,Paper,41213440
+40907728,Paper,40907728
+40290440,Paper,40290440
+36676679,Paper,36676679
+36873540,Paper,36873540
+38113631,Paper,38113631
+37948105,Paper,37948105
+38851983,Paper,38851983
+40403895,Paper,40403895
+40906192,Paper,40906192
+38850305,Paper,38850305
+32754030,Paper,32754030
+40506009,Paper,40506009
+34979889,Paper,34979889
+37944872,Paper,37944872
+37612866,Paper,37612866
+41242308,Paper,41242308
+39408591,Paper,39408591
+38457106,Paper,38457106
+40881230,Paper,40881230
+40769438,Paper,40769438
+36604883,Paper,36604883
+33120798,Paper,33120798
+40134975,Paper,40134975
+25821499,Paper,25821499
+39367470,Paper,39367470
+40945253,Paper,40945253
+40727849,Paper,40727849
+31259837,Paper,31259837
+29907576,Paper,29907576
+41376232,Paper,41376232
+36867647,Paper,36867647
+39247617,Paper,39247617
+37015141,Paper,37015141
+35960108,Paper,35960108
+27774110,Paper,27774110
+41074408,Paper,41074408
+31016194,Paper,31016194
+35910879,Paper,35910879
+37068818,Paper,37068818
+37266323,Paper,37266323
+40753796,Paper,40753796
+35926637,Paper,35926637
+29454341,Paper,29454341
+40469980,Paper,40469980
+40778325,Paper,40778325
+39323936,Paper,39323936
+15010661,Paper,15010661
+29540339,Paper,29540339
+38449668,Paper,38449668
+38915473,Paper,38915473
+40195969,Paper,40195969
+39319351,Paper,39319351
+32765632,Paper,32765632
+34369698,Paper,34369698
+38726147,Paper,38726147
+36951085,Paper,36951085
+35089211,Paper,35089211
+41409594,Paper,41409594
+38026979,Paper,38026979
+36316904,Paper,36316904
+35244051,Paper,35244051
+34490139,Paper,34490139
+36126781,Paper,36126781
+39241390,Paper,39241390
+38296172,Paper,38296172
+34627986,Paper,34627986
+38490155,Paper,38490155
+39385284,Paper,39385284
+38815404,Paper,38815404
+40547671,Paper,40547671
+39467428,Paper,39467428
+40550295,Paper,40550295
+40425078,Paper,40425078
+39770479,Paper,39770479
+39904199,Paper,39904199
+36045534,Paper,36045534
+40481474,Paper,40481474
+34976096,Paper,34976096
+40803031,Paper,40803031
+39486672,Paper,39486672
+38704913,Paper,38704913
+41307677,Paper,41307677
+35717786,Paper,35717786
+41045619,Paper,41045619
+36440424,Paper,36440424
+36431060,Paper,36431060
+40617360,Paper,40617360
+34447243,Paper,34447243
+41164411,Paper,41164411
+40621015,Paper,40621015
+37657207,Paper,37657207
+40221743,Paper,40221743
+35003290,Paper,35003290
+39041272,Paper,39041272
+35230627,Paper,35230627
+38582152,Paper,38582152
+41101552,Paper,41101552
+36560929,Paper,36560929
+41448368,Paper,41448368
+34880597,Paper,34880597
+41189264,Paper,41189264
+39263345,Paper,39263345
+36070047,Paper,36070047
+41015074,Paper,41015074
+40915371,Paper,40915371
+38007768,Paper,38007768
+38174416,Paper,38174416
+37847347,Paper,37847347
+41377151,Paper,41377151
+39684318,Paper,39684318
+38004472,Paper,38004472
+40157401,Paper,40157401
+34471414,Paper,34471414
+40816580,Paper,40816580
+38218856,Paper,38218856
+41391369,Paper,41391369
+40064322,Paper,40064322
+41763619,Paper,41763619
+40231535,Paper,40231535
+40910010,Paper,40910010
+40740639,Paper,40740639
+39884598,Paper,39884598
+32256358,Paper,32256358

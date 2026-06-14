@@ -1,0 +1,77 @@
+Randomized controlled trial
+RCT
+Meta-analysis
+Systematic review
+Clinical trial
+Animal experiment
+Network pharmacology
+Molecular docking
+In vivo study
+In vitro study
+Case report
+Observational study
+Cohort study
+Cross-sectional study
+Case-control study
+Scoping review
+Umbrella review
+Protocol
+Randomized trial
+Controlled clinical trial
+Double-blind study
+Placebo-controlled trial
+Preclinical study
+Basic research
+Literature review
+Narrative review
+Bioinformatics analysis
+Transcriptomics
+Proteomics
+Metabolomics
+Multi-omics
+Mendelian randomization
+Real-world study
+Retrospective study
+Prospective study
+Qualitative study
+Survey
+Validation study
+Mechanistic study
+Pharmacokinetic study
+Pharmacodynamic study
+Toxicology study
+Network meta-analysis
+Bayesian network meta-analysis
+Pilot study
+Case series
+Longitudinal study
+Cross-over study
+Open-label study
+Single-arm trial
+Feasibility study
+Real-world data analysis
+Data mining
+Text mining
+Machine learning
+Deep learning
+Molecular dynamics simulation
+Surface plasmon resonance
+ELISA
+Western blot
+qRT-PCR
+Immunofluorescence
+Flow cytometry
+16S rRNA sequencing
+Metagenomics
+Single-cell RNA sequencing
+fMRI
+EEG
+NIRS
+Microdialysis
+Electrophysiology
+Patch clamp
+Co-immunoprecipitation
+Chromatin immunoprecipitation
+Luciferase reporter assay
+CETSA
+DARTS
