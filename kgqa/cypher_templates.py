@@ -74,14 +74,17 @@ def graph_pair_with(name: str):
 
 def graph_evidence_mentions_disease(name: str):
     query = """
-    MATCH (p:Paper)-[r:MENTIONS]->(d:Disease {name: $name})
+    MATCH (p:Paper)-[r:MENTIONS]->(d:Disease)
+    WHERE toLower(d.name) = toLower($name)
     RETURN p AS n, type(r) AS rel_type, d AS m
     """
     return query, {"name": name}
 
+
 def graph_evidence_mentions_target(name: str):
     query = """
-    MATCH (p:Paper)-[r:MENTIONS]->(t:Target {name: $name})
+    MATCH (p:Paper)-[r:MENTIONS]->(t:Target)
+    WHERE toLower(t.name) = toLower($name)
     RETURN p AS n, type(r) AS rel_type, t AS m
     """
     return query, {"name": name}

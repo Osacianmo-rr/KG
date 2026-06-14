@@ -1,0 +1,257 @@
+[
+  {
+    "question": "What ingredients are contained in Bletilla striata?",
+    "answer": ["Paraben", "Salicylic Acid", "Cinnamic Acid", "Physcion", "Phenanthrene", "Aucubin", "Protocatechuic Acid"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "Which active ingredients are found in Triticum aestivum?",
+    "answer": ["Phenylethyl Alcohol", "Niacin", "Quercitrin", "Polygodial", "Allantoin"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "Can you list the ingredients present in Radix et rhizoma rhodiolae?",
+    "answer": ["Octanol", "Kaempferol", "Rhodioloside,Salidroside"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "What chemical components are contained in Magnolia liliflora?",
+    "answer": ["Methyleugenol", "Eucalyptol", "Citral", "Carvacrol"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "What ingredient does Siegesbeckia orientalis contain?",
+    "answer": ["Stearic Acid"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "List all ingredients that are extracted from Bletilla striata.",
+    "answer": ["Paraben", "Salicylic Acid", "Cinnamic Acid", "Physcion", "Phenanthrene", "Aucubin", "Protocatechuic Acid"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "What are the chemical constituents of Triticum aestivum?",
+    "answer": ["Phenylethyl Alcohol", "Niacin", "Quercitrin", "Polygodial", "Allantoin"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "Which ingredients can be found within Radix et rhizoma rhodiolae?",
+    "answer": ["Octanol", "Kaempferol", "Rhodioloside,Salidroside"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "What are the key components inside Magnolia liliflora?",
+    "answer": ["Methyleugenol", "Eucalyptol", "Citral", "Carvacrol"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "Identify the ingredients of Siegesbeckia orientalis.",
+    "answer": ["Stearic Acid"],
+    "type": "herb_ingredient"
+  },
+  {
+    "question": "What targets does Bletilla striata act on?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "Which biological targets are regulated by Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "What are the target genes or proteins for Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "List the target profiles associated with Bletilla striata.",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "What proteins does Bletilla striata target?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "Can you provide the targets interacting with Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "Which gene symbols are targeted by Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "What is the complete list of targets for Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "Which targets are linked to the herb Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "What molecules are the major targets of Bletilla striata?",
+    "answer": ["AKT1", "ALOX5", "TNF", "MTOR", "CDK2", "PFKM", "GLIPR2", "IFNB1", "MIP", "NFKBIA", "NGB", "PLG", "F3", "MYC", "IL4", "RELA", "FTH1", "BAX", "PTPN1", "HMGB3"],
+    "type": "herb_target"
+  },
+  {
+    "question": "What efficacy does Triticum aestivum have?",
+    "answer": ["Get rid of trouble", "Nourish the heart"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "List the therapeutic effects of Triticum aestivum.",
+    "answer": ["Get rid of trouble", "Nourish the heart"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What efficacy does Radix et rhizoma rhodiolae have?",
+    "answer": ["Strengthen the spleen", "Cleans the lungs", "Yiqi", "Invigorate blood", "Huayu"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "List the medicinal efficacies of Radix et rhizoma rhodiolae.",
+    "answer": ["Strengthen the spleen", "Cleans the lungs", "Yiqi", "Invigorate blood", "Huayu"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What efficacy does Melia toosendan have?",
+    "answer": ["Soothing the liver", "Qi", "Venting heat", "Analgesic", "Insecticide"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What are the known efficacies of Melia toosendan?",
+    "answer": ["Soothing the liver", "Qi", "Venting heat", "Analgesic", "Insecticide"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What efficacy does Coptis chinensis have?",
+    "answer": ["Detoxify", "Dampness", "Purging fire", "Clear heat"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "List the traditional uses of Coptis chinensis.",
+    "answer": ["Detoxify", "Dampness", "Purging fire", "Clear heat"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What efficacy does Paeonia obovata have?",
+    "answer": ["Cool blood", "Remove blood stasis", "Invigorate blood", "Clear heat"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "List the efficacies of Paeonia obovata.",
+    "answer": ["Cool blood", "Remove blood stasis", "Invigorate blood", "Clear heat"],
+    "type": "herb_efficacy"
+  },
+  {
+    "question": "What herbs pair with Coptis chinensis?",
+    "answer": ["Scutellaria baicalensis", "Phellodendron amurense", "Gardenia jasminoides", "Commelina communis", "Andrographis paniculata", "Picrorhiza kurrooa"],
+    "type": "pair_with"
+  },
+  {
+    "question": "Which herbs are compatible with Coptis chinensis in herbal formulas?",
+    "answer": ["Scutellaria baicalensis", "Phellodendron amurense", "Gardenia jasminoides", "Commelina communis", "Andrographis paniculata", "Picrorhiza kurrooa"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Melia toosendan?",
+    "answer": ["Curcuma aromatica"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Curcuma aromatica?",
+    "answer": ["Melia toosendan"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Scutellaria baicalensis?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Phellodendron amurense?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Gardenia jasminoides?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Commelina communis?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Andrographis paniculata?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Picrorhiza kurrooa?",
+    "answer": ["Coptis chinensis"],
+    "type": "pair_with"
+  },
+  {
+    "question": "What herbs pair with Paeonia obovata?",
+    "answer": ["Salvia miltiorrhiza"],
+    "type": "pair_with"
+  },
+  {
+    "question": "Which papers mention depression?",
+    "answer": ["35168522", "37143014", "37248211"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "List the PubMed IDs of papers that refer to depression.",
+    "answer": ["35168522", "37143014", "37248211"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "Which papers mention major depressive disorder?",
+    "answer": ["35168522", "37248211"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "List papers discussing major depressive disorder.",
+    "answer": ["35168522", "37248211"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "Which papers mention post-stroke depression?",
+    "answer": ["35168522", "37143014"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "List papers that mention post-stroke depression.",
+    "answer": ["35168522", "37143014"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "Which papers mention postpartum depression?",
+    "answer": ["35168522"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "List papers that refer to postpartum depression.",
+    "answer": ["35168522"],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "Which papers mention mood disorder?",
+    "answer": [],
+    "type": "evidence_mentions"
+  },
+  {
+    "question": "List papers that mention treatment-resistant depression.",
+    "answer": [],
+    "type": "evidence_mentions"
+  }
+]

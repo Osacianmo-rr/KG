@@ -2,7 +2,7 @@ from fastapi import FastAPI, Query
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import RedirectResponse
 from qa_rules import classify_question
-from entity_match import extract_entity
+from entity_match import extract_entity_fuzzy   # 新模糊匹配
 from cypher_templates import (
     herb_ingredient, herb_target, herb_efficacy, pair_with,
     evidence_mentions_disease, evidence_mentions_target,
@@ -15,23 +15,6 @@ app = FastAPI()
 
 # 挂载静态文件（必须在路由之前）
 app.mount("/static", StaticFiles(directory="static"), name="static")
-
-# 实体列表（用于证据提及的判断）
-HERBS = [
-    "Bletilla striata", "Siegesbeckia orientalis", "Triticum aestivum",
-    "Radix et rhizoma rhodiolae", "Magnolia liliflora", "Melia toosendan",
-    "Coptis chinensis", "Paeonia obovata", "Curcuma aromatica",
-    "Scutellaria baicalensis", "Phellodendron amurense", "Gardenia jasminoides",
-    "Commelina communis", "Andrographis paniculata", "Picrorhiza kurrooa",
-    "Salvia miltiorrhiza"
-]
-
-DISEASES = [
-    "depression", "major depressive disorder",
-    "post-stroke depression", "postpartum depression"
-]
-
-TARGETS = ["AKT1", "ALOX5", "TNF", "MTOR"]  # 可按需扩展
 
 @app.get("/")
 def root():
@@ -47,47 +30,46 @@ def qa(q: str):
     entity_type = None
 
     if qtype == "herb_ingredient":
-        entity = extract_entity(q, HERBS)
+        entity, labels = extract_entity_fuzzy(q, label_filter=["Herb"])
         if not entity:
             return {"answer": "Herb not found in question."}
         entity_type = "Herb"
         cypher, params = herb_ingredient(entity)
 
     elif qtype == "herb_target":
-        entity = extract_entity(q, HERBS)
+        entity, labels = extract_entity_fuzzy(q, label_filter=["Herb"])
         if not entity:
             return {"answer": "Herb not found."}
         entity_type = "Herb"
         cypher, params = herb_target(entity)
 
     elif qtype == "herb_efficacy":
-        entity = extract_entity(q, HERBS)
+        entity, labels = extract_entity_fuzzy(q, label_filter=["Herb"])
         if not entity:
             return {"answer": "Herb not found."}
         entity_type = "Herb"
         cypher, params = herb_efficacy(entity)
 
     elif qtype == "pair_with":
-        entity = extract_entity(q, HERBS)
+        entity, labels = extract_entity_fuzzy(q, label_filter=["Herb"])
         if not entity:
             return {"answer": "Herb not found."}
         entity_type = "Herb"
         cypher, params = pair_with(entity)
 
     elif qtype == "evidence_mentions":
-        # 先尝试匹配疾病
-        entity = extract_entity(q, DISEASES)
-        if entity:
+        # 同时支持疾病和靶点，优先返回匹配度最高的
+        entity, ent_labels = extract_entity_fuzzy(q, label_filter=["Disease", "Target"])
+        if not entity:
+            return {"answer": "Entity not found for evidence query."}
+        if "Disease" in ent_labels:
             entity_type = "Disease"
             cypher, params = evidence_mentions_disease(entity)
+        elif "Target" in ent_labels:
+            entity_type = "Target"
+            cypher, params = evidence_mentions_target(entity)
         else:
-            # 再尝试匹配靶点
-            entity = extract_entity(q, TARGETS)
-            if entity:
-                entity_type = "Target"
-                cypher, params = evidence_mentions_target(entity)
-            else:
-                return {"answer": "Entity not found for evidence query."}
+            return {"answer": "Unsupported entity type for evidence."}
     else:
         return {"answer": "Question type not supported."}
 
@@ -125,3 +107,51 @@ def get_graph(qtype: str = Query(...), entity: str = Query(...), entity_type: st
 
     graph_data = client.run_graph_query(cypher, params)
     return graph_data
+
+
+# 用于评测脚本直接调用的函数
+def answer(question: str):
+    """可供外部调用的问答函数，返回结果列表"""
+    qtype = classify_question(question)
+    if qtype == "unknown":
+        return []
+
+    if qtype == "herb_ingredient":
+        entity, labels = extract_entity_fuzzy(question, label_filter=["Herb"])
+        if not entity:
+            return []
+        cypher, params = herb_ingredient(entity)
+
+    elif qtype == "herb_target":
+        entity, labels = extract_entity_fuzzy(question, label_filter=["Herb"])
+        if not entity:
+            return []
+        cypher, params = herb_target(entity)
+
+    elif qtype == "herb_efficacy":
+        entity, labels = extract_entity_fuzzy(question, label_filter=["Herb"])
+        if not entity:
+            return []
+        cypher, params = herb_efficacy(entity)
+
+    elif qtype == "pair_with":
+        entity, labels = extract_entity_fuzzy(question, label_filter=["Herb"])
+        if not entity:
+            return []
+        cypher, params = pair_with(entity)
+
+    elif qtype == "evidence_mentions":
+        entity, ent_labels = extract_entity_fuzzy(question, label_filter=["Disease", "Target"])
+        if not entity:
+            return []
+        if "Disease" in ent_labels:
+            cypher, params = evidence_mentions_disease(entity)
+        elif "Target" in ent_labels:
+            cypher, params = evidence_mentions_target(entity)
+        else:
+            return []
+    else:
+        return []
+
+    rows = client.run_query(cypher, params)
+    return rows
